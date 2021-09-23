@@ -1,1 +1,1 @@
-# This repositoy is dedicated to CS4250 : Web Search & Recommender Systems.
+### This repo is dedicated to the CS4250 class focusing on Web Search Engines and recommender systems.
