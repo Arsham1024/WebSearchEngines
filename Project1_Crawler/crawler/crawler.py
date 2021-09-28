@@ -33,11 +33,11 @@ def crawler(MAX_Pages):
         extract_links(links_tocrawl, text_page)
 
         # Need to put "Done" in the array links_tocrawl once a page's extraction is complete
-        
+
 
         # End of each iteration add one to counter
         pages_visited += 1
-    print(len(links_tocrawl))
+    
 
 # This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page):
