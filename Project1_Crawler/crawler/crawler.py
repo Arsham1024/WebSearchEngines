@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, SoupStrainer
 import urllib.request
 
 # Stating URL
-seed = "https://www.apple.com/"
+seed = "https://en.wikipedia.org/wiki/Main_Page"
 
 # HTML Parser
 parser = HTMLParser
@@ -29,6 +29,7 @@ def crawler(MAX_Pages):
     # Need a breadth first search type of algorithm for this crawler
     # These conditions should limit the amount of pages visited to maximum we want
     while pages_visited < MAX_Pages and len(links_tocrawl) < MAX_Pages:
+
         text_page = requests.get(links_tocrawl[pages_visited]).text
         extract_links(links_tocrawl, text_page)
 
@@ -37,6 +38,8 @@ def crawler(MAX_Pages):
 
         # End of each iteration add one to counter
         pages_visited += 1
+    print(len(links_tocrawl))
+
 
 
 # This method will extract only URLs and save them to the links to crawl array.
