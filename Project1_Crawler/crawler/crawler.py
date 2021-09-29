@@ -37,7 +37,7 @@ def crawler(MAX_Pages):
 
         # End of each iteration add one to counter
         pages_visited += 1
-    
+
 
 # This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page):
