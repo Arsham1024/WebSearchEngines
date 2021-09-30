@@ -1,0 +1,2138 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="pl">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedia, wolna encyklopedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgRequestId":"506a110e-9fff-44ff-9be5-c299d24f8048","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Strona_główna","wgTitle":"Strona główna","wgCurRevisionId":62342581,"wgRevisionId":62342581,"wgArticleId":2956678,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Strona główna"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:Strona_główna","wgRelevantArticleId":2956678,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[
+"sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgDiscussionToolsFeaturesEnabled":{"replytool":!0,"newtopictool":!1,"sourcemodetoolbar":!0,"topicsubscription":!1},"wgDiscussionToolsFallbackEditMode":"visual","wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.small-references":"ready",
+"ext.gadget.citation-access-info":"ready","ext.gadget.main-page-css":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.tmh.thumbnail.styles":"ready","ext.discussionTools.init.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ll-script-loader","ext.gadget.maps","ext.gadget.padlock-indicators","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload","ext.gadget.map-toggler",
+"ext.gadget.ReferenceTooltips","ext.gadget.narrowFootnoteColumns","ext.gadget.WDsearch","ext.gadget.WMPL-share","ext.gadget.main-page-js","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.discussionTools.init"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"pl"});
+});});
+  </script>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.discussionTools.init.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.gadget.citation-access-info%2Cmain-page-css%2Csmall-references&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Wikipedia, wolna encyklopedia" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//pl.m.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom" rel="alternate" title="Kanał informacyjny Wikipedii o ilustracjach na medal" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom" rel="alternate" title="Kanał wyróżnionych artykułów witryny Wikipedia" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom" rel="alternate" title="Kanał informacyjny Wikipedii o wybranych rocznicach" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom" rel="alternate" title="Kanał informacyjny Wikipedii o nowych artykułach" type="application/atom+xml"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (pl)" type="application/opensearchdescription+xml"/>
+  <link href="//pl.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="ext-discussiontools-replytool-enabled ext-discussiontools-sourcemodetoolbar-enabled mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Strona_główna rootpage-Wikipedia_Strona_główna skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Wikipedia:Strona główna
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Z Wikipedii, wolnej encyklopedii
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Przejdź do nawigacji
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Przejdź do wyszukiwania
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="pl">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r59013176">
+       @media screen and (max-width:768px){.mw-parser-output #main-page-header{display:none}}
+      </style>
+      <div class="section" id="main-page">
+       <div class="header nomobile" id="main-page-header">
+        <div id="main-page-intro">
+         <p>
+          <span id="main-page-welcome">
+           <strong>
+            Witaj w
+            <a href="/wiki/Wikipedia" title="Wikipedia">
+             Wikipedii
+            </a>
+            ,
+           </strong>
+          </span>
+          <a href="/wiki/Wolna_tre%C5%9B%C4%87" title="Wolna treść">
+           wolnej
+          </a>
+          <a href="/wiki/Encyklopedia" title="Encyklopedia">
+           encyklopedii
+          </a>
+          , którą
+          <a href="/wiki/Pomoc:Pierwsze_kroki" title="Pomoc:Pierwsze kroki">
+           każdy może redagować
+          </a>
+          .
+          <br/>
+          <a href="/wiki/Wikipedia:Liczba_artyku%C5%82%C3%B3w_w_polskoj%C4%99zycznej_Wikipedii" title="Wikipedia:Liczba artykułów w polskojęzycznej Wikipedii">
+           1 491 025
+          </a>
+          artykułów, w tym 4292
+          <a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii" title="Wikipedia:Wyróżniona zawartość Wikipedii">
+           wyróżnione
+          </a>
+         </p>
+        </div>
+        <div id="main-page-portals">
+         <p>
+          <span>
+           <a href="/wiki/Portal:Nauki_%C5%9Bcis%C5%82e_i_przyrodnicze" title="Portal:Nauki ścisłe i przyrodnicze">
+            Nauki ścisłe i przyrodnicze
+           </a>
+           •
+           <a href="/wiki/Portal:Nauki_spo%C5%82eczne_i_humanistyczne" title="Portal:Nauki społeczne i humanistyczne">
+            Nauki społeczne i humanistyczne
+           </a>
+           •
+           <a href="/wiki/Portal:Technika" title="Portal:Technika">
+            Technika
+           </a>
+           •
+           <a href="/wiki/Portal:Geografia" title="Portal:Geografia">
+            Geografia
+           </a>
+           •
+           <a href="/wiki/Portal:Historia" title="Portal:Historia">
+            Historia
+           </a>
+           •
+           <a href="/wiki/Portal:Kultura" title="Portal:Kultura">
+            Kultura
+           </a>
+           •
+           <a href="/wiki/Portal:Spo%C5%82ecze%C5%84stwo" title="Portal:Społeczeństwo">
+            Społeczeństwo
+           </a>
+           •
+           <a href="/wiki/Portal:Sport" title="Portal:Sport">
+            Sport
+           </a>
+           •
+           <a href="/wiki/Portal:Religioznawstwo" title="Portal:Religioznawstwo">
+            Religia
+           </a>
+           •
+           <a href="/wiki/Portal:Polska" title="Portal:Polska">
+            Polska
+           </a>
+          </span>
+          <span>
+           <a href="/wiki/Portal:Portale" title="Portal:Portale">
+            Więcej portali
+           </a>
+           •
+           <a href="/wiki/Wikipedia:Indeks_hase%C5%82" title="Wikipedia:Indeks haseł">
+            Indeks haseł
+           </a>
+           •
+           <a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne" title="Portal:Kategorie Główne">
+            Przegląd kategorii
+           </a>
+          </span>
+         </p>
+        </div>
+        <div id="main-page-wiki-events">
+         <p>
+          <img alt="" data-file-height="548" data-file-width="500" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Propozycja_DA_AnM.png/20px-Propozycja_DA_AnM.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Propozycja_DA_AnM.png/30px-Propozycja_DA_AnM.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Propozycja_DA_AnM.png/40px-Propozycja_DA_AnM.png 2x" width="20"/>
+          <span style="padding-left:18px;">
+          </span>
+          Weź udział w
+          <b>
+           <a href="/wiki/Wikipedia:Miesi%C4%85c_Wyr%C3%B3%C5%BCnionego_Artyku%C5%82u_2021" title="Wikipedia:Miesiąc Wyróżnionego Artykułu 2021">
+            Miesiącu Wyróżnionego Artykułu
+           </a>
+          </b>
+          – inicjatywie polegającej na poprawie jakości artykułów i ilustracji!
+         </p>
+        </div>
+       </div>
+       <div id="mf-main-page">
+        <div class="article" id="main-page-content">
+         <div id="main-page-column1">
+          <div class="section" id="main-page-didyouknow">
+           <h2>
+            <span id="Czy_wiesz.E2.80.A6">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Czy_wiesz\u2026","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Czy_wiesz…">
+             <span data-mw-comment-start="" id="h-Czy_wiesz…">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/38px-PL_Wiki_CzyWiesz_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/57px-PL_Wiki_CzyWiesz_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/76px-PL_Wiki_CzyWiesz_ikona.svg.png 2x" width="38"/>
+             </span>
+             Czy wiesz…
+             <span data-mw-comment-end="h-Czy_wiesz…">
+             </span>
+            </span>
+           </h2>
+           <p>
+            Z
+            <a href="/wiki/Specjalna:Nowe_strony" title="Specjalna:Nowe strony">
+             nowych
+            </a>
+            i ostatnio rozbudowanych artykułów w Wikipedii:
+           </p>
+           <div class="floatright">
+            <a class="image" href="/wiki/Plik:Ulica_Orla_w_Warszawie_2020.jpg">
+             <img alt="Ulica Orla w Warszawie 2020.jpg" data-file-height="2414" data-file-width="3451" decoding="async" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ulica_Orla_w_Warszawie_2020.jpg/100px-Ulica_Orla_w_Warszawie_2020.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ulica_Orla_w_Warszawie_2020.jpg/150px-Ulica_Orla_w_Warszawie_2020.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ulica_Orla_w_Warszawie_2020.jpg/200px-Ulica_Orla_w_Warszawie_2020.jpg 2x" width="100"/>
+            </a>
+           </div>
+           <div class="floatright">
+            <a class="image" href="/wiki/Plik:Cyclocybe_erebia_844989.jpg">
+             <img alt="Cyclocybe erebia 844989.jpg" data-file-height="3036" data-file-width="4048" decoding="async" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cyclocybe_erebia_844989.jpg/100px-Cyclocybe_erebia_844989.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cyclocybe_erebia_844989.jpg/150px-Cyclocybe_erebia_844989.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Cyclocybe_erebia_844989.jpg/200px-Cyclocybe_erebia_844989.jpg 2x" width="100"/>
+            </a>
+           </div>
+           <p>
+            …która warszawska
+            <b>
+             <a href="/wiki/Ulica_Orla_w_Warszawie" title="Ulica Orla w Warszawie">
+              ulica
+             </a>
+            </b>
+            <span style="font-size:smaller; line-height:130%">
+             <i>
+              (na zdjęciu)
+             </i>
+            </span>
+            na całej długości pokryta jest brukiem z różowego granitu skandynawskiego z początku XX w.?
+           </p>
+           <p>
+            …po co w dawnej Europie wybijano
+            <b>
+             <a href="/wiki/Piedfort" title="Piedfort">
+              piedforty
+             </a>
+            </b>
+            ?
+           </p>
+           <p>
+            …
+            <b>
+             <a href="/wiki/Alexander_Twilight" title="Alexander Twilight">
+              kto
+             </a>
+            </b>
+            był pierwszym afroamerykańskim prawodawcą?
+           </p>
+           <p>
+            …który z rodziców karmi pisklęta
+            <b>
+             <a href="/wiki/Ziarnojadek_p%C5%82owy" title="Ziarnojadek płowy">
+              ziarnojadków płowych
+             </a>
+            </b>
+            ?
+           </p>
+           <p>
+            …co
+            <b>
+             <a href="/wiki/John_Tenniel" title="John Tenniel">
+              ilustrator
+             </a>
+            </b>
+            <i>
+             Alicji w krainie czarów
+            </i>
+            sądził o Irlandczykach?
+           </p>
+           <p>
+            …z wieży której
+            <b>
+             <a href="/wiki/Kamienica_przy_ulicy_M%C5%82y%C5%84skiej_2_w_Katowicach" title="Kamienica przy ulicy Młyńskiej 2 w Katowicach">
+              kamienicy
+             </a>
+            </b>
+            odgrywany jest codziennie hejnał Katowic?
+           </p>
+           <p>
+            …który polski
+            <b>
+             <a href="/wiki/W%C5%82odzimierz_Wachowicz" title="Włodzimierz Wachowicz">
+              piłkarz ręczny
+             </a>
+            </b>
+            założył prywatną klinikę stomatologiczną?
+           </p>
+           <p>
+            …czym charakteryzuje się
+            <b>
+             <a href="/wiki/Polownica_czekoladowobr%C4%85zowa" title="Polownica czekoladowobrązowa">
+              polownica czekoladowobrązowa
+             </a>
+            </b>
+            <span style="font-size:smaller; line-height:130%">
+             <i>
+              (na zdjęciu)
+             </i>
+            </span>
+            ?
+            <br style="clear:right;"/>
+           </p>
+           <div style="text-align: right; margin-top: 5px;">
+            <i>
+             <a href="/wiki/Wikiprojekt:Czy_wiesz/propozycje" title="Wikiprojekt:Czy wiesz/propozycje">
+              Propozycje do ekspozycji
+             </a>
+             •
+             <a href="/wiki/Pomoc:Jak_napisa%C4%87_nowy_artyku%C5%82" title="Pomoc:Jak napisać nowy artykuł">
+              Jak napisać nowy artykuł?
+             </a>
+            </i>
+           </div>
+          </div>
+          <div class="section" id="main-page-news">
+           <h2>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Wydarzenia","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Wydarzenia">
+             <span data-mw-comment-start="" id="h-Wydarzenia">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/38px-PL_Wiki_Aktualnosci_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/57px-PL_Wiki_Aktualnosci_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/76px-PL_Wiki_Aktualnosci_ikona.svg.png 2x" width="38"/>
+             </span>
+             Wydarzenia
+             <span data-mw-comment-end="h-Wydarzenia">
+             </span>
+            </span>
+           </h2>
+           <div class="floatright" style="width: 100px; line-height: 1.5ex;">
+            <a class="image" href="/wiki/Plik:Liverpool-spelers_in_Hilton,_St._John_(links)_en_Roger_Hunt_kopen_kaarten_voor_t,_Bestanddeelnr_919-8539_(cropped).jpg" title="Roger Hunt">
+             <img alt="Roger Hunt" data-file-height="2215" data-file-width="1057" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg/100px-Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg/150px-Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg/200px-Liverpool-spelers_in_Hilton%2C_St._John_%28links%29_en_Roger_Hunt_kopen_kaarten_voor_t%2C_Bestanddeelnr_919-8539_%28cropped%29.jpg 2x" width="100"/>
+            </a>
+            <span style="font-size:smaller; line-height:130%">
+             <a href="/wiki/Roger_Hunt" title="Roger Hunt">
+              Roger Hunt
+             </a>
+            </span>
+           </div>
+           <ul>
+            <li>
+             <b>
+              <a href="/wiki/Pandemia_COVID-19" title="Pandemia COVID-19">
+               Pandemia COVID-19
+              </a>
+             </b>
+             : 28 września liczba potwierdzonych zachorowań na całym świecie przekroczyła 233 miliony osób, a liczba zgonów to około 4,8 miliona
+             <span style="font-size:smaller; line-height:130%">
+              (
+              <a href="/wiki/Wrzesie%C5%84_2021#28_września" title="Wrzesień 2021">
+               28 września
+              </a>
+              )
+             </span>
+            </li>
+            <li>
+             Wiceprezes
+             <a href="/wiki/Huawei" title="Huawei">
+              Huawei
+             </a>
+             <b>
+              <a href="/wiki/Meng_Wanzhou" title="Meng Wanzhou">
+               Meng Wanzhou
+              </a>
+             </b>
+             zawarła porozumienie z
+             <a href="/wiki/Departament_Sprawiedliwo%C5%9Bci_Stan%C3%B3w_Zjednoczonych" title="Departament Sprawiedliwości Stanów Zjednoczonych">
+              Departamentem Sprawiedliwości USA
+             </a>
+             i opuściła areszt domowy w
+             <a href="/wiki/Vancouver" title="Vancouver">
+              Vancouver
+             </a>
+             <span style="font-size:smaller; line-height:130%">
+              (
+              <a href="/wiki/Wrzesie%C5%84_2021#24_września" title="Wrzesień 2021">
+               24 września
+              </a>
+              )
+             </span>
+            </li>
+           </ul>
+           <p>
+            <b>
+             <a href="/wiki/Zmarli_we_wrze%C5%9Bniu_2021" title="Zmarli we wrześniu 2021">
+              Zmarli
+             </a>
+            </b>
+            :
+            <a href="/wiki/Bronius_Kutavi%C4%8Dius" title="Bronius Kutavičius">
+             Bronius Kutavičius
+            </a>
+            •
+            <a href="/wiki/Roger_Hunt" title="Roger Hunt">
+             Roger Hunt
+            </a>
+            <small>
+             (na zdjęciu)
+            </small>
+            •
+            <a href="/wiki/Alan_Lancaster" title="Alan Lancaster">
+             Alan Lancaster
+            </a>
+            •
+            <a href="/wiki/Th%C3%A9oneste_Bagosora" title="Théoneste Bagosora">
+             Théoneste Bagosora
+            </a>
+            •
+            <a href="/wiki/Mohamed_Mehdi_Yaghoubi" title="Mohamed Mehdi Yaghoubi">
+             Mohamed Mehdi Yaghoubi
+            </a>
+            •
+            <a href="/wiki/Kjell_Askildsen" title="Kjell Askildsen">
+             Kjell Askildsen
+            </a>
+            •
+            <a href="/wiki/Zbigniew_Galperyn" title="Zbigniew Galperyn">
+             Zbigniew Galperyn
+            </a>
+            •
+            <a href="/wiki/Edward_Janiak" title="Edward Janiak">
+             Edward Janiak
+            </a>
+            •
+            <a href="/wiki/Roger_Michell" title="Roger Michell">
+             Roger Michell
+            </a>
+            •
+            <a href="/wiki/Orlando_Mart%C3%ADnez" title="Orlando Martínez">
+             Orlando Martínez
+            </a>
+            •
+            <a href="/wiki/J%C3%BCri_Tamm" title="Jüri Tamm">
+             Jüri Tamm
+            </a>
+            •
+            <a href="/wiki/Abd_al-Kadir_Bensalah" title="Abd al-Kadir Bensalah">
+             Abd al-Kadir Bensalah
+            </a>
+            •
+            <a href="/wiki/Willie_Garson" title="Willie Garson">
+             Willie Garson
+            </a>
+            •
+            <a href="/wiki/Melvin_Van_Peebles" title="Melvin Van Peebles">
+             Melvin Van Peebles
+            </a>
+            •
+            <a href="/wiki/Muhammad_Husajn_Tantawi" title="Muhammad Husajn Tantawi">
+             Muhammad Husajn Tantawi
+            </a>
+           </p>
+           <div style="text-align:right; margin-top:5px;">
+            <i>
+             <a href="/wiki/Portal:Aktualno%C5%9Bci" title="Portal:Aktualności">
+              Więcej…
+             </a>
+            </i>
+           </div>
+          </div>
+          <div class="section" id="main-page-anniversaries">
+           <h2>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Rocznice","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Rocznice">
+             <span data-mw-comment-start="" id="h-Rocznice">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/38px-PL_Wiki_Kalendarium_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/57px-PL_Wiki_Kalendarium_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/76px-PL_Wiki_Kalendarium_ikona.svg.png 2x" width="38"/>
+             </span>
+             Rocznice
+             <span data-mw-comment-end="h-Rocznice">
+             </span>
+            </span>
+           </h2>
+           <p>
+            <b>
+             <a href="/wiki/30_wrze%C5%9Bnia" title="30 września">
+              30 września
+             </a>
+            </b>
+            :
+            <a href="/wiki/Imieniny" title="Imieniny">
+             imieniny
+            </a>
+            obchodzą m.in.:
+            <a href="/wiki/Rachela_(imi%C4%99)" title="Rachela (imię)">
+             Rachela
+            </a>
+            ,
+            <a href="/wiki/Felicja" title="Felicja">
+             Felicja
+            </a>
+            i
+            <a href="/wiki/Hieronim" title="Hieronim">
+             Hieronim
+            </a>
+            ; dzień niepodległości
+            <a href="/wiki/Botswana" title="Botswana">
+             Botswany
+            </a>
+            <br/>
+            Okrągłe, dziesięcioletnie rocznice:
+           </p>
+           <div class="floatright" style="width: 100px; line-height: 1.5ex; overflow: hidden;">
+            <div class="mediaContainer" style="width:100px">
+             <audio class="kskin thumbborder" controls="" data-durationhint="190.56326530612" data-mwprovider="wikimediacommons" data-mwtitle="Der_Hoelle_Rache.ogg" data-startoffset="0" id="mwe_player_0" preload="none" style="width:100px">
+              <source data-bandwidth="157722" data-height="0" data-shorttitle="Źródło Ogg" data-title="Oryginalny plik Ogg (158 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/7/7d/Der_Hoelle_Rache.ogg" type='audio/ogg; codecs="vorbis"'/>
+              <source data-bandwidth="215792" data-height="0" data-shorttitle="MP3" data-title="MP3" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Der_Hoelle_Rache.ogg/Der_Hoelle_Rache.ogg.mp3" type="audio/mpeg"/>
+             </audio>
+            </div>
+            <small>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/File:Der_Hoelle_Rache.ogg" title="c:File:Der Hoelle Rache.ogg">
+              Der Hölle Rache kocht in meinem Herzen
+             </a>
+            </small>
+           </div>
+           <div class="floatright" style="width: 100px; line-height: 1.5ex; overflow: hidden;">
+            <div class="mediaContainer" style="width:100px">
+             <audio class="kskin thumbborder" controls="" data-durationhint="227.04920634921" data-mwprovider="wikimediacommons" data-mwtitle="Ein_Madchen_oder_Weibchen.ogg" data-startoffset="0" id="mwe_player_1" preload="none" style="width:100px">
+              <source data-bandwidth="84124" data-height="0" data-shorttitle="Źródło Ogg" data-title="Oryginalny plik Ogg (84 kbps)" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/6/6b/Ein_Madchen_oder_Weibchen.ogg" type='audio/ogg; codecs="vorbis"'/>
+              <source data-bandwidth="178368" data-height="0" data-shorttitle="MP3" data-title="MP3" data-transcodekey="mp3" data-width="0" src="//upload.wikimedia.org/wikipedia/commons/transcoded/6/6b/Ein_Madchen_oder_Weibchen.ogg/Ein_Madchen_oder_Weibchen.ogg.mp3" type="audio/mpeg"/>
+             </audio>
+            </div>
+            <small>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/File:Ein_Madchen_oder_Weibchen.ogg" title="c:File:Ein Madchen oder Weibchen.ogg">
+              Ein Mädchen oder Weibchen
+             </a>
+            </small>
+           </div>
+           <div class="floatright" style="width: 100px; line-height: 1.5ex; overflow: hidden;">
+            <a class="image" href="/wiki/Plik:1966_CPA_3346.jpg" title="Otto Szmidt">
+             <img alt="Otto Szmidt" class="thumbborder" data-file-height="895" data-file-width="635" decoding="async" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/1966_CPA_3346.jpg/100px-1966_CPA_3346.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/1966_CPA_3346.jpg/150px-1966_CPA_3346.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/1966_CPA_3346.jpg/200px-1966_CPA_3346.jpg 2x" width="100"/>
+            </a>
+            <small>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/File:1966_CPA_3346.jpg" title="c:File:1966 CPA 3346.jpg">
+              Otto Szmidt
+             </a>
+            </small>
+           </div>
+           <div class="floatright" style="width: 100px; line-height: 1.5ex; overflow: hidden;">
+            <a class="image" href="/wiki/Plik:Retreat_from_Moscow.PNG" title="Odwrót spod Moskwy">
+             <img alt="Odwrót spod Moskwy" class="thumbborder" data-file-height="2310" data-file-width="3522" decoding="async" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retreat_from_Moscow.PNG/100px-Retreat_from_Moscow.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retreat_from_Moscow.PNG/150px-Retreat_from_Moscow.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retreat_from_Moscow.PNG/200px-Retreat_from_Moscow.PNG 2x" width="100"/>
+            </a>
+            <small>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/File:Retreat_from_Moscow.PNG" title="c:File:Retreat from Moscow.PNG">
+              Odwrót spod Moskwy
+             </a>
+            </small>
+           </div>
+           <ul>
+            <li>
+             <a href="/wiki/1791" title="1791">
+              1791
+             </a>
+             –
+             <a href="/wiki/Prapremiera" title="Prapremiera">
+              prapremiera
+             </a>
+             opery
+             <i>
+              <b>
+               <a href="/wiki/Czarodziejski_flet_(KV_620)" title="Czarodziejski flet (KV 620)">
+                Czarodziejski flet
+               </a>
+              </b>
+             </i>
+             skomponowanej przez
+             <a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">
+              Wolfganga Mozarta
+             </a>
+             <small>
+              (
+              <i>
+               do wysłuchania dwie arie z tej opery: „
+               <a href="/wiki/Der_H%C3%B6lle_Rache_kocht_in_meinem_Herzen" title="Der Hölle Rache kocht in meinem Herzen">
+                Der Hölle Rache kocht in meinem Herzen
+               </a>
+               ” oraz „Ein Mädchen oder Weibchen wünscht Papageno sich”
+              </i>
+              )
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/1891" title="1891">
+              1891
+             </a>
+             – urodził się radziecki astronom, geofizyk, matematyk i badacz polarny
+             <b>
+              <a href="/wiki/Otto_Szmidt" title="Otto Szmidt">
+               Otto Szmidt
+              </a>
+             </b>
+             ,
+             <a href="/wiki/Akademik_(tytu%C5%82_naukowy)" title="Akademik (tytuł naukowy)">
+              akademik
+             </a>
+             , redaktor naczelny
+             <i>
+              <a href="/wiki/Wielka_Encyklopedia_Radziecka" title="Wielka Encyklopedia Radziecka">
+               Wielkiej Encyklopedii Radzieckiej
+              </a>
+             </i>
+             <small>
+              (
+              <i>
+               na radzieckim znaczku pocztowym
+              </i>
+              )
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/1911" title="1911">
+              1911
+             </a>
+             – zmarł polski malarz, ilustrator i rysownik
+             <b>
+              <a href="/wiki/Franciszek_Kostrzewski" title="Franciszek Kostrzewski">
+               Franciszek Kostrzewski
+              </a>
+             </b>
+             <small>
+              (
+              <i>
+               na ilustracji obraz „Odwrót spod Moskwy”
+              </i>
+              )
+             </small>
+            </li>
+            <li>
+             <a href="/wiki/1921" title="1921">
+              1921
+             </a>
+             – w Polsce przeprowadzono
+             <b>
+              <a href="/wiki/Pierwszy_Powszechny_Spis_Ludno%C5%9Bci" title="Pierwszy Powszechny Spis Ludności">
+               Pierwszy Powszechny Spis Ludności
+              </a>
+             </b>
+            </li>
+            <li>
+             <a href="/wiki/1931" title="1931">
+              1931
+             </a>
+             – urodził się polski sportowiec
+             <b>
+              <a href="/wiki/Franciszek_G%C4%85sienica_Gro%C5%84" title="Franciszek Gąsienica Groń">
+               Franciszek Gąsienica Groń
+              </a>
+             </b>
+             , narciarz,
+             <a href="/wiki/Kombinacja_norweska" title="Kombinacja norweska">
+              kombinator norweski
+             </a>
+             , skoczek narciarski; pierwszy polski medalista na
+             <a href="/wiki/Zimowe_igrzyska_olimpijskie" title="Zimowe igrzyska olimpijskie">
+              zimowych igrzyskach olimpijskich
+             </a>
+             (zdobył
+             <a href="/wiki/Polscy_medali%C5%9Bci_zimowych_igrzysk_olimpijskich" title="Polscy medaliści zimowych igrzysk olimpijskich">
+              brązowy medal
+             </a>
+             na
+             <a href="/wiki/Zimowe_Igrzyska_Olimpijskie_1956" title="Zimowe Igrzyska Olimpijskie 1956">
+              IO w Cortina d’Ampezzo
+             </a>
+             w 1956)
+            </li>
+            <li>
+             <a href="/wiki/1961" title="1961">
+              1961
+             </a>
+             – powstała
+             <b>
+              <a href="/wiki/Organizacja_Wsp%C3%B3%C5%82pracy_Gospodarczej_i_Rozwoju" title="Organizacja Współpracy Gospodarczej i Rozwoju">
+               Organizacja Współpracy Gospodarczej i Rozwoju
+              </a>
+             </b>
+             <br style="clear:right;"/>
+             <div style="text-align:right; margin-top:5px;">
+              <i>
+               <a href="/wiki/29_wrze%C5%9Bnia" title="29 września">
+                29 września
+               </a>
+               •
+               <a href="/wiki/Kalendarium_dzie%C5%84_po_dniu" title="Kalendarium dzień po dniu">
+                Kalendarium dzień po dniu
+               </a>
+               •
+               <a href="/wiki/1_pa%C5%BAdziernika" title="1 października">
+                1 października
+               </a>
+              </i>
+             </div>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div id="main-page-column2">
+          <div class="section" id="main-page-featured-article">
+           <h2>
+            <span id="Artyku.C5.82_na_medal">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Artyku\u0142_na_medal","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Artykuł_na_medal">
+             <span data-mw-comment-start="" id="h-Artykuł_na_medal">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" width="38"/>
+             </span>
+             Artykuł na medal
+             <span data-mw-comment-end="h-Artykuł_na_medal">
+             </span>
+            </span>
+           </h2>
+           <div class="floatright">
+            <a class="image" href="/wiki/Plik:Nikki_Bella_Divas_Champion.jpg">
+             <img alt="Nikki Bella Divas Champion.jpg" data-file-height="2590" data-file-width="1445" decoding="async" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nikki_Bella_Divas_Champion.jpg/100px-Nikki_Bella_Divas_Champion.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nikki_Bella_Divas_Champion.jpg/150px-Nikki_Bella_Divas_Champion.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nikki_Bella_Divas_Champion.jpg/200px-Nikki_Bella_Divas_Champion.jpg 2x" width="100"/>
+            </a>
+           </div>
+           <p>
+            <b>
+             <a href="/wiki/Lista_posiadaczek_WWE_Divas_Championship" title="Lista posiadaczek WWE Divas Championship">
+              Lista posiadaczek WWE Divas Championship
+             </a>
+            </b>
+            – lista wrestlerek, które zdobyły tytuł mistrzowski
+            <a href="/wiki/WWE_Divas_Championship" title="WWE Divas Championship">
+             WWE Divas Championship
+            </a>
+            – stworzony i promowany przez amerykańską federacji
+            <a href="/wiki/Wrestling" title="Wrestling">
+             wrestlingu
+            </a>
+            <a href="/wiki/WWE" title="WWE">
+             World Wrestling Entertainment
+            </a>
+            w latach 2008–2016. Podobnie jak w przypadku większości tytułów mistrzowskich w wrestlingu, zdobywczyni WWE Divas Championship była wyłaniana na podstawie ustalonego wcześniej
+            <a href="/wiki/Lista_poj%C4%99%C4%87_zwi%C4%85zanych_z_wrestlingiem#Storyline" title="Lista pojęć związanych z wrestlingiem">
+             scenariusza
+            </a>
+            . Powstanie WWE Divas Championship ogłosiła w 2008 roku generalna menadżerka
+            <i>
+             <a href="/wiki/WWE_SmackDown" title="WWE SmackDown">
+              SmackDown
+             </a>
+            </i>
+            Vickie Guerrero w odpowiedzi na
+            <a href="/wiki/WWE_Women%E2%80%99s_Championship_(1956%E2%80%932010)" title="WWE Women’s Championship (1956–2010)">
+             WWE Women’s Championship
+            </a>
+            , funkcjonujące w konkurencyjnym
+            <a href="/wiki/Lista_poj%C4%99%C4%87_zwi%C4%85zanych_z_wrestlingiem#Brand" title="Lista pojęć związanych z wrestlingiem">
+             brandzie
+            </a>
+            –
+            <i>
+             <a href="/wiki/WWE_Raw" title="WWE Raw">
+              Raw
+             </a>
+            </i>
+            . Tytuł mistrzowski posiadało 17 zawodniczek.
+            <a href="/wiki/Eve_Torres" title="Eve Torres">
+             Eve Torres
+            </a>
+            oraz
+            <a href="/wiki/AJ_Lee" title="AJ Lee">
+             AJ Lee
+            </a>
+            sięgały po niego trzykrotnie. Największa łączna liczba dni wszystkich panowań należała do AJ Lee (406 dni), najdłuższym pojedynczym posiadaniem legitymowała się
+            <a href="/wiki/Nikki_Bella" title="Nikki Bella">
+             Nikki Bella
+            </a>
+            (301 dni), natomiast najkrótszym
+            <a href="/wiki/Jillian_Fletcher" title="Jillian Fletcher">
+             Jillian Hall
+            </a>
+            (5 minut). WWE Divas Championship zostało usunięte z listy istniejących tytułów WWE na
+            <a href="/wiki/WrestleMania_32" title="WrestleMania 32">
+             WrestleManii 32
+            </a>
+            w 2016 roku po tym, jak
+            <a href="/wiki/WWE_Hall_of_Fame" title="WWE Hall of Fame">
+             WWE Hall of Famerka
+            </a>
+            <a href="/wiki/Lita_(wrestlerka)" title="Lita (wrestlerka)">
+             Lita
+            </a>
+            przedstawiła nowy tytuł –
+            <a href="/wiki/WWE_Raw_Women%E2%80%99s_Championship" title="WWE Raw Women’s Championship">
+             WWE Women’s Championship
+            </a>
+            .
+            <i>
+             <a href="/wiki/Lista_posiadaczek_WWE_Divas_Championship" title="Lista posiadaczek WWE Divas Championship">
+              Czytaj więcej…
+             </a>
+            </i>
+           </p>
+           <div style="text-align:right; margin-top:5px;">
+            <i>
+             <a href="/wiki/Wikipedia:Artyku%C5%82y_na_Medal" title="Wikipedia:Artykuły na Medal">
+              Inne Artykuły na Medal
+             </a>
+             •
+             <a href="/wiki/Wikipedia:Propozycje_do_Artyku%C5%82%C3%B3w_na_Medal" title="Wikipedia:Propozycje do Artykułów na Medal">
+              Jak wybieramy najlepsze?
+             </a>
+            </i>
+           </div>
+          </div>
+          <div class="section" id="main-page-good-article">
+           <h2>
+            <span id="Dobry_artyku.C5.82">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Dobry_artyku\u0142","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Dobry_artykuł">
+             <span data-mw-comment-start="" id="h-Dobry_artykuł">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/38px-HSBra.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/57px-HSBra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/HSBra.svg/76px-HSBra.svg.png 2x" width="38"/>
+             </span>
+             Dobry artykuł
+             <span data-mw-comment-end="h-Dobry_artykuł">
+             </span>
+            </span>
+           </h2>
+           <div class="floatright">
+            <a class="image" href="/wiki/Plik:Simsadus-_London;_The_American_navy_in_Europe_(1920)_(14580064668_-_UC_56).jpg">
+             <img alt="Simsadus- London; The American navy in Europe (1920) (14580064668 - UC 56).jpg" data-file-height="1263" data-file-width="2096" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg/100px-Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg/150px-Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg/200px-Simsadus-_London%3B_The_American_navy_in_Europe_%281920%29_%2814580064668_-_UC_56%29.jpg 2x" width="100"/>
+            </a>
+           </div>
+           <p>
+            <b>
+             <a href="/wiki/SM_UC-73" title="SM UC-73">
+              SM UC-73
+             </a>
+            </b>
+            –
+            <a href="/wiki/Cesarstwo_Niemieckie" title="Cesarstwo Niemieckie">
+             niemiecki
+            </a>
+            <a href="/wiki/Podwodny_stawiacz_min" title="Podwodny stawiacz min">
+             podwodny stawiacz min
+            </a>
+            z okresu
+            <a href="/wiki/I_wojna_%C5%9Bwiatowa" title="I wojna światowa">
+             I wojny światowej
+            </a>
+            , jedna z 64 zbudowanych jednostek typu
+            <i>
+             UC II
+            </i>
+            .
+            <a href="/wiki/Wodowanie" title="Wodowanie">
+             Zwodowany
+            </a>
+            w sierpniu 1916 roku w stoczni
+            <a href="/wiki/Blohm_%2B_Voss" title="Blohm + Voss">
+             Blohm &amp; Voss
+            </a>
+            w
+            <a href="/wiki/Hamburg" title="Hamburg">
+             Hamburgu
+            </a>
+            , został przyjęty do służby w
+            <a href="/wiki/Kaiserliche_Marine" title="Kaiserliche Marine">
+             Kaiserliche Marine
+            </a>
+            w grudnia 1916 roku. Przebazowany na
+            <a href="/wiki/Morze_%C5%9Ar%C3%B3dziemne" title="Morze Śródziemne">
+             Morze Śródziemne
+            </a>
+            został nominalnie wcielony w skład
+            <a href="/wiki/Kaiserliche_und_K%C3%B6nigliche_Kriegsmarine" title="Kaiserliche und Königliche Kriegsmarine">
+             Kaiserliche und Königliche Kriegsmarine
+            </a>
+            pod nazwą U-92, pływając w składzie Flotylli Pola. W czasie służby operacyjnej okręt odbył 10 patroli bojowych, w wyniku których zatonęło 16 statków o łącznej
+            <a href="/wiki/Pojemno%C5%9B%C4%87_brutto" title="Pojemność brutto">
+             pojemności
+            </a>
+            16 565
+            <a href="/wiki/Tona_rejestrowa" title="Tona rejestrowa">
+             BRT
+            </a>
+            , zaś jeden statek o pojemności 5796 BRT został uszkodzony. 6 stycznia 1919 roku SM UC-73 został poddany
+            <a href="/wiki/Wielka_Brytania" title="Wielka Brytania">
+             Brytyjczykom
+            </a>
+            w wyniku podpisania
+            <a href="/wiki/Rozejm_w_Compi%C3%A8gne_(1918)" title="Rozejm w Compiègne (1918)">
+             rozejmu w Compiègne
+            </a>
+            , a następnie
+            <a href="/wiki/Stocznia_z%C5%82omowa" title="Stocznia złomowa">
+             złomowany
+            </a>
+            w latach 1919–1920.
+            <i>
+             <a href="/wiki/SM_UC-73" title="SM UC-73">
+              Czytaj więcej…
+             </a>
+            </i>
+           </p>
+           <div style="text-align:right; margin-top:5px;">
+            <i>
+             <a href="/wiki/Wikipedia:Dobre_Artyku%C5%82y" title="Wikipedia:Dobre Artykuły">
+              Inne Dobre Artykuły
+             </a>
+             •
+             <a href="/wiki/Pomoc:Styl_%E2%80%93_poradnik_dla_autor%C3%B3w" title="Pomoc:Styl – poradnik dla autorów">
+              Jak pisać w stylu encyklopedycznym?
+             </a>
+            </i>
+           </div>
+          </div>
+          <div class="section" id="main-page-featured-image">
+           <h2>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Ilustracja_na_medal","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Ilustracja_na_medal">
+             <span data-mw-comment-start="" id="h-Ilustracja_na_medal">
+             </span>
+             <span class="nomobile">
+              <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/38px-PL_Wiki_InM_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/57px-PL_Wiki_InM_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/76px-PL_Wiki_InM_ikona.svg.png 2x" width="38"/>
+             </span>
+             Ilustracja na medal
+             <span data-mw-comment-end="h-Ilustracja_na_medal">
+             </span>
+            </span>
+           </h2>
+           <div style="text-align:center; clear:both;">
+            <a class="image" href="/wiki/Plik:POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg">
+             <img alt="POL województwo czernihowskie COA IRP.svg" data-file-height="923" data-file-width="754" decoding="async" height="400" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg/327px-POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg/490px-POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg/653px-POL_wojew%C3%B3dztwo_czernihowskie_COA_IRP.svg.png 2x" width="327"/>
+            </a>
+            <div style="margin-top:5px;">
+             <a href="/wiki/Herb" title="Herb">
+              Herb
+             </a>
+             <a href="/wiki/Wojew%C3%B3dztwo_czernihowskie" title="Województwo czernihowskie">
+              województwa czernihowskiego
+             </a>
+             <br/>
+            </div>
+           </div>
+           <div style="text-align:right; margin-top:5px;">
+            <i>
+             <a href="/wiki/Wikipedia:Ilustracje_na_Medal" title="Wikipedia:Ilustracje na Medal">
+              Inne ilustracje na medal
+             </a>
+             •
+             <a href="/wiki/Pomoc:Ilustrowanie" title="Pomoc:Ilustrowanie">
+              Jak zilustrować artykuł?
+             </a>
+            </i>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="footer" id="main-page-footer">
+        <div class="section" id="main-page-sister-projects">
+         <h2>
+          <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Siostrzane_projekty_Wikipedii","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Siostrzane_projekty_Wikipedii">
+           <span data-mw-comment-start="" id="h-Siostrzane_projekty_Wikipedii">
+           </span>
+           <img alt="" data-file-height="700" data-file-width="700" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" width="38"/>
+           Siostrzane projekty Wikipedii
+           <span data-mw-comment-end="h-Siostrzane_projekty_Wikipedii">
+           </span>
+          </span>
+         </h2>
+         <div style="float:left; width:33%; min-width:200px;">
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wiktionary.org/wiki/" title="Wikisłownik">
+               <img alt="Wikisłownik" data-file-height="117" data-file-width="122" decoding="async" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/35px-WiktionaryPl_nodesc.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/53px-WiktionaryPl_nodesc.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/WiktionaryPl_nodesc.svg/70px-WiktionaryPl_nodesc.svg.png 2x" width="35"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wiktionary.org/wiki/" title="wikt:">
+              Wikisłownik
+             </a>
+            </b>
+            <br/>
+            Wielojęzyczny słownik
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wikinews.org/wiki/" title="Wikinews">
+               <img alt="Wikinews" data-file-height="415" data-file-width="759" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/68px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/90px-Wikinews-logo.svg.png 2x" width="45"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wikinews.org/wiki/" title="n:">
+              Wikinews
+             </a>
+            </b>
+            <br/>
+            Serwis informacyjny
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wikiquote.org/wiki/" title="Wikicytaty">
+               <img alt="Wikicytaty" data-file-height="355" data-file-width="300" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" width="30"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wikiquote.org/wiki/" title="q:">
+              Wikicytaty
+             </a>
+            </b>
+            <br/>
+            Kolekcja cytatów
+           </p>
+          </div>
+         </div>
+         <div style="float:left; width:33%; min-width:200px;">
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="//wikiversity.org/" title="Wikiwersytet">
+               <img alt="Wikiwersytet" data-file-height="800" data-file-width="1000" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" width="40"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <span class="plainlinks">
+             <b>
+              <a class="external text" href="https://wikiversity.org/">
+               Wikiwersytet
+              </a>
+             </b>
+            </span>
+            <br/>
+            Wolna edukacja
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wikibooks.org/wiki/" title="Wikibooks">
+               <img alt="Wikibooks" data-file-height="300" data-file-width="300" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" width="35"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wikibooks.org/wiki/" title="b:">
+              Wikibooks
+             </a>
+            </b>
+            <br/>
+            Wolne podręczniki
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wikisource.org/wiki/" title="Wikiźródła">
+               <img alt="Wikiźródła" data-file-height="430" data-file-width="410" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" width="35"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wikisource.org/wiki/" title="s:">
+              Wikiźródła
+             </a>
+            </b>
+            <br/>
+            Wolna biblioteka
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://pl.wikivoyage.org/wiki/" title="Wikipodróże">
+               <img alt="Wikipodróże" data-file-height="193" data-file-width="193" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="35"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://pl.wikivoyage.org/wiki/" title="voy:">
+              Wikipodróże
+             </a>
+            </b>
+            <br/>
+            Informacje turystyczne
+           </p>
+          </div>
+         </div>
+         <div style="float:left; width:33%; min-width:200px;">
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://www.wikidata.org/wiki/" title="Wikidane">
+               <img alt="Wikidane" data-file-height="590" data-file-width="1050" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/90px-Wikidata-logo.svg.png 2x" width="45"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">
+              Wikidane
+             </a>
+            </b>
+            <br/>
+            Repozytorium danych
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://commons.wikimedia.org/wiki/" title="Commons">
+               <img alt="Commons" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" width="30"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/" title="commons:">
+              Commons
+             </a>
+            </b>
+            <br/>
+            Repozytorium mediów
+           </p>
+          </div>
+          <div style="margin:auto;width:200px">
+           <div style="float:left;width:50px;">
+            <div class="center">
+             <div class="floatnone">
+              <a href="https://species.wikimedia.org/wiki/" title="Wikispecies">
+               <img alt="Wikispecies" data-file-height="1103" data-file-width="941" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" width="35"/>
+              </a>
+             </div>
+            </div>
+           </div>
+           <p>
+            <b>
+             <a class="extiw" href="https://species.wikimedia.org/wiki/" title="wikispecies:">
+              Wikispecies
+             </a>
+            </b>
+            <br/>
+            Katalog gatunków
+           </p>
+          </div>
+         </div>
+         <div style="line-height:0px;height:0px;clear:both">
+         </div>
+        </div>
+        <div class="section plainlinks" id="main-page-wikimedia">
+         <h2>
+          <span id="Organizacja_i_promocja_Wikimedi.C3.B3w">
+          </span>
+          <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-Organizacja_i_promocja_Wikimedi\u00f3w","replies":[],"headingLevel":2,"placeholderHeading":false}' id="Organizacja_i_promocja_Wikimediów">
+           <span data-mw-comment-start="" id="h-Organizacja_i_promocja_Wikimediów">
+           </span>
+           <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/38px-HSSamarbetecolor.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/57px-HSSamarbetecolor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/HSSamarbetecolor.svg/76px-HSSamarbetecolor.svg.png 2x" width="38"/>
+           Organizacja i promocja Wikimediów
+           <span data-mw-comment-end="h-Organizacja_i_promocja_Wikimediów">
+           </span>
+          </span>
+         </h2>
+         <div class="main-page-threecol">
+          <p>
+           <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">
+            <img alt="Wikimedia Foundation" data-file-height="1024" data-file-width="1024" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/55px-Wikimedia-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/83px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/110px-Wikimedia-logo.svg.png 2x" width="55"/>
+           </a>
+           <b>
+            <a class="extiw" href="https://wikimediafoundation.org/" title="foundationsite:">
+             Wikimedia Foundation
+            </a>
+           </b>
+           ponosi prawną i techniczną odpowiedzialność za Wikipedię.
+          </p>
+          <p>
+           <a href="https://wikimedia.pl" rel="nofollow" title="Wikimedia Polska">
+            <img alt="Wikimedia Polska" data-file-height="285" data-file-width="285" decoding="async" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/50px-Wikimedia_Polska_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/75px-Wikimedia_Polska_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wikimedia_Polska_logo.svg/100px-Wikimedia_Polska_logo.svg.png 2x" width="50"/>
+           </a>
+           <b>
+            <a class="external text" href="https://wikimedia.pl" rel="nofollow">
+             Wikimedia Polska
+            </a>
+           </b>
+           promuje i wspiera tworzenie Wikipedii w Polsce.
+          </p>
+          <p>
+           <a href="https://meta.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna" title="Meta-wiki">
+            <img alt="Meta-wiki" data-file-height="900" data-file-width="900" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/55px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/83px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/110px-Wikimedia_Community_Logo.svg.png 2x" width="55"/>
+           </a>
+           <b>
+            <a class="extiw" href="https://meta.wikimedia.org/wiki/Strona_g%C5%82%C3%B3wna" title="meta:Strona główna">
+             Meta-Wiki
+            </a>
+           </b>
+           jest miejscem koordynacji wszystkich projektów Wikimedia.
+          </p>
+         </div>
+         <div>
+          <p>
+           Jeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków
+           <a href="/wiki/Wikipedia:Spo%C5%82eczno%C5%9B%C4%87_wikipedyst%C3%B3w" title="Wikipedia:Społeczność wikipedystów">
+            społeczności
+           </a>
+           , m.in. u
+           <a href="/wiki/Pomoc:Przewodnicy" title="Pomoc:Przewodnicy">
+            przewodników
+           </a>
+           czy
+           <a href="/wiki/Wikipedia:Administratorzy" title="Wikipedia:Administratorzy">
+            administratorów
+           </a>
+           . Poznaj też inne formy
+           <a href="/wiki/Wikipedia:Kontakt_z_wikipedystami" title="Wikipedia:Kontakt z wikipedystami">
+            kontaktu z wikipedystami
+           </a>
+           .
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="section" id="main-page-for-editors">
+        <div class="footer">
+         <p>
+          Zobacz też:
+          <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Wczoraj" title="Wikipedia:Strona główna/Wczoraj">
+           Strona główna z wczoraj
+          </a>
+          •
+          <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Jutro" title="Wikipedia:Strona główna/Jutro">
+           Strona główna na jutro
+          </a>
+          •
+          <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna/Dokumentacja" title="Wikipedia:Strona główna/Dokumentacja">
+           Dokumentacja
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+      <!-- DiscussionTools addDiscussionTools called -->
+      <!-- 
+NewPP limit report
+Parsed by mw1387
+Cached time: 20210929222101
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.208 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 447/1000000
+Post‐expand include size: 26765/2097152 bytes
+Template argument size: 1441/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 190/5000000 bytes
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 2084067/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  126.018      1 -total
+ 25.88%   32.612      1 Wikipedia:Strona_główna/Rocznice
+ 24.65%   31.064      1 Szablon:Wikiwydarzenia
+ 17.41%   21.944      1 Wikipedia:Strona_główna/Czy_wiesz
+ 15.69%   19.766      1 Szablon:Ikona
+ 15.50%   19.531      1 Wikiprojekt:Czy_wiesz/ekspozycje/2021-09-30
+ 11.12%   14.015      5 Szablon:Small
+ 10.25%   12.921      1 Szablon:Czy_wiesz_-_ekspozycja
+  9.32%   11.750      1 Wikipedia:Strona_główna/Ilustracja_na_medal
+  5.30%    6.676      1 Szablon:Aktualności
+-->
+      <!-- Saved in parser cache with key plwiki:pcache:idhash:2956678-0!canonical and timestamp 20210929222101 and revision id 62342581. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Źródło: „
+      <a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=62342581">
+       https://pl.wikipedia.org/w/index.php?title=Wikipedia:Strona_główna&amp;oldid=62342581
+      </a>
+      ”
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">
+       Kategoria
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Kategoria:Strona_g%C5%82%C3%B3wna" title="Kategoria:Strona główna">
+         Strona główna
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menu nawigacyjne
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Narzędzia osobiste
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Nie jesteś zalogowany
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]">
+         Dyskusja
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]">
+         Edycje
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">
+         Utwórz konto
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Wikipedia%3AStrona+g%C5%82%C3%B3wna" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]">
+         Zaloguj się
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Przestrzenie nazw
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-project">
+         <a accesskey="a" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Zobacz stronę projektu [a]">
+          Strona główna
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Dyskusja_Wikipedii:Strona_g%C5%82%C3%B3wna" rel="discussion" title="Dyskusja o zawartości tej strony [t]">
+          Dyskusja
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Warianty
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        rozwinięte
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        zwinięte
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Widok
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna">
+          Czytaj
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=edit" title="Ta strona jest zabezpieczona. Możesz zobaczyć tekst źródłowy. [e]">
+          Tekst źródłowy
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=history" title="Starsze wersje tej strony. [h]">
+          Historia i autorzy
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Więcej
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        rozwinięte
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        zwinięte
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Szukaj
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Przeszukaj Wikipedię" title="Przeszukaj Wikipedię [f]" type="search"/>
+         <input name="title" type="hidden" value="Specjalna:Szukaj"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Szukaj wprowadzonego tekstu w treści stron" type="submit" value="Szukaj"/>
+         <input class="searchButton" id="searchButton" name="go" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" type="submit" value="Przejdź"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Strona główna">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Nawigacja
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]">
+         Strona główna
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]">
+         Losuj artykuł
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Kategorie">
+        <a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">
+         Kategorie artykułów
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Featured-articles">
+        <a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">
+         Najlepsze artykuły
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-FAQ">
+        <a href="/wiki/Pomoc:FAQ">
+         Częste pytania (FAQ)
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-zmiany-label" class="mw-portlet mw-portlet-zmiany vector-menu vector-menu-portal portal" id="p-zmiany" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-zmiany-label">
+      <span>
+       Dla czytelników
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-czytelnicy">
+        <a href="/wiki/Wikipedia:O_Wikipedii">
+         O Wikipedii
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-bug_in_article">
+        <a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">
+         Zgłoś błąd
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-bad-image">
+        <a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">
+         Zgłoś błąd w pliku
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contact">
+        <a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">
+         Kontakt
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">
+         Wspomóż Wikipedię
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-edytorzy-label" class="mw-portlet mw-portlet-edytorzy vector-menu vector-menu-portal portal" id="p-edytorzy" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-edytorzy-label">
+      <span>
+       Dla wikipedystów
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-pierwsze-kroki">
+        <a href="/wiki/Pomoc:Pierwsze_kroki">
+         Pierwsze kroki
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie – co możesz zrobić, gdzie możesz znaleźć informacje">
+         Portal wikipedystów
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Noticeboard">
+        <a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">
+         Ogłoszenia
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Guidelines">
+        <a href="/wiki/Wikipedia:Zasady">
+         Zasady
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-helppage-name">
+        <a href="/wiki/Pomoc:Spis_tre%C5%9Bci">
+         Pomoc
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]">
+         Ostatnie zmiany
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Narzędzia
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Specjalna:Linkuj%C4%85ce/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Pokaż listę wszystkich stron linkujących do tej strony [j]">
+         Linkujące
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Specjalna:Zmiany_w_linkowanych/Wikipedia:Strona_g%C5%82%C3%B3wna" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]">
+         Zmiany w linkowanych
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]">
+         Prześlij plik
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]">
+         Strony specjalne
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;oldid=62342581" title="Stały link do tej wersji strony">
+         Link do tej wersji
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;action=info" title="Więcej informacji na temat tej strony">
+         Informacje o tej stronie
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Link do powiązanego elementu w repozytorium danych [g]">
+         Element Wikidanych
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Drukuj lub eksportuj
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AStrona+g%C5%82%C3%B3wna">
+         Utwórz książkę
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Specjalna:DownloadAsPdf&amp;page=Wikipedia%3AStrona_g%C5%82%C3%B3wna&amp;action=show-download-screen">
+         Pobierz jako PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;printable=yes" title="Wersja do wydruku [p]">
+         Wersja do druku
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       W innych projektach
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://pl.wikibooks.org/wiki/Wikibooks:Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikibooks
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikidane
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item">
+        <a href="https://pl.wikinews.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikinews
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://pl.wikiquote.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikicytaty
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikiźródła
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item">
+        <a href="https://pl.wikivoyage.org/wiki/Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikipodróże
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna" hreflang="pl">
+         Wikisłownik
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       W innych językach
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="arabski">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/" hreflang="bn" lang="bn" title="bengalski">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="białoruski">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/" hreflang="be-tarask" lang="be-tarask" title="Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="bułgarski">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="bośniacki">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br mw-list-item">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/" hreflang="br" lang="br" title="bretoński">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="kataloński">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="czeski">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="duński">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="niemiecki">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/" hreflang="dsb" lang="dsb" title="dolnołużycki">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="estoński">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="grecki">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="angielski">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="hiszpański">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="baskijski">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="perski">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="francuski">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/" hreflang="gl" lang="gl" title="galicyjski">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="koreański">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="ormiański">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/" hreflang="hsb" lang="hsb" title="górnołużycki">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="chorwacki">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io mw-list-item">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/" hreflang="io" lang="io" title="ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="indonezyjski">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is mw-list-item">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/" hreflang="is" lang="is" title="islandzki">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="włoski">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="hebrajski">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="gruziński">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-csb mw-list-item">
+        <a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/" hreflang="csb" lang="csb" title="kaszubski">
+         Kaszëbsczi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/" hreflang="kk" lang="kk" title="kazachski">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="łaciński">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb mw-list-item">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/" hreflang="lb" lang="lb" title="luksemburski">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="litewski">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="węgierski">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="macedoński">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="malajski">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="niderlandzki">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="japoński">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="norweski (bokmål)">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="norweski (nynorsk)">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portugalski">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="rumuński">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="rosyjski">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="słowacki">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="słoweński">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl mw-list-item">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/" hreflang="szl" lang="szl" title="śląski">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="serbski">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="serbsko-chorwacki">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="fiński">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="szwedzki">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te mw-list-item">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/" hreflang="te" lang="te" title="telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="tajski">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="turecki">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="ukraiński">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="wietnamski">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="chiński">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Tę stronę ostatnio edytowano 14 lut 2021, 01:50.
+    </li>
+    <li id="footer-info-copyright">
+     Tekst udostępniany na
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">
+      licencji Creative Commons: uznanie autorstwa, na tych samych warunkach
+     </a>
+     , z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o
+     <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">
+      warunkach korzystania
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Polityka prywatności
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">
+      O Wikipedii
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">
+      Korzystasz z Wikipedii tylko na własną odpowiedzialność
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//pl.m.wikipedia.org/w/index.php?title=Wikipedia:Strona_g%C5%82%C3%B3wna&amp;mobileaction=toggle_view_mobile">
+      Wersja mobilna
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Dla deweloperów
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/pl.wikipedia.org">
+      Statystyki
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Komunikat na temat ciasteczek
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.292","ppvisitednodes":{"value":447,"limit":1000000},"postexpandincludesize":{"value":26765,"limit":2097152},"templateargumentsize":{"value":1441,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":190,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  126.018      1 -total"," 25.88%   32.612      1 Wikipedia:Strona_główna/Rocznice"," 24.65%   31.064      1 Szablon:Wikiwydarzenia"," 17.41%   21.944      1 Wikipedia:Strona_główna/Czy_wiesz"," 15.69%   19.766      1 Szablon:Ikona"," 15.50%   19.531      1 Wikiprojekt:Czy_wiesz/ekspozycje/2021-09-30"," 11.12%   14.015      5 Szablon:Small"," 10.25%   12.921      1 Szablon:Czy_wiesz_-_ekspozycja","  9.32%   11.750      1 Wikipedia:Strona_główna/Ilustracja_na_medal","  5.30%    6.676      1 Szablon:Aktualności"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":2084067,"limit":52428800},"limitreport-logs":"WRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nWRAP: lead = \"span\"\nWRAP: tail = \"span\"\nIlustracje na Medal/heraldyka (18900, 787, 13)\nfrequency: 1, index: 0, displays: 787, galleryIndex: 1, filestamp: 787\nPlik:POL województwo czernihowskie COA IRP.svg|[[Herb]] [[Województwo czernihowskie|województwa czernihowskiego]]| (1, 787, 4)\nstatus: SUCCEEDED, result: \u003Cdiv style=\"text-align:center; clear:both;\"\u003E[[Plik:POL województwo czernihowskie COA IRP.svg|400x400px]]\u003Cdiv style=\"margin-top:5px;\"\u003E[[Herb]] [[Województwo czernihowskie|województwa czernihowskiego]]\u003Cbr /\u003E\u003C/div\u003E\u003C/div\u003E\nIlustracje na Medal/heraldyka (18900, 787, 13)\nfrequency: 1, index: 0, displays: 787, galleryIndex: 1, filestamp: 787\nPlik:POL województwo czernihowskie COA IRP.svg|[[Herb]] [[Województwo czernihowskie|województwa czernihowskiego]]| (1, 787, 4)\nstatus: SUCCEEDED, result: \u003Cdiv style=\"text-align:center; clear:both;\"\u003E[[Plik:POL województwo czernihowskie COA IRP.svg|400x400px]]\u003Cdiv style=\"margin-top:5px;\"\u003E[[Herb]] [[Województwo czernihowskie|województwa czernihowskiego]]\u003Cbr /\u003E\u003C/div\u003E\u003C/div\u003E\n"},"cachereport":{"origin":"mw1387","timestamp":"20210929222101","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":183,"wgHostname":"mw1328"});});
+  </script>
+ </body>
+</html>

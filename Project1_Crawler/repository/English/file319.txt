@@ -1,0 +1,1828 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="cv">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Тĕп страница — Википеди
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Кӑрлач","Нарӑс","Пуш","Ака","Ҫу","Ҫӗртме","Утӑ","Ҫурла","Авӑн","Юпа","Чӳк","Раштав"],"wgRequestId":"b8949917-d295-4206-86bf-43b2b627cd1f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Тĕп_страница","wgTitle":"Тĕп страница","wgCurRevisionId":704257,"wgRevisionId":704257,"wgArticleId":24462,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"cv","wgPageContentModel":"wikitext","wgRelevantPageName":"Тĕп_страница","wgRelevantArticleId":24462,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"cv","pageLanguageDir":"ltr","pageVariantFallbacks":"cv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Чӑвашла","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage"
+:"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"cv"});
+});});
+  </script>
+  <link href="/w/load.php?lang=cv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=cv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=cv&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.37.0-wmf.23" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Feofan_Donskaja.jpg/1200px-Feofan_Donskaja.jpg" property="og:image"/>
+  <meta content="Тĕп страница — Википеди" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//cv.m.wikipedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Википеди (cv)" type="application/opensearchdescription+xml"/>
+  <link href="//cv.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://cv.wikipedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Тĕп_страница rootpage-Тĕп_страница skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Тĕп страница
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     «Википеди» ирĕклĕ энциклопединчи материал
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Перейти к навигации
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Перейти к поиску
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="cv">
+     <div class="mw-parser-output">
+      <table style="width:100%; margin-bottom:2px">
+       <tbody>
+        <tr>
+         <td style="background-repeat:no-repeat; background-position:0 -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px">
+          <table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent">
+           <tbody>
+            <tr>
+             <td style="height:3em; padding-left:3em; padding-top:1em">
+              <span style="font-size:190%">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8" title="Википеди">
+                Википедине
+               </a>
+               килĕрех!
+              </span>
+              <br/>
+              <br/>
+              <span style="font-style:italic">
+               Википеди — тĕрлĕ чĕлхеллĕ
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8" title="Вики">
+                вики
+               </a>
+               -технологипе ĕçлекен ирĕклĕ энциклопеди.
+               <a href="/wiki/%D0%A7%C4%83%D0%B2%D0%B0%D1%88_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Чăваш Википедийĕ">
+                Чăваш уйрăмĕ
+               </a>
+               2004 çулхи чӳкĕн 22-мĕшĕнче уçăлнă. Ырă кăмăллă мĕнпур çынна хамăр пата Википедире ĕçлеме чĕнетпĕр! Халĕ пирĕн энциклопединче
+               <b>
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Википеди:Статистика">
+                 46 677
+                </a>
+               </b>
+               статья. Кашни хутшăнакан Википедири статьясене
+               <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D1%81%D0%B5%D0%BD%D0%B5_%D1%82%D3%B3%D1%80%D0%BB%D0%B5%D1%82%D0%B5%D1%81%D1%81%D0%B8_%C3%A7%D0%B8%D0%BD%D1%87%D0%B5%D0%BD" title="Википеди:Статьясене тӳрлетесси çинчен">
+                тӳрлетме
+               </a>
+               е çĕнĕрен пуçлама пултарать. Эсир Википедие анлă та тарăн хыпарпа пуянлатасса чун-чĕререн шанатпăр.
+              </span>
+             </td>
+             <td style="padding:1em; text-align:right; line-height:1.3">
+              <br/>
+             </td>
+            </tr>
+            <tr>
+             <td colspan="2" style="text-align:center">
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="background:none; margin-top:10px">
+       <tbody>
+        <tr>
+         <td style="-moz-border-radius:10px; -webkit-border-radius:10px; border:1px solid #a7d7f9; border-radius:10px; color:#000; padding:0 10px 10px 0; vertical-align:top; width:50%">
+          <table cellpadding="2" cellspacing="5" style="background:transparent; vertical-align:top; width:100%">
+           <tbody>
+            <tr>
+             <td>
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.A1.D1.83.D0.B9.D0.BB.D0.B0.D1.81.D0.B0_.D0.B8.D0.BB.D0.BD.C4.95_.D1.81.D1.82.D0.B0.D1.82.D1.8C.D1.8F.D1.81.D0.B5.D0.BC">
+                 </span>
+                 <span class="mw-headline" id="Суйласа_илнĕ_статьясем">
+                  Суйласа илнĕ статьясем
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <div class="thumb tright">
+                <div class="thumbinner" style="width:152px;">
+                 <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Feofan_Donskaja.jpg">
+                  <img alt="" class="thumbimage" data-file-height="1657" data-file-width="1300" decoding="async" height="191" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Feofan_Donskaja.jpg/150px-Feofan_Donskaja.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Feofan_Donskaja.jpg/225px-Feofan_Donskaja.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Feofan_Donskaja.jpg/300px-Feofan_Donskaja.jpg 2x" width="150"/>
+                 </a>
+                 <div class="thumbcaption">
+                  <div class="magnify">
+                   <a class="internal" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Feofan_Donskaja.jpg" title="Пысăклатмалли">
+                   </a>
+                  </div>
+                  Тан Турă Амăш турăшĕ
+                 </div>
+                </div>
+               </div>
+               <p>
+                <b>
+                 Тан Турă Амăш турăшĕ
+                </b>
+                — Турамăш Христос пепкене аллинче тытса ларнине сăнарлакан турăш, ăна Елеуса (Юмартлăх) мелĕпе çырнă. Турăш икĕ енлĕ, хыçалти енĕнче Турă Амăш Вилнине ӳкернĕ.
+               </p>
+               <p>
+                Халăх сăмахĕпе (Тан мăнастăрĕн
+                <a href="/wiki/1692" title="1692">
+                 1692
+                </a>
+                çулхи кĕнекинче çырнипе), Сиротин хулинчен тан каcакĕсем мускав кнеçне,
+                <a href="/wiki/%D0%A2%D0%B0%D0%BD_(%D1%8E%D1%85%D0%B0%D0%BD%D1%88%D1%8B%D0%B2)" title="Тан (юханшыв)">
+                 Тан
+                </a>
+                Дмитрийне Куликово çапăçăвĕ умĕн (
+                <a href="/wiki/1380" title="1380">
+                 1380
+                </a>
+                çул) парнеленĕ.
+                <a href="/wiki/%D0%92%D1%8B%D1%80%C4%83%D1%81_%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8_%D0%A7%D0%B8%D1%80%D0%BA%C4%95%D0%B2%C4%95" title="Вырăс Православи Чиркĕвĕ">
+                 Вырăс Чиркĕвĕнче
+                </a>
+                асамлă турăш шутланса хисеплĕ вырăн йышăнать.
+               </p>
+               <p>
+                Ӳнер тĕпчевçисем турăша
+                <a href="/wiki/1380" title="1380">
+                 1380
+                </a>
+                -
+                <a href="/wiki/1395" title="1395">
+                 1395
+                </a>
+                -мĕш çулсенче çырнă пулĕ тесе шутлаççĕ, ăна те Феофан Грек, те унăн çывăх таврашĕнчи ӳнер ăсти хайлама пултарнă теççĕ. Хальхи вăхăтра турăш
+                <a href="/wiki/%D0%9F%D0%B0%D1%82%D1%88%D0%B0%D0%BB%C4%83%D1%85_%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D0%B8" title="Патшалăх Третьяков галереи">
+                 Патшалăх Третьяков галереинче
+                </a>
+                упранать.
+               </p>
+               <p>
+                <small>
+                 <i>
+                  <img alt="Fairytale bookmark gold.svg" data-file-height="100" data-file-width="100" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/12px-Fairytale_bookmark_gold.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/18px-Fairytale_bookmark_gold.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/24px-Fairytale_bookmark_gold.svg.png 2x" width="12"/>
+                  <a href="/wiki/%D0%A2%D0%B0%D0%BD_%D0%A2%D1%83%D1%80%C4%83_%D0%90%D0%BC%C4%83%D1%88_%D1%82%D1%83%D1%80%C4%83%D1%88%C4%95" title="Тан Турă Амăш турăшĕ">
+                   Тан Турă Амăш турăшĕ
+                  </a>
+                  …
+                 </i>
+                </small>
+               </p>
+               <hr/>
+               <div class="thumb tright">
+                <div class="thumbinner" style="width:202px;">
+                 <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg">
+                  <img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg/200px-%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg/300px-%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg/400px-%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg 2x" width="200"/>
+                 </a>
+                 <div class="thumbcaption">
+                  <div class="magnify">
+                   <a class="internal" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:%D0%A1._%D0%A8%D0%BD%D1%8F%D0%B5%D0%B2%D0%BE.jpg" title="Пысăклатмалли">
+                   </a>
+                  </div>
+                  Ĕшнеуй ялĕ,
+                  <a href="/wiki/%D0%A1%D0%B0%D1%80%C4%83%D1%82%D1%83_%D0%BE%D0%B1%D0%BB%D0%B0%C3%A7%C4%95" title="Сарăту облаçĕ">
+                   Сарăту облаçĕ
+                  </a>
+                  .
+                 </div>
+                </div>
+               </div>
+               <p>
+                <b>
+                 Ĕшнеуй
+                </b>
+                (
+                <a href="/wiki/%D0%92%D1%8B%D1%80%C4%83%D1%81_%D1%87%C4%95%D0%BB%D1%85%D0%B8" title="Вырăс чĕлхи">
+                 выр.
+                </a>
+                <i>
+                 <span lang="ru">
+                  Шняево
+                 </span>
+                </i>
+                ) —
+                <a href="/wiki/%D0%A1%D0%B0%D1%80%C4%83%D1%82%D1%83_%D0%BE%D0%B1%D0%BB%D0%B0%C3%A7%C4%95" title="Сарăту облаçĕ">
+                 Сарăту облаçĕн
+                </a>
+                <a href="/wiki/%D0%9F%D0%B0%D1%81%D0%B0%D1%80%D0%BB%C4%83_%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D1%83%D0%BB%D0%B0%D0%BA_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%C4%95" title="Пасарлă Карабулак районĕ">
+                 Пасарлă Карабулак районĕнчи
+                </a>
+                ял, нумайрах
+                <a class="mw-redirect" href="/wiki/%D0%A7%C4%83%D0%B2%D0%B0%D1%88%D1%81%D0%B5%D0%BC" title="Чăвашсем">
+                 чăвашсем
+                </a>
+                пурăнаççĕ. Ку
+                <a class="mw-redirect" href="/wiki/%D0%9F%D1%83%D1%80%C4%83%D0%BD%D0%B0%D0%BA%D0%B0%D0%BD_%D0%B2%D1%8B%D1%80%C4%83%D0%BD" title="Пурăнакан вырăн">
+                 пурăнакан вырăн
+                </a>
+                — районти пĕртен-пĕр чăваш ялĕ темелле мар.
+                <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8" title="Истори">
+                 Истори
+                </a>
+                тĕлĕшпе пăхсан та, хальхи тăрăмпа та чăваш ялĕсем татах пур (пулнă).
+               </p>
+               <p>
+                <a href="/wiki/2002" title="2002">
+                 2002
+                </a>
+                -мĕш çулта 727 çын пурăннă,
+                <a href="/wiki/2010" title="2010">
+                 2010
+                </a>
+                -мĕш çулта вара халăх йышĕ 563 çити чакнă.
+               </p>
+               <p>
+                Яла
+                <a href="/wiki/1692" title="1692">
+                 1692
+                </a>
+                çулта
+                <a href="/wiki/%D0%A7%D1%83%D0%BB%D1%85%D1%83%D0%BB%D0%B0" title="Чулхула">
+                 Чулхулара
+                </a>
+                карапсем тăвассипе палăрнă чăвашсем никĕсленĕ. Алексей Михайлович Романов патша
+                <a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D1%80%C4%83%D1%82%D1%83_%D0%BA%C4%95%D0%BF%D0%B5%D1%80%D0%BD%D0%B8&amp;action=edit&amp;redlink=1" title="Сарăту кĕперни (хальлĕхе çырман)">
+                 Сарăту кĕпернинчи
+                </a>
+                Уза шывĕ тĕлĕнчи вырăнпа усă курма грамота панă.
+               </p>
+               <small>
+                <i>
+                 <img alt="Fairytale bookmark gold.svg" data-file-height="100" data-file-width="100" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/12px-Fairytale_bookmark_gold.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/18px-Fairytale_bookmark_gold.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fairytale_bookmark_gold.svg/24px-Fairytale_bookmark_gold.svg.png 2x" width="12"/>
+                 <a href="/wiki/%C4%94%D1%88%D0%BD%D0%B5%D1%83%D0%B9" title="Ĕшнеуй">
+                  Ĕшнеуй
+                 </a>
+                 …
+                </i>
+               </small>
+               <div align="right">
+                <i>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A1%D1%83%D0%B9%D0%BB%D0%B0%D1%81%D0%B0_%D0%B8%D0%BB%D0%BD%C4%95_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D1%81%D0%B5%D0%BC" title="Википеди:Суйласа илнĕ статьясем">
+                  Ытти суйласа илнĕ статьясем
+                 </a>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/38px-PL_Wiki_Kalendarium_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/57px-PL_Wiki_Kalendarium_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PL_Wiki_Kalendarium_ikona.svg/76px-PL_Wiki_Kalendarium_ikona.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.9A.D1.83.D0.BD_.D0.BF.D1.83.D0.BB.C4.83.D0.BC.C4.95.D1.81.D0.B5.D0.BC">
+                 </span>
+                 <span class="mw-headline" id="Кун_пулăмĕсем">
+                  Кун пулăмĕсем
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <div class="floatright">
+                <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Bundesarchiv_Bild_101I-121-0012-30,_Polen,_deutsch-sowjetische_Siegesparade,_Panzer.jpg" title="Брест хулинчи совет-герман парачĕ">
+                 <img alt="Брест хулинчи совет-герман парачĕ" data-file-height="649" data-file-width="1000" decoding="async" height="78" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg/120px-Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg/180px-Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg/240px-Bundesarchiv_Bild_101I-121-0012-30%2C_Polen%2C_deutsch-sowjetische_Siegesparade%2C_Panzer.jpg 2x" width="120"/>
+                </a>
+               </div>
+               <p>
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8" title="Болгари">
+                 Болгарин
+                </a>
+                ирĕклĕх кунĕ (
+                <a href="/wiki/1908" title="1908">
+                 1908
+                </a>
+                )
+               </p>
+               <ul>
+                <li>
+                 <a href="/wiki/1236" title="1236">
+                  1236
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D1%83%D0%BB_%D0%BF%D0%B0%D1%82%C4%95%D0%BD%D1%87%D0%B8_%C3%A7%D0%B0%D0%BF%C4%83%C3%A7%D1%83&amp;action=edit&amp;redlink=1" title="Саул патĕнчи çапăçу (хальлĕхе çырман)">
+                  Саул патĕнчи çапăçу
+                 </a>
+                 :
+                 <a href="/wiki/%D0%A5%C4%95%C3%A7%D0%BF%D0%B5_%C3%A7%D3%B3%D1%80%D0%B5%D0%BA%D0%B5%D0%BD%D1%81%D0%B5%D0%BD_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%C4%95" title="Хĕçпе çӳрекенсен орденĕ">
+                  хĕçпе çӳрекенсен орденне
+                 </a>
+                 пĕтерес тапхăр пуçланать
+                </li>
+                <li>
+                 <a href="/wiki/1735" title="1735">
+                  1735
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%A3%D0%BE%D0%BB%D0%BF%D0%BE%D0%BB&amp;action=edit&amp;redlink=1" title="Роберт Уолпол (хальлĕхе çырман)">
+                  Роберт Уолпол
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%94%D0%B0%D1%83%D0%BD%D0%B8%D0%BD%D0%B3-%D1%81%D1%82%D1%80%D0%B8%D1%82%C4%95%D0%BD%D1%87%D0%B8&amp;action=edit&amp;redlink=1" title="Даунинг-стритĕнчи (хальлĕхе çырман)">
+                  Даунинг-стритĕнчи
+                 </a>
+                 <a class="extiw" href="https://en.wikipedia.org/wiki/10_Downing_Street" title="en:10 Downing Street">
+                  10 № çурта
+                 </a>
+                 кĕрет
+                </li>
+                <li>
+                 <a href="/wiki/1784" title="1784">
+                  1784
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%A8%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Григорий Шелихов (хальлĕхе çырман)">
+                  Григорий Шелихов
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%B4%D1%8C%D1%8F%D0%BA_(%D1%83%D1%82%D1%80%D0%B0%D0%B2)&amp;action=edit&amp;redlink=1" title="Кадьяк (утрав) (хальлĕхе çырман)">
+                  Кадьяк
+                 </a>
+                 утравĕ çинче вырăссен
+                 <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Америка">
+                  Америкăри
+                 </a>
+                 пĕрремĕш пĕрмай вырнаçнă вырăнне никĕслет
+                </li>
+                <li>
+                 <a href="/wiki/1792" title="1792">
+                  1792
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%C4%95&amp;action=edit&amp;redlink=1" title="Франци республикин календарĕ (хальлĕхе çырман)">
+                  Франци республикин календарĕн
+                 </a>
+                 пĕрремĕш кунĕ
+                </li>
+                <li>
+                 <a href="/wiki/1869" title="1869">
+                  1869
+                 </a>
+                 —
+                 <a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD" title="Мюнхен">
+                  Мюнхенра
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%A0%D0%B5%D0%B9%D0%BD_%D1%8B%D0%BB%D1%82%C4%83%D0%BD%C4%95&amp;action=edit&amp;redlink=1" title="Рейн ылтăнĕ (хальлĕхе çырман)">
+                  «Рейн ылтăнĕ»
+                 </a>
+                 оперăн премьери иртет
+                </li>
+                <li>
+                 <a href="/wiki/1939" title="1939">
+                  1939
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%A5%C4%95%D1%80%D0%BB%C4%95_%C3%A7%D0%B0%D1%80&amp;action=edit&amp;redlink=1" title="Хĕрлĕ çар (хальлĕхе çырман)">
+                  Хĕрлĕ çарпа
+                 </a>
+                 <a href="/wiki/%D0%92%D0%B5%D1%80%D0%BC%D0%B0%D1%85%D1%82" title="Вермахт">
+                  вермахтăн
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%91%D1%80%D0%B5%D1%81%D1%82&amp;action=edit&amp;redlink=1" title="Брест (хальлĕхе çырман)">
+                  Брестри
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%A5%C4%95%D1%80%D0%BB%C4%95_%C3%87%D0%B0%D1%80%D0%BF%D0%B0_%D0%B2%D0%B5%D1%80%D0%BC%D0%B0%D1%85%D1%82%C4%83%D0%BD_%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%80%D0%B8_%D0%BF%C4%95%D1%80%D0%BB%D0%B5%D1%85%D0%B8_%D0%BF%D0%B0%D1%80%D0%B0%D1%87%C4%95_(1939)&amp;action=edit&amp;redlink=1" title="Хĕрлĕ Çарпа вермахтăн Брестри пĕрлехи парачĕ (1939) (хальлĕхе çырман)">
+                  пĕрлехи парачĕ
+                 </a>
+                 (
+                 <i>
+                  капăрл.
+                 </i>
+                 )
+                </li>
+                <li>
+                 <a href="/wiki/1980" title="1980">
+                  1980
+                 </a>
+                 —
+                 <a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%B4%D0%B4%D0%B0%D0%BC_%D0%A5%D1%83%D1%81%D1%81%D0%B5%D0%B9%D0%BD&amp;action=edit&amp;redlink=1" title="Саддам Хуссейн (хальлĕхе çырман)">
+                  Саддам Хуссейн
+                 </a>
+                 <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD" title="Иран">
+                  Ирана
+                 </a>
+                 <a class="new" href="/w/index.php?title=%D0%98%D1%80%D0%B0%D0%BD-%D0%B8%D1%80%D0%B0%D0%BA_%D0%B2%C4%83%D1%80%C3%A7%D0%B8&amp;action=edit&amp;redlink=1" title="Иран-ирак вăрçи (хальлĕхе çырман)">
+                  тапăнать
+                 </a>
+                 <div align="right">
+                  <i>
+                   <a class="new" href="/w/index.php?title=%D0%90%D0%B2%D3%91%D0%BD,_22&amp;action=edit&amp;redlink=1" title="Авӑн, 22 (хальлĕхе çырман)">
+                    татах...
+                   </a>
+                  </i>
+                 </div>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/38px-HSSamarbete.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/57px-HSSamarbete.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/76px-HSSamarbete.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.AD.D1.80.D0.BD.D0.B5.D1.80.D0.B8_.D0.BF.C4.95.D1.80.D0.BB.D0.B5.D1.85.D0.B8_.C4.95.C3.A7">
+                 </span>
+                 <span class="mw-headline" id="Эрнери_пĕрлехи_ĕç">
+                  Эрнери пĕрлехи ĕç
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <b>
+                Суйласа илмен. Ку Сирĕн тивĕç!
+               </b>
+               <br clear="both"/>
+               <div align="right">
+                <i>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%AD%D1%80%D0%BD%D0%B5_%C4%95%C3%A7%C4%95%D0%BD_%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%87%C4%95%D1%81%D0%B5%D0%BC" title="Википеди:Эрне ĕçĕн кандидачĕсем">
+                  Суйласа илнĕ эрне статьисем
+                 </a>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="border:5px solid transparent">
+         </td>
+         <td style="-moz-border-radius:10px; -webkit-border-radius:10px; border:1px solid #a7d7f9; border-radius:10px; padding:0px 10px 10px 0px; vertical-align:top; width:50%">
+          <table cellpadding="2" cellspacing="5" style="background:#f5faff; background:transparent; vertical-align:top; width:100%">
+           <tbody>
+            <tr>
+             <td>
+              <div style="position:relative; left:8px; top:8px; background:#c6defe; height:25px; text-align:left; -moz-border-radius:8px; -webkit-border-radius:8px; border-radius:8px">
+               <div style="position:relative; left:-5px; top:0">
+                <img alt="" data-file-height="25" data-file-width="15" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15"/>
+               </div>
+               <div style="position:absolute; left:1px; top:-7px">
+                <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/38px-PL_Wiki_InM_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/57px-PL_Wiki_InM_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/76px-PL_Wiki_InM_ikona.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:0; color:#000; font-size:120%; font-weight:700; margin:0; text-align:left; padding:.15em .4em">
+                 <span id=".D0.9F.D0.B0.D1.8F.D0.BD.D1.85.D0.B8_.D1.81.C4.83.D0.BD">
+                 </span>
+                 <span class="mw-headline" id="Паянхи_сăн">
+                  Паянхи сăн
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="margin:0 1em 1em; padding-right:0; padding-top:12px">
+               <div align="center">
+                <div class="center">
+                 <div class="floatnone">
+                  <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg">
+                   <img alt="Болотные Кипарисы.jpg" class="thumbborder" data-file-height="3004" data-file-width="4500" decoding="async" height="234" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg/350px-%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg/525px-%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg/700px-%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg 2x" width="350"/>
+                  </a>
+                 </div>
+                </div>
+                Шурлăх кипарисĕсем (Taxodium distichum). Сукко патĕнче, Краснодар Ен, РФ.
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="position:relative; left:8px; top:8px; background:#c6defe; height:25px; text-align:left; -moz-border-radius:8px; -webkit-border-radius:8px; border-radius:8px">
+               <div style="position:relative; left:-5px; top:0">
+                <img alt="" data-file-height="25" data-file-width="15" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8f/Bluebg_rounded2.png" width="15"/>
+               </div>
+               <div style="position:absolute; left:1px; top:-7px">
+                <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/38px-PL_Wiki_CzyWiesz_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/57px-PL_Wiki_CzyWiesz_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/76px-PL_Wiki_CzyWiesz_ikona.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:0; color:#000; font-size:120%; font-weight:700; margin:0; text-align:left; padding:.15em .4em">
+                 <span id=".D0.AD.D1.81.D0.B8.D1.80_.C3.A7.D0.B0.D0.BA.D0.BD.D0.B0_.D0.BF.C4.95.D0.BB.D0.B5.D1.82.C4.95.D1.80-.D0.B8.E2.80.A6">
+                 </span>
+                 <span class="mw-headline" id="Эсир_çакна_пĕлетĕр-и…">
+                  Эсир çакна пĕлетĕр-и…
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="margin:0 1em 1em; padding-right:0; padding-top:12px">
+               <p>
+                <small>
+                 <i>
+                  Википедири çĕнĕ статьясенчен:
+                 </i>
+                </small>
+               </p>
+               <div class="floatright">
+                <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Brookesia_nana_Fig4A.jpg" title="Brookesia nana">
+                 <img alt="Brookesia nana" data-file-height="1066" data-file-width="1696" decoding="async" height="94" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brookesia_nana_Fig4A.jpg/150px-Brookesia_nana_Fig4A.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brookesia_nana_Fig4A.jpg/225px-Brookesia_nana_Fig4A.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Brookesia_nana_Fig4A.jpg/300px-Brookesia_nana_Fig4A.jpg 2x" width="150"/>
+                </a>
+               </div>
+               <ul>
+                <li>
+                 <b>
+                  <a href="/wiki/Brookesia_nana" title="Brookesia nana">
+                   Чи вӗтӗ хамелеон
+                  </a>
+                 </b>
+                 (
+                 <i>
+                  капăрл.
+                 </i>
+                 ) тӑршшӗпе 3 см-тан пӗчӗкрех, ӳт тӗсне улӑштармасть тата йывӑҫсем ҫинче пурӑнмасть.
+                </li>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%9B%D0%B0-%D0%92%D1%8C%D0%B5%D0%B9_%C3%A7%D1%83%D1%82%D0%BA%C4%83%C3%A7%C4%95" title="Ла-Вьей çуткăçĕ">
+                   Ла-Вьей çуткăçĕн
+                  </a>
+                 </b>
+                 <b>
+                  <a href="/wiki/%C3%87%D1%83%D1%82%D0%BA%C4%83%C3%A7_%D1%85%D1%83%D1%80%D0%B0%D0%BB%D2%AB%D0%B8" title="Çуткăç хуралҫи">
+                   пӑхаканӗсем
+                  </a>
+                 </b>
+                 пӗрре ҫех мар унӑн тыткӑнне лекнӗ.
+                </li>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%9A%D1%83%D0%BA%D0%B8_%D0%A1%D1%8E%D0%B4%D0%B7%D0%BE" title="Куки Сюдзо">
+                   Самурайпа гейша ывӑлӗ
+                  </a>
+                 </b>
+                 <a href="/wiki/%D0%A1%D0%B0%D1%80%D1%82%D1%80_%D0%96%D0%B0%D0%BD-%D0%9F%D0%BE%D0%BB%D1%8C" title="Сартр Жан-Поль">
+                  Сартра
+                 </a>
+                 <a href="/wiki/%D0%A5%D0%B0%D0%B9%D0%B4%D0%B5%D0%B3%D0%B3%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Хайдеггер Мартин">
+                  Мартин Хайдеггер
+                 </a>
+                 философине илентернӗ.
+                </li>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%A1%D0%B8%D1%80%D0%B0%D0%BA%D1%83%D0%B7%D0%B0_%D1%87%D0%B8%D1%80%D0%BA%D3%97%D0%B2%D3%97" title="Сиракуза чиркӗвӗ">
+                   Таса хӗр Мария Ҫуралнин чиркӗвӗн
+                  </a>
+                 </b>
+                 пысӑк пайӗ Христос ҫураличчен пинҫуллӑх ҫурричченех туса лартнӑ пулнӑ.
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">
+                  Континентлӑ Китайра
+                 </a>
+                 <b>
+                  <a href="/wiki/%D0%92%D0%B8%D2%AB%D3%97_%D0%A2" title="Виҫӗ Т">
+                   виҫӗ «Т» саспаллине
+                  </a>
+                 </b>
+                 асӑнма асӑрхануллӑ пулмалла.
+                </li>
+               </ul>
+               <div class="floatright">
+                <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:KustodiyevSemenov_Kapitsa.JPG" title="Капица тата Семёнов профессорсен портречӗ">
+                 <img alt="Капица тата Семёнов профессорсен портречӗ" data-file-height="1200" data-file-width="1188" decoding="async" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KustodiyevSemenov_Kapitsa.JPG/120px-KustodiyevSemenov_Kapitsa.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KustodiyevSemenov_Kapitsa.JPG/180px-KustodiyevSemenov_Kapitsa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KustodiyevSemenov_Kapitsa.JPG/240px-KustodiyevSemenov_Kapitsa.JPG 2x" width="120"/>
+                </a>
+               </div>
+               <ul>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%86%D0%B0_%D1%82%D0%B0%D1%82%D0%B0_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80%D1%81%D0%B5%D0%BD_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%87%D3%97" title="Капица тата Семёнов профессорсен портречӗ">
+                   Икӗ ҫамрӑк ӑсчах
+                  </a>
+                 </b>
+                 (
+                 <i>
+                  капăрл.
+                 </i>
+                 ) хӑйсене сӑнарланӑ
+                 <a href="/wiki/%D0%9A%D1%83%D1%81%D1%82%D0%BE%D0%B4%D0%B8%D0%B5%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Кустодиев Борис Михайлович">
+                  ӳнерҫӗне
+                 </a>
+                 <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D0%BF%D0%B0%D1%80%D0%BD%D0%B8" title="Нобель парни">
+                  Нобель парнине
+                 </a>
+                 илме сӑмах панӑ. Илнӗ те.
+                </li>
+                <li>
+                 Пушкинӑн
+                 <b>
+                  <a class="new" href="/w/index.php?title=%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%BF%D0%B0%D1%82%D1%88%D0%B0_%D1%82%D0%B0%D1%82%D0%B0_%D1%83%D0%BD%D3%91%D0%BD_%D1%85%D3%97%D1%80%D3%97%D1%85_%D1%85%D3%97%D1%80%D3%97&amp;action=edit&amp;redlink=1" title="Никита патша тата унӑн хӗрӗх хӗрӗ (хальлĕхе çырман)">
+                   фриволлӑ юмахӗ
+                  </a>
+                 </b>
+                 сӑвӑҫӑн
+                 <a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%9B%D0%B5%D0%B2_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Пушкин Лев Сергеевич">
+                  шӑллӗ
+                 </a>
+                 лайӑх астуса юлнипе пирки ҫех тулли тексчӗ сыхланса юлнӑ.
+                </li>
+                <li>
+                 <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_VIII" title="Генрих VIII">
+                  Англи королӗ
+                 </a>
+                 <a href="/wiki/%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_VI" title="Эдуард VI">
+                  хӑйӗн ывӑлӗ валли
+                 </a>
+                 <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82" title="Мария Стюарт">
+                  Шотланди королевине
+                 </a>
+                 <b>
+                  <a href="/wiki/%D0%A1%D3%97%D0%BC%D1%81%D3%97%D1%80_%D2%AB%D1%83%D1%80%D0%B0%D2%AB%D1%83" title="Сӗмсӗр ҫураҫу">
+                   питӗ сӗмсӗррӗн ҫураҫнӑ
+                  </a>
+                 </b>
+                 .
+                </li>
+                <li>
+                 <a class="new" href="/w/index.php?title=%D0%95%D0%B3%D0%BE%D1%80_%D0%9B%D0%B5%D1%82%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" title="Егор Летов (хальлĕхе çырман)">
+                  Кӗвӗҫӗ
+                 </a>
+                 хӑйне вӑйпах ирӗксӗрлесе психиатри больницине хупнине хирӗҫ  икӗ эрне хушшинче
+                 <b>
+                  <a class="new" href="/w/index.php?title=%D0%A8%D3%91%D1%88%D0%B8_%D1%82%D1%8B%D1%82%D0%BA%D3%91%D1%87%D3%97_(%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC)&amp;action=edit&amp;redlink=1" title="Шӑши тыткӑчӗ (альбом) (хальлĕхе çырман)">
+                   пилӗк альбом
+                  </a>
+                 </b>
+                 ҫырнӑ.
+                </li>
+               </ul>
+               <p>
+                <br/>
+                <br style="clear:both;"/>
+               </p>
+               <br clear="all"/>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="background:transparent; margin:12px 0 0; width:100%">
+       <tbody>
+        <tr>
+         <td style="-moz-border-radius:10px; -webkit-border-radius:10px; border:1px solid #a7d7f9; border-radius:10px; color:#000; padding:0; vertical-align:top; width:100%">
+          <table style="background:transparent; margin-bottom:0; margin-top:0; padding:0" width="100%">
+           <tbody>
+            <tr>
+             <td align="justify">
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.9F.C4.95.D0.BB.D1.81.D0.B5_.D1.82.C4.83.D0.BC.D0.B0">
+                 </span>
+                 <span class="mw-headline" id="Пĕлсе_тăма">
+                  Пĕлсе тăма
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <p>
+                <i>
+                 <b>
+                  <a class="extiw" href="https://ru.wikipedia.org/wiki/%D0%92%D0%9F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="ru:ВП:Справка">
+                   Википедире епле ĕçлемеллине
+                  </a>
+                  тĕплĕн Википедин
+                  <a href="/wiki/%D0%92%D1%8B%D1%80%C4%83%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9%C4%95" title="Вырăс Википедийĕ">
+                   вырăс уйрăмĕнче
+                  </a>
+                  ăнлантарса панă.
+                 </b>
+                </i>
+               </p>
+               <p>
+                Чăваш Википедине тӳрлетме хăтлăрах пулмашкăн хăвăрăн компьютер çине
+                <a href="/wiki/%D0%A7%C4%83%D0%B2%D0%B0%D1%88_%D0%BF%D1%83%D1%81%D0%BA%C4%83%D1%87_%D1%85%C4%83%D0%BC%D0%B8%D0%BD_%D0%BA%D0%B0%D0%BB%C4%83%D0%BF%C4%95%D1%81%D0%B5%D0%BC" title="Чăваш пускăч хăмин калăпĕсем">
+                 чăваш сарăмне
+                </a>
+                лартмалла. Ăна епле лартмалли пирки
+                <a class="external text" href="http://ru.chuvash.org/e/d0a3d181d182d0b0d0bdd0bed0b2d0bad0b020d187d183d0b2d0b0d188d181d0bad0bed0b920d180d0b0d181d0bad0bbd0b0d0b4d0bad0b8" rel="nofollow">
+                 кунта
+                </a>
+                ăнлантарса панă. Çавăн пекех сире Arial Unicode MS е Code2000 шрифчĕ кирлĕ пулĕ, вĕсене Unicode сарăмĕсенче усă курма пулать. Енчен те сирĕн
+                <a href="/wiki/Windows_XP" title="Windows XP">
+                 Windows XP
+                </a>
+                е
+                <a href="/wiki/Windows_2000" title="Windows 2000">
+                 Windows 2000
+                </a>
+                операци системи пур пулсан, ĕçлеме питĕ ансат пулĕччĕ.
+               </p>
+               Эхер те сирĕн комьютерăн чăваш сарăмĕ çук пулсан е унпа усă курма меллĕ мар пулсан, хăвăра май текста вырнаçтарма пултаратăр (тĕслĕхрен, ă вырăнне а, ĕ — е, ç — с, ӳ — у çырма пултаратăр), е латин сасă паллисемпе усă курăр. Эсир çырнине ытти хутшăнакансем тӳрлетĕç.
+               <div align="right">
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="background:transparent; margin-bottom:0; margin-top:0; padding:0" width="100%">
+           <tbody>
+            <tr>
+             <td>
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/38px-HSWPedia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/57px-HSWPedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HSWPedia.svg/76px-HSWPedia.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.A2.C4.95.D1.80.C4.95.D0.BA_.D0.92.D0.B8.D0.BA.D0.B8.D0.BF.D0.B5.D0.B4.D0.B8.D1.81.D0.B5.D0.BC">
+                 </span>
+                 <span class="mw-headline" id="Тĕрĕк_Википедисем">
+                  Тĕрĕк Википедисем
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <div class="center">
+                <a class="extiw" href="https://az.wikipedia.org/wiki/" title="az:">
+                 Азербайджан
+                </a>
+                •
+                <a class="extiw" href="https://gag.wikipedia.org/wiki/" title="gag:">
+                 Гагауз
+                </a>
+                •
+                <a class="extiw" href="https://kk.wikipedia.org/wiki/" title="kk:">
+                 Казах
+                </a>
+                •
+                <a class="extiw" href="https://kaa.wikipedia.org/wiki/" title="kaa:">
+                 Каракалпак
+                </a>
+                •
+                <a class="extiw" href="https://krc.wikipedia.org/wiki/" title="krc:">
+                 Карачай-балкар
+                </a>
+                •
+                <a class="extiw" href="https://ky.wikipedia.org/wiki/" title="ky:">
+                 Кăркăс
+                </a>
+                •
+                <a class="extiw" href="https://crh.wikipedia.org/wiki/" title="crh:">
+                 Крым тутарĕсен
+                </a>
+                •
+                <a class="extiw" href="https://ba.wikipedia.org/wiki/" title="ba:">
+                 Пушкăрт
+                </a>
+                •
+                <a class="extiw" href="https://tr.wikipedia.org/wiki/" title="tr:">
+                 Турккă
+                </a>
+                •
+                <a class="extiw" href="https://tk.wikipedia.org/wiki/" title="tk:">
+                 Турккăлла
+                </a>
+                •
+                <a class="extiw" href="https://tt.wikipedia.org/wiki/" title="tt:">
+                 Тутар
+                </a>
+                •
+                <a class="extiw" href="https://uz.wikipedia.org/wiki/" title="uz:">
+                 Узбек
+                </a>
+                •
+                <a class="extiw" href="https://ug.wikipedia.org/wiki/" title="ug:">
+                 Уйгур
+                </a>
+                •
+                <a class="extiw" href="https://sah.wikipedia.org/wiki/" title="sah:">
+                 Якут
+                </a>
+               </div>
+               <div align="right">
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="position:relative; left:4px; top:2px; margin:0; text-align:left">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px">
+                <img alt="" data-file-height="700" data-file-width="700" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px">
+                <h2 style="border-bottom:none; font-size:130%; font-weight:700; padding:.15em .4em">
+                 <span id=".D0.A2.C4.83.D0.B2.D0.B0.D0.BD_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.81.D0.B5.D0.BC">
+                 </span>
+                 <span class="mw-headline" id="Тăван_проектсем">
+                  Тăван проектсем
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-bottom:5px; padding-left:10px; padding-top:0">
+               <table align="center">
+                <tbody>
+                 <tr>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikimedia_Community_Logo.svg" title="Мета-вики">
+                    <img alt="Мета-вики" data-file-height="900" data-file-width="900" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/20px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://meta.wikimedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="m:Тĕп страница">
+                     Мета-вики
+                    </a>
+                   </b>
+                   — координаци
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Commons-logo.svg" title="Викиампар">
+                    <img alt="Викиампар" data-file-height="1376" data-file-width="1024" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://commons.wikimedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="commons:Тĕп страница">
+                     Викиампар
+                    </a>
+                   </b>
+                   — ӳкерчĕксем
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikiversity-logo.svg" title="Викиверситет">
+                    <img alt="Викиверситет" data-file-height="800" data-file-width="1000" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/20px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://cv.wikiversity.org/wiki/cv:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="v:cv:Тĕп страница">
+                     Викиверситет
+                    </a>
+                   </b>
+                   — вĕренӳ
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikisource-logo.svg" title="Викивулавăш">
+                    <img alt="Викивулавăш" data-file-height="430" data-file-width="410" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/20px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://cv.wikisource.org/wiki/cv:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0:%D0%A7%C4%83%D0%B2%D0%B0%D1%88" title="s:cv:Тĕп страница:Чăваш">
+                     Викивулавăш
+                    </a>
+                   </b>
+                   — çăл куçсем
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikiquote-logo.svg" title="Викикаларăш">
+                    <img alt="Викикаларăш" data-file-height="355" data-file-width="300" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://cv.wikiquote.org/wiki/cv:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="q:cv:Тĕп страница">
+                     Викикаларăш
+                    </a>
+                   </b>
+                   — каларăшсем
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikibooks-logo.svg" title="Викикĕнеке">
+                    <img alt="Викикĕнеке" data-file-height="300" data-file-width="300" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/20px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://cv.wikibooks.org/wiki/cv:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="b:cv:Тĕп страница">
+                     Викикĕнеке
+                    </a>
+                   </b>
+                   — кĕнекесем
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikipedia-logo-v2.svg" title="Википеди">
+                    <img alt="Википеди" data-file-height="94" data-file-width="103" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/20px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="mw-selflink selflink">
+                     Википеди
+                    </a>
+                   </b>
+                   — энциклопеди
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wiktionary-logo-ru.png" title="Викисăмахсар">
+                    <img alt="Викисăмахсар" data-file-height="135" data-file-width="135" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/20px-Wiktionary-logo-ru.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/30px-Wiktionary-logo-ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/40px-Wiktionary-logo-ru.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://cv.wiktionary.org/wiki/cv:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="wikt:cv:Тĕп страница">
+                     Викисăмахсар
+                    </a>
+                   </b>
+                   — сăмахсар
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikispecies-logo.svg" title="Викитĕссем">
+                    <img alt="Викитĕссем" data-file-height="1103" data-file-width="941" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/30px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://species.wikimedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="wikispecies:Тĕп страница">
+                     Викитĕссем
+                    </a>
+                   </b>
+                   — биологи тĕсĕсем
+                  </td>
+                  <td>
+                   <a class="image" href="/wiki/%D3%B2%D0%BA%D0%B5%D1%80%D1%87%C4%95%D0%BA:Wikinews-logo.svg" title="Викихыпар">
+                    <img alt="Викихыпар" data-file-height="415" data-file-width="759" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/20px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/30px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png 2x" width="20"/>
+                   </a>
+                   <b>
+                    <a class="extiw" href="https://incubator.wikimedia.org/wiki/Wn/cv/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="incubator:Wn/cv/Тĕп страница">
+                     Викихыпар
+                    </a>
+                   </b>
+                   — хыпарсем
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <div align="right">
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- 
+NewPP limit report
+Parsed by mw1318
+Cached time: 20210922015646
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.131 seconds
+Real time usage: 0.177 seconds
+Preprocessor visited node count: 333/1000000
+Post‐expand include size: 25579/2097152 bytes
+Template argument size: 11092/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   49.259      1 -total
+ 55.63%   27.401      6 Шаблон:Тĕп_страница/Сулахайри
+ 27.62%   13.604      2 Шаблон:Тĕп_страница/Сылтăмри
+ 23.97%   11.805      1 Шаблон:Эрне_ĕçĕ
+ 12.79%    6.300      2 Шаблон:ISO_эрне
+ 12.00%    5.912      1 Шаблон:Çакна_пĕлетĕр-и
+  9.23%    4.545      1 Шаблон:Суйласа_илнĕ_статья
+  7.49%    3.688      2 Шаблон:ISOYEAR
+  7.31%    3.601      1 Шаблон:Тĕп_страница/Çӳлти
+  6.47%    3.186      1 Шаблон:Тăван_проектсем
+-->
+      <!-- Saved in parser cache with key cvwiki:pcache:idhash:24462-0!canonical and timestamp 20210922015647 and revision id 704257. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//cv.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Çăлкуç — «
+      <a dir="ltr" href="https://cv.wikipedia.org/w/index.php?title=Тĕп_страница&amp;oldid=704257">
+       https://cv.wikipedia.org/w/index.php?title=Тĕп_страница&amp;oldid=704257
+      </a>
+      »
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Навигаци
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Ман хатĕрсем
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Кĕмен
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="IP адресне сӳтсе явни [n]">
+         Сӳтсе явни
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Ку IP адреспа тӳрлетнисем [y]">
+         Хушни
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A2%C4%95%D0%BF+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Кĕме аккаунт тăвăр, кĕмесĕр те юрать">
+         Аккаунт тумалли
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A2%C4%95%D0%BF+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Аккаунт туса кĕрĕр, кĕмесĕр те юрать [o]">
+         Кĕмелли
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Ят хушшисем
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Статьяна пăх [c]">
+          Страница
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%A1%D3%B3%D1%82%D1%81%D0%B5_%D1%8F%D0%B2%D0%B0%D1%81%D1%81%D0%B8:%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="discussion" title="Статьяна сӳтсе явасси [t]">
+          Сӳтсе яв
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Вариантсем
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span>
+        Пурĕ пăхнă
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">
+          Вула
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=edit" title="Ку страницӑна эсир улӑштарма пултараймастӑр. Ӑна мӗнле ҫырнине кӑна пӑхма пултаратӑр. [e]">
+          Кодне пăхни
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=history" title="Кунăн улӑшăннисем [h]">
+          Истори
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Больше возможностей">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Ещё
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Шырамалли
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Википеди сайтӗнче шыра" title="Шырав [f]" type="search"/>
+         <input name="title" type="hidden" value="Ятарлă:Поиск"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Ҫак текстлӑ страницисене туп" type="submit" value="Шыра"/>
+         <input class="searchButton" id="searchButton" name="go" title="Пур пулсан ҫак ятлӑ страницӑна куҫ" type="submit" value="Куç"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%C4%83" title="Тӗп страницӑ">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Меню
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%C4%83" title="Тӗпеле куҫ [z]">
+         Тĕп страницă
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-index">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A2%D1%83%D0%BF%D0%BC%D0%B0%D0%BB%D0%BB%D0%B8">
+         А-Я индекс
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-newpages">
+        <a href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B">
+         Çĕнĕ страницăсем
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Юлашки улӑштарнин йышӗ [r]">
+         Улăшăннисем
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Ӑнсӑртран суйланӑ страница кӑтарт [x]">
+         Ăнсăртран лекнĕ страница
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/%D0%A5%D1%8B%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D0%BC" title="Хальхи пулӑмсем ҫинчен">
+         Хыпарсем
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Хутшăнасси-label" class="mw-portlet mw-portlet-Хутшăнасси vector-menu vector-menu-portal portal" id="p-Хутшăнасси" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Хутшăнасси-label">
+      <span>
+       Хутшăнасси
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB" title="Проект ҫинченне, мӗн тума пултарнине, япаласем ӑҫтине пӗл">
+         Портал
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-villagepump">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9A%D0%B0%D0%BD%D0%B0%D1%88%D0%BB%D1%83">
+         Канашлу
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9F%D1%83%D0%BB%C4%83%D1%88%D1%83" title="Ыйтса пӗлмелли вырӑн">
+         Пулăшу
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_cv.wikipedia.org&amp;uselang=cv" title="Пире пулӑш">
+         Пулăшăр
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Хатĕрсем
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Кунта каҫакан пур страницӑн ят-йышӗ [j]">
+         Кунта каçаканнисем
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]">
+         Çыхăннă улшăнусем
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=cv" title="Файлсем хушмалли [u]">
+         Файл хушмалли
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Ятарлӑ страницӑсен пӗтӗм ят-йышӗ [q]">
+         Ятарлă страницăсем
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;oldid=704257" title="Элӗн ҫак версийӗн улӑштарман каҫҫи">
+         Яланхи вырăн
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=info" title="Подробнее об этой странице">
+         Страници çинчен
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;id=704257&amp;wpFormIdentifier=titleform" title="Ҫак эле мӗнле цитатӑласси">
+         Страницăна цитатăла
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Ссылка на связанный элемент репозитория данных [g]">
+         Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Пичет/экспорт
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A2%C4%95%D0%BF+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">
+         Кĕнеке тумалли
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=%D0%AF%D1%82%D0%B0%D1%80%D0%BB%C4%83:DownloadAsPdf&amp;page=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=show-download-screen">
+         PDF пек тиесе антар
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;printable=yes" title="Ҫак страницӑн пичет версийӗ [p]">
+         Пичет версийĕ
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       В других проектах
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викисклад
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         Медиавики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Мета-вики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Многоязычная Викитека
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викивиды
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://cv.wikibooks.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="cv">
+         Викиучебник
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Викиданные
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Викимания
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Урăх чĕлхесем
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="арабский">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="азербайджанский">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/" hreflang="ba" lang="ba" title="башкирский">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="белорусский">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="болгарский">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="боснийский">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="датский">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="немецкий">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="греческий">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="английский">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="эсперанто">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="испанский">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="баскский">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="персидский">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="финский">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="французский">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gag mw-list-item">
+        <a class="interlanguage-link-target" href="https://gag.wikipedia.org/wiki/" hreflang="gag" lang="gag" title="гагаузский">
+         Gagauz
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="иврит">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="хорватский">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="венгерский">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="армянский">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is mw-list-item">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/" hreflang="is" lang="is" title="исландский">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="итальянский">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="японский">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="грузинский">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/" hreflang="kk" lang="kk" title="казахский">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="корейский">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="литовский">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/" hreflang="lv" lang="lv" title="латышский">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="македонский">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn mw-list-item">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/" hreflang="mn" lang="mn" title="монгольский">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mo mw-list-item">
+        <a class="interlanguage-link-target" href="https://mo.wikipedia.org/wiki/" hreflang="ro-Cyrl-MD" lang="ro-Cyrl-MD" title="Moldovan">
+         Молдовеняскэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="нидерландский">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="нюнорск">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="норвежский букмол">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc mw-list-item">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/" hreflang="oc" lang="oc" title="окситанский">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os mw-list-item">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/" hreflang="os" lang="os" title="осетинский">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="польский">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="португальский">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="румынский">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="русский">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="словацкий">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="словенский">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/" hreflang="sq" lang="sq" title="албанский">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="сербский">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="шведский">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw mw-list-item">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/" hreflang="sw" lang="sw" title="суахили">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta mw-list-item">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/" hreflang="ta" lang="ta" title="тамильский">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="турецкий">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="татарский">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-udm mw-list-item">
+        <a class="interlanguage-link-target" href="https://udm.wikipedia.org/wiki/" hreflang="udm" lang="udm" title="удмуртский">
+         Удмурт
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug mw-list-item">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/" hreflang="ug" lang="ug" title="уйгурский">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="украинский">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur mw-list-item">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/" hreflang="ur" lang="ur" title="урду">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz mw-list-item">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/" hreflang="uz" lang="uz" title="узбекский">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="китайский">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Ку страницăна .юлашки хут хӑҫан улӑштарни: 24 Ака уйӑхӗн 2021 02:32.
+    </li>
+    <li id="footer-info-copyright">
+     Текст
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">
+      Creative Commons Attribution-ShareAlike лицензиллӗ
+     </a>
+     , Хӑшпӗр чух урӑхла пулма пултарать. Туллин пӗлме.
+     <a href="https://foundation.wikimedia.org/wiki/Условия_использования">
+      Условия использования
+     </a>
+     пӑх.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" title="m:Privacy policy/ru">
+      Конфиденциальность йĕркисем
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8_%C3%A7%D0%B8%D0%BD%D1%87%D0%B5%D0%BD" title="Википеди:Википеди çинчен">
+      Википеди çинчен
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%AF%D0%B2%D0%B0%D0%BF%D0%BB%C4%83%D1%85%D0%B0_%D1%82%D0%B8%D0%B2%C4%95%C3%A7%D1%82%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8" title="Википеди:Яваплăха тивĕçтерменни">
+      Яваплăха тивĕçтерменни
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//cv.m.wikipedia.org/w/index.php?title=%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;mobileaction=toggle_view_mobile">
+      Мобильная версия
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Система тӑвакансем
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/cv.wikipedia.org">
+      Статистика
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Заявление о куки
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.131","walltime":"0.177","ppvisitednodes":{"value":333,"limit":1000000},"postexpandincludesize":{"value":25579,"limit":2097152},"templateargumentsize":{"value":11092,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   49.259      1 -total"," 55.63%   27.401      6 Шаблон:Тĕп_страница/Сулахайри"," 27.62%   13.604      2 Шаблон:Тĕп_страница/Сылтăмри"," 23.97%   11.805      1 Шаблон:Эрне_ĕçĕ"," 12.79%    6.300      2 Шаблон:ISO_эрне"," 12.00%    5.912      1 Шаблон:Çакна_пĕлетĕр-и","  9.23%    4.545      1 Шаблон:Суйласа_илнĕ_статья","  7.49%    3.688      2 Шаблон:ISOYEAR","  7.31%    3.601      1 Шаблон:Тĕп_страница/Çӳлти","  6.47%    3.186      1 Шаблон:Тăван_проектсем"]},"cachereport":{"origin":"mw1318","timestamp":"20210922015646","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u0422\u0115\u043f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","url":"https:\/\/cv.wikipedia.org\/wiki\/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-17T21:18:49Z","dateModified":"2021-04-24T02:32:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/Feofan_Donskaja.jpg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1405"});});
+  </script>
+ </body>
+</html>

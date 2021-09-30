@@ -1,0 +1,1856 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikimedia thematic organizations - Meta
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"40fac98a-d78e-453f-ae20-94ebf18bb3a8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikimedia_thematic_organizations","wgTitle":"Wikimedia thematic organizations","wgCurRevisionId":22021422,"wgRevisionId":22021422,"wgArticleId":1177092,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Thematic organizations","Affiliations committee"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikimedia_thematic_organizations","wgRelevantArticleId":1177092,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":
+!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"meta","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"personal","wgULSisCompactLinksEnabled":!0,"wgTranslatePageTranslation":"source","wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q24524653"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.translate":"ready","ext.translate.tag.languages":"ready","ext.discussionTools.init.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.CentralAuthInterlinkFixer","ext.gadget.wm-portal-preview","ext.gadget.addMe","ext.gadget.formWizard","ext.gadget.susaresources","ext.gadget.aaq","ext.gadget.wrcEditor","ext.gadget.wrcCollapsible","ext.gadget.ReferenceTooltips","ext.gadget.wrcAddNewIndividual","ext.gadget.wrcAddNewGroup","ext.gadget.wadpGadgetsLoader","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.translate.pagetranslation.uls","ext.centralauth.centralautologin"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.translate%2CwikimediaBadges%7Cext.translate.tag.languages%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/0/0e/Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg" property="og:image"/>
+  <meta content="Wikimedia thematic organizations - Meta" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//meta.m.wikimedia.org/wiki/Wikimedia_thematic_organizations" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/index.php?title=Wikimedia_thematic_organizations&amp;action=edit" rel="alternate" title="Edit" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Wikimedia_thematic_organizations&amp;action=edit" rel="edit" title="Edit"/>
+  <link href="/static/favicon/community.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Meta (en)" type="application/opensearchdescription+xml"/>
+  <link href="//meta.wikimedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://meta.wikimedia.org/wiki/Wikimedia_thematic_organizations" rel="canonical"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikimedia_thematic_organizations rootpage-Wikimedia_thematic_organizations skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Wikimedia thematic organizations
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Meta, a Wikimedia project coordination wiki
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-pt-translate-header noprint nomobile" dir="ltr" lang="en">
+      <a href="/w/index.php?title=Special:Translate&amp;group=page-Wikimedia+thematic+organizations&amp;action=page&amp;filter=" title="Special:Translate">
+       Translate this page
+      </a>
+     </div>
+     <div class="mw-parser-output">
+      <div class="mw-pt-languages noprint" dir="ltr" lang="en">
+       <div class="mw-pt-languages-label">
+        Other languages:
+       </div>
+       <ul class="mw-pt-languages-list">
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/af" lang="af" title="Wikimediuma thematische organisasies se (6% translated)">
+          Afrikaans
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/gn" lang="gn" title="Wikimedia ñe'ẽrã aty (6% translated)">
+          Avañe'ẽ
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/id" lang="id" title="Organisasi tematik Wikimedia (6% translated)">
+          Bahasa Indonesia
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/de" lang="de" title="Thematische Organisationen der Wikimedia (100% translated)">
+          Deutsch
+         </a>
+        </li>
+        <li>
+         <span class="mw-pt-languages-ui mw-pt-languages-selected mw-pt-progress mw-pt-progress--complete" dir="ltr" lang="en">
+          English
+         </span>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/eo" lang="eo" title="Vikimediaj fakaj organizoj (94% translated)">
+          Esperanto
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/lb" lang="lb" title="Wikimedia Thematesch Organisatiounen (6% translated)">
+          Lëtzebuergesch
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/nl" lang="nl" title="Wikimedia thematische organisaties (6% translated)">
+          Nederlands
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/vi" lang="vi" title="Tổ chức chuyên trách (6% translated)">
+          Tiếng Việt
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/diq" lang="diq" title="Wikimedia thematic organizations/diq (0% translated)">
+          Zazaki
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/az" lang="az" title="Vikimedianın tematik təşkilatları (6% translated)">
+          azərbaycanca
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/ca" lang="ca" title="Organitzacions temàtiques de Wikimedia (100% translated)">
+          català
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/da" lang="da" title="Wikimedia thematic organizations/da (11% translated)">
+          dansk
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/es" lang="es" title="Organizaciones temáticas de Wikimedia (100% translated)">
+          español
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--high" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/eu" lang="eu" title="Wikimediaren erakunde tematikoak (72% translated)">
+          euskara
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/fr" lang="fr" title="Organisations thématiques (100% translated)">
+          français
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/it" lang="it" title="Organizzazioni tematiche di Wikimedia (17% translated)">
+          italiano
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/lv" lang="lv" title="Wikimedia thematic organizations/lv (0% translated)">
+          latviešu
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/hu" lang="hu" title="Tematikus Wikimédia-szervezetek (6% translated)">
+          magyar
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/oc" lang="oc" title="Organizacions tematicas Wikimèdia (6% translated)">
+          occitan
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/pl" lang="pl" title="Organizacje tematyczne Wikimedia (11% translated)">
+          polski
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/pt" lang="pt" title="Wikimedia - Organizações Temáticas (6% translated)">
+          português
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/pt-br" lang="pt-BR" title="Organizações temáticas da Wikimedia (100% translated)">
+          português do Brasil
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--low" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/sk" lang="sk" title="Tematické organizácie Wikimédie (22% translated)">
+          slovenčina
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/fi" lang="fi" title="Wikimedian teemajärjestöt (17% translated)">
+          suomi
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/sv" lang="sv" title="Wikimedias tematiska organisationer (11% translated)">
+          svenska
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--low" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/cs" lang="cs" title="Tématické organizace Nadace Wikimedia (39% translated)">
+          čeština
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/el" lang="el" title="Θεματικές οργανώσεις του Wikimedia (100% translated)">
+          Ελληνικά
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/bg" lang="bg" title="Тематични организации на Уикимедия (100% translated)">
+          български
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/mk" lang="mk" title="Тематски организации на Викимедија (6% translated)">
+          македонски
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/ru" lang="ru" title="Тематические организации Викимедиа (100% translated)">
+          русский
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/sr" lang="sr" title="Викимедијине тематске организације (94% translated)">
+          српски / srpski
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/uk" lang="uk" title="Тематичні організації Вікімедіа (100% translated)">
+          українська
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/yi" lang="yi" title="Wikimedia thematic organizations/yi (0% translated)">
+          ייִדיש
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/ur" lang="ur" title="وکی میڈیا موضوعاتی تنظیمات (94% translated)">
+          اردو
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/ar" lang="ar" title="منظمات ويكيميديا المواضيعية (100% translated)">
+          العربية
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/sd" lang="sd" title="وڪي ميڊيا موضوعاتي تنظيمون (94% translated)">
+          سنڌي
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--low" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/fa" lang="fa" title="نهادهای موضوعی ویکی‌مدیا (39% translated)">
+          فارسی
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="rtl" href="/wiki/Wikimedia_thematic_organizations/ps" lang="ps" title="Wikimedia thematic organizations/ps (0% translated)">
+          پښتو
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/mr" lang="mr" title="Wikimedia thematic organizations/mr (0% translated)">
+          मराठी
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/hi" lang="hi" title="विकिमीडिया विषयगत संगठन (6% translated)">
+          हिन्दी
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/pa" lang="pa" title="Wikimedia thematic organizations/pa (11% translated)">
+          ਪੰਜਾਬੀ
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/ta" lang="ta" title="Wikimedia thematic organizations/ta (0% translated)">
+          தமிழ்
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--med" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/th" lang="th" title="องค์กรแก่นวิกิมีเดีย (50% translated)">
+          ไทย
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--stub" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/kjp" lang="kjp" title="Wikimedia thematic organizations (17% translated)">
+          ဖၠုံလိက်
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/zh" lang="zh" title="維基媒體專題組織 (89% translated)">
+          中文
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/ja" lang="ja" title="ウィキメディアテーマ別組織 (100% translated)">
+          日本語
+         </a>
+        </li>
+        <li>
+         <a class="mw-pt-progress mw-pt-progress--complete" dir="ltr" href="/wiki/Wikimedia_thematic_organizations/ko" lang="ko" title="위키미디어 주제별 조직 (100% translated)">
+          한국어
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div style="text-align:center">
+       <span class="plainlinks" dir="auto" lang="en">
+        <b>
+         Want to help translate?
+         <a class="external text" href="https://meta.wikimedia.org/w/index.php?title=Special:Translate&amp;group=agg-Affiliate_documentation&amp;filter=%21translated&amp;action=page&amp;language=">
+          Translate the missing messages
+         </a>
+         .
+        </b>
+       </span>
+      </div>
+      <div style="margin: 2px auto 1em; max-width:780px;">
+       <div style="padding-right:2em; font-family:'Gillsans',Arial,sans-serif; text-align:left;">
+        <div style="margin:2px 0.5em; float:right; margin-right:0;">
+         <a class="image" href="/wiki/File:Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg">
+          <img alt="Taller coneixement obert i viquipèdia Alaquàs 2015 2.jpg" data-file-height="480" data-file-width="640" decoding="async" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg/350px-Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg/525px-Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0e/Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg 2x" width="350"/>
+         </a>
+        </div>
+        <div style="font-size: 1.8em; line-height: 1.5; color:#555;">
+         <b>
+          Wikimedia thematic organizations
+         </b>
+         are independent non-profit organizations founded to support and promote the Wikimedia projects within a specified focal area. Like
+         <a href="/wiki/Special:MyLanguage/Wikimedia_chapters" title="Special:MyLanguage/Wikimedia chapters">
+          chapters
+         </a>
+         <span style="display:none">
+          <a href="/wiki/Wikimedia_chapters" title="Wikimedia chapters">
+          </a>
+         </span>
+         , and unlike
+         <a href="/wiki/Special:MyLanguage/Wikimedia_user_groups" title="Special:MyLanguage/Wikimedia user groups">
+          user groups
+         </a>
+         <span style="display:none">
+          <a href="/wiki/Wikimedia_user_groups" title="Wikimedia user groups">
+          </a>
+         </span>
+         , they are required to have a legal structure, maintain detailed records on activities, maintain an expertise in their focal area, and share that expertise with the
+         <a href="/wiki/Special:MyLanguage/Wikimedia_movement" title="Special:MyLanguage/Wikimedia movement">
+          Wikimedia movement
+         </a>
+         <span style="display:none">
+          <a href="/wiki/Wikimedia_movement" title="Wikimedia movement">
+          </a>
+         </span>
+         .
+        </div>
+        <div style="clear:both;">
+        </div>
+       </div>
+       <p>
+        <br/>
+       </p>
+       <div style="background: #f4f4f4; padding: 1em;">
+        <table>
+         <tbody>
+          <tr>
+           <td style="font-size: 1.3em; color:#333;" valign="top">
+            <table>
+             <tbody>
+              <tr>
+               <td valign="top">
+                <img alt="Next Arrow.svg" data-file-height="20" data-file-width="20" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/23px-Next_Arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/35px-Next_Arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/46px-Next_Arrow.svg.png 2x" width="23"/>
+               </td>
+               <td>
+                <b>
+                 <a href="#what">
+                  What are Wikimedia thematic organizations?
+                 </a>
+                </b>
+               </td>
+              </tr>
+              <tr>
+               <td valign="top">
+                <img alt="Next Arrow.svg" data-file-height="20" data-file-width="20" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/23px-Next_Arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/35px-Next_Arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/46px-Next_Arrow.svg.png 2x" width="23"/>
+               </td>
+               <td>
+                <b>
+                 <a href="#existing">
+                  Existing thematic organizations
+                 </a>
+                </b>
+               </td>
+              </tr>
+              <tr>
+               <td valign="top">
+                <img alt="Next Arrow.svg" data-file-height="20" data-file-width="20" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/23px-Next_Arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/35px-Next_Arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/46px-Next_Arrow.svg.png 2x" width="23"/>
+               </td>
+               <td>
+                <b>
+                 <a href="#why">
+                  Why should we apply?
+                 </a>
+                </b>
+               </td>
+              </tr>
+              <tr>
+               <td valign="top">
+                <img alt="Next Arrow.svg" data-file-height="20" data-file-width="20" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/23px-Next_Arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/35px-Next_Arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/46px-Next_Arrow.svg.png 2x" width="23"/>
+               </td>
+               <td>
+                <b>
+                 <a href="#eligibility">
+                  What are the eligibility requirements?
+                 </a>
+                </b>
+               </td>
+              </tr>
+              <tr>
+               <td valign="top">
+                <img alt="Next Arrow.svg" data-file-height="20" data-file-width="20" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/23px-Next_Arrow.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/35px-Next_Arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Next_Arrow.svg/46px-Next_Arrow.svg.png 2x" width="23"/>
+               </td>
+               <td>
+                <b>
+                 <a href="#applying">
+                  How do we apply for recognition?
+                 </a>
+                </b>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </td>
+           <td valign="top" width="30%">
+            <div style="font-size: 1.4em; color:#333;">
+             Quick links
+            </div>
+            <ul>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Affiliations_Committee" title="Special:MyLanguage/Affiliations Committee">
+               Affiliations Committee
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Affiliations_Committee" title="Affiliations Committee">
+               </a>
+              </span>
+             </li>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/Requirements" title="Special:MyLanguage/Wikimedia thematic organizations/Requirements">
+               Requirements for Wikimedia thematic organizations
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Wikimedia_thematic_organizations/Requirements" title="Wikimedia thematic organizations/Requirements">
+               </a>
+              </span>
+             </li>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Naming_guidelines" title="Special:MyLanguage/Wikimedia movement affiliates/Naming guidelines">
+               Affiliates naming guidelines
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Wikimedia_movement_affiliates/Naming_guidelines" title="Wikimedia movement affiliates/Naming guidelines">
+               </a>
+              </span>
+             </li>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Logos_best_practices" title="Special:MyLanguage/Wikimedia movement affiliates/Logos best practices">
+               Affiliates logos best practices
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Wikimedia_movement_affiliates/Logos_best_practices" title="Wikimedia movement affiliates/Logos best practices">
+               </a>
+              </span>
+             </li>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/Existing" title="Special:MyLanguage/Wikimedia thematic organizations/Existing">
+               Existing Wikimedia thematic organizations
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Wikimedia_thematic_organizations/Existing" title="Wikimedia thematic organizations/Existing">
+               </a>
+              </span>
+             </li>
+             <li>
+              <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/In_discussion" title="Special:MyLanguage/Wikimedia thematic organizations/In discussion">
+               Wikimedia thematic organizations in discussion
+              </a>
+              <span style="display:none">
+               <a href="/wiki/Wikimedia_thematic_organizations/In_discussion" title="Wikimedia thematic organizations/In discussion">
+               </a>
+              </span>
+             </li>
+            </ul>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+       <p>
+        <br/>
+        <ins id="what">
+        </ins>
+       </p>
+       <table style="padding: 1em; background: #f4f4f4;">
+        <tbody>
+         <tr style="font-size: 1.8em; color:#333; background: #f4f4f4;">
+          <td colspan="2">
+           What are Wikimedia thematic organizations?
+          </td>
+         </tr>
+         <tr>
+          <td style="width:65%;">
+           <p>
+            Wikimedia thematic organizations are independent non-profit organizations founded to support and promote the Wikimedia projects within a specified focal area. Like the Wikimedia Foundation, they aim to "empower and engage people around the world to collect and develop educational content under a free license or in the public domain, and to disseminate it effectively and globally". Thematic organizations use a name clearly linking them to Wikimedia and are granted use of Wikimedia trademarks for their work, publicity, and fundraising. Currently, 2 thematic organization exists.
+           </p>
+           <p>
+            Recognition from the
+            <a href="/wiki/Special:MyLanguage/Affiliations_Committee" title="Special:MyLanguage/Affiliations Committee">
+             Affiliations Committee
+            </a>
+            allows a group to apply for using the
+            <a href="/wiki/Special:MyLanguage/Wikimedia_trademarks" title="Special:MyLanguage/Wikimedia trademarks">
+             Wikimedia trademarks
+            </a>
+            , access to unique
+            <a href="/wiki/Special:MyLanguage/Grants:Index" title="Special:MyLanguage/Grants:Index">
+             grants
+            </a>
+            , and additional affiliate support; however, recognition is
+            <b>
+             not
+            </b>
+            required to do any of the work a typical
+            <a href="/wiki/Special:MyLanguage/Wikimedia_user_group" title="Special:MyLanguage/Wikimedia user group">
+             Wikimedia user group
+            </a>
+            , and groups are encouraged to consider that model if they do not yet meet the requirements of a thematic organization.
+           </p>
+          </td>
+          <td>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <p>
+        <br/>
+        <ins id="existing">
+        </ins>
+       </p>
+       <div style="background: #f4f4f4; padding: 1em; font-size: 1.1em;">
+        <div style="font-size: 1.7em; color: #555;">
+         <p>
+          <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations" title="Special:MyLanguage/Wikimedia thematic organizations">
+           Wikimedia thematic organizations
+          </a>
+          (2)
+         </p>
+        </div>
+        <p>
+         Thematic organizations are incorporated independent non-profits representing the Wikimedia movement and supporting work focused on a specific theme, topic, subject or issue within or across countries and regions.
+        </p>
+        <ul style="text-align:center;">
+         <li style="vertical-align: middle; display: inline-block; width:150px; margin:0 10px 20px 10px;">
+          <div class="center">
+           <a href="/wiki/Special:MyLanguage/Amical_Wikimedia" title="Special:MyLanguage/Amical Wikimedia">
+            <img alt="Amical Wikimedia" data-file-height="474" data-file-width="460" decoding="async" height="130" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amical_Wikimedia_logo.svg/126px-Amical_Wikimedia_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amical_Wikimedia_logo.svg/189px-Amical_Wikimedia_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amical_Wikimedia_logo.svg/252px-Amical_Wikimedia_logo.svg.png 2x" style="vertical-align: middle" width="126"/>
+           </a>
+           <br/>
+           <div style="margin-top:5px;">
+            <code>
+             <b>
+              CAT
+             </b>
+            </code>
+            <a href="/wiki/Special:MyLanguage/Amical_Wikimedia" title="Special:MyLanguage/Amical Wikimedia">
+             Amical Wikimedia
+            </a>
+           </div>
+          </div>
+         </li>
+         <li style="vertical-align: middle; display: inline-block; width:150px; margin:0 10px 20px 10px;">
+          <div class="center">
+           <a href="/wiki/Special:MyLanguage/Wiki_Project_Med" title="Special:MyLanguage/Wiki Project Med">
+            <img alt="Wiki Project Med" data-file-height="430" data-file-width="400" decoding="async" height="130" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wiki_Project_Med_Foundation_logo.svg/121px-Wiki_Project_Med_Foundation_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wiki_Project_Med_Foundation_logo.svg/181px-Wiki_Project_Med_Foundation_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wiki_Project_Med_Foundation_logo.svg/242px-Wiki_Project_Med_Foundation_logo.svg.png 2x" style="vertical-align: middle" width="121"/>
+           </a>
+           <br/>
+           <div style="margin-top:5px;">
+            <code>
+             <b>
+              WPM
+             </b>
+            </code>
+            <a href="/wiki/Special:MyLanguage/Wiki_Project_Med" title="Special:MyLanguage/Wiki Project Med">
+             Wiki Project Med
+            </a>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <p>
+        <br/>
+       </p>
+       <p>
+        <ins id="why">
+        </ins>
+       </p>
+       <table style="padding: 1em; background: #f4f4f4;">
+        <tbody>
+         <tr style="font-size: 1.8em; color:#333; background: #f4f4f4;">
+          <td colspan="2">
+           Why should we apply?
+          </td>
+         </tr>
+         <tr>
+          <td style="width:65%;">
+           <p>
+            Recognition from the
+            <a href="/wiki/Special:MyLanguage/Affiliations_Committee" title="Special:MyLanguage/Affiliations Committee">
+             Affiliations Committee
+            </a>
+            allows a group to apply for using the
+            <a href="/wiki/Special:MyLanguage/Wikimedia_trademarks" title="Special:MyLanguage/Wikimedia trademarks">
+             Wikimedia trademarks
+            </a>
+            and to get
+            <a href="/wiki/Special:MyLanguage/Grants:Index" title="Special:MyLanguage/Grants:Index">
+             grants
+            </a>
+            ; however, recognition is
+            <b>
+             not
+            </b>
+            required to do any of the work typical user groups do or might do, it is an optional extra step with connected benefits and some requirements.
+           </p>
+           <p>
+            Benefits of becoming a recognized Wikimedia thematic organization includes:
+           </p>
+           <ul>
+            <li>
+             Use the Wikimedia logos consistent with the Wikimedia Foundation's
+             <a class="extiw" href="https://foundation.wikimedia.org/wiki/Trademark_policy" title="wmf:Trademark policy">
+              Trademark Policy
+             </a>
+             without any additional approval. Thematic organizations may use other logos not part of the Trademark Policy (such as the Wikimedia Foundation logo) pursuant to a trademark license with the Wikimedia Foundation and approval by the Wikimedia Foundation legal team.
+            </li>
+            <li>
+             Receive large, but limited, quantities of Wikimedia merchandise for use in activities and outreach efforts.
+            </li>
+            <li>
+             Public recognition of the group's affiliation with the Wikimedia Foundation.
+            </li>
+            <li>
+             Affiliations Committee Liaison support during and after the approval process.
+            </li>
+            <li>
+             Apply for
+             <a href="/wiki/Special:MyLanguage/Grants:APG" title="Special:MyLanguage/Grants:APG">
+              Annual Plan Grants
+             </a>
+             after successfully completing two other Wikimedia Foundation grants and meeting other eligibility requirements.
+            </li>
+            <li>
+             A short name clearly linking the group to Wikimedia.
+            </li>
+            <li>
+             Exclusive use by a thematic organization of the Wikimedia name and brand within the group's thematic focus area.
+            </li>
+            <li>
+             Communications and public policy support from the Wikimedia Foundation.
+            </li>
+            <li>
+             Two scholarships to attend the
+             <a href="/wiki/Special:MyLanguage/Wikimedia_Conference" title="Special:MyLanguage/Wikimedia Conference">
+              Wikimedia Conference
+             </a>
+             , held annually in Berlin for Wikimedia movement affiliates.
+            </li>
+           </ul>
+           <p>
+            Without recognition, groups may still:
+           </p>
+           <ul>
+            <li>
+             Engage in group activities to promote, build, and support the Wikimedia movement and its projects.
+            </li>
+            <li>
+             Utilize the Wikimedia Community logo.
+            </li>
+            <li>
+             Request one-time use of Wikimedia logos consistent with the Wikimedia Foundation's
+             <a class="extiw" href="https://foundation.wikimedia.org/wiki/Trademark_policy" title="wmf:Trademark policy">
+              Trademark Policy
+             </a>
+             pursuant to a trademark license with the Wikimedia Foundation and approval by the Wikimedia Foundation legal team.
+            </li>
+            <li>
+             Apply for
+             <a href="/wiki/Special:MyLanguage/Grants:PEG" title="Special:MyLanguage/Grants:PEG">
+              Project &amp; Event Grants
+             </a>
+             ,
+             <a href="/wiki/Special:MyLanguage/Grants:IEG" title="Special:MyLanguage/Grants:IEG">
+              Individual Engagement Grants
+             </a>
+             , and
+             <a href="/wiki/Special:MyLanguage/Grants:TPS" title="Special:MyLanguage/Grants:TPS">
+              Travel &amp; Participation Support
+             </a>
+             .
+            </li>
+           </ul>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+       <p>
+        <br/>
+       </p>
+       <p>
+        <ins id="eligibility">
+        </ins>
+       </p>
+       <div style="background: #f4f4f4; padding: 1em;">
+        <div style="font-size: 1.8em; color:#333;">
+         What are the eligibility requirements?
+        </div>
+        <dl>
+         <dd>
+          <i>
+           Main page:
+           <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/Requirements" title="Special:MyLanguage/Wikimedia thematic organizations/Requirements">
+            Requirements for Wikimedia thematic organizations
+           </a>
+           <span style="display:none">
+            <a href="/wiki/Wikimedia_thematic_organizations/Requirements" title="Wikimedia thematic organizations/Requirements">
+            </a>
+           </span>
+          </i>
+         </dd>
+        </dl>
+        <p>
+         The requirements to set up an officially recognized Wikimedia thematic organization are designed to be help groups meet the
+         <a href="/wiki/Wikimedia_thematic_organizations/Requirements#expectations" title="Wikimedia thematic organizations/Requirements">
+          movement's expectations
+         </a>
+         for them once they are recognized.
+        </p>
+        <ol>
+         <li>
+          <b>
+           Wikimedia supportive mission
+          </b>
+          <br/>
+          The mission of the organization must be in line with the
+          <a href="/wiki/Special:MyLanguage/Mission" title="Special:MyLanguage/Mission">
+           mission
+          </a>
+          and
+          <a href="/wiki/Special:MyLanguage/Vision" title="Special:MyLanguage/Vision">
+           vision
+          </a>
+          of the Wikimedia Foundation, as well as the
+          <a class="extiw" href="https://foundation.wikimedia.org/wiki/Resolution:Wikimedia_Foundation_Guiding_Principles" title="wmf:Resolution:Wikimedia Foundation Guiding Principles">
+           guiding principles of the Wikimedia Foundation
+          </a>
+          and
+          <a href="/wiki/Special:MyLanguage/Wikimedia_affiliation_models/Principles" title="Special:MyLanguage/Wikimedia affiliation models/Principles">
+           principles of movement affiliates
+          </a>
+          . Regardless of the chosen legal form or incorporation method, the thematic organization must have goals similar to those of the Wikimedia Foundation, and its activities should not stray from them.
+         </li>
+         <li>
+          <b>
+           Thematic focus
+          </b>
+          <br/>
+          The thematic organization has a clear cultural, linguistic, or otherwise thematic focus. Thematic organizations need a clearly defined and unique scope. Wikimedia is an international movement, therefore, when setting up a thematic organization questions of language, geographic area of operation, and membership criteria need to be determined. While there can be multiple user groups serving a similar or single focus area, there can only be one thematic organization covering their designated thematic focus area.
+         </li>
+         <li>
+          <b>
+           Legal structure
+          </b>
+          <br/>
+          The thematic organization must have a legal structure/corporation that is legally independent from the Wikimedia Foundation. Thematic organizations are meant to give a real-life structure to projects that might arise from contributors or external parties in line with the goals of the Wikimedia Foundation. However, thematic organizations are not meant to operate the Wikimedia projects nor to be legally responsible for the content of the projects. In order to achieve that, it is necessary that the legal structure chosen for the creation of a thematic organization is clearly independent from the Wikimedia Foundation. The organization's governing documents, generally by-laws, must be reviewed and approved by the Affiliations Committee.
+         </li>
+         <li>
+          <b>
+           Critical mass of active Wikimedia contributor involvement
+          </b>
+          <br/>
+          The thematic organization must involve at least ten, preferably at least twenty, active contributors to the Wikimedia projects. An active contributor is defined as a members with 300 or more contributions to a Wikimedia project on a registered account that has existed for more than 6 months in good community standing (meaning they are not currently suspended or otherwise prevented from participating). While thematic organizations should welcome the input of people who are not active contributors to the Wikimedia projects, they should not stay too far from the community. The active involvement of contributors to the Wikimedia projects is necessary for a thematic organization to be able to bring real-life initiatives tied to the Wikimedia projects to life. Initial membership should broadly reflect the intended scope, thematic and geographic area of activity and chosen languages of operation of the organization.
+         </li>
+         <li>
+          <b>
+           At least two years of activities
+          </b>
+          <br/>
+          Groups must have two years of demonstrable programmatic results prior to applying for thematic organization recognition. Ideally these activities should be done as a recognized Wikimedia user group. These activities, and their results, must be documented on-wiki, ideally on the group's Meta-Wiki page. Wide outreach efforts to encourage participation and involvement in setting up and shaping the organization are necessary. Activities should be a mixture of online and offline activities designed to encourage participation on the
+          <a href="/wiki/Special:MyLanguage/Wikimedia_projects" title="Special:MyLanguage/Wikimedia projects">
+           Wikimedia projects
+          </a>
+          . The group must be up to date on its activity and financial reports prior to being considered for recognition.
+         </li>
+         <li>
+          <b>
+           Capacity, or planned capacity, to meet the future expectations
+          </b>
+          <br/>
+          Something that makes thematic organizations and chapters unique from user groups are the increased expectations. Does your group have the capacity to meet the expectations of thematic organization once you receive recognition? This will be something both the Affiliations Committee and Board of Trustees will consider in reviewing your application. If your group does not have a track record of activities which indicate that you will successfully be able to meet these expectations, that can cause your application to be denied. Consideration will be given for the financial circumstances of the group, realistic demands in your group's focus area, and plans to secure future funding to meet these expectations.
+         </li>
+        </ol>
+       </div>
+       <p>
+        <br/>
+        <ins id="applying">
+        </ins>
+       </p>
+       <div style="background: #f4f4f4; padding: 1em;">
+        <div style="font-size: 1.8em; color:#333;">
+         How do we apply for recognition?
+        </div>
+        <p>
+         Once you've gathered the group, the wiki page, legal documents, and the big ideas on what you want to do,
+         <a href="/wiki/Affiliations_Committee#contact-us" title="Affiliations Committee">
+          contact the Affiliations Committee
+         </a>
+         and request to apply for thematic organization recognition. The Affiliations Committee will ask you some questions, review your application, and if appropriate will recommend the Wikimedia Foundation Board of Trustees recognize your group as an official Wikimedia Thematic Organization. The Board of Trustees will then vote to approve or grant recognition based on the application, discussions with the Affiliations Committee, and recommendation from the Affiliations Committee. Recognition automatically renews each year. Recognition can be suspended or removed if necessary if a group becomes inactive or is no longer compliant with their agreement.
+        </p>
+        <p>
+         Delays during the application approval process most often arise from incomplete applications or applications that need to be modified before they can be approved. To prevent this from happening and help expedite your group's approval process, please double check this list before submitting your application:
+        </p>
+        <ol>
+         <li>
+          Does your name meet the
+          <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Naming_guidelines" title="Special:MyLanguage/Wikimedia movement affiliates/Naming guidelines">
+           affiliates naming requirements
+          </a>
+          ? Group discussions amongst Wikimedia thematic organizations regarding their name can take time, and generally you want to avoid having to re-engage in that conversation after your application has been submitted. You may contact the Affiliations Committee to seek input on your name before submitting your application.
+         </li>
+         <li>
+          Does your group have a clear scope and purpose that is consistently and clearly explained? If your Meta page explains your thematic organization in a way that differs from your application, and if those differ from the activities your group is undertaking - that may delay the application's approval as a clear scope and purpose is required for the resolution to approve the thematic organization and the thematic organization agreement which the two primary contacts will be signing with the Wikimedia Foundation. Your scope and purpose statement should clearly and concisely explain what your group hopes to accomplish and who would be interested in joining. We recognize this may evolve over time, but you should have a clear commitment to a specific statement at the time of your application.
+         </li>
+         <li>
+          Are your two primary contacts willing to identify themselves with the Wikimedia Foundation? Sometimes privacy concerns might cause someone to change their minds, which can delay the final steps in the user group recognition process.
+         </li>
+         <li>
+          Is your group ready to accept new members and already include at least ten active Wikimedia contributors in good standing? Groups which have a closed or limited membership model may require more discussion and review. Groups which do not have at least ten active members who are also active Wikimedia contributors in good standing will not be approved.
+         </li>
+        </ol>
+       </div>
+      </div>
+      <p>
+       <br/>
+      </p>
+      <table class="navbox" style="border-spacing:0;margin:2px 0;width:100%;font-size:1em;line-height:normal;">
+       <tbody>
+        <tr>
+         <td style="padding:2px">
+          <style data-mw-deduplicate="TemplateStyles:r21698785">
+           .mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li,.mw-parser-output .hlist .mw-empty-elt{display:none}.mw-parser-output .hlist dt:after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}
+          </style>
+          <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" dir="ltr" lang="en" style="border-spacing:0;background:transparent;color:inherit">
+           <tbody>
+            <tr>
+             <th class="navbox-title" colspan="3" scope="col">
+              <link href="mw-data:TemplateStyles:r21698785" rel="mw-deduplicated-inline-style"/>
+              <style data-mw-deduplicate="TemplateStyles:r21702120">
+               .mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar ul{display:inline;white-space:nowrap}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em;width:6em}
+              </style>
+              <div class="plainlinks hlist navbar mini">
+               <ul>
+                <li class="nv-view">
+                 <a href="/wiki/Template:Affiliations_Committee" title="Template:Affiliations Committee">
+                  <abbr style=";;background:none transparent;border:none;" title="View this template">
+                   v
+                  </abbr>
+                 </a>
+                </li>
+                <li class="nv-talk">
+                 <a href="/wiki/Template_talk:Affiliations_Committee" title="Template talk:Affiliations Committee">
+                  <abbr style=";;background:none transparent;border:none;" title="Discuss this template">
+                   t
+                  </abbr>
+                 </a>
+                </li>
+                <li class="nv-edit">
+                 <a class="external text" href="https://meta.wikimedia.org/w/index.php?title=Template:Affiliations_Committee&amp;action=edit">
+                  <abbr style=";;background:none transparent;border:none;" title="Edit this template">
+                   e
+                  </abbr>
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div style="font-size:110%">
+               <a href="/wiki/Special:MyLanguage/Affiliations_Committee" title="Special:MyLanguage/Affiliations Committee">
+                Affiliations Committee portal
+               </a>
+              </div>
+             </th>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <td class="navbox-abovebelow" colspan="3" style="padding:.3em;line-height:normal;text-align:center;">
+              <div>
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee_Charter" title="Special:MyLanguage/Affiliations Committee Charter">
+                  Charter
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Members" title="Special:MyLanguage/Affiliations Committee/Members">
+                  Members
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Resolutions" title="Special:MyLanguage/Affiliations Committee/Resolutions">
+                  Resolutions
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/News" title="Special:MyLanguage/Affiliations Committee/News">
+                  News
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/MassMessages" title="Special:MyLanguage/Affiliations Committee/MassMessages">
+                  MassMessages
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/RFCs" title="Special:MyLanguage/Affiliations Committee/RFCs">
+                  Requests for comments
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Reports" title="Special:MyLanguage/Affiliations Committee/Reports">
+                  Reports
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Wikimedia_movement_affiliates/Noticeboard" title="Wikimedia movement affiliates/Noticeboard">
+                  Noticeboard
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates" title="Special:MyLanguage/Wikimedia movement affiliates">
+                  Movement affiliates
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Affiliate resources
+             </th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Portal" title="Special:MyLanguage/Wikimedia movement affiliates/Portal">
+                  Movement affiliates portal
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Frequently_asked_questions" title="Special:MyLanguage/Wikimedia movement affiliates/Frequently asked questions">
+                  Frequently asked questions
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Organisational_development" title="Special:MyLanguage/Organisational development">
+                  Organizational development
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Affiliates_mailing_list" title="Special:MyLanguage/Wikimedia movement affiliates/Affiliates mailing list">
+                  Affiliates mailing list
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Logos_best_practices" title="Special:MyLanguage/Wikimedia movement affiliates/Logos best practices">
+                  Logo best practices
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Naming_guidelines" title="Special:MyLanguage/Wikimedia movement affiliates/Naming guidelines">
+                  Naming guidelines
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+             <td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+              <div>
+               <div class="center">
+                <div class="floatnone">
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee" title="Special:MyLanguage/Affiliations Committee">
+                  <img alt="Affiliations Committee portal" data-file-height="420" data-file-width="420" decoding="async" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Affiliations_Committee_logo_black.svg/125px-Affiliations_Committee_logo_black.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Affiliations_Committee_logo_black.svg/188px-Affiliations_Committee_logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Affiliations_Committee_logo_black.svg/250px-Affiliations_Committee_logo_black.svg.png 2x" width="125"/>
+                 </a>
+                </div>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Chapters
+             </th>
+             <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_chapters" title="Special:MyLanguage/Wikimedia chapters">
+                  Chapters portal
+                 </a>
+                 <ul>
+                  <li>
+                   <small>
+                    <a href="/wiki/Talk:Wikimedia_chapters" title="Talk:Wikimedia chapters">
+                     Talk
+                    </a>
+                   </small>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Wikimedia_movement_affiliates/Noticeboard" title="Wikimedia movement affiliates/Noticeboard">
+                  Noticeboard
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_chapters/Requirements" title="Special:MyLanguage/Wikimedia chapters/Requirements">
+                  Requirements
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_chapters/Creation_guide" title="Special:MyLanguage/Wikimedia chapters/Creation guide">
+                  Creation guide
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Chapter_Agreements" title="Special:MyLanguage/Chapter Agreements">
+                  Chapters agreement
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Thematic organisations
+             </th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations" title="Special:MyLanguage/Wikimedia thematic organizations">
+                  Thematic organisations portal
+                 </a>
+                 <ul>
+                  <li>
+                   <small>
+                    <a href="/wiki/Talk:Wikimedia_thematic_organizations" title="Talk:Wikimedia thematic organizations">
+                     Talk
+                    </a>
+                   </small>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Wikimedia_movement_affiliates/Noticeboard" title="Wikimedia movement affiliates/Noticeboard">
+                  Noticeboard
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/Requirements" title="Special:MyLanguage/Wikimedia thematic organizations/Requirements">
+                  Requirements
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_thematic_organizations/Creation_guide" title="Special:MyLanguage/Wikimedia thematic organizations/Creation guide">
+                  Creation guide
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_Thematic_Organization_Agreement" title="Special:MyLanguage/Wikimedia Thematic Organization Agreement">
+                  Thematic organisation agreement
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Wikimedia user groups
+             </th>
+             <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_user_groups" title="Special:MyLanguage/Wikimedia user groups">
+                  Wikimedia user groups portal
+                 </a>
+                 <ul>
+                  <li>
+                   <small>
+                    <a href="/wiki/Talk:Wikimedia_user_groups" title="Talk:Wikimedia user groups">
+                     Talk
+                    </a>
+                   </small>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Wikimedia_movement_affiliates/Noticeboard" title="Wikimedia movement affiliates/Noticeboard">
+                  Noticeboard
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_user_groups/Requirements" title="Special:MyLanguage/Wikimedia user groups/Requirements">
+                  Requirements
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_user_groups/Creation_guide" title="Special:MyLanguage/Wikimedia user groups/Creation guide">
+                  Creation guide
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:Contact/affcomusergroup" title="Special:Contact/affcomusergroup">
+                  Apply
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_user_groups/Agreement_and_code_of_conduct" title="Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct">
+                  Agreement and code of conduct
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Internal documents
+             </th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Rules_of_Procedure" title="Special:MyLanguage/Affiliations Committee/Rules of Procedure">
+                  Rules of Procedure
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Resolutions/Standard_of_participation_%E2%80%93_September_2012" title="Special:MyLanguage/Affiliations Committee/Resolutions/Standard of participation – September 2012">
+                  Standards of participation
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Resolutions/Update_of_Internal_Process_on_Spending_%E2%80%93_December_2012" title="Special:MyLanguage/Affiliations Committee/Resolutions/Update of Internal Process on Spending – December 2012">
+                  Internal process on spending
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Other links
+             </th>
+             <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Reports" title="Special:MyLanguage/Affiliations Committee/Reports">
+                  Annual Report
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Pipeline" title="Special:MyLanguage/Affiliations Committee/Pipeline">
+                  Pipeline
+                 </a>
+                </li>
+                <li>
+                 <a class="external text" href="https://affcom.wikimedia.org/">
+                  Private wiki
+                 </a>
+                </li>
+                <li>
+                 <a class="external text" href="https://lists.wikimedia.org/mailman/listinfo/affcom">
+                  mailing list
+                 </a>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Models" title="Special:MyLanguage/Wikimedia movement affiliates/Models">
+                  Wikimedia affiliation models
+                 </a>
+                 <ul>
+                  <li>
+                   <small>
+                    <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates/Principles" title="Special:MyLanguage/Wikimedia movement affiliates/Principles">
+                     Principles
+                    </a>
+                   </small>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <a href="/wiki/Talk:Affiliations_Committee#Future_members" title="Talk:Affiliations Committee">
+                  <b>
+                   Become a member!
+                  </b>
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+            <tr style="height:2px">
+             <td colspan="2">
+             </td>
+            </tr>
+            <tr>
+             <th class="navbox-group" scope="row" style="padding:.3em;line-height:normal;font-weight:bold;white-space:nowrap;text-align:initial;">
+              Contact us
+             </th>
+             <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;padding:.3em;line-height:normal;text-align:initial;">
+              <div style="padding:0em 0.25em">
+               <ul>
+                <li>
+                 By e-mail
+                 <bdi lang="zxx" style="white-space:nowrap">
+                  affcom
+                  <span class="mailto" style="white-space:nowrap">
+                   <img alt="(_AT_)" data-file-height="145" data-file-width="145" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/16px-At_sign.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/24px-At_sign.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/32px-At_sign.svg.png 2x" title="(_AT_)" width="16"/>
+                  </span>
+                  lists.wikimedia.org
+                 </bdi>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/Affiliations_Committee/Twitter" title="Special:MyLanguage/Affiliations Committee/Twitter">
+                  Twitter
+                 </a>
+                 :
+                 <bdi class="plainlinks" lang="zxx" style="white-space:nowrap">
+                  <a class="external text" href="https://twitter.com/WikimediaAffCom" rel="nofollow">
+                   @WikimediaAffCom
+                  </a>
+                 </bdi>
+                </li>
+                <li>
+                 <a href="/wiki/Special:MyLanguage/IRC" title="Special:MyLanguage/IRC">
+                  IRC
+                 </a>
+                 :
+                 <bdi dir="ltr" id="wikimedia-affcom">
+                  <a class="extiw" href="irc://irc.libera.chat/wikimedia-affcom" title="irc:wikimedia-affcom">
+                   <bdi dir="ltr" lang="zxx" style="font-family: monospace,Courier; white-space: nowrap;">
+                    #wikimedia-affcom
+                   </bdi>
+                  </a>
+                  <sup class="plainlinks" dir="auto" lang="en">
+                   <a class="external text" href="https://web.libera.chat/?channel=#wikimedia-affcom" rel="nofollow">
+                    <span style="color: green; text-decoration: inherit; -moz-text-decoration-color: green; text-decoration-color: green;">
+                     connect
+                    </span>
+                   </a>
+                  </sup>
+                 </bdi>
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- DiscussionTools addDiscussionTools called -->
+      <!-- 
+NewPP limit report
+Parsed by mw1422
+Cached time: 20210925054345
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.558 seconds
+Real time usage: 0.717 seconds
+Preprocessor visited node count: 2179/1000000
+Post‐expand include size: 82422/2097152 bytes
+Template argument size: 4497/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15479/5000000 bytes
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 1656754/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  251.158      1 -total
+ 40.93%  102.810      1 Template:Affiliations_Committee
+ 38.47%   96.614      1 Template:Affiliations_Committee/layout-bottom
+ 33.58%   84.342      1 Template:Navbox
+ 22.54%   56.617     10 Template:Ll
+ 14.57%   36.606     20 Template:Translatable
+ 12.83%   32.219      1 Template:Help_translate/Affiliate_documentation
+ 12.09%   30.360     10 Template:PagelangMW
+ 10.59%   26.596      4 Template:TCT
+ 10.47%   26.297      1 Template:Help_translate
+-->
+      <!-- Saved in parser cache with key metawiki:pcache:idhash:1177092-0!canonical and timestamp 20210925054344 and revision id 22021422. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Retrieved from "
+      <a dir="ltr" href="https://meta.wikimedia.org/w/index.php?title=Wikimedia_thematic_organizations&amp;oldid=22021422">
+       https://meta.wikimedia.org/w/index.php?title=Wikimedia_thematic_organizations&amp;oldid=22021422
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Thematic_organizations" title="Category:Thematic organizations">
+         Thematic organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Affiliations_committee" title="Category:Affiliations committee">
+         Affiliations committee
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Personal tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item active" id="pt-uls">
+        <a class="uls-trigger" href="#">
+         English
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Not logged in
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         Talk
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         Contributions
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikimedia+thematic+organizations" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         Create account
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikimedia+thematic+organizations" title="You are encouraged to log in; however, it is not mandatory [o]">
+         Log in
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Wikimedia_thematic_organizations" title="View the content page [c]">
+          Content page
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Talk:Wikimedia_thematic_organizations" rel="discussion" title="Discussion about the content page [t]">
+          Discussion
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Views
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Wikimedia_thematic_organizations">
+          Read
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=Wikimedia_thematic_organizations&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Wikimedia_thematic_organizations&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Search
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Search Meta" title="Search Meta [f]" type="search"/>
+         <input name="title" type="hidden" value="Special:Search"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/>
+         <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Special:MyLanguage/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navigation
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Special:MyLanguage/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Wikimedia_News" title="Find background information on current events">
+         Wikimedia News
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-translations">
+        <a href="/wiki/Special:LanguageStats" title="Help with translations">
+         Translations
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Load a random page [x]">
+         Random page
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Special:MyLanguage/Help:Help" title="The place to find out">
+         Help
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Babel-text">
+        <a href="/wiki/Meta:Babel">
+         Babel
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-community-label" class="mw-portlet mw-portlet-community vector-menu vector-menu-portal portal" id="p-community" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-community-label">
+      <span>
+       Community
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-WikimediaResourceCenter-text">
+        <a href="/wiki/Special:MyLanguage/Wikimedia_Resource_Center">
+         Wikimedia Resource Center
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-WikimediaForum-text">
+        <a href="/wiki/Wikimedia_Forum">
+         Wikimedia Forum
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-mailinglists-text">
+        <a href="/wiki/Special:MyLanguage/Mailing_lists/Overview">
+         Mailing lists
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Requests-text">
+        <a href="/wiki/Special:MyLanguage/Meta:Requests_and_proposals">
+         Requests
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Babylon-text">
+        <a href="/wiki/Special:MyLanguage/Meta:Babylon">
+         Babylon
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Reports-text">
+        <a href="/wiki/Special:MyLanguage/Wikimedia_Affiliates_Data_Portal">
+         Reports
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Research-text">
+        <a href="/wiki/Special:MyLanguage/Research:Index">
+         Research
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-planet">
+        <a href="//en.planet.wikimedia.org/" title="Weblog aggregator of Wikimedia-related posts">
+         Planet Wikimedia
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-beyond_the_web-label" class="mw-portlet mw-portlet-beyond_the_web vector-menu vector-menu-portal portal" id="p-beyond_the_web" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-beyond_the_web-label">
+      <span>
+       Beyond the Web
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Meetup-text">
+        <a href="/wiki/Meetup">
+         Meet Wikimedians
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Events-text">
+        <a href="/wiki/Events">
+         Events
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Affiliates-text">
+        <a href="/wiki/Special:MyLanguage/Wikimedia_movement_affiliates">
+         Movement affiliates
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_meta.wikimedia.org&amp;uselang=en" title="Support us">
+         Donate
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Wikimedia_thematic_organizations" title="A list of all wiki pages that link here [j]">
+         What links here
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wikimedia_thematic_organizations" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Wikimedia_thematic_organizations&amp;oldid=22021422" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Wikimedia_thematic_organizations&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wikimedia_thematic_organizations&amp;id=22021422&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24524653" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Print/export
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikimedia+thematic+organizations">
+         Create a book
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wikimedia_thematic_organizations&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Wikimedia_thematic_organizations&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       In other languages
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24524653#sitelinks-wikipedia" title="Add interlanguage links">
+         Add links
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 15 September 2021, at 09:41.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     ;
+additional terms may apply.
+See
+     <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     for details.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Meta:About" title="Meta:About">
+      About Meta
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Wikimedia:General_disclaimer" title="wmf:Wikimedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//meta.m.wikimedia.org/w/index.php?title=Wikimedia_thematic_organizations&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/meta.wikimedia.org">
+      Statistics
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.558","walltime":"0.717","ppvisitednodes":{"value":2179,"limit":1000000},"postexpandincludesize":{"value":82422,"limit":2097152},"templateargumentsize":{"value":4497,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15479,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  251.158      1 -total"," 40.93%  102.810      1 Template:Affiliations_Committee"," 38.47%   96.614      1 Template:Affiliations_Committee/layout-bottom"," 33.58%   84.342      1 Template:Navbox"," 22.54%   56.617     10 Template:Ll"," 14.57%   36.606     20 Template:Translatable"," 12.83%   32.219      1 Template:Help_translate/Affiliate_documentation"," 12.09%   30.360     10 Template:PagelangMW"," 10.59%   26.596      4 Template:TCT"," 10.47%   26.297      1 Template:Help_translate"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":1656754,"limit":52428800}},"cachereport":{"origin":"mw1422","timestamp":"20210925054345","ttl":1814400,"transientcontent":false}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Wikimedia thematic organizations","url":"https:\/\/meta.wikimedia.org\/wiki\/Wikimedia_thematic_organizations","sameAs":"http:\/\/www.wikidata.org\/entity\/Q24524653","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q24524653","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-06-18T19:07:23Z","dateModified":"2021-09-15T09:41:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0e\/Taller_coneixement_obert_i_viquip%C3%A8dia_Alaqu%C3%A0s_2015_2.jpg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1370"});});
+  </script>
+ </body>
+</html>

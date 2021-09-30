@@ -1,0 +1,2436 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="uk">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Вікіпедія
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgRequestId":"f3667319-3335-4d71-9bce-3c6c3f55f416","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Головна_сторінка","wgTitle":"Головна сторінка","wgCurRevisionId":32087199,"wgRevisionId":32087199,"wgArticleId":2569618,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"uk","wgPageContentModel":"wikitext","wgRelevantPageName":"Головна_сторінка","wgRelevantArticleId":2569618,
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3}}},"wgStableRevisionId":32087199,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr","pageVariantFallbacks":"uk"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"українська","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.showContributorContent":"ready","ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.CurIDLink","ext.gadget.collapserefs","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.new-section","ext.gadget.newTopicOnTop","ext.gadget.MonobookToolbarStandard","ext.gadget.ProtectionIndicator","ext.gadget.Statistics","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"uk"});
+});});
+  </script>
+  <link href="/w/load.php?lang=uk&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=uk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=uk&amp;modules=ext.gadget.showContributorContent&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=uk&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/4/48/Slawa.jpg" property="og:image"/>
+  <meta content="Вікіпедія" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//uk.m.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Вікіпедія (uk)" type="application/opensearchdescription+xml"/>
+  <link href="//uk.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Головна_сторінка rootpage-Головна_сторінка skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    <span style="/* attempt to bypass $wgRestrictDisplayTitle */">
+     Головна сторінка
+    </span>
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Матеріал з Вікіпедії — вільної енциклопедії.
+    </div>
+    <div id="contentSub">
+     <div class="plainlinks flaggedrevs_preview" id="mw-fr-reviewnotice">
+      <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;oldid=32087199&amp;diff=cur">
+       Зміни шаблонів/файлів
+      </a>
+      цієї версії
+      <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Вікіпедія:Патрулювання">
+       очікують на перевірку
+      </a>
+      .
+      <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;stable=1">
+       Стабільна версія
+      </a>
+      була
+      <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8&amp;type=review&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">
+       перевірена
+      </a>
+      <i>
+       24 травня 2021
+      </i>
+      .
+     </div>
+     <div class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint" id="mw-fr-revisiontag">
+      <div class="flaggedrevs_short_basic">
+       <span aria-disabled="false" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget" title="На цій сторінці показано неперевірені зміни">
+       </span>
+       <span aria-disabled="false" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget" id="mw-fr-revisiontoggle" title="показати/приховати подробиці">
+       </span>
+      </div>
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div class="flaggedrevs_short_details" id="mw-fr-revisiondetails" style="display:none">
+        <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;oldid=32087199&amp;diff=cur">
+         Зміни шаблонів/файлів
+        </a>
+        цієї версії
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Вікіпедія:Патрулювання">
+         очікують на перевірку
+        </a>
+        .
+        <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;stable=1">
+         Стабільна версія
+        </a>
+        була
+        <a class="external text" href="https://uk.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8&amp;type=review&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">
+         перевірена
+        </a>
+        <i>
+         24 травня 2021
+        </i>
+        .
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Перейти до навігації
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Перейти до пошуку
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="uk">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r31175131">
+       .mw-parser-output .mw-headline-number{display:none}.mw-parser-output h1,.mw-parser-output h2,.mw-parser-output h3{padding:0}.mw-parser-output h1:after,.mw-parser-output h2:after{border-bottom:0!important}.mw-parser-output #main-top{border:1px #d7d7d7 solid;border-top:none;border-radius:0 0 3px 3px;width:100%;box-sizing:border-box}.mw-parser-output #main-head{border-radius:3px 3px 0 0;background:linear-gradient(#fff,#fafafa);box-sizing:border-box;padding:1em 1.25em}.mw-parser-output #main-head p{margin:0}.mw-parser-output #main-head-left>h1{border-bottom:0;margin:0;font-family:inherit;font-size:1.75em;line-height:1.25}.mw-parser-output #main-top>ul{display:flex;justify-content:space-between;text-align:center;margin:0;list-style:none}.mw-parser-output #main-top>ul>li{flex:1;margin:0}.mw-parser-output #main-top>ul>li:nth-child(4){flex:2}.mw-parser-output #main-top>ul>li a{display:block;padding:.5em 0;background:#fafafa}.mw-parser-output #main-top>ul>li:first-child a{border-bottom-left-radius:3px}.mw-parser-output #main-top>ul>li:last-child a{border-bottom-right-radius:3px}.mw-parser-output .main-block{width:100%;margin-top:1rem;border:1px #d7d7d7 solid;border-top:3px #3366cc solid;padding:1em 1.25em 1.25em;box-sizing:border-box;background:#fafafa}.mw-parser-output .main-block-header{display:flex;justify-content:space-between;align-items:center;width:100%;padding-bottom:.25em;margin-bottom:.5em}.mw-parser-output .main-block-header>h2{display:block;margin:0;border-bottom:0;font-family:inherit}.mw-parser-output .main-block-menu{position:relative}.mw-parser-output .main-block-menuToggle:hover{opacity:0.5}.mw-parser-output .main-block-menuDropdown{display:none;background:#fff;border-radius:3px;box-shadow:0 0 2px rgba(0,0,0,0.25);position:absolute;right:0;top:100%;z-index:100}.mw-parser-output .main-block-menuDropdown ul{list-style:none;margin:0}.mw-parser-output .main-block-menuDropdown ul a{display:block;width:100%;padding:.25em .75em;font-weight:bold}.mw-parser-output .main-block-content{margin:.5em 0}.mw-parser-output .main-block-links{display:flex;justify-content:space-between;align-items:center;margin-top:.75em;font-weight:bold;clear:both}.mw-parser-output .main-block-links>a:only-child{margin-left:auto}.mw-parser-output .main-block-links .mw-ui-button{background:#fcfcfc;border-color:#bbb;border-radius:3px;color:#000}.mw-parser-output .main-block-links a:hover .mw-ui-button{color:#777;background:#fff}.mw-parser-output #feat-pic .main-block-content img{margin:.5em 0;height:auto;width:75%;max-width:500px}.mw-parser-output #topics-list ul{columns:3;column-width:140px;margin:0}.mw-parser-output #topics-list ul>li{align-items:center;display:flex;margin-bottom:0.5rem}.mw-parser-output #topics-list ul>li>a:first-child{flex:0 auto;width:2em;justify-content:center;display:flex}.mw-parser-output #topics-list ul>li>a:last-child{font-weight:bold;flex:1;line-height:30px;padding-left:.5em;display:flex;align-items:center}.mw-parser-output #topics-list ul>li:hover>a:first-child{opacity:0.67}.mw-parser-output #topics-list ul>li:hover>a:last-child{text-decoration:underline}.mw-parser-output #main-bottom{width:100%;border:1px #d7d7d7 solid;border-bottom:none;border-radius:3px 3px 0 0;background:linear-gradient(#fafafa,#fff);box-sizing:border-box;padding:1em 1.25em;margin-top:1em}.mw-parser-output .logo-link{display:inline-flex}.mw-parser-output .logo-link a:first-child{flex:0 auto}.mw-parser-output .logo-link a:last-child{padding-left:.25em}.mw-parser-output .logo-link:hover a:last-child{text-decoration:underline}.mw-parser-output #main-bottom h2{border-bottom:0;font-size:1.5em;font-family:inherit;text-align:center;margin:0 0 1em}.mw-parser-output #main-bottom ul{columns:6;column-width:150px;margin:0}.mw-parser-output #main-bottom ul>li{justify-content:center;align-items:center;display:flex;margin-bottom:0.5rem}.mw-parser-output #main-bottom ul>li>img{flex:0 auto}.mw-parser-output #main-bottom ul>li>a:first-child{flex:0 auto;width:2em;justify-content:center;display:flex}.mw-parser-output #main-bottom ul>li>a:last-child{flex:1;line-height:30px;padding-left:.5em;display:flex;align-items:center}.mw-parser-output #main-bottom li:hover a:last-child{text-decoration:underline}.mw-parser-output #main-bottom h3{border-bottom:0;padding:0;margin:.5em 0 0;font-size:1.25em;font-family:inherit;font-weight:normal;text-align:center;width:100%}@media(max-width:767px){.mw-parser-output #main-head-left,.mw-parser-output #main-head-right{width:100%}.mw-parser-output #main-top>ul,.mw-parser-output .main-block-menu{display:none}}@media(min-width:768px){.mw-parser-output .main-block{border-radius:3px;border-top-left-radius:5px 3px;border-top-right-radius:5px 3px}}@media(min-width:1024px){.mw-parser-output #main-head{display:flex;align-items:stretch;padding:1.5em 2em}.mw-parser-output #main-head-left{flex:3;display:flex;flex-direction:column;justify-content:center}.mw-parser-output #main-head-left>h1{font-size:2em}.mw-parser-output #main-head-left>p:first-of-type{font-size:1.2em}.mw-parser-output #main-head-right{text-align:right;flex:2}.mw-parser-output #main-wrapper{display:flex;justify-content:space-between;align-items:stretch;margin:0 -.75rem}.mw-parser-output .main-column{flex:1;margin:0 .75rem}.mw-parser-output .main-block{margin-top:1.5rem;padding:1.25em 2em 1.5em}.mw-parser-output #main-bottom{margin-top:1.5rem;padding:1.5em 2em}}
+      </style>
+      <div id="main-top">
+       <div id="main-head">
+        <div id="main-head-left">
+         <h1>
+          <span id=".D0.9B.D0.B0.D1.81.D0.BA.D0.B0.D0.B2.D0.BE_.D0.BF.D1.80.D0.BE.D1.81.D0.B8.D0.BC.D0.BE_.D0.B4.D0.BE_.D0.92.D1.96.D0.BA.D1.96.D0.BF.D0.B5.D0.B4.D1.96.D1.97.2C">
+          </span>
+          <span class="mw-headline" id="Ласкаво_просимо_до_Вікіпедії,">
+           Ласкаво просимо до
+           <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Вікіпедія">
+            Вікіпедії
+           </a>
+           ,
+          </span>
+         </h1>
+         <p>
+          вільної енциклопедії, яку
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9B%D0%B0%D1%81%D0%BA%D0%B0%D0%B2%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D0%BC%D0%BE" title="Вікіпедія:Ласкаво просимо">
+           може редагувати кожен
+          </a>
+          .
+         </p>
+         <p>
+          <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F" title="Українська Вікіпедія">
+           Українська Вікіпедія
+          </a>
+          заснована
+          <a href="/wiki/30_%D1%81%D1%96%D1%87%D0%BD%D1%8F" title="30 січня">
+           30 січня
+          </a>
+          <a href="/wiki/2004" title="2004">
+           2004
+          </a>
+          року.
+         </p>
+        </div>
+        <div id="main-head-right">
+         <p>
+          четвер,
+          <a href="/wiki/30_%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8F" title="30 вересня">
+           30 вересня
+          </a>
+          <a href="/wiki/2021" title="2021">
+           2021
+          </a>
+          року
+         </p>
+         <p>
+          <b>
+           <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Спеціальна:Статистика">
+            1 116 132
+           </a>
+          </b>
+          статті
+          <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0" title="Українська мова">
+           українською
+          </a>
+         </p>
+         <p>
+          <b>
+           136 549
+          </b>
+          зареєстрованих дописувачів
+         </p>
+         <p>
+          <b>
+           2888
+          </b>
+          з них активні останнього місяця
+         </p>
+        </div>
+       </div>
+       <ul>
+        <li>
+         <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE" title="Вікіпедія:Про">
+          Про нас
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%AF%D0%BA_%D0%BE%D1%80%D1%96%D1%94%D0%BD%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D1%81%D1%8F_%D1%83_%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%97/1" title="Довідка:Як орієнтуватися у Вікіпедії/1">
+          Навігація
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%92%D0%BC%D1%96%D1%81%D1%82" title="Портал:Вміст">
+          Зміст
+         </a>
+        </li>
+        <li>
+         <b>
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9C%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80_%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Вікіпедія:Майстер створення статей">
+           Створити статтю
+          </a>
+         </b>
+        </li>
+        <li>
+         <a href="/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%A0%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%B0%D1%86%D1%96%D1%8F" title="Довідка:Реєстрація">
+          Реєстрація
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Вікіпедія:Довідка">
+          Довідка
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82" title="Вікіпедія:Вікіпроєкт">
+          Проєкти
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div id="main-wrapper">
+       <div class="main-column" id="main-left">
+        <div class="main-block" id="feat-article">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.92.D0.B8.D0.B1.D1.80.D0.B0.D0.BD.D0.B0_.D1.81.D1.82.D0.B0.D1.82.D1.82.D1.8F">
+           </span>
+           <span class="mw-headline" id="Вибрана_стаття">
+            Вибрана стаття
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B8_%D1%83_%D0%B2%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Кандидати у вибрані статті">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Вибрані статті">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0/%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F" title="Шаблон:Головна сторінка/Вибрана стаття">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <p>
+           <span style="margin:10px;box-shadow:0px 3px 4px rgba(0, 0, 0, 0.45);float:right;background:#ffffff">
+            <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Slawa.jpg" title="Загибель російського пре-дредноута «Слава» після морського бою біля Моонзундського архіпелагу. 17 жовтня 1917.">
+             <img alt="Загибель російського пре-дредноута «Слава» після морського бою біля Моонзундського архіпелагу. 17 жовтня 1917." data-file-height="383" data-file-width="567" decoding="async" height="108" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Slawa.jpg/160px-Slawa.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Slawa.jpg/240px-Slawa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Slawa.jpg/320px-Slawa.jpg 2x" width="160"/>
+            </a>
+           </span>
+           <b>
+            <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B0%D0%BB%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%BC%D0%BE%D1%80%D1%96_(1914%E2%80%941918)" title="Битва на Балтійському морі (1914—1918)">
+             Кампанія на Балтійському морі (1914—1918)
+            </a>
+           </b>
+           —
+           <a href="/wiki/%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D1%96_%D0%B4%D1%96%D1%97" title="Військові дії">
+            військові дії
+           </a>
+           флотів Антанти (Російської та Британської імперій) проти
+           <a href="/wiki/%D0%86%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D1%96_%D1%81%D0%B8%D0%BB%D0%B8_%D0%9D%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D0%B8" title="Імператорські військово-морські сили Німеччини">
+            військово-морських сил Німецької імперії
+           </a>
+           на морському просторі
+           <a href="/wiki/%D0%91%D0%B0%D0%BB%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Балтійське море">
+            Балтійського моря
+           </a>
+           в роки
+           <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%88%D0%B0_%D1%81%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B9%D0%BD%D0%B0" title="Перша світова війна">
+            Першої світової війни
+           </a>
+           . До початку воєнних дій російський
+           <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D0%BB%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%84%D0%BB%D0%BE%D1%82_(%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D1%8F)" title="Балтійський флот (Російська імперія)">
+            Балтійський флот
+           </a>
+           значно поступався німецькому кайзерівському флоту. Втім,
+           <a href="/wiki/%D0%86%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D1%96_%D1%81%D0%B8%D0%BB%D0%B8_%D0%9D%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D0%B8" title="Імператорські військово-морські сили Німеччини">
+            кайзерівський флот
+           </a>
+           для дій на Балтійському морі обмежився незначним угрупованням бойових кораблів. Протягом кампанії 1914 року російський Балтійський флот перейшов від пасивного очікування противника в гирлі
+           <a href="/wiki/%D0%A4%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%B7%D0%B0%D1%82%D0%BE%D0%BA%D0%B0" title="Фінська затока">
+            Фінської затоки
+           </a>
+           до активних дій на всій акваторії моря. У
+           <a href="/wiki/1915" title="1915">
+            1915
+           </a>
+           році німецький флот, зосереджуючи основні зусилля на підтримці своїх військ, що
+           <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%80%D0%B8%D0%B2" title="Горлицький прорив">
+            наступали
+           </a>
+           <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%B2%D1%96%D0%B4%D1%81%D1%82%D1%83%D0%BF_(1915)" title="Великий відступ (1915)">
+            вздовж Курляндського узбережжя
+           </a>
+           , перекинув з
+           <a href="/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Північне море">
+            Північного моря
+           </a>
+           до Балтики велике з'єднання лінійних кораблів, крейсерів і ескадрених міноносців. Слідом відбулись зіткнення російських та німецьких кораблів у
+           <a class="new" href="/w/index.php?title=%D0%93%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B1%D1%96%D0%B9&amp;action=edit&amp;redlink=1" title="Готландський бій (ще не написана)">
+            Готландському бою
+           </a>
+           та
+           <a class="new" href="/w/index.php?title=%D0%91%D1%96%D0%B9_%D1%83_%D0%A0%D0%B8%D0%B7%D1%8C%D0%BA%D1%96%D0%B9_%D0%B7%D0%B0%D1%82%D0%BE%D1%86%D1%96&amp;action=edit&amp;redlink=1" title="Бій у Ризькій затоці (ще не написана)">
+            бою в Ризькій затоці
+           </a>
+           . Невдала операція з прориву в Ризьку затоку змусила німців тимчасово відмовитися від активних боїв, натомість Балтійський флот скористався поліпшенням оперативної обстановки й розгорнув боротьбу на німецьких морських комунікаціях. До початку кампанії 1916 року німецьке верховне командування повернуло лінійні з'єднання флоту, що діяли на Балтиці, в
+           <a href="/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Північне море">
+            Північне море
+           </a>
+           . Але Балтійський флот росіян, попри виникнення величезної переваги над противником, жодних активних дій по суті не планував. Єдиним серйозним зіткненням став рейдовий наліт російських кораблів на німецький
+           <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%BE%D0%B9_%D1%81%D1%83%D0%B4%D0%B5%D0%BD" title="Конвой суден">
+            конвой
+           </a>
+           у шведській бухті
+           <a href="/wiki/%D0%9D%D0%BE%D1%80%D1%80%D1%87%D0%B5%D0%BF%D1%96%D0%BD%D0%B3" title="Норрчепінг">
+            Норрчепінг
+           </a>
+           у червні 1916 року, що завершився провалом. Кампанія 1917 року увінчалася повним успіхом німецького флоту. Російський флот продовжував перебувати в пасивному стані, а вирішальним фактором стало те, що в Російській імперії
+           <a href="/wiki/%D0%9B%D1%8E%D1%82%D0%BD%D0%B5%D0%B2%D0%B0_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F" title="Лютнева революція">
+            вибухнула гостра політична криза
+           </a>
+           . Втім, у вересні 1917 року після здобутої
+           <a href="/wiki/%D0%A0%D0%B8%D0%B7%D1%8C%D0%BA%D0%B0_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_(1917)" title="Ризька операція (1917)">
+            в Ризькій операції
+           </a>
+           перемоги німецьке командування провело
+           <a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F_%C2%AB%D0%90%D0%BB%D1%8C%D0%B1%D1%96%D0%BE%D0%BD%C2%BB" title="Операція «Альбіон»">
+            операцію «Альбіон»
+           </a>
+           з метою захоплення
+           <a href="/wiki/%D0%9C%D0%BE%D0%BE%D0%BD%D0%B7%D1%83%D0%BD%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D1%96%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3" title="Моонзундський архіпелаг">
+            Моонзундських островів
+           </a>
+           .
+          </p>
+         </div>
+         <div class="main-block-links">
+          <span class="plainlinks">
+           <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B0%D0%BB%D1%82%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%BC%D0%BE%D1%80%D1%96_(1914%E2%80%941918)" title="Битва на Балтійському морі (1914—1918)">
+            <span class="mw-ui-button" role="button">
+             Читати далі
+            </span>
+           </a>
+          </span>
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Вибрані статті">
+           Усі вибрані статті (227)
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="good-article">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.94.D0.BE.D0.B1.D1.80.D0.B0_.D1.81.D1.82.D0.B0.D1.82.D1.82.D1.8F">
+           </span>
+           <span class="mw-headline" id="Добра_стаття">
+            Добра стаття
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B8_%D1%83_%D0%B4%D0%BE%D0%B1%D1%80%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Кандидати у добрі статті">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Добрі статті">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0/%D0%94%D0%BE%D0%B1%D1%80%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F" title="Шаблон:Головна сторінка/Добра стаття">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <p>
+           <span style="margin:10px;box-shadow:0px 3px 4px rgba(0, 0, 0, 0.45);float:right;background:#ffffff">
+            <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Taras_Shevchenko_painting_0077.jpg" title="Малюнок Шевченка">
+             <img alt="Малюнок Шевченка" data-file-height="1868" data-file-width="1408" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Taras_Shevchenko_painting_0077.jpg/90px-Taras_Shevchenko_painting_0077.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Taras_Shevchenko_painting_0077.jpg/136px-Taras_Shevchenko_painting_0077.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Taras_Shevchenko_painting_0077.jpg/181px-Taras_Shevchenko_painting_0077.jpg 2x" width="90"/>
+            </a>
+           </span>
+           <b>
+            <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%B0%D0%BA-%D0%B1%D0%B0%D0%BD%D0%B4%D1%83%D1%80%D0%B8%D1%81%D1%82_(%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Козак-бандурист (Шевченко)">
+             «Козак-бандурист»
+            </a>
+           </b>
+           — втрачений малюнок авторства
+           <a href="/wiki/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Шевченко Тарас Григорович">
+            Тараса Шевченка
+           </a>
+           , знищений пожежею в маєтку
+           <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%BD%D1%96%D1%81%D1%82%D0%B8" title="Капністи">
+            Капністів
+           </a>
+           у 1919 році. Твір відомий завдяки двом збереженим фотокопіям. Один із найбільших малюнків художника, виконаних
+           <a href="/wiki/%D0%A1%D0%B5%D0%BF%D1%96%D1%8F" title="Сепія">
+            сепійною технікою
+           </a>
+           . Сюжетно малюнок пов'язаний із поемою
+           <a href="/wiki/%D0%9D%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_(%D0%BF%D0%BE%D0%B5%D0%BC%D0%B0)" title="Невольник (поема)">
+            «Невольник» («Сліпий»)
+           </a>
+           , а стилістично — з народними картинами із зображеннями
+           <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%B0%D0%BA_%D0%9C%D0%B0%D0%BC%D0%B0%D0%B9" title="Козак Мамай">
+            козака Мамая
+           </a>
+           .
+          </p>
+         </div>
+         <div class="main-block-links">
+          <span class="plainlinks">
+           <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%B0%D0%BA-%D0%B1%D0%B0%D0%BD%D0%B4%D1%83%D1%80%D0%B8%D1%81%D1%82_(%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Козак-бандурист (Шевченко)">
+            <span class="mw-ui-button" role="button">
+             Читати далі
+            </span>
+           </a>
+          </span>
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B1%D1%80%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Добрі статті">
+           Усі добрі статті (785)
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="feat-pic">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.92.D0.B8.D0.B1.D1.80.D0.B0.D0.BD.D0.B5_.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.BD.D1.8F">
+           </span>
+           <span class="mw-headline" id="Вибране_зображення">
+            Вибране зображення
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a class="extiw" href="https://commons.wikimedia.org/wiki/Commons:Featured_picture_candidates" title="commons:Commons:Featured picture candidates">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D0%B5_%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F" title="Вікіпедія:Проєкт:Вибране зображення">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/2021-09-30" title="Шаблон:Potd/2021-09-30">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <div class="center">
+           <div class="floatnone">
+            <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg">
+             <img alt="Wroclaw Most Mlynski w porannej mgle przed switem.jpg" data-file-height="2806" data-file-width="4548" decoding="async" height="308" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/500px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/750px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/1000px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 2x" width="500"/>
+            </a>
+           </div>
+          </div>
+          <center>
+           Млинський міст (Північний) через річку
+           <a href="/wiki/%D0%9E%D0%B4%D1%80%D0%B0" title="Одра">
+            Одра
+           </a>
+           , побудований у 1885 році, до сходу сонця.
+           <a href="/wiki/%D0%92%D1%80%D0%BE%D1%86%D0%BB%D0%B0%D0%B2" title="Вроцлав">
+            Вроцлав
+           </a>
+           , Польща.
+          </center>
+         </div>
+         <div class="main-block-links">
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%97%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B4%D0%BD%D1%8F" title="Вікіпедія:Зображення дня">
+           Галерея
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="feat-list">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.92.D0.B8.D0.B1.D1.80.D0.B0.D0.BD.D0.B8.D0.B9_.D1.81.D0.BF.D0.B8.D1.81.D0.BE.D0.BA">
+           </span>
+           <span class="mw-headline" id="Вибраний_список">
+            Вибраний список
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B8_%D1%83_%D0%B2%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Вікіпедія:Кандидати у вибрані списки">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Вікіпедія:Вибрані списки">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0/%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA" title="Шаблон:Головна сторінка/Вибраний список">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <p>
+           <span style="margin:10px;box-shadow:0px 3px 4px rgba(0, 0, 0, 0.45);float:right;background:#ffffff">
+            <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Prague_from_Powder_Tower_01.jpg" title="Балабан">
+             <img alt="Балабан" data-file-height="3646" data-file-width="5470" decoding="async" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Prague_from_Powder_Tower_01.jpg/200px-Prague_from_Powder_Tower_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Prague_from_Powder_Tower_01.jpg/300px-Prague_from_Powder_Tower_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Prague_from_Powder_Tower_01.jpg/400px-Prague_from_Powder_Tower_01.jpg 2x" width="200"/>
+            </a>
+           </span>
+           Станом на 2021 рік
+           <b>
+            <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%B1%27%D1%94%D0%BA%D1%82%D1%96%D0%B2_%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%BE%D1%97_%D1%81%D0%BF%D0%B0%D0%B4%D1%89%D0%B8%D0%BD%D0%B8_%D0%AE%D0%9D%D0%95%D0%A1%D0%9A%D0%9E_%D0%B2_%D0%A7%D0%B5%D1%85%D1%96%D1%97" title="Список об'єктів Світової спадщини ЮНЕСКО в Чехії">
+             на території Чехії розміщено 16 об'єктів Світової спадщини ЮНЕСКО
+            </a>
+           </b>
+           , що складає 1,38% від усієї кількості (1154) таких об'єктів у світі. Головною передумовою для внесення об'єкту до списку є ратифікація країною Конвенцію ЮНЕСКО про охорону всесвітньої культурної та природної спадщини. Будучи частиною
+           <a href="/wiki/%D0%A7%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%87%D1%87%D0%B8%D0%BD%D0%B0" title="Чехословаччина">
+            Чехословаччини
+           </a>
+           , Чехія підписала її ще в 1972 році, однак ратифікація відбулася лише 15 лютого 1991 року. Вже наступного року історичні центри
+           <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">
+            Праги
+           </a>
+           ,
+           <a href="/wiki/%D0%A7%D0%B5%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D1%83%D0%BC%D0%BB%D0%BE%D0%B2" title="Чеський Крумлов">
+            Чеського Крумлова
+           </a>
+           та
+           <a href="/wiki/%D0%A2%D0%B5%D0%BB%D1%8C%D1%87" title="Тельч">
+            Тельча
+           </a>
+           стали складовою Світової спадщини.
+          </p>
+         </div>
+         <div class="main-block-links">
+          <span class="plainlinks">
+           <a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D0%B1%27%D1%94%D0%BA%D1%82%D1%96%D0%B2_%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%BE%D1%97_%D1%81%D0%BF%D0%B0%D0%B4%D1%89%D0%B8%D0%BD%D0%B8_%D0%AE%D0%9D%D0%95%D0%A1%D0%9A%D0%9E_%D0%B2_%D0%A7%D0%B5%D1%85%D1%96%D1%97" title="Список об'єктів Світової спадщини ЮНЕСКО в Чехії">
+            <span class="mw-ui-button" role="button">
+             Читати далі
+            </span>
+           </a>
+          </span>
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Вікіпедія:Вибрані списки">
+           Усі вибрані списки (217)
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="topics">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.A0.D0.BE.D0.B7.D0.B4.D1.96.D0.BB.D0.B8">
+           </span>
+           <span class="mw-headline" id="Розділи">
+            Розділи
+           </span>
+          </h2>
+         </div>
+         <div class="main-block-content">
+          <div id="topics-list">
+           <ul>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%96%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%97" title="Портал:Біографії">
+              <img alt="Font Awesome 5 solid feather-alt.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Font_Awesome_5_solid_feather-alt.svg/25px-Font_Awesome_5_solid_feather-alt.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Font_Awesome_5_solid_feather-alt.svg/38px-Font_Awesome_5_solid_feather-alt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Font_Awesome_5_solid_feather-alt.svg/50px-Font_Awesome_5_solid_feather-alt.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%96%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%97" title="Портал:Біографії">
+              Біографії
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Портал:Географія">
+              <img alt="Font Awesome 5 solid globe.svg" data-file-height="529" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_globe.svg/24px-Font_Awesome_5_solid_globe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_globe.svg/37px-Font_Awesome_5_solid_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Font_Awesome_5_solid_globe.svg/48px-Font_Awesome_5_solid_globe.svg.png 2x" width="24"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F" title="Портал:Географія">
+              Географія
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F" title="Портал:Історія">
+              <img alt="Font Awesome 5 solid hourglass-half.svg" data-file-height="683" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Font_Awesome_5_solid_hourglass-half.svg/19px-Font_Awesome_5_solid_hourglass-half.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Font_Awesome_5_solid_hourglass-half.svg/28px-Font_Awesome_5_solid_hourglass-half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Font_Awesome_5_solid_hourglass-half.svg/37px-Font_Awesome_5_solid_hourglass-half.svg.png 2x" width="19"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F" title="Портал:Історія">
+              Історія
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%BE" title="Портал:Мистецтво">
+              <img alt="Font Awesome 5 solid palette.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Font_Awesome_5_solid_palette.svg/25px-Font_Awesome_5_solid_palette.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Font_Awesome_5_solid_palette.svg/38px-Font_Awesome_5_solid_palette.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Font_Awesome_5_solid_palette.svg/50px-Font_Awesome_5_solid_palette.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%BE" title="Портал:Мистецтво">
+              Мистецтво
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">
+              <img alt="Font Awesome 5 solid bong.svg" data-file-height="585" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Font_Awesome_5_solid_bong.svg/22px-Font_Awesome_5_solid_bong.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Font_Awesome_5_solid_bong.svg/33px-Font_Awesome_5_solid_bong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Font_Awesome_5_solid_bong.svg/44px-Font_Awesome_5_solid_bong.svg.png 2x" width="22"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Портал:Наука">
+              Наука
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Політологія">
+              <img alt="Font Awesome 5 solid flag.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Font_Awesome_5_solid_flag.svg/25px-Font_Awesome_5_solid_flag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Font_Awesome_5_solid_flag.svg/38px-Font_Awesome_5_solid_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Font_Awesome_5_solid_flag.svg/50px-Font_Awesome_5_solid_flag.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Політологія">
+              Політика
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%87%D1%96_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Портал:Природничі науки">
+              <img alt="Font Awesome 5 solid tree.svg" data-file-height="683" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Font_Awesome_5_solid_tree.svg/19px-Font_Awesome_5_solid_tree.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Font_Awesome_5_solid_tree.svg/28px-Font_Awesome_5_solid_tree.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Font_Awesome_5_solid_tree.svg/37px-Font_Awesome_5_solid_tree.svg.png 2x" width="19"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D1%87%D1%96_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Портал:Природничі науки">
+              Природа
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">
+              <img alt="Font Awesome 5 solid futbol.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Font_Awesome_5_solid_futbol.svg/25px-Font_Awesome_5_solid_futbol.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Font_Awesome_5_solid_futbol.svg/38px-Font_Awesome_5_solid_futbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Font_Awesome_5_solid_futbol.svg/50px-Font_Awesome_5_solid_futbol.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">
+              Спорт
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D1%86%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Соціологія">
+              <img alt="Font Awesome 5 solid users.svg" data-file-height="410" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Font_Awesome_5_solid_users.svg/31px-Font_Awesome_5_solid_users.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Font_Awesome_5_solid_users.svg/48px-Font_Awesome_5_solid_users.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Font_Awesome_5_solid_users.svg/63px-Font_Awesome_5_solid_users.svg.png 2x" width="31"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D1%86%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Соціологія">
+              Суспільство
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0" title="Портал:Техніка">
+              <img alt="Font Awesome 5 solid rocket.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Font_Awesome_5_solid_rocket.svg/25px-Font_Awesome_5_solid_rocket.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Font_Awesome_5_solid_rocket.svg/38px-Font_Awesome_5_solid_rocket.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Font_Awesome_5_solid_rocket.svg/50px-Font_Awesome_5_solid_rocket.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0" title="Портал:Техніка">
+              Технології
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0" title="Портал:Україна">
+              <img alt="Vlad1Trezub.svg" data-file-height="425" data-file-width="283" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vlad1Trezub.svg/16px-Vlad1Trezub.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vlad1Trezub.svg/25px-Vlad1Trezub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vlad1Trezub.svg/33px-Vlad1Trezub.svg.png 2x" width="16"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0" title="Портал:Україна">
+              Україна
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F" title="Портал:Філософія">
+              <img alt="Font Awesome 5 solid university.svg" data-file-height="512" data-file-width="512" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Font_Awesome_5_solid_university.svg/25px-Font_Awesome_5_solid_university.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Font_Awesome_5_solid_university.svg/38px-Font_Awesome_5_solid_university.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Font_Awesome_5_solid_university.svg/50px-Font_Awesome_5_solid_university.svg.png 2x" width="25"/>
+             </a>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F" title="Портал:Філософія">
+              Філософія
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="main-column" id="main-right">
+        <div class="main-block" id="news">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.9F.D0.BE.D1.82.D0.BE.D1.87.D0.BD.D1.96_.D0.BF.D0.BE.D0.B4.D1.96.D1.97">
+           </span>
+           <span class="mw-headline" id="Поточні_події">
+            Поточні події
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Вікіпедія:Проєкт:Поточні події">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%96_%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8" title="Шаблон:Останні новини">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <dl>
+           <dd>
+            <i>
+             <a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D1%96%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BD%D0%BE%D1%97_%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B8_2019" title="Пандемія коронавірусної хвороби 2019">
+              COVID-19 у світі
+             </a>
+             /
+             <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BD%D0%B0_%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B0_2019_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96" title="Коронавірусна хвороба 2019 в Україні">
+              в Україні
+             </a>
+            </i>
+            •
+            <i>
+             <a href="/wiki/%D0%92%D1%96%D0%B9%D0%BD%D0%B0_%D0%BD%D0%B0_%D1%81%D1%85%D0%BE%D0%B4%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8" title="Війна на сході України">
+              Війна на сході України
+             </a>
+            </i>
+           </dd>
+          </dl>
+          <div id="mp-itn-img" style="float:right;margin-left:0.5em;">
+           <div class="thumbinner mp-thumb" style="background: transparent; border: none; padding: 0; max-width: 120px;">
+            <a href="/wiki/%D0%A3%D1%81%D0%B8%D0%BA_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Олександр Усик">
+             <img alt="Олександр Усик" data-file-height="3264" data-file-width="4928" decoding="async" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Usyk_-_Knyazev_-_0412.jpg/120px-Usyk_-_Knyazev_-_0412.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Usyk_-_Knyazev_-_0412.jpg/180px-Usyk_-_Knyazev_-_0412.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Usyk_-_Knyazev_-_0412.jpg/240px-Usyk_-_Knyazev_-_0412.jpg 2x" width="120"/>
+            </a>
+           </div>
+          </div>
+          <ul>
+           <li>
+            <b>
+             <a href="/wiki/%D0%A3%D1%81%D0%B8%D0%BA_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Усик Олександр Олександрович">
+              Олександр Усик
+             </a>
+            </b>
+            <a href="/wiki/%D0%95%D0%BD%D1%82%D0%BE%D0%BD%D1%96_%D0%94%D0%B6%D0%BE%D1%88%D1%83%D0%B0_%E2%80%94_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A3%D1%81%D0%B8%D0%BA" title="Ентоні Джошуа — Олександр Усик">
+             переміг
+            </a>
+            <a href="/wiki/%D0%95%D0%BD%D1%82%D0%BE%D0%BD%D1%96_%D0%94%D0%B6%D0%BE%D1%88%D1%83%D0%B0" title="Ентоні Джошуа">
+             Ентоні Джошуа
+            </a>
+            та виграв титули чемпіона
+            <a href="/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D0%BA%D1%81%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%B0%D1%81%D0%BE%D1%86%D1%96%D0%B0%D1%86%D1%96%D1%8F" title="Світова боксерська асоціація">
+             WBA (Супер)
+            </a>
+            ,
+            <a href="/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0_%D0%B1%D0%BE%D0%BA%D1%81%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%8F" title="Міжнародна боксерська федерація">
+             IBF
+            </a>
+            ,
+            <a href="/wiki/%D0%A1%D0%B2%D1%96%D1%82%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D0%BA%D1%81%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%B0_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F" title="Світова боксерська організація">
+             WBO
+            </a>
+            та
+            <a href="/wiki/IBO" title="IBO">
+             IBO
+            </a>
+            у
+            <a href="/wiki/%D0%92%D0%B0%D0%B6%D0%BA%D0%B0_%D0%B2%D0%B0%D0%B3%D0%B0_%D0%B2_%D0%B1%D0%BE%D0%BA%D1%81%D1%96" title="Важка вага в боксі">
+             важкій вазі
+            </a>
+            <small>
+             <i>
+              (26 вересня, на фото)
+             </i>
+            </small>
+           </li>
+           <li>
+            Донецький
+            <b>
+             <a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B0%D1%80_(%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA)" title="Шахтар (Донецьк)">
+              «Шахтар»
+             </a>
+            </b>
+            став переможцем
+            <b>
+             <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%B7_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2021" title="Суперкубок України з футболу 2021">
+              Суперкубку України з футболу 2021
+             </a>
+            </b>
+            — у фіналі він переміг київське
+            <a href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE_(%D0%9A%D0%B8%D1%97%D0%B2)" title="Динамо (Київ)">
+             «Динамо»
+            </a>
+            <small>
+             <i>
+              (22 вересня)
+             </i>
+            </small>
+           </li>
+           <li>
+            Невідомі обстріляли автомобіль першого помічника Президента України Володимира Зеленського
+            <b>
+             <a href="/wiki/%D0%A8%D0%B5%D1%84%D1%96%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%9D%D0%B0%D1%85%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Шефір Сергій Нахманович">
+              Сергія Шефіра
+             </a>
+            </b>
+            , поранено водія
+            <small>
+             <i>
+              (22 вересня)
+             </i>
+            </small>
+           </li>
+           <li>
+            Акції китайського холдингу
+            <b>
+             <a href="/wiki/Evergrande_Group" title="Evergrande Group">
+              Evergrande Group
+             </a>
+            </b>
+            впали до мінімального за десятиліття рівня після повідомлення про борги на $305 млрд
+            <small>
+             <i>
+              (20 вересня)
+             </i>
+            </small>
+           </li>
+          </ul>
+         </div>
+         <div class="main-block-links">
+          <span class="plainlinks">
+           <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Портал:Поточні події">
+            <span class="mw-ui-button" role="button">
+             Інші новини
+            </span>
+           </a>
+          </span>
+          <a class="extiw" href="https://uk.wikinews.org/wiki/" title="n:">
+           Вікіновини
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="day-in-hist">
+         <div class="main-block-header">
+          <h2>
+           <span id="30_.D0.B2.D0.B5.D1.80.D0.B5.D1.81.D0.BD.D1.8F_.D0.B2_.D1.96.D1.81.D1.82.D0.BE.D1.80.D1.96.D1.97">
+           </span>
+           <span class="mw-headline" id="30_вересня_в_історії">
+            30 вересня в історії
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A6%D0%B5%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2_%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%97" title="Вікіпедія:Проєкт:Цей день в історії">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A6%D0%B5%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2_%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%97/30_%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8F" title="Вікіпедія:Проєкт:Цей день в історії/30 вересня">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <ul>
+           <li>
+            <a href="/wiki/1614" title="1614">
+             1614
+            </a>
+            — за козацько-польською угодою
+            <a href="/wiki/%D0%A0%D0%B5%D1%94%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5_%D0%BA%D0%BE%D0%B7%D0%B0%D1%86%D1%82%D0%B2%D0%BE" title="Реєстрове козацтво">
+             реєстрове козацтво
+            </a>
+            за щорічну плату в 10 тисяч злотих зобов'язувалося нести сторожову службу та жити лише в
+            <a href="/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D0%B6%D1%8F" title="Запорожжя">
+             Запоріжжі
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1659" title="1659">
+             1659
+            </a>
+            —
+            <a href="/wiki/%D0%9F%D1%96%D1%82%D0%B5%D1%80_%D0%A1%D1%82%D0%B0%D1%83%D0%B2%D0%B5%D1%81%D0%B0%D0%BD%D1%82" title="Пітер Стаувесант">
+             Пітер Стюйвесант
+            </a>
+            із
+            <a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%96_%D0%9D%D1%96%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8" title="Нові Нідерланди">
+             Нових Нідерландів
+            </a>
+            заборонив грати в
+            <a href="/wiki/%D0%A2%D0%B5%D0%BD%D1%96%D1%81" title="Теніс">
+             теніс
+            </a>
+            під час релігійних служб (перша згадка про теніс у США)
+           </li>
+           <li>
+            <a href="/wiki/1791" title="1791">
+             1791
+            </a>
+            —
+            <a href="/wiki/%D0%92%D1%96%D0%B4%D0%B5%D0%BD%D1%8C" title="Відень">
+             віденська
+            </a>
+            прем'єра
+            <a href="/wiki/%D0%A7%D0%B0%D1%80%D1%96%D0%B2%D0%BD%D0%B0_%D1%84%D0%BB%D0%B5%D0%B9%D1%82%D0%B0" title="Чарівна флейта">
+             останньої опери
+            </a>
+            <a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3_%D0%90%D0%BC%D0%B0%D0%B4%D0%B5%D0%B9_%D0%9C%D0%BE%D1%86%D0%B0%D1%80%D1%82" title="Вольфганг Амадей Моцарт">
+             Моцарта
+            </a>
+            <a href="/wiki/%D0%9C%D0%B5%D0%B4%D1%96%D0%B0:Mozart_-_Magic_Flute_Overture.ogg" title="Звук">
+             <img alt="Звук" data-file-height="20" data-file-width="20" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" width="11"/>
+            </a>
+            <span class="plainlinksneverexpand">
+             <a class="internal" href="//upload.wikimedia.org/wikipedia/commons/0/08/Mozart_-_Magic_Flute_Overture.ogg" title="Mozart - Magic Flute Overture.ogg">
+              «Чарівна флейта»
+             </a>
+            </span>
+           </li>
+           <li>
+            <a href="/wiki/1828" title="1828">
+             1828
+            </a>
+            — перша
+            <a href="/wiki/%D0%97%D0%B0%D0%BB%D1%96%D0%B7%D0%BD%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Залізничний транспорт">
+             залізниця
+            </a>
+            (
+            <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%B0" title="Конка">
+             конка
+            </a>
+            ) в
+            <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%84%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Континентальна Європа">
+             континентальній Європі
+            </a>
+            відкрилася за маршрутом
+            <a href="/wiki/%D0%A7%D0%B5%D1%81%D1%8C%D0%BA%D1%96_%D0%91%D1%83%D0%B4%D0%B5%D0%B9%D0%BE%D0%B2%D0%B8%D1%86%D1%96" title="Чеські Будейовиці">
+             Чеські Будейовиці
+            </a>
+            —
+            <a href="/wiki/%D0%9B%D1%96%D0%BD%D1%86" title="Лінц">
+             Лінц
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1846" title="1846">
+             1846
+            </a>
+            — американський стоматолог
+            <a href="/wiki/%D0%92%D1%96%D0%BB%D1%8C%D1%8F%D0%BC_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%93%D1%80%D1%96%D0%BD_%D0%9C%D0%BE%D1%80%D1%82%D0%BE%D0%BD" title="Вільям Томас Грін Мортон">
+             Вільям Мортон
+            </a>
+            уперше застосував інгаляційний
+            <a href="/wiki/%D0%94%D1%96%D0%B5%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B5%D1%82%D0%B5%D1%80" title="Діетиловий етер">
+             етер
+            </a>
+            як
+            <a href="/wiki/%D0%90%D0%BD%D0%B5%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B8" title="Анестетики">
+             знеболювальний засіб
+            </a>
+            при
+            <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D1%83%D0%B1%D0%B0&amp;action=edit&amp;redlink=1" title="Видалення зуба (ще не написана)">
+             видаленні зуба
+            </a>
+            <sup class="noprint">
+             <a class="extiw" href="https://en.wikipedia.org/wiki/Dental_extraction" title="en:Dental extraction">
+              <span style="font-style:normal;font-weight:normal;font-size:normal" title="Dental extraction — версія статті «Видалення зуба» англійською мовою">
+               [en]
+              </span>
+             </a>
+            </sup>
+           </li>
+           <li>
+            <a href="/wiki/1882" title="1882">
+             1882
+            </a>
+            — в
+            <a href="/wiki/%D0%95%D0%BF%D0%BF%D0%BB%D1%82%D0%BE%D0%BD_(%D0%92%D1%96%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D0%B8%D0%BD)" title="Епплтон (Вісконсин)">
+             Епплтоні
+            </a>
+            (
+            <a href="/wiki/%D0%92%D1%96%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D0%B8%D0%BD" title="Вісконсин">
+             Вісконсин
+            </a>
+            , США) запрацювала перша в світі
+            <a href="/wiki/%D0%93%D1%96%D0%B4%D1%80%D0%BE%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F" title="Гідроелектростанція">
+             гідроелектростанція
+            </a>
+            , що обслуговувала споживачів. Генератори
+            <a href="/wiki/%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%90%D0%BB%D0%B2%D0%B0_%D0%95%D0%B4%D1%96%D1%81%D0%BE%D0%BD" title="Томас Алва Едісон">
+             Едісона
+            </a>
+            мали
+            <a href="/wiki/%D0%92%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BF%D0%BE%D1%82%D1%83%D0%B6%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Встановлена потужність">
+             встановлену потужність
+            </a>
+            12,5
+            <a href="/wiki/%D0%92%D0%B0%D1%82" title="Ват">
+             кВт
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1933" title="1933">
+             1933
+            </a>
+            — радянський
+            <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%81%D1%82%D0%B0%D1%82" title="Стратостат">
+             стратостат
+            </a>
+            «СССР-1» здійснив рекордний підйом на висоту 19 км
+           </li>
+          </ul>
+          <div class="floatright">
+           <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bundesarchiv_Bild_183-R69173,_M%C3%BCnchener_Abkommen,_Staatschefs.jpg" title="Чемберлен, Даладьє, Гітлер, Муссоліні, Ріббентроп та інші напередодні підписання Мюнхенської угоди. 29 вересня 1938">
+            <img alt="Чемберлен, Даладьє, Гітлер, Муссоліні, Ріббентроп та інші напередодні підписання Мюнхенської угоди. 29 вересня 1938" data-file-height="548" data-file-width="800" decoding="async" height="72" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg/105px-Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg/158px-Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg/210px-Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg 2x" width="105"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/1938" title="1938">
+             1938
+            </a>
+            —
+            <a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%83%D0%B3%D0%BE%D0%B4%D0%B0" title="Мюнхенська угода">
+             «Мюнхенська змова»
+            </a>
+            : між
+            <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%96%D1%8F" title="Велика Британія">
+             Великою Британією
+            </a>
+            ,
+            <a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8F_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%8C%D0%BA%D0%B0_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0" title="Третя французька республіка">
+             Францією
+            </a>
+            ,
+            <a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%96%D0%B9_%D0%A0%D0%B5%D0%B9%D1%85" title="Третій Рейх">
+             Третім Рейхом
+            </a>
+            та
+            <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%96%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%86%D1%82%D0%B0%D0%BB%D1%96%D1%8F_(1861%E2%80%941946)" title="Королівство Італія (1861—1946)">
+             фашистською Італією
+            </a>
+            укладено угоду, що передбачала територіальні відторгнення від
+            <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%88%D0%B0_%D0%A7%D0%B5%D1%85%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%86%D1%8C%D0%BA%D0%B0_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0" title="Перша Чехословацька Республіка">
+             Чехословаччини
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1941" title="1941">
+             1941
+            </a>
+            — почалася
+            <a href="/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B7%D0%B0_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83" title="Битва за Москву">
+             битва за Москву
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1980" title="1980">
+             1980
+            </a>
+            — опубліковано першу
+            <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Специфікація">
+             специфікацію
+            </a>
+            <a href="/wiki/Ethernet" title="Ethernet">
+             Ethernet
+            </a>
+            , що розроблявся
+            <a href="/wiki/PARC" title="PARC">
+             Xerox PARC
+            </a>
+            з 1973
+           </li>
+           <li>
+            <a href="/wiki/1994" title="1994">
+             1994
+            </a>
+            — на
+            <a href="/wiki/%D0%9D%D1%8C%D1%8E%D1%84%D0%B0%D1%83%D0%BD%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4" title="Ньюфаундленд">
+             Ньюфаундленді
+            </a>
+            закрита остання в
+            <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">
+             Канаді
+            </a>
+            військова база
+            <a href="/wiki/%D0%A1%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D1%96_%D0%A8%D1%82%D0%B0%D1%82%D0%B8_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Сполучені Штати Америки">
+             США
+            </a>
+            <i>
+             Naval Station Argentia
+            </i>
+           </li>
+          </ul>
+          <p>
+           <b>
+            Народилися
+           </b>
+          </p>
+          <ul>
+           <li>
+            <a href="/wiki/1715" title="1715">
+             1715
+            </a>
+            —
+            <a href="/wiki/%D0%95%D1%82%D1%8C%D1%94%D0%BD_%D0%91%D0%BE%D0%BD%D0%BD%D0%BE_%D0%B4%D0%B5_%D0%9A%D0%BE%D0%BD%D0%B4%D1%96%D0%BB%D1%8C%D1%8F%D0%BA" title="Етьєн Бонно де Кондільяк">
+             Етьєн Бонно де Кондільяк
+            </a>
+            ,
+            <a href="/wiki/%D0%90%D0%B1%D0%B0%D1%82" title="Абат">
+             абат
+            </a>
+            , французький
+            <a href="/wiki/%D0%A4%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84" title="Філософ">
+             філософ
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1871" title="1871">
+             1871
+            </a>
+            —
+            <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D0%B2%D0%B8%D1%87_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%96%D0%B9_%D0%9C%D0%B8%D0%BA%D0%B8%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Кузневич Григорій Микитович">
+             Григорій Кузневич
+            </a>
+            , український скульптор-монументаліст
+           </li>
+           <li>
+            <a href="/wiki/1905" title="1905">
+             1905
+            </a>
+            —
+            <a href="/wiki/%D0%9D%D0%B5%D0%B2%D1%96%D0%BB%D0%BB_%D0%A4%D1%80%D0%B5%D0%BD%D1%81%D1%96%D1%81_%D0%9C%D0%BE%D1%82%D1%82" title="Невілл Френсіс Мотт">
+             Невілл Френсіс Мотт
+            </a>
+            , англійський фізик, лавреат
+            <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BF%D1%80%D0%B5%D0%BC%D1%96%D1%8F_%D0%B7_%D1%84%D1%96%D0%B7%D0%B8%D0%BA%D0%B8" title="Нобелівська премія з фізики">
+             Нобелівської премії
+            </a>
+            <a href="/wiki/1977" title="1977">
+             1977
+            </a>
+            року
+           </li>
+          </ul>
+          <div class="floatright">
+           <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:BELLUCCI_Monica-24x30-2008_(2).jpg" title="Моніка Беллуччі (2008)">
+            <img alt="Моніка Беллуччі (2008)" data-file-height="735" data-file-width="591" decoding="async" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/BELLUCCI_Monica-24x30-2008_%282%29.jpg/70px-BELLUCCI_Monica-24x30-2008_%282%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/BELLUCCI_Monica-24x30-2008_%282%29.jpg/105px-BELLUCCI_Monica-24x30-2008_%282%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/BELLUCCI_Monica-24x30-2008_%282%29.jpg/140px-BELLUCCI_Monica-24x30-2008_%282%29.jpg 2x" width="70"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/1964" title="1964">
+             1964
+            </a>
+            —
+            <a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%96%D0%BA%D0%B0_%D0%91%D0%B5%D0%BB%D0%BB%D1%83%D1%87%D1%87%D1%96" title="Моніка Беллуччі">
+             Моніка Беллуччі
+            </a>
+            , італійська акторка, модель
+           </li>
+           <li>
+            <a href="/wiki/1971" title="1971">
+             1971
+            </a>
+            —
+            <a href="/wiki/%D0%AF%D1%80%D0%BE%D1%88_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87" title="Ярош Дмитро Анатолійович">
+             Дмитро Ярош
+            </a>
+            , громадсько-політичний та військовий діяч, засновник
+            <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%B9_%D1%81%D0%B5%D0%BA%D1%82%D0%BE%D1%80" title="Правий сектор">
+             «Правого сектору»
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/1980" title="1980">
+             1980
+            </a>
+            —
+            <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D1%96%D0%BD%D0%B0_%D0%A5%D1%96%D0%BD%D0%B3%D1%96%D1%81" title="Мартіна Хінгіс">
+             Мартіна Хінгіс
+            </a>
+            , швейцарська тенісистка, перша ракетка світу (1997, 1999, 2000)
+           </li>
+          </ul>
+          <p>
+           <b>
+            Померли
+           </b>
+          </p>
+          <ul>
+           <li>
+            <a href="/wiki/1566" title="1566">
+             1566
+            </a>
+            —
+            <a href="/wiki/%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD_I_%D0%9F%D0%B8%D1%88%D0%BD%D0%B8%D0%B9" title="Сулейман I Пишний">
+             Сулейман I Пишний
+            </a>
+            , турецький султан
+           </li>
+           <li>
+            <a href="/wiki/1626" title="1626">
+             1626
+            </a>
+            —
+            <a href="/wiki/%D0%9D%D1%83%D1%80%D1%85%D0%B0%D1%86%D1%96" title="Нурхаці">
+             Нурхаці
+            </a>
+            , засновник маньчжурської династії
+            <a href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D1%96%D1%8F_%D0%9F%D1%96%D0%B7%D0%BD%D1%8F_%D0%A6%D0%B7%D1%96%D0%BD%D1%8C" title="Династія Пізня Цзінь">
+             Пізня Цзінь
+            </a>
+            роду
+            <a href="/wiki/%D0%90%D0%B9%D1%81%D1%96%D0%BD_%D2%90%D1%8C%D0%BE%D1%80%D0%BE" title="Айсін Ґьоро">
+             Айсін Ґьоро
+            </a>
+           </li>
+          </ul>
+          <div class="floatright">
+           <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:James_Dean_1955.jpg" title="Джеймс Дін (1955)">
+            <img alt="Джеймс Дін (1955)" data-file-height="680" data-file-width="634" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/James_Dean_1955.jpg/75px-James_Dean_1955.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/James_Dean_1955.jpg/113px-James_Dean_1955.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/James_Dean_1955.jpg/150px-James_Dean_1955.jpg 2x" width="75"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/1955" title="1955">
+             1955
+            </a>
+            —
+            <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%94%D1%96%D0%BD" title="Джеймс Дін">
+             Джеймс Дін
+            </a>
+            , американський кіноактор
+           </li>
+           <li>
+            <a href="/wiki/1990" title="1990">
+             1990
+            </a>
+            —
+            <a href="/wiki/%D0%9F%D0%B0%D1%82%D1%80%D1%96%D0%BA_%D0%92%D0%B0%D0%B9%D1%82" title="Патрік Вайт">
+             Патрік Вайт
+            </a>
+            , австралійський письменник. Лауреат Нобелівської премії з літератури (1973)
+           </li>
+           <li>
+            <a href="/wiki/1994" title="1994">
+             1994
+            </a>
+            —
+            <a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%95%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%BE_%D0%92%D1%96%D0%BE%D0%BB%D0%B0" title="Роберто Едуардо Віола">
+             Роберто Едуардо Віола
+            </a>
+            , аргентинський військовий,
+            <a href="/wiki/%D0%94%D0%B5-%D1%84%D0%B0%D0%BA%D1%82%D0%BE" title="Де-факто">
+             де-факто
+            </a>
+            президент
+            <a href="/wiki/%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0" title="Аргентина">
+             Аргентини
+            </a>
+            (1981)
+           </li>
+           <li>
+            <a href="/wiki/1994" title="1994">
+             1994
+            </a>
+            —
+            <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2" title="Андре Львов">
+             Андре Львов
+            </a>
+            , французький мікробіолог, лавреат Нобелівської премії з фізіології і медицини (1965)
+           </li>
+          </ul>
+         </div>
+         <div class="main-block-links">
+          <span class="plainlinks">
+           <a href="/wiki/30_%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8F" title="30 вересня">
+            <span class="mw-ui-button" role="button">
+             Докладніше
+            </span>
+           </a>
+          </span>
+          <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:SelectedAnnivBar" title="Шаблон:SelectedAnnivBar">
+           Архів
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="do-you-know">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.A6.D1.96.D0.BA.D0.B0.D0.B2.D0.B8.D0.BD.D0.BA.D0.B8">
+           </span>
+           <span class="mw-headline" id="Цікавинки">
+            Цікавинки
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A7%D0%B8_%D0%B2%D0%B8_%D0%B7%D0%BD%D0%B0%D1%94%D1%82%D0%B5/%D0%9F%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B8%D0%BF%D1%83%D1%81%D0%BA%D1%83" title="Вікіпедія:Проєкт:Чи ви знаєте/Підготовка наступного випуску">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A7%D0%B8_%D0%B2%D0%B8_%D0%B7%D0%BD%D0%B0%D1%94%D1%82%D0%B5" title="Вікіпедія:Проєкт:Чи ви знаєте">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A7%D0%B8_%D0%B7%D0%BD%D0%B0%D1%94%D1%82%D0%B5_%D0%B2%D0%B8,_%D1%89%D0%BE" title="Шаблон:Чи знаєте ви, що">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <div class="floatright">
+           <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_(%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88).jpg" title="Портрет Лесі Українки">
+            <img alt="Портрет Лесі Українки" data-file-height="4573" data-file-width="3430" decoding="async" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg/100px-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg/150px-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg/200px-%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8_%28%D0%86%D0%B2%D0%B0%D0%BD_%D0%A2%D1%80%D1%83%D1%88%29.jpg 2x" width="100"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/%D0%9B%D0%B5%D1%81%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B0" title="Леся Українка">
+             Леся Українка
+            </a>
+            , дізнавшись, що зробив з її
+            <b>
+             <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9B%D0%B5%D1%81%D1%96_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8" title="Портрет Лесі Українки">
+              портретом
+             </a>
+            </b>
+            <a href="/wiki/%D0%A2%D1%80%D1%83%D1%88_%D0%86%D0%B2%D0%B0%D0%BD_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Труш Іван Іванович">
+             видатний український художник
+            </a>
+            , розірвала стосунки і з ним, і зі своєю
+            <a href="/wiki/%D0%A2%D1%80%D1%83%D1%88_%D0%90%D1%80%D1%96%D0%B0%D0%B4%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D1%96%D0%B2%D0%BD%D0%B0" title="Труш Аріадна Михайлівна">
+             близькою подругою
+            </a>
+            .
+           </li>
+           <li>
+            У Бразилії зняли
+            <b>
+             <a href="/wiki/%D0%91%D0%B5%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%96" title="Бездушні">
+              містичний серіал
+             </a>
+            </b>
+            на основі української міфології.
+           </li>
+           <li>
+            Першим загинув наймолодший з
+            <a href="/wiki/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%B7%D0%B0%D0%B3%D1%96%D0%BD_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D1%96%D0%B2_%D0%A1%D0%A0%D0%A1%D0%A0" title="Перший загін космонавтів СРСР">
+             першого загону радянських космонавтів
+            </a>
+            — 24-річний уродженець Харкова
+            <b>
+             <a href="/wiki/%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D1%87" title="Бондаренко Валентин Васильович">
+              Валентин Бондаренко
+             </a>
+            </b>
+            .
+           </li>
+          </ul>
+          <div class="floatright">
+           <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:GAX-447.jpg" title="Повсякденності. Фрагмент від 12 грудня 2015">
+            <img alt="Повсякденності. Фрагмент від 12 грудня 2015" data-file-height="1500" data-file-width="1500" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GAX-447.jpg/100px-GAX-447.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GAX-447.jpg/150px-GAX-447.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GAX-447.jpg/200px-GAX-447.jpg 2x" width="100"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <b>
+             <a href="/wiki/%D0%9F%D0%BE%D0%B2%D1%81%D1%8F%D0%BA%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%96._%D0%9F%D0%B5%D1%80%D1%88%D1%96_5000_%D0%B4%D0%BD%D1%96%D0%B2" title="Повсякденності. Перші 5000 днів">
+              Цифрове зображення у форматі jpeg
+             </a>
+            </b>
+            <a href="/wiki/%D0%9C%D0%B0%D0%B9%D0%BA_%D0%92%D1%96%D0%BD%D0%BA%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD" title="Майк Вінкельман">
+             американського художника
+            </a>
+            , яке доступно для безкоштовного перегляду, придбали за понад 69 мільйонів доларів США.
+           </li>
+           <li>
+            Сніг не тане, а майже одразу випаровується завдяки діяльності
+            <b>
+             <a href="/wiki/%D0%A7%D0%B8%D0%BD%D1%83%D0%BA_(%D0%B2%D1%96%D1%82%D0%B5%D1%80)" title="Чинук (вітер)">
+              пожирача снігу
+             </a>
+            </b>
+            .
+           </li>
+           <li>
+            <b>
+             <a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%A1%D1%82%D1%80%D0%B0%D1%83%D0%B4" title="Роберт Страуд">
+              Злочинець, що 54 роки провів в ув'язненні
+             </a>
+            </b>
+            , зумів стати досить відомим фахівцем із хвороб птахів та видати дві книги.
+           </li>
+           <li>
+            <b>
+             <a href="/wiki/%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80_%D0%9B%D1%8E%D1%81%D1%82%D0%B8%D0%B3" title="Віктор Люстиг">
+              Людина, що двічі продала Ейфелеву вежу
+             </a>
+            </b>
+            , зуміла ошукати й самого
+            <a href="/wiki/%D0%90%D0%BB%D1%8C_%D0%9A%D0%B0%D0%BF%D0%BE%D0%BD%D0%B5" title="Аль Капоне">
+             Аль Капоне
+            </a>
+            .
+           </li>
+           <li>
+            Поема
+            <a href="/wiki/%D0%9B%D1%83%D1%87%D1%83%D0%BA_%D0%86%D0%B2%D0%B0%D0%BD_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Лучук Іван Володимирович">
+             Івана Лучука
+            </a>
+            «Епос і нині сопе» у його збірці «Паліндромони» — це найдовший в українській літературі
+            <b>
+             <a href="/wiki/%D0%9F%D0%B0%D0%BB%D1%96%D0%BD%D0%B4%D1%80%D0%BE%D0%BC" title="Паліндром">
+              паліндром
+             </a>
+            </b>
+            на 3333 знаки.
+           </li>
+          </ul>
+          <div style="clear:both;">
+          </div>
+         </div>
+         <div class="main-block-links">
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A7%D0%B8_%D0%B2%D0%B8_%D0%B7%D0%BD%D0%B0%D1%94%D1%82%D0%B5/%D0%90%D1%80%D1%85%D1%96%D0%B2_%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8" title="Вікіпедія:Проєкт:Чи ви знаєте/Архів рубрики">
+           Архів
+          </a>
+         </div>
+        </div>
+        <div class="main-block" id="week-collab">
+         <div class="main-block-header">
+          <h2>
+           <span id=".D0.92.D1.96.D0.BA.D1.96.D1.82.D0.B8.D0.B6.D0.B4.D0.B5.D0.BD.D1.8C">
+           </span>
+           <span class="mw-headline" id="Вікітиждень">
+            Вікітиждень
+           </span>
+          </h2>
+          <div class="main-block-menu mw-collapsible mw-collapsed">
+           <div class="main-block-menuToggle mw-collapsible-toggle mw-collapsible-toggle-collapsed">
+            <img alt="Додаткові дії" data-file-height="20" data-file-width="20" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" title="Додаткові дії" width="20"/>
+           </div>
+           <div class="main-block-menuDropdown mw-collapsible-content">
+            <ul>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%9F%D1%80%D0%BE%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D1%97" title="Вікіпедія:Проєкт:Тематичний тиждень/Пропозиції">
+               Пропозиції
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C" title="Вікіпедія:Проєкт:Тематичний тиждень">
+               Проєкт
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D0%BA%D1%96%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B4%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B8%D1%81%D1%8F" title="Шаблон:Поточний вікітиждень долучитися">
+               Шаблон
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="main-block-content">
+          <p>
+           Завершується
+           <b>
+            <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%A2%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F" title="Вікіпедія:Проєкт:Тематичний тиждень/Тиждень Карибського моря">
+             Тиждень Карибського моря
+            </a>
+           </b>
+           , розпочалася
+           <b>
+            <a class="mw-redirect" href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%BE%D1%81%D1%96%D0%BD%D1%8C_2021" title="Вікіпедія:Проект:Тематичний тиждень/Фантастична осінь 2021">
+             Фантастична осінь 2021
+            </a>
+           </b>
+          </p>
+         </div>
+         <div class="main-block-links">
+          <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D1%94%D0%BA%D1%82:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9_%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C/%D0%9F%D1%80%D0%B8%D0%B9%D0%BD%D1%8F%D1%82%D1%82%D1%8F_%D0%BF%D1%80%D0%BE%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D1%96%D0%B9/2021" title="Вікіпедія:Проєкт:Тематичний тиждень/Прийняття пропозицій/2021">
+           Календар
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="main-bottom">
+       <h2>
+        <span id=".D0.92.D1.96.D0.BA.D1.96.D0.BF.D0.B5.D0.B4.D1.96.D1.8F_.D1.94_.D0.BF.D1.80.D0.BE.D1.94.D0.BA.D1.82.D0.BE.D0.BC_.D0.A4.D0.BE.D0.BD.D0.B4.D1.83_.D0.92.D1.96.D0.BA.D1.96.D0.BC.D0.B5.D0.B4.D1.96.D0.B0_.E2.80.94_.D0.BD.D0.B5.D0.BF.D1.80.D0.B8.D0.B1.D1.83.D1.82.D0.BA.D0.BE.D0.B2.D0.BE.D1.97_.D0.BE.D1.80.D0.B3.D0.B0.D0.BD.D1.96.D0.B7.D0.B0.D1.86.D1.96.D1.97.2C_.D1.8F.D0.BA.D0.B0_.D0.BE.D0.BF.D1.96.D0.BA.D1.83.D1.94.D1.82.D1.8C.D1.81.D1.8F_.D0.BD.D0.B8.D0.B7.D0.BA.D0.BE.D1.8E_.D1.96.D0.BD.D1.88.D0.B8.D1.85_.D0.BF.D1.80.D0.BE.D1.94.D0.BA.D1.82.D1.96.D0.B2">
+        </span>
+        <span class="mw-headline" id="Вікіпедія_є_проєктом_Фонду_Вікімедіа_—_неприбуткової_організації,_яка_опікується_низкою_інших_проєктів">
+         Вікіпедія є проєктом
+         <div class="logo-link">
+          <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B5%D0%B4%D1%96%D0%B0" title="Фонд Вікімедіа">
+           <img alt="Wikimedia-logo black.svg" data-file-height="512" data-file-width="512" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/30px-Wikimedia-logo_black.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/45px-Wikimedia-logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png 2x" width="30"/>
+          </a>
+          <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B5%D0%B4%D1%96%D0%B0" title="Фонд Вікімедіа">
+           Фонду Вікімедіа
+          </a>
+         </div>
+         — неприбуткової організації, яка опікується низкою інших проєктів
+        </span>
+       </h2>
+       <ul>
+        <li>
+         <a href="https://uk.wiktionary.org/wiki/" title="wikt:">
+          <img alt="Notification-icon-Wiktionary-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/30px-Notification-icon-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/45px-Notification-icon-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/60px-Notification-icon-Wiktionary-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wiktionary.org/wiki/" title="wikt:">
+          Вікісловник
+         </a>
+        </li>
+        <li>
+         <a href="https://uk.wikiquote.org/wiki/" title="q:">
+          <img alt="Notification-icon-Wikiquote.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/30px-Notification-icon-Wikiquote.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/45px-Notification-icon-Wikiquote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/60px-Notification-icon-Wikiquote.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wikiquote.org/wiki/" title="q:">
+          Вікіцитати
+         </a>
+        </li>
+        <li>
+         <a href="https://uk.wikibooks.org/wiki/" title="b:">
+          <img alt="Notification-icon-Wikibooks-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/30px-Notification-icon-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/45px-Notification-icon-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/60px-Notification-icon-Wikibooks-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wikibooks.org/wiki/" title="b:">
+          Вікіпідручник
+         </a>
+        </li>
+        <li>
+         <a href="https://uk.wikisource.org/wiki/" title="s:">
+          <img alt="Notification-icon-Wikisource-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/30px-Notification-icon-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/45px-Notification-icon-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/60px-Notification-icon-Wikisource-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wikisource.org/wiki/" title="s:">
+          Вікіджерела
+         </a>
+        </li>
+        <li>
+         <a href="https://uk.wikinews.org/wiki/" title="n:">
+          <img alt="Notification-icon-Wikinews-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/30px-Notification-icon-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/45px-Notification-icon-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/60px-Notification-icon-Wikinews-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wikinews.org/wiki/" title="n:">
+          Вікіновини
+         </a>
+        </li>
+        <li>
+         <a href="https://beta.wikiversity.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="betawikiversity:Головна сторінка">
+          <img alt="Notification-icon-Wikiversity-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/30px-Notification-icon-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/45px-Notification-icon-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/60px-Notification-icon-Wikiversity-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://beta.wikiversity.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="betawikiversity:Головна сторінка">
+          Віківерситет
+         </a>
+        </li>
+        <li>
+         <a href="https://species.wikimedia.org/wiki/" title="species:">
+          <img alt="Notification-icon-Wikispecies-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/30px-Notification-icon-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/45px-Notification-icon-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/60px-Notification-icon-Wikispecies-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://species.wikimedia.org/wiki/" title="species:">
+          Віківиди
+         </a>
+        </li>
+        <li>
+         <a href="https://www.mediawiki.org/wiki/" title="mw:">
+          <img alt="MediaWiki-2020-icon.svg" data-file-height="100" data-file-width="100" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/30px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/45px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/60px-MediaWiki-2020-icon.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://www.mediawiki.org/wiki/" title="mw:">
+          MediaWiki
+         </a>
+        </li>
+        <li>
+         <a href="https://www.wikidata.org/wiki/" title="d:">
+          <img alt="Notification-icon-Wikidata-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/30px-Notification-icon-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/45px-Notification-icon-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/60px-Notification-icon-Wikidata-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">
+          Вікідані
+         </a>
+        </li>
+        <li>
+         <a href="https://commons.wikimedia.org/wiki/" title="c:">
+          <img alt="Notification-icon-Commons-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/30px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/45px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/60px-Notification-icon-Commons-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://commons.wikimedia.org/wiki/" title="c:">
+          Вікісховище
+         </a>
+        </li>
+        <li>
+         <a href="https://uk.wikivoyage.org/wiki/" title="voy:">
+          <img alt="Notification-icon-Wikivoyage-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/30px-Notification-icon-Wikivoyage-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/45px-Notification-icon-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/60px-Notification-icon-Wikivoyage-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://uk.wikivoyage.org/wiki/" title="voy:">
+          Вікімандри
+         </a>
+        </li>
+        <li>
+         <a href="https://meta.wikimedia.org/wiki/" title="m:">
+          <img alt="Notification-icon-Meta-logo.svg" data-file-height="30" data-file-width="30" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/30px-Notification-icon-Meta-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/45px-Notification-icon-Meta-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/60px-Notification-icon-Meta-logo.svg.png 2x" width="30"/>
+         </a>
+         <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+          Мета-вікі
+         </a>
+        </li>
+       </ul>
+       <h3>
+        <span id=".D0.92.D1.96.D0.BA.D1.96.D0.BC.D0.B5.D0.B4.D1.96.D0.B0_.D0.A3.D0.BA.D1.80.D0.B0.D1.97.D0.BD.D0.B0_.D1.94_.D1.80.D0.B5.D0.B3.D1.96.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.B8.D0.BC_.D0.B2.D1.96.D0.B4.D0.B4.D1.96.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F.D0.BC_.D0.A4.D0.BE.D0.BD.D0.B4.D1.83_.D0.92.D1.96.D0.BA.D1.96.D0.BC.D0.B5.D0.B4.D1.96.D0.B0">
+        </span>
+        <span class="mw-headline" id="Вікімедіа_Україна_є_регіональним_відділенням_Фонду_Вікімедіа">
+         <div class="logo-link">
+          <a href="https://ua.wikimedia.org/wiki/" title="wmua:">
+           <img alt="Wikimedia-logo.svg" data-file-height="1024" data-file-width="1024" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/25px-Wikimedia-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/38px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/50px-Wikimedia-logo.svg.png 2x" width="25"/>
+          </a>
+          <a class="extiw" href="https://ua.wikimedia.org/wiki/" title="wmua:">
+           Вікімедіа Україна
+          </a>
+         </div>
+         є регіональним відділенням Фонду Вікімедіа
+        </span>
+       </h3>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1409
+Cached time: 20210930091527
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.399 seconds
+Real time usage: 0.512 seconds
+Preprocessor visited node count: 959/1000000
+Post‐expand include size: 77100/2097152 bytes
+Template argument size: 29355/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5498/5000000 bytes
+Lua time usage: 0.042/10.000 seconds
+Lua memory usage: 1511114/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  232.958      1 -total
+ 91.21%  212.483      9 Шаблон:Головна_сторінка/Розділ_головної
+ 36.88%   85.917      1 Шаблон:Останні_новини
+ 33.75%   78.624      1 Шаблон:Останні_новини/Зображення
+ 32.54%   75.795      1 Шаблон:Main_page_image
+ 18.20%   42.387      5 Шаблон:КК
+ 12.19%   28.399      4 Шаблон:Remove_file_prefix
+  9.59%   22.342      1 Шаблон:Str_number/trim
+  8.06%   18.772      1 Вікіпедія:Проєкт:Цей_день_в_історії/30_вересня
+  7.80%   18.159      2 Шаблон:Головна_сторінка/Добра_стаття
+-->
+      <!-- Saved in parser cache with key ukwiki:pcache:idhash:2569618-0!canonical and timestamp 20210930091526 and revision id 32087199. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//uk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Отримано з
+      <a dir="ltr" href="https://uk.wikipedia.org/w/index.php?title=Головна_сторінка&amp;oldid=32087199">
+       https://uk.wikipedia.org/w/index.php?title=Головна_сторінка&amp;oldid=32087199
+      </a>
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Навігаційне меню
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Особисті інструменти
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Ви не увійшли до системи
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D0%BE%D1%94_%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" title="Обговорення редагувань з цієї IP-адреси [n]">
+         Обговорення
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D1%96%D0%B9_%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA" title="Список редагувань, зроблених з цієї IP-адреси [y]">
+         Внесок
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81&amp;returnto=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов'язково">
+         Створити обліковий запис
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Заохочуємо Вас увійти в систему, але це необов'язково. [o]">
+         Увійти
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Простори назв
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Вміст статті [c]">
+          Головна
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" rel="discussion" title="Обговорення змісту сторінки [t]">
+          Обговорення
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Варіанти
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        розширений
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        згорнутий
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Перегляди
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="mw-list-item" id="ca-view">
+         <a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;stable=1">
+          Читати
+         </a>
+        </li>
+        <li class="collapsible selected mw-list-item" id="ca-current">
+         <a accesskey="v" href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;stable=0&amp;redirect=no" title="Переглянути цю сторінку з неперевіреними змінами [v]">
+          Неперевірені зміни
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=edit" title="Ця сторінка захищена від змін. Ви можете переглянути і скопіювати її вихідний текст. [e]">
+          Перегляд
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=history" title="Журнал змін сторінки [h]">
+          Переглянути історію
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Більше опцій">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Більше
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        розширений
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        згорнутий
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Пошук
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Пошук у Вікіпедії" title="Шукати у Вікіпедії [f]" type="search"/>
+         <input name="title" type="hidden" value="Спеціальна:Пошук"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Знайти сторінки, що містять зазначений текст" type="submit" value="Знайти"/>
+         <input class="searchButton" id="searchButton" name="go" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" type="submit" value="Перейти"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на головну сторінку">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Навігація
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на головну сторінку [z]">
+         Головна сторінка
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Список поточних подій">
+         Поточні події
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список останніх змін у цій вікі [r]">
+         Нові редагування
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-newpages">
+        <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">
+         Нові сторінки
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]">
+         Випадкова стаття
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Участь-label" class="mw-portlet mw-portlet-Участь vector-menu vector-menu-portal portal" id="p-Участь" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-Участь-label">
+      <span>
+       Участь
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проєкт, про те, що Ви можете зробити, і що де шукати">
+         Портал спільноти
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-tavern">
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0" title="Місце для обговорення більшості питань">
+         Кнайпа
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Довідка з проєкту">
+         Довідка
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikipedia.org&amp;uselang=uk" title="Підтримайте проєкт">
+         Пожертвувати
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Сторінка-для-медіа">
+        <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D0%B4%D1%96%D0%B0">
+         Сторінка для медіа
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Інструменти
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%8E%D0%B4%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перелік усіх сторінок, які посилаються на цю сторінку [j]">
+         Посилання сюди
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" rel="nofollow" title="Останні зміни на сторінках, на які посилається ця сторінка [k]">
+         Пов'язані редагування
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]">
+         Спеціальні сторінки
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;oldid=32087199" title="Постійне посилання на цю версію сторінки">
+         Постійне посилання
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=info" title="Додаткові відомості про цю сторінку">
+         Інформація про сторінку
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;id=32087199&amp;wpFormIdentifier=titleform" title="Інформація про те, як цитувати цю сторінку">
+         Цитувати сторінку
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Посилання на пов’язаний елемент сховища даних [g]">
+         Елемент Вікіданих
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Друк/експорт
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">
+         Створити книгу
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:DownloadAsPdf&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=show-download-screen">
+         Завантажити як PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;printable=yes" title="Версія цієї сторінки для друку [p]">
+         Версія до друку
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       В інших проєктах
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Вікісховище
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Мета-вікі
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Багатомовні Вікіджерела
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Віківиди
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">
+         Вікіпідручник
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Вікідані
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Вікіманія
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item">
+        <a href="https://uk.wikinews.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" hreflang="uk">
+         Вікіновини
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://uk.wikiquote.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">
+         Вікіцитати
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://uk.wikisource.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">
+         Вікіджерела
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item">
+        <a href="https://uk.wikivoyage.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">
+         Вікімандри
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://uk.wiktionary.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">
+         Вікісловник
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Іншими мовами
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="арабська">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="білоруська">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/" hreflang="be-tarask" lang="be-tarask" title="Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="болгарська">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="каталонська">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/" hreflang="ceb" lang="ceb" title="себуанська">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-crh mw-list-item">
+        <a class="interlanguage-link-target" href="https://crh.wikipedia.org/wiki/" hreflang="crh" lang="crh" title="кримськотатарська">
+         Qırımtatarca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="чеська">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="данська">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="німецька">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="англійська">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="есперанто">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="іспанська">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="естонська">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="фінська">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="французька">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gag mw-list-item">
+        <a class="interlanguage-link-target" href="https://gag.wikipedia.org/wiki/" hreflang="gag" lang="gag" title="гагаузька">
+         Gagauz
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="іврит">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="хорватська">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="угорська">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="індонезійська">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="італійська">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="японська">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="грузинська">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="корейська">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="латинська">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="литовська">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/" hreflang="lv" lang="lv" title="латиська">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="македонська">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="нідерландська">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="норвезька (букмол)">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="польська">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="португальська">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="румунська">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="російська">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rue mw-list-item">
+        <a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/" hreflang="rue" lang="rue" title="Rusyn">
+         Русиньскый
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="сербсько-хорватська">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="словацька">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="словенська">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="сербська">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="шведська">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl mw-list-item">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/" hreflang="szl" lang="szl" title="Silesian">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te mw-list-item">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/" hreflang="te" lang="te" title="телугу">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="турецька">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="вʼєтнамська">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="китайська">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Цю сторінку востаннє відредаговано о 20:24, 24 травня 2021.
+    </li>
+    <li id="footer-info-copyright">
+     Текст доступний на умовах ліцензії
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike
+     </a>
+     ;
+також можуть діяти додаткові умови.
+Детальніше див.
+     <a href="https://foundation.wikimedia.org/wiki/Умови_використання">
+      Умови використання
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Політика конфіденційності
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE" title="Вікіпедія:Про">
+      Про Вікіпедію
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіпедія:Відмова від відповідальності">
+      Відмова від відповідальності
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//uk.wikipedia.org/wiki/Вікіпедія:Зворотний_зв%27язок">
+      Зворотний зв'язок
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//uk.m.wikipedia.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile">
+      Мобільний вигляд
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Розробники
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/uk.wikipedia.org">
+      Статистика
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Куки
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.399","walltime":"0.512","ppvisitednodes":{"value":959,"limit":1000000},"postexpandincludesize":{"value":77100,"limit":2097152},"templateargumentsize":{"value":29355,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5498,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  232.958      1 -total"," 91.21%  212.483      9 Шаблон:Головна_сторінка/Розділ_головної"," 36.88%   85.917      1 Шаблон:Останні_новини"," 33.75%   78.624      1 Шаблон:Останні_новини/Зображення"," 32.54%   75.795      1 Шаблон:Main_page_image"," 18.20%   42.387      5 Шаблон:КК"," 12.19%   28.399      4 Шаблон:Remove_file_prefix","  9.59%   22.342      1 Шаблон:Str_number/trim","  8.06%   18.772      1 Вікіпедія:Проєкт:Цей_день_в_історії/30_вересня","  7.80%   18.159      2 Шаблон:Головна_сторінка/Добра_стаття"]},"scribunto":{"limitreport-timeusage":{"value":"0.042","limit":"10.000"},"limitreport-memusage":{"value":1511114,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20210930091527","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0430","url":"https:\/\/uk.wikipedia.org\/wiki\/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u0423\u0447\u0430\u0441\u043d\u0438\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-27T00:45:00Z","dateModified":"2021-05-24T20:24:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/Slawa.jpg","headline":"\u0433\u043e\u043b\u043e\u0432\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":184,"wgHostname":"mw1429"});});
+  </script>
+ </body>
+</html>

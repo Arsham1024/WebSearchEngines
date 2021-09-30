@@ -1,0 +1,2560 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="zh">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   维基百科，自由的百科全书
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"5f5031bd-7e38-401f-8ae3-17d00e4988ad","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:首页","wgTitle":"首页","wgCurRevisionId":63724851,"wgRevisionId":63724851,"wgArticleId":3597889,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:首页","wgRelevantArticleId":3597889,"wgUserVariant":"zh","wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-hant","zh-cn","zh-tw","zh-hk","zh-sg","zh-mo","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"中文","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgDiscussionToolsFeaturesEnabled":{"replytool":!0,"newtopictool":!1,"sourcemodetoolbar":!0,"topicsubscription":!1},"wgDiscussionToolsFallbackEditMode":"source","wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"mediawiki.page.gallery.styles":"ready","ext.discussionTools.init.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.gallery","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.edit0","ext.gadget.Edittools-refToolbar","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.gadget.UnihanTooltips","ext.gadget.variant-link-fix","ext.gadget.shortURL","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.internalLinkHelper-altcolor","ext.gadget.noteTA","ext.gadget.noteTAvector","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.notifyConversion","ext.gadget.CollapsibleSidebar","ext.gadget.scrollUpButton","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.discussionTools.init"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=zh&amp;modules=ext.discussionTools.init.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=zh&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=zh&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=zh&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="维基百科，自由的百科全书" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom" rel="alternate" title="维基百科每日图片供稿" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom" rel="alternate" title="维基百科典范条目供稿" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=good&amp;feedformat=atom" rel="alternate" title="维基百科优良条目供稿" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom" rel="alternate" title="维基百科“历史上的今天”供稿" type="application/atom+xml"/>
+  <link href="/w/api.php?action=featuredfeed&amp;feed=dyk&amp;feedformat=atom" rel="alternate" title="维基百科“你知道吗？”供稿" type="application/atom+xml"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (zh)" type="application/opensearchdescription+xml"/>
+  <link href="//zh.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="/zh/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh" rel="alternate"/>
+  <link href="/zh-hans/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans" rel="alternate"/>
+  <link href="/zh-hant/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant" rel="alternate"/>
+  <link href="/zh-cn/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-CN" rel="alternate"/>
+  <link href="/zh-hk/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-HK" rel="alternate"/>
+  <link href="/zh-mo/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-MO" rel="alternate"/>
+  <link href="/zh-my/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-MY" rel="alternate"/>
+  <link href="/zh-sg/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-SG" rel="alternate"/>
+  <link href="/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-TW" rel="alternate"/>
+  <link href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="x-default" rel="alternate"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="ext-discussiontools-replytool-enabled ext-discussiontools-sourcemodetoolbar-enabled mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_首页 rootpage-Wikipedia_首页 skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    维基百科:首页
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     维基百科，自由的百科全书
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     跳到导航
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     跳到搜索
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="zh">
+     <div class="mw-parser-output">
+      <p>
+       <span id="no-edit-0">
+       </span>
+       <style data-mw-deduplicate="TemplateStyles:r64506932">
+        .mw-parser-output .new{color:inherit}.mw-parser-output #column-feature-more .column-feature-more-header a{font-weight:bold;color:#474747}.mw-parser-output #column-feature-more{margin-top:1.2em;clear:left}.mw-parser-output #column-feature-more ul{list-style:none;margin-left:0}.mw-parser-output #column-feature-more li{font-size:.9em;color:#474747}.mw-parser-output .mp-2012-block-nav-footer{color:#666;font-size:.85em;clear:both;text-align:right}.mw-parser-output #mp-2012-banner a{color:#17b}.mw-parser-output #mp-2012-banner>div{line-height:120px}.mw-parser-output #mp-2012-banner>div>div{line-height:1.5em;vertical-align:middle}.mw-parser-output #mp-2012-banner-title{float:left;margin-left:40px;width:240px}.mw-parser-output #mp-2012-banner-title>div{display:inline-block;font-family:sans-serif}.mw-parser-output #mp-2012-banner-title h1{font-size:2em;margin:0;padding:0;line-height:1.6em}.mw-parser-output #mp-2012-banner-title p{margin:0;padding:0;font-size:90%;color:#457}.mw-parser-output #mp-2012-banner-intro>div{display:inline-block;text-align:center}.mw-parser-output #mp-2012-banner-intro .number-of-articles a{color:#113C86;font-size:120%;font-family:sans-serif;font-weight:bold}.mw-parser-output #mp-2012-banner-intro p{margin:0;padding-bottom:.3em;letter-spacing:.1em;font-weight:bold;color:#457}.mw-parser-output #mp-2012-banner-intro table{width:100%}.mw-parser-output #mp-2012-banner-intro td{vertical-align:top;padding:0 .5em}.mw-parser-output #mp-2012 h1{font-weight:bold;border:none}.mw-parser-output #mp-2012-links table{padding:.8em 1.6em;font-size:.95em;width:96%;border:1px solid #EEE;box-shadow:0px 1px 1px rgba(0,0,0,0.1);background:#f8f9fa;margin:0 auto}.mw-parser-output #mp-2012-links td{width:33.33%;vertical-align:top}.mw-parser-output #mp-2012-links h3{font-size:.98em;font-weight:bold;color:#6B6B6B;padding-bottom:.2em;border-bottom:1px solid #EEE;margin-bottom:.8em}.mw-parser-output #mp-2012-sisters{margin-top:50px;clear:both;padding-top:15px;border-top:3px double #CCC;color:#222;line-height:120%}@media all and (min-width:720px){.mw-parser-output #mp-2012-sisters>div{background:white;width:45px;margin:-40px auto 0}.mw-parser-output #mp-2012-links{margin-bottom:.8em;overflow:hidden;clear:left}.mw-parser-output #mp-2012 #column-uptrends{margin-left:1.6em;color:#3B3B3B}.mw-parser-output #mp-2012 #column-participate{margin-left:1.6em;color:#3B3B3B}.mw-parser-output #mp-2012 #column-participate-button{text-align:center;margin-top:1.5em;white-space:nowrap;font-weight:bold}.mw-parser-output #mp-2012 #column-tips{margin-left:1.6em;color:#494949}.mw-parser-output #mp-2012-column-tips-header{font-weight:bold;color:#444}.mw-parser-output #mp-2012,.mw-parser-output #mp-2012-body{clear:both}.mw-parser-output #mp-2012 h2{font-weight:bold;border:none}.mw-parser-output #mp-2012 h2{font-size:1.16em;margin-bottom:.8em;letter-spacing:.16em}.mw-parser-output #mp-2012-body{min-width:695px}.mw-parser-output #mp-2012-column-left{float:left;width:64.9%}.mw-parser-output #mp-2012-column-left>div{margin-right:1.5em}.mw-parser-output .mp-2012-column-left-block{margin-top:.8em;padding:.8em 1.6em 1.8em;line-height:1.5em}.mw-parser-output .mp-2012-column-left-block+.mp-2012-column-left-block{margin-top:.4em;border-top:1px solid #EEE}.mw-parser-output #mp-2012-column-right{float:right;width:35%}.mw-parser-output #mp-2012-column-left h2,.mw-parser-output #mp-2012-column-left h2 a{color:#259}.mw-parser-output #mp-2012-column-right h2,.mw-parser-output #mp-2012-column-right h2 a{color:#5c5c5c}.mw-parser-output #column-feature img,.mw-parser-output #mp-2012 #column-good img{margin:0.4em 0.9em 0.3em 0}.mw-parser-output #column-feature p img,.mw-parser-output #mp-2012 #column-good p img{margin:0}.mw-parser-output #column-feature p,.mw-parser-output #mp-2012 #column-good p{line-height:1.6em;text-align:justify;text-justify:auto}.mw-parser-output #column-dyk li{margin-bottom:0.5em}.mw-parser-output #mp-2012-column-left .mp-2012-text{color:#1A1A1A}.mw-parser-output #mp-2012-column-right .mp-2012-text{font-size:.98em}.mw-parser-output #mp-2012-column-right>div{margin-top:1.6em}.mw-parser-output .mp-2012-column-right-block{margin:0 0 1.6em;padding:.8em 1.6em 1.6em}.mw-parser-output #mp-2012-column-right-block-a{border:1px solid #E8E8E8;box-shadow:0px 1px 3px rgba(0,0,0,0.08);background:#FFF}.mw-parser-output #mp-2012-column-right-block-b{border:1px solid #CADEED;box-shadow:0px 1px 3px #DDE6ED;background:#FFF;background:linear-gradient(#fff 65%,#EFF6FA 100%);clear:both}.mw-parser-output #mp-2012-column-right-block-c{border:1px solid transparent;margin-bottom:.4em;clear:both}.mw-parser-output #column-itn li{margin-bottom:.8em}.mw-parser-output #column-otd img{margin-left:.6em;margin-bottom:.6em}.mw-parser-output #column-otd dl{padding-left:1em}.mw-parser-output #column-otd dt{float:left;width:4.2em}.mw-parser-output #column-otd dd{margin-bottom:.8em;margin-left:4.5em}.mw-parser-output #mp-2012-banner-logo{float:left;width:182px;height:119px;margin-bottom:1px;background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/300px-Wikipedia-logo-v2.svg.png");background-position:-118px 8px;background-repeat:no-repeat}.mw-parser-output #mp-2012-banner{clear:both}.mw-parser-output #mp-2012-banner{background-image:url("//upload.wikimedia.org/wikipedia/commons/0/0a/Zhwp_blue_banner.png");background-repeat:repeat-x;height:120px;min-width:727px}.mw-parser-output #mp-2012-banner-intro{float:right;margin-right:20px;width:245px;text-align:right}}
+       </style>
+      </p>
+      <div id="mp-2012">
+       <div class="nomobile" id="mp-2012-banner">
+        <div id="mp-2012-banner-logo">
+        </div>
+        <div id="mp-2012-banner-title">
+         <div>
+          <h1>
+           <span id=".E7.BB.B4.E5.9F.BA.E7.99.BE.E7.A7.91">
+           </span>
+           <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u7ef4\u57fa\u767e\u79d1","replies":["h-\u7279\u8272\u5217\u8868-\u7ef4\u57fa\u767e\u79d1","h-\u4f60\u77e5\u9053\u5417\uff1f-\u7ef4\u57fa\u767e\u79d1","h-\u4f18\u826f\u6761\u76ee-\u7ef4\u57fa\u767e\u79d1","h-\u6bcf\u65e5\u56fe\u7247-\u7ef4\u57fa\u767e\u79d1","h-\u65b0\u95fb\u52a8\u6001-\u7ef4\u57fa\u767e\u79d1","h-\u5386\u53f2\u4e0a\u7684\u4eca\u5929-\u7ef4\u57fa\u767e\u79d1","h-\u52d5\u614b\u70ed\u95e8-\u7ef4\u57fa\u767e\u79d1","h-\u53c3\u8207\u7ef4\u57fa\u767e\u79d1-\u7ef4\u57fa\u767e\u79d1","h-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8-\u7ef4\u57fa\u767e\u79d1"],"headingLevel":1,"placeholderHeading":false}' id="维基百科">
+            <span data-mw-comment-start="" id="h-维基百科">
+            </span>
+            <a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="Wikipedia:关于">
+             维基百科
+            </a>
+            <span data-mw-comment-end="h-维基百科">
+            </span>
+           </span>
+          </h1>
+          <p>
+           海納百川，有容乃大
+           <br/>
+           <a href="/wiki/Wikipedia:%E6%AC%A2%E8%BF%8E" title="Wikipedia:欢迎">
+            人人可編輯
+           </a>
+           的
+           <a href="/wiki/%E8%87%AA%E7%94%B1%E5%85%A7%E5%AE%B9" title="自由內容">
+            自由
+           </a>
+           百科全書
+          </p>
+         </div>
+        </div>
+        <div id="mp-2012-banner-intro">
+         <div>
+          <p>
+           已有
+           <span class="number-of-articles">
+            <a href="/wiki/Special:%E7%BB%9F%E8%AE%A1" title="Special:统计">
+             1,232,315
+            </a>
+           </span>
+           篇
+           <a href="/wiki/Wikipedia:%E4%BB%80%E4%B9%88%E6%98%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:什么是条目">
+            條目
+           </a>
+          </p>
+          <table>
+           <tbody>
+            <tr>
+             <td>
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="Wikipedia:分类索引">
+               分类
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/Portal:%E9%A6%96%E9%A0%81" title="Portal:首頁">
+               主题
+              </a>
+             </td>
+             <td>
+              <a class="mw-redirect" href="/wiki/Wikipedia:VPA" title="Wikipedia:VPA">
+               求助
+              </a>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <a href="/wiki/Wikipedia:%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80/%E4%B8%BB%E9%A0%81" title="Wikipedia:新手入門/主頁">
+               入门
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/Wikipedia:%E6%B2%99%E7%9B%92" title="Wikipedia:沙盒">
+               沙盒
+              </a>
+             </td>
+             <td>
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC/%E6%8D%90%E6%AC%BE" title="Wikipedia:联系我们/捐款">
+               捐款
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+       </div>
+       <div id="mp-2012-body">
+        <div id="mp-2012-column-left">
+         <div>
+          <div class="mp-2012-column-left-block" id="mp-2012-column-feature-block">
+           <h2>
+            <span id=".E7.89.B9.E8.89.B2.E5.88.97.E8.A1.A8">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u7279\u8272\u5217\u8868-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="特色列表">
+             <span data-mw-comment-start="" id="h-特色列表-维基百科">
+             </span>
+             特色列表
+             <span data-mw-comment-end="h-特色列表-维基百科">
+             </span>
+            </span>
+           </h2>
+           <div class="knoblock mp-2012-text" id="column-feature">
+            <div class="floatleft">
+             <a class="image" href="/wiki/File:Tokyu8500series_8606F.jpg">
+              <img alt="Tokyu8500series 8606F.jpg" class="thumbborder" data-file-height="2592" data-file-width="3888" decoding="async" height="127" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tokyu8500series_8606F.jpg/190px-Tokyu8500series_8606F.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tokyu8500series_8606F.jpg/285px-Tokyu8500series_8606F.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tokyu8500series_8606F.jpg/380px-Tokyu8500series_8606F.jpg 2x" width="190"/>
+             </a>
+            </div>
+            <p>
+             <a href="/wiki/%E6%9D%B1%E6%80%A5%E9%9B%BB%E9%90%B5" title="東急電鐵">
+              東急電鐵
+             </a>
+             是
+             <a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">
+              日本
+             </a>
+             私營
+             <a class="mw-redirect" href="/wiki/%E9%90%B5%E8%B7%AF%E5%85%AC%E5%8F%B8" title="鐵路公司">
+              鐵路公司
+             </a>
+             ，為東急集團旗下主要公司，同時是日本的
+             <a href="/wiki/%E5%A4%A7%E6%89%8B%E7%A7%81%E9%90%B5" title="大手私鐵">
+              大手私鐵
+             </a>
+             。目前東急電鐵營運中的路線有
+             <a href="/wiki/%E6%9D%B1%E6%A9%AB%E7%B7%9A" title="東橫線">
+              東橫線
+             </a>
+             、
+             <a href="/wiki/%E7%9B%AE%E9%BB%91%E7%B7%9A" title="目黑線">
+              目黑線
+             </a>
+             、
+             <a class="mw-redirect" href="/wiki/%E7%94%B0%E5%9C%92%E9%83%BD%E5%B8%82%E7%B7%9A" title="田園都市線">
+              田園都市線
+             </a>
+             、
+             <a href="/wiki/%E5%A4%A7%E4%BA%95%E7%94%BA%E7%B7%9A" title="大井町線">
+              大井町線
+             </a>
+             、
+             <a href="/wiki/%E6%B1%A0%E4%B8%8A%E7%B7%9A" title="池上線">
+              池上線
+             </a>
+             、
+             <a href="/wiki/%E6%9D%B1%E6%80%A5%E5%A4%9A%E6%91%A9%E5%B7%9D%E7%B7%9A" title="東急多摩川線">
+              東急多摩川線
+             </a>
+             、
+             <a href="/wiki/%E5%AD%90%E4%BE%9B%E4%B9%8B%E5%9C%8B%E7%B7%9A" title="子供之國線">
+              子供之國線
+             </a>
+             、
+             <a href="/wiki/%E4%B8%96%E7%94%B0%E8%B0%B7%E7%B7%9A" title="世田谷線">
+              世田谷線
+             </a>
+             ，營運長度104.9公里。東急電鐵自1922年成立至今共有八條路線，其中有一條第3種鐵道事業，一條路面電車線。鐵路路線長度有99.9公里與軌道線路線5.0公里，合計營運路線長度104.9公里。主要營運來往
+             <a href="/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD" title="東京都">
+              東京都
+             </a>
+             西南部至
+             <a href="/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%B8%A3" title="神奈川縣">
+              神奈川縣
+             </a>
+             東部間的路線。
+             <b>
+              <a href="/wiki/%E6%9D%B1%E6%80%A5%E9%9B%BB%E9%90%B5%E8%BB%8A%E7%AB%99%E5%88%97%E8%A1%A8" title="東急電鐵車站列表">
+               東急電鐵共有94座車站
+              </a>
+             </b>
+             ，東京都有65站、神奈川縣有30站，其中9站為路面電車站，1站路面電車與傳統軌道共站。連接田園都市線、東橫線、
+             <a href="/wiki/%E5%B1%B1%E6%89%8B%E7%B7%9A" title="山手線">
+              山手線
+             </a>
+             、
+             <a href="/wiki/%E5%9F%BC%E4%BA%AC%E7%B7%9A" title="埼京線">
+              埼京線
+             </a>
+             、
+             <a href="/wiki/%E6%B9%98%E5%8D%97%E6%96%B0%E5%AE%BF%E7%B7%9A" title="湘南新宿線">
+              湘南新宿線
+             </a>
+             、
+             <a href="/wiki/%E9%8A%80%E5%BA%A7%E7%B7%9A" title="銀座線">
+              銀座線
+             </a>
+             、
+             <a href="/wiki/%E5%8D%8A%E8%97%8F%E9%96%80%E7%B7%9A" title="半藏門線">
+              半藏門線
+             </a>
+             以及
+             <a href="/wiki/%E5%89%AF%E9%83%BD%E5%BF%83%E7%B7%9A" title="副都心線">
+              副都心線
+             </a>
+             的轉乘站
+             <a href="/wiki/%E6%BE%80%E8%B0%B7%E7%AB%99" title="澀谷站">
+              澀谷站
+             </a>
+             是東急電鐵繁忙的車站，共有20個正式標示出口。
+            </p>
+           </div>
+           <div id="column-feature-more">
+            <ul>
+             <li>
+              <span class="column-feature-more-header">
+               <a class="mw-redirect" href="/wiki/Wikipedia:%E5%85%B8%E7%AF%84%E6%A2%9D%E7%9B%AE" title="Wikipedia:典範條目">
+                其他典範條目
+               </a>
+              </span>
+              ：
+              <a href="/wiki/%E9%82%A3%E9%9C%B8%E5%B8%82" title="那霸市">
+               那霸市
+              </a>
+              －
+              <a href="/wiki/%E6%B4%BB%E5%8A%A8%E7%94%B5%E5%BD%B1%E6%94%BE%E6%98%A0%E6%9C%BA" title="活动电影放映机">
+               活动电影放映机
+              </a>
+              －
+              <a href="/wiki/%E8%A8%80%E8%AE%BA%E7%9A%84%E8%BE%B9%E7%95%8C" title="言论的边界">
+               言论的边界
+              </a>
+             </li>
+             <li>
+              <span class="column-feature-more-header">
+               <a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%88%97%E8%A1%A8" title="Wikipedia:特色列表">
+                其他特色列表
+               </a>
+              </span>
+              ：
+              <a href="/wiki/%E9%87%8D%E5%AD%90%E5%88%97%E8%A1%A8" title="重子列表">
+               重子列表
+              </a>
+              －
+              <a class="mw-redirect" href="/wiki/%E9%A6%99%E6%B8%AF%E5%A4%A7%E4%B8%93%E9%99%A2%E6%A0%A1%E5%88%97%E8%A1%A8" title="香港大专院校列表">
+               香港大专院校列表
+              </a>
+              －
+              <a href="/wiki/%E5%B7%B4%E8%A5%BF%E4%BA%9E%E9%A6%AC%E9%81%9C%E5%B7%9E%E5%B8%82%E9%8E%AE%E5%88%97%E8%A1%A8" title="巴西亞馬遜州市鎮列表">
+               巴西亞馬遜州市鎮列表
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="mp-2012-block-nav-footer hlist">
+            <ul>
+             <li>
+              <a href="/wiki/Wikipedia:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE" title="Wikipedia:典范条目">
+               典范条目
+              </a>
+              （
+              <a href="/wiki/Wikipedia:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE%E8%AF%84%E9%80%89" title="Wikipedia:典范条目评选">
+               候选
+              </a>
+              ）
+             </li>
+             <li>
+              <a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%88%97%E8%A1%A8" title="Wikipedia:特色列表">
+               特色列表
+              </a>
+              （
+              <a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%88%97%E8%A1%A8%E8%AF%84%E9%80%89" title="Wikipedia:特色列表评选">
+               候选
+              </a>
+              ）
+             </li>
+             <li>
+              <a href="/wiki/Wikipedia:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE/%E5%AD%98%E6%A1%A3" title="Wikipedia:典范条目/存档">
+               存档
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="mp-2012-column-left-block" id="mp-2012-column-dyk-block">
+           <h2>
+            <span id=".E4.BD.A0.E7.9F.A5.E9.81.93.E5.90.97.EF.BC.9F">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u4f60\u77e5\u9053\u5417\uff1f-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="你知道吗？">
+             <span data-mw-comment-start="" id="h-你知道吗？-维基百科">
+             </span>
+             你知道吗？
+             <span data-mw-comment-end="h-你知道吗？-维基百科">
+             </span>
+            </span>
+           </h2>
+           <div class="knoblock mp-2012-text" id="column-dyk">
+            <div class="floatright">
+             <a class="image" href="/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_(Mostra).jpg">
+              <img alt="Ang Lee - 66ème Festival de Venise (Mostra).jpg" data-file-height="1500" data-file-width="999" decoding="async" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/106px-Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/160px-Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg/213px-Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg 2x" width="106"/>
+             </a>
+            </div>
+            <ul>
+             <li>
+              台灣
+              <a href="/wiki/%E6%BE%8E%E6%B9%96%E7%B8%A3" title="澎湖縣">
+               澎湖縣
+              </a>
+              <b>
+               <a href="/wiki/%E9%8E%AE%E6%B5%B7%E7%A6%8F%E5%AE%89%E5%AE%AE" title="鎮海福安宮">
+                哪一間廟宇
+               </a>
+              </b>
+              ，位於
+              <a class="mw-redirect" href="/wiki/%E7%99%BD%E6%B2%99%E9%84%89_(%E6%BE%8E%E6%B9%96%E7%B8%A3)" title="白沙鄉 (澎湖縣)">
+               白沙鄉
+              </a>
+              鎮海村，主祀
+              <a class="mw-redirect" href="/wiki/%E5%93%AA%E5%90%92%E4%B8%89%E5%A4%AA%E5%AD%90" title="哪吒三太子">
+               哪吒三太子
+              </a>
+              ？
+             </li>
+             <li>
+              李安作品《断背山》曾获
+              <b>
+               <a href="/wiki/%E3%80%8A%E6%96%AD%E8%83%8C%E5%B1%B1%E3%80%8B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95" title="《断背山》获奖名单">
+                哪些荣誉肯定
+               </a>
+              </b>
+              ？
+              <small>
+               （圖）
+              </small>
+             </li>
+             <li>
+              臺灣臺北市北投區有
+              <b>
+               <a href="/wiki/%E5%91%A8%E6%B0%8F%E7%AF%80%E5%AD%9D%E5%9D%8A" title="周氏節孝坊">
+                哪座臺北市僅存的三座清治時期牌坊之一
+               </a>
+              </b>
+              ，列
+              <a href="/wiki/%E8%87%BA%E5%8C%97%E5%B8%82%E7%9B%B4%E8%BD%84%E5%B8%82%E5%AE%9A%E5%8F%A4%E8%B9%9F%E5%88%97%E8%A1%A8" title="臺北市直轄市定古蹟列表">
+               直轄市古蹟
+              </a>
+              ？
+             </li>
+             <li>
+              如果把
+              <a class="mw-redirect" href="/wiki/%E5%AE%87%E5%AE%99%E5%8E%86%E5%8F%B2" title="宇宙历史">
+               宇宙历史
+              </a>
+              比作一年，
+              <b>
+               <a href="/wiki/%E5%AE%87%E5%AE%99%E5%8E%86" title="宇宙历">
+                那么过去、未来的事件将发生在哪一天
+               </a>
+              </b>
+              ？
+             </li>
+             <li>
+              英國
+              <a href="/wiki/%E5%88%87%E7%88%BE%E6%BB%95%E7%B4%8D%E5%A7%86" title="切爾滕納姆">
+               切爾滕納姆
+              </a>
+              的
+              <b>
+               <a href="/wiki/%E5%88%87%E7%88%BE%E6%BB%95%E7%B4%8D%E5%A7%86%E7%8C%B6%E5%A4%AA%E6%9C%83%E5%A0%82" title="切爾滕納姆猶太會堂">
+                哪座猶太會堂
+               </a>
+              </b>
+              被
+              <a href="/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%C2%B7%E4%BD%A9%E5%A4%AB%E6%96%AF%E7%BA%B3" title="尼古拉斯·佩夫斯纳">
+               尼古拉斯·佩夫斯納
+              </a>
+              評為「英國最佳非聖公會建築之一」？
+             </li>
+             <li>
+              <b>
+               <a href="/wiki/%E5%B0%8F%E5%8D%81%E4%BA%8C%E9%9D%A2%E5%8D%8A%E5%8D%81%E4%BA%8C%E9%9D%A2%E9%AB%94" title="小十二面半十二面體">
+                哪一種多面體
+               </a>
+              </b>
+              是一種
+              <a href="/wiki/%E5%8D%8A%E5%A4%9A%E9%9D%A2%E9%AB%94" title="半多面體">
+               半多面體
+              </a>
+              ，且外觀看起來像每個
+              <a href="/wiki/%E4%B8%89%E8%A7%92%E5%BD%A2" title="三角形">
+               三角形
+              </a>
+              面都向內凹陷的
+              <a href="/wiki/%E6%88%AA%E5%8D%8A%E4%BA%8C%E5%8D%81%E9%9D%A2%E4%BD%93" title="截半二十面体">
+               截半二十面体
+              </a>
+              ？
+             </li>
+            </ul>
+           </div>
+           <div class="mp-2012-block-nav-footer hlist">
+            <ul>
+             <li>
+              <a href="/wiki/Wikipedia:%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90/%E5%80%99%E9%80%89" title="Wikipedia:新条目推荐/候选">
+               候选
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Wikipedia:%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90" title="Wikipedia:新条目推荐">
+               存档
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Special:%E6%9C%80%E6%96%B0%E9%A1%B5%E9%9D%A2" title="Special:最新页面">
+               更多新条目
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="mp-2012-column-left-block" id="mp-2012-column-good-block">
+           <h2>
+            <span id=".E4.BC.98.E8.89.AF.E6.9D.A1.E7.9B.AE">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u4f18\u826f\u6761\u76ee-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="优良条目">
+             <span data-mw-comment-start="" id="h-优良条目-维基百科">
+             </span>
+             优良条目
+             <span data-mw-comment-end="h-优良条目-维基百科">
+             </span>
+            </span>
+           </h2>
+           <div class="knoblock mp-2012-text" id="column-good">
+            <p>
+             <b>
+              <a href="/wiki/%E8%AD%9A%E6%A6%AE%E9%82%A6" title="譚榮邦">
+               譚榮邦
+              </a>
+             </b>
+             ，
+             <a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港">
+              香港
+             </a>
+             <a href="/wiki/%E5%BB%BA%E5%88%B6%E6%B4%BE_(%E9%A6%99%E6%B8%AF)" title="建制派 (香港)">
+              建制派
+             </a>
+             <a href="/wiki/%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9" title="政治人物">
+              政治人物
+             </a>
+             ，
+             <a href="/wiki/%E6%96%B0%E6%B0%91%E9%BB%A8_(%E9%A6%99%E6%B8%AF)" title="新民黨 (香港)">
+              新民黨
+             </a>
+             成員。他在1971年起成為
+             <a href="/wiki/%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8B%99%E5%93%A1" title="香港公務員">
+              香港公務員
+             </a>
+             ，至2008年從公務員系統退休，曾擔任
+             <a href="/wiki/%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF" title="香港郵政">
+              香港郵政
+             </a>
+             署長，官至首長級甲級政務官。在
+             <a href="/wiki/%E6%88%BF%E5%B1%8B%E7%BD%B2" title="房屋署">
+              房屋署
+             </a>
+             出任副署長期間，他致力解決
+             <a href="/wiki/%E5%AD%AB%E4%B9%9D%E6%8B%9B" title="孫九招">
+              孫九招
+             </a>
+             的後續問題，以及成功安排
+             <a href="/wiki/%E9%A0%98%E5%B1%95%E6%88%BF%E5%9C%B0%E7%94%A2%E6%8A%95%E8%B3%87%E4%BF%A1%E8%A8%97%E5%9F%BA%E9%87%91" title="領展房地產投資信託基金">
+              領匯房地產投資信託基金
+             </a>
+             上市和
+             <a href="/wiki/%E9%A6%99%E6%B8%AF%E5%85%AC%E5%85%B1%E5%B1%8B%E9%82%A8" title="香港公共屋邨">
+              公共屋邨
+             </a>
+             加租以紓緩
+             <a href="/wiki/%E9%A6%99%E6%B8%AF%E6%88%BF%E5%B1%8B%E5%A7%94%E5%93%A1%E6%9C%83" title="香港房屋委員會">
+              香港房屋委員會
+             </a>
+             的財困問題。在擔任郵政署署長期間，他為部門開闢郵件中轉服務及
+             <a href="/wiki/%E7%BD%91%E7%BB%9C%E8%B4%AD%E7%89%A9" title="网络购物">
+              网络购物
+             </a>
+             服務，以及關閉低使用率的
+             <a href="/wiki/%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E5%B1%80%E5%88%97%E8%A1%A8" title="香港郵政局列表">
+              郵政局
+             </a>
+             ，因而在卸任時為本來入不敷支的部門留下四億
+             <a href="/wiki/%E6%B8%AF%E5%85%83" title="港元">
+              港元
+             </a>
+             盈餘。
+            </p>
+           </div>
+           <div id="column-feature-more">
+            <ul>
+             <li>
+              <span class="column-feature-more-header">
+               <a href="/wiki/Wikipedia:%E4%BC%98%E8%89%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:优良条目">
+                其他優良條目
+               </a>
+              </span>
+              ：
+              <a href="/wiki/2016%E5%B9%B47%E6%9C%88%E9%BB%83%E6%B7%AE%E6%B0%A3%E6%97%8B" title="2016年7月黃淮氣旋">
+               2016年7月黃淮氣旋
+              </a>
+              －
+              <a href="/wiki/%E7%81%AB%E7%AE%AD%E6%89%8B" title="火箭手">
+               火箭手
+              </a>
+              －
+              <a href="/wiki/%E5%A1%94%E7%9F%B3_(%E6%BE%B3%E9%96%80)" title="塔石 (澳門)">
+               塔石 (澳門)
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="mp-2012-block-nav-footer hlist">
+            <ul>
+             <li>
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E5%84%AA%E8%89%AF%E6%A2%9D%E7%9B%AE" title="Wikipedia:優良條目">
+               優良條目
+              </a>
+              （
+              <a href="/wiki/Wikipedia:%E5%84%AA%E8%89%AF%E6%A2%9D%E7%9B%AE%E8%A9%95%E9%81%B8" title="Wikipedia:優良條目評選">
+               候选
+              </a>
+              ）
+             </li>
+             <li>
+              <a href="/wiki/Wikipedia:%E4%BC%98%E8%89%AF%E6%9D%A1%E7%9B%AE/%E5%AD%98%E6%A1%A3" title="Wikipedia:优良条目/存档">
+               存档
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="mp-2012-column-left-block nomobile" id="mp-2012-column-featurepic-block">
+           <h2>
+            <span id=".E6.AF.8F.E6.97.A5.E5.9B.BE.E7.89.87">
+            </span>
+            <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u6bcf\u65e5\u56fe\u7247-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="每日图片">
+             <span data-mw-comment-start="" id="h-每日图片-维基百科">
+             </span>
+             每日图片
+             <span data-mw-comment-end="h-每日图片-维基百科">
+             </span>
+            </span>
+           </h2>
+           <center>
+            <ul class="gallery mw-gallery-packed-hover center">
+             <li class="gallerybox" style="width: 1941.3333333333px">
+              <div style="width: 1941.3333333333px">
+               <div class="thumb" style="width: 1939.3333333333px;">
+                <div style="margin:0px auto;">
+                 <a class="image" href="/wiki/File:Paisaje_en_Sutton,_Alaska,_Estados_Unidos,_2017-08-22,_DD_98-106_PAN.jpg">
+                  <img alt="" data-file-height="5265" data-file-width="34033" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg/2909px-Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg/4364px-Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg/5818px-Paisaje_en_Sutton%2C_Alaska%2C_Estados_Unidos%2C_2017-08-22%2C_DD_98-106_PAN.jpg 2x" width="1940"/>
+                 </a>
+                </div>
+               </div>
+               <div class="gallerytextwrapper" style="width: 1920px">
+                <div class="gallerytext">
+                 <p>
+                  圖為美國
+                  <a href="/wiki/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%B7%9E" title="阿拉斯加州">
+                   阿拉斯加州
+                  </a>
+                  <a href="/wiki/%E8%96%A9%E9%A0%93-%E9%98%BF%E7%88%BE%E6%B4%BE%E5%9B%A0_(%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%B7%9E)" title="薩頓-阿爾派因 (阿拉斯加州)">
+                   薩頓
+                  </a>
+                  的景色。
+                 </p>
+                </div>
+               </div>
+              </div>
+             </li>
+            </ul>
+           </center>
+           <div class="mp-2012-block-nav-footer hlist">
+            <ul>
+             <li>
+              <a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%9B%BE%E7%89%87" title="Wikipedia:特色图片">
+               特色圖片
+              </a>
+              （
+              <a href="/wiki/Wikipedia:%E7%89%B9%E8%89%B2%E5%9C%96%E7%89%87%E8%A9%95%E9%81%B8" title="Wikipedia:特色圖片評選">
+               候選
+              </a>
+              ）
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E6%AF%8F%E6%97%A5%E5%9C%96%E7%89%87" title="Wikipedia:每日圖片">
+               更多每日圖片
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div id="mp-2012-column-right">
+         <div>
+          <div class="mp-2012-column-right-block" id="mp-2012-column-right-block-a">
+           <div class="mp-2012-column-right-subblock" id="mp-2012-column-itn-block">
+            <h2>
+             <span id=".E6.96.B0.E9.97.BB.E5.8A.A8.E6.80.81">
+             </span>
+             <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u65b0\u95fb\u52a8\u6001-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="新闻动态">
+              <span data-mw-comment-start="" id="h-新闻动态-维基百科">
+              </span>
+              新闻动态
+              <span data-mw-comment-end="h-新闻动态-维基百科">
+              </span>
+             </span>
+            </h2>
+            <div class="knoblock mp-2012-text" id="column-itn">
+             <div class="itn-special hlist hlist-separated" style="margin: 0px 1px 5px 1px; padding: 5px; text-align: center; border-bottom: 1px solid #a3b0bf;">
+              <small>
+               <dl>
+                <dt>
+                 <a href="/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E6%83%85" title="2019冠状病毒病疫情">
+                  2019冠状病毒病疫情
+                 </a>
+                </dt>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85" title="2019冠状病毒病">
+                  疾病
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/%E4%B8%A5%E9%87%8D%E6%80%A5%E6%80%A7%E5%91%BC%E5%90%B8%E7%BB%BC%E5%90%88%E5%BE%81%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%922" title="严重急性呼吸综合征冠状病毒2">
+                  病毒
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85%E6%A3%80%E6%B5%8B" title="2019冠状病毒病检测">
+                  检测
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E8%8B%97" title="2019冠状病毒病疫苗">
+                  疫苗
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E6%83%85%E6%99%82%E9%96%93%E8%BB%B8" title="2019冠狀病毒病疫情時間軸">
+                  时间轴
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E5%85%A8%E7%90%83%E5%90%84%E5%9C%B0%E7%96%AB%E6%83%85" title="2019冠狀病毒病全球各地疫情">
+                  全球各地疫情
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/2019%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E7%97%85%E7%96%AB%E6%83%85%E5%85%A8%E7%90%83%E5%8F%8D%E6%87%89%E8%88%87%E5%BD%B1%E9%9F%BF" title="2019冠狀病毒病疫情全球反應與影響">
+                  反应与影响
+                 </a>
+                </dd>
+                <dd>
+                 <a href="/wiki/Portal:2019%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%97%85" title="Portal:2019冠状病毒病">
+                  主题
+                 </a>
+                </dd>
+               </dl>
+              </small>
+             </div>
+             <div class="floatright">
+              <a class="image" href="/wiki/File:26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg" title="維園六四燭光晚會">
+               <img alt="維園六四燭光晚會" class="thumbborder" data-file-height="360" data-file-width="540" decoding="async" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg/120px-26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg/180px-26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg/240px-26th_anniversary_of_the_June_4th_incident_in_Victoria_Park_-_2.jpg 2x" width="120"/>
+              </a>
+             </div>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/%E5%BE%B7%E5%9C%8B%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E9%BB%A8" title="德國社會民主黨">
+                德國社會民主黨
+               </a>
+               在
+               <b>
+                <a href="/wiki/2021%E5%B9%B4%E5%BE%B7%E5%9C%8B%E8%81%AF%E9%82%A6%E8%AD%B0%E9%99%A2%E9%81%B8%E8%88%89" title="2021年德國聯邦議院選舉">
+                 2021年聯邦議院選舉
+                </a>
+               </b>
+               中以25.7%得票率贏得多數席次，但是未能過半。
+              </li>
+              <li>
+               聖馬利諾以約77.3%得票率通過懷孕12週以下或特殊情況者可以進行
+               <a class="mw-redirect" href="/wiki/%E4%BA%BA%E5%B7%A5%E6%B5%81%E7%94%A2" title="人工流產">
+                人工流產
+               </a>
+               的
+               <b>
+                <a href="/wiki/2021%E5%B9%B4%E8%81%96%E9%A6%AC%E5%88%A9%E8%AB%BE%E4%BA%BA%E5%B7%A5%E6%B5%81%E7%94%A2%E5%90%88%E6%B3%95%E5%8C%96%E5%85%AC%E6%8A%95" title="2021年聖馬利諾人工流產合法化公投">
+                 公民投票
+                </a>
+               </b>
+               。
+              </li>
+              <li>
+               冰島
+               <a href="/wiki/%E7%8D%A8%E7%AB%8B%E9%BB%A8_(%E5%86%B0%E5%B3%B6)" title="獨立黨 (冰島)">
+                獨立黨
+               </a>
+               、
+               <a href="/wiki/%E9%80%B2%E6%AD%A5%E9%BB%A8_(%E5%86%B0%E5%B3%B6)" title="進步黨 (冰島)">
+                進步黨
+               </a>
+               和
+               <a href="/wiki/%E5%B7%A6%E7%BF%BC%EF%BC%8D%E7%B6%A0%E8%89%B2%E9%81%8B%E5%8B%95" title="左翼－綠色運動">
+                左翼－綠色運動
+               </a>
+               組成的執政聯盟在
+               <b>
+                <a href="/wiki/2021%E5%B9%B4%E5%86%B0%E5%B3%B6%E8%AD%B0%E6%9C%83%E9%81%B8%E8%88%89" title="2021年冰島議會選舉">
+                 2021年議會選舉
+                </a>
+               </b>
+               贏得多數席次。
+              </li>
+              <li>
+               長年舉辦
+               <a href="/wiki/%E7%B6%AD%E5%9C%92%E5%85%AD%E5%9B%9B%E7%87%AD%E5%85%89%E6%99%9A%E6%9C%83" title="維園六四燭光晚會">
+                維園六四燭光晚會
+               </a>
+               <small>
+                （图）
+               </small>
+               等
+               <a href="/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6" title="六四事件">
+                六四事件
+               </a>
+               相關活動的
+               <b>
+                <a href="/wiki/%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E6%94%AF%E6%8F%B4%E6%84%9B%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E8%81%AF%E5%90%88%E6%9C%83" title="香港市民支援愛國民主運動聯合會">
+                 香港市民支援愛國民主運動聯合會
+                </a>
+               </b>
+               通過解散議案。
+              </li>
+             </ul>
+            </div>
+            <div id="column-feature-more">
+             <ul>
+              <li>
+               <span class="column-feature-more-header">
+                <b>
+                 <a href="/wiki/2021%E5%B9%B49%E6%9C%88%E9%80%9D%E4%B8%96%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8" title="2021年9月逝世人物列表">
+                  最近逝世
+                 </a>
+                </b>
+                ：
+               </span>
+               <span class="hlist inline">
+                <a href="/wiki/%E6%9E%97%E8%A5%BF%E8%8E%89" title="林西莉">
+                 林西莉
+                </a>
+                －
+                <a href="/wiki/%E9%BD%8A%E8%97%A4%E9%9A%86%E5%A4%AB" title="齊藤隆夫">
+                 齊藤隆夫
+                </a>
+                －
+                <a href="/wiki/%E5%82%85%E6%B5%A9%E5%BC%BA" title="傅浩强">
+                 傅浩強
+                </a>
+                －
+                <a href="/wiki/%E5%96%AC%E6%B2%BB%C2%B7%E7%83%8F%E7%BE%85%E8%96%A9%C2%B7%E8%96%A9%E7%B6%AD%E8%AB%BE" title="喬治·烏羅薩·薩維諾">
+                 喬治·烏羅薩·薩維諾
+                </a>
+                －
+                <a href="/wiki/%E5%B0%BC%E8%AF%BA%C2%B7%E7%93%A6%E5%8D%A1%E9%9B%B7%E6%8B%89" title="尼诺·瓦卡雷拉">
+                 尼諾·瓦卡雷拉
+                </a>
+                －
+                <a href="/wiki/%E9%98%BF%E5%8D%9C%E6%9D%9C%E5%8B%92%E5%8D%A1%E5%BE%B7%E7%88%BE%C2%B7%E6%9C%AC%E8%96%A9%E6%8B%89%E8%B5%AB" title="阿卜杜勒卡德爾·本薩拉赫">
+                 阿卜杜勒卡德爾·本薩拉赫
+                </a>
+               </span>
+              </li>
+             </ul>
+            </div>
+            <div class="mp-2012-block-nav-footer hlist">
+             <ul>
+              <li>
+               <a href="/wiki/Wikipedia:%E6%96%B0%E9%97%BB%E5%8A%A8%E6%80%81%E5%80%99%E9%80%89" title="Wikipedia:新闻动态候选">
+                候選
+               </a>
+              </li>
+              <li>
+               <a class="extiw" href="https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5" title="n:Wikinews:首页">
+                維基新聞
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Portal:%E8%AE%A3%E9%97%BB" title="Portal:讣闻">
+                讣闻
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="Portal:新聞動態">
+                更多新闻
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="mp-2012-column-right-subblock" id="mp-2012-column-otd-block">
+            <h2>
+             <span id=".E5.8E.86.E5.8F.B2.E4.B8.8A.E7.9A.84.E4.BB.8A.E5.A4.A9">
+             </span>
+             <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u5386\u53f2\u4e0a\u7684\u4eca\u5929-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="历史上的今天">
+              <span data-mw-comment-start="" id="h-历史上的今天-维基百科">
+              </span>
+              历史上的今天
+              <span data-mw-comment-end="h-历史上的今天-维基百科">
+              </span>
+             </span>
+            </h2>
+            <div class="knoblock mp-2012-text" id="column-otd">
+             <p>
+              <span class="otd-year">
+               <a href="/wiki/9%E6%9C%8830%E6%97%A5" title="9月30日">
+                9月30日
+               </a>
+              </span>
+              ：
+              <a href="/wiki/%E6%B3%A2%E6%9C%AD%E9%82%A3" title="波札那">
+               博茨瓦纳
+              </a>
+              <a href="/wiki/%E7%8D%A8%E7%AB%8B%E6%97%A5" title="獨立日">
+               獨立日
+              </a>
+              （
+              <a href="/wiki/1966%E5%B9%B4" title="1966年">
+               1966年
+              </a>
+              ）、
+              <a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="中华人民共和国">
+               中华人民共和国
+              </a>
+              <a href="/wiki/%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5" title="烈士纪念日">
+               烈士纪念日
+              </a>
+              、
+              <a href="/wiki/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%B0%E5%9C%B0%E5%AE%89%E4%BA%BA%E5%AF%84%E5%AE%BF%E5%AD%B8%E6%A0%A1%E7%B3%BB%E7%B5%B1" title="加拿大印地安人寄宿學校系統">
+               加拿大橘衣日
+              </a>
+             </p>
+             <div class="floatright">
+              <a class="image" href="/wiki/File:AH-64D_Apache_Longbow.jpg">
+               <img alt="AH-64D Apache Longbow.jpg" class="thumbborder" data-file-height="1256" data-file-width="1705" decoding="async" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/120px-AH-64D_Apache_Longbow.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/180px-AH-64D_Apache_Longbow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/240px-AH-64D_Apache_Longbow.jpg 2x" width="120"/>
+              </a>
+             </div>
+             <dl>
+              <dt>
+               <a href="/wiki/1965%E5%B9%B4" title="1965年">
+                1965年
+               </a>
+              </dt>
+              <dd>
+               印尼陸軍少將
+               <a href="/wiki/%E8%98%87%E5%93%88%E6%89%98" title="蘇哈托">
+                蘇哈托
+               </a>
+               成功鎮壓
+               <a href="/wiki/%E4%B9%9D%E4%B8%89%E3%80%87%E4%BA%8B%E4%BB%B6" title="九三〇事件">
+                軍事政變
+               </a>
+               後，開始對
+               <a href="/wiki/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E%E5%85%B1%E7%94%A2%E9%BB%A8" title="印度尼西亞共產黨">
+                印尼共產黨
+               </a>
+               發動
+               <b>
+                <a href="/wiki/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%A4%A7%E5%B1%A0%E6%9D%80_(1965%E5%B9%B4%EF%BC%8D1966%E5%B9%B4)" title="印度尼西亚大屠杀 (1965年－1966年)">
+                 大屠殺
+                </a>
+               </b>
+               。
+              </dd>
+              <dt>
+               <a href="/wiki/1975%E5%B9%B4" title="1975年">
+                1975年
+               </a>
+              </dt>
+              <dd>
+               由美國
+               <a href="/wiki/%E4%BC%91%E6%96%AF%E9%A3%9E%E6%9C%BA%E5%85%AC%E5%8F%B8" title="休斯飞机公司">
+                休斯飛機公司
+               </a>
+               為
+               <a class="mw-redirect" href="/wiki/%E7%BE%8E%E5%9C%8B%E9%99%B8%E8%BB%8D" title="美國陸軍">
+                美國陸軍
+               </a>
+               研製的武裝直升機
+               <b>
+                <a href="/wiki/AH-64%E9%98%BF%E5%B8%95%E5%A5%91%E7%9B%B4%E5%8D%87%E6%A9%9F" title="AH-64阿帕契直升機">
+                 AH-64阿帕奇直升機
+                </a>
+               </b>
+               <small>
+                （圖）
+               </small>
+               首次試飛。
+              </dd>
+              <dt>
+               <a href="/wiki/1979%E5%B9%B4" title="1979年">
+                1979年
+               </a>
+              </dt>
+              <dd>
+               连接
+               <a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港">
+                香港
+               </a>
+               <a href="/wiki/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E7%AB%99" title="石硤尾站">
+                石硤尾站
+               </a>
+               到
+               <a href="/wiki/%E8%A7%80%E5%A1%98%E7%AB%99" title="觀塘站">
+                觀塘站
+               </a>
+               的
+               <a href="/wiki/%E4%BF%AE%E6%AD%A3%E6%97%A9%E6%9C%9F%E7%B3%BB%E7%B5%B1" title="修正早期系統">
+                修正早期系統
+               </a>
+               正式通車，為
+               <b>
+                <a href="/wiki/%E9%A6%99%E6%B8%AF%E5%9C%B0%E9%90%B5" title="香港地鐵">
+                 香港地鐵
+                </a>
+               </b>
+               系統首條營運路線。
+              </dd>
+              <dt>
+               <a href="/wiki/1980%E5%B9%B4" title="1980年">
+                1980年
+               </a>
+              </dt>
+              <dd>
+               <a class="mw-redirect" href="/wiki/%E7%BE%8E%E5%9C%8B" title="美國">
+                美國
+               </a>
+               <a href="/wiki/%E8%BF%AA%E5%90%89%E5%A4%9A" title="迪吉多">
+                迪吉多
+               </a>
+               、
+               <a class="mw-redirect" href="/wiki/%E8%8B%B1%E7%89%B9%E7%88%BE" title="英特爾">
+                英特爾
+               </a>
+               、
+               <a class="mw-redirect" href="/wiki/%E5%85%A8%E9%8C%84" title="全錄">
+                施乐
+               </a>
+               三家公司共同制定
+               <b>
+                <a class="mw-redirect" href="/wiki/%E4%B9%99%E5%A4%AA%E7%B6%B2%E8%B7%AF" title="乙太網路">
+                 以太网
+                </a>
+               </b>
+               的技術規範。
+              </dd>
+              <dt>
+               <a href="/wiki/2005%E5%B9%B4" title="2005年">
+                2005年
+               </a>
+              </dt>
+              <dd>
+               丹麥《
+               <a class="mw-redirect" href="/wiki/%E6%97%A5%E5%BE%B7%E8%98%AD%E9%83%B5%E5%A0%B1" title="日德蘭郵報">
+                日德蘭郵報
+               </a>
+               》發表刊登有
+               <a href="/wiki/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7" title="穆罕默德">
+                穆罕默德
+               </a>
+               圖像的爭議性
+               <b>
+                <a href="/wiki/%E6%97%A5%E5%BE%B7%E8%98%AD%E9%83%B5%E5%A0%B1%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E6%BC%AB%E7%95%AB%E4%BA%8B%E4%BB%B6" title="日德蘭郵報穆罕默德漫畫事件">
+                 政治漫畫
+                </a>
+               </b>
+               ，引起
+               <a href="/wiki/%E7%A9%86%E6%96%AF%E6%9E%97%E4%B8%96%E7%95%8C" title="穆斯林世界">
+                穆斯林世界
+               </a>
+               的抗議。
+              </dd>
+             </dl>
+            </div>
+            <div class="mp-2012-block-nav-footer hlist">
+             <ul>
+              <li>
+               <a href="/wiki/Wikipedia:%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9" title="Wikipedia:历史上的今天">
+                存档
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/9%E6%9C%8830%E6%97%A5" title="9月30日">
+                更多历史事件
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="mp-2012-column-right-subblock nomobile" id="mp-2012-column-uptrends-block">
+            <h2>
+             <span id=".E5.8B.95.E6.85.8B.E7.83.AD.E9.97.A8">
+             </span>
+             <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u52d5\u614b\u70ed\u95e8-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="動態热门">
+              <span data-mw-comment-start="" id="h-動態热门-维基百科">
+              </span>
+              動態热门
+              <span data-mw-comment-end="h-動態热门-维基百科">
+              </span>
+             </span>
+            </h2>
+            <div class="hlist mp-2012-text" id="column-uptrends">
+             <ul>
+              <li>
+               <a href="/wiki/%E9%AD%B7%E9%AD%9A%E9%81%8A%E6%88%B2" title="魷魚遊戲">
+                魷魚遊戲
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84" title="岸田文雄">
+                岸田文雄
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E5%8A%89%E5%81%89%E5%81%A5" title="劉偉健">
+                劉偉健
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E6%B1%9F%E4%BF%8A%E7%BF%B0" title="江俊翰">
+                江俊翰
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E6%9E%97%E4%BE%9D%E6%99%A8" title="林依晨">
+                林依晨
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E6%9D%8E%E6%94%BF%E5%AE%B0" title="李政宰">
+                李政宰
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E6%B5%B7%E5%B2%B8%E6%9D%91%E6%81%B0%E6%81%B0%E6%81%B0" title="海岸村恰恰恰">
+                海岸村恰恰恰
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/2021%E5%B9%B4%E8%98%87%E8%BF%AA%E6%9B%BC%E7%9B%83" title="2021年蘇迪曼盃">
+                2021年蘇迪曼盃
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E4%BB%8A%E9%9A%9B%E4%B9%8B%E5%9C%8B%E7%9A%84%E9%97%96%E9%97%9C%E8%80%85" title="今際之國的闖關者">
+                今際之國的闖關者
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/%E6%8A%8A%E9%97%9C%E8%80%85%E5%80%91" title="把關者們">
+                把關者們
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="mp-2012-column-right-block nomobile" id="mp-2012-column-right-block-b">
+           <div class="mp-2012-column-right-subblock nomobile" id="mp-2012-column-participate-block">
+            <h2>
+             <span id=".E5.8F.83.E8.88.87.E7.BB.B4.E5.9F.BA.E7.99.BE.E7.A7.91">
+             </span>
+             <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u53c3\u8207\u7ef4\u57fa\u767e\u79d1-\u7ef4\u57fa\u767e\u79d1","replies":[],"headingLevel":2,"placeholderHeading":false}' id="參與维基百科">
+              <span data-mw-comment-start="" id="h-參與维基百科-维基百科">
+              </span>
+              參與维基百科
+              <span data-mw-comment-end="h-參與维基百科-维基百科">
+              </span>
+             </span>
+            </h2>
+            <div class="mp-2012-text" id="column-participate">
+             <div class="floatright">
+              <a class="image" href="/wiki/File:Applications-office.svg">
+               <img alt="Applications-office.svg" data-file-height="48" data-file-width="48" decoding="async" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Applications-office.svg/70px-Applications-office.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Applications-office.svg/105px-Applications-office.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Applications-office.svg/140px-Applications-office.svg.png 2x" width="70"/>
+              </a>
+             </div>
+             <p>
+              <b>
+               <a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="Wikipedia:关于">
+                维基百科
+               </a>
+              </b>
+              是一个
+              <a href="/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E8%AF%AD%E8%A8%80%E5%88%97%E8%A1%A8" title="Wikipedia:维基百科语言列表">
+               多语言
+              </a>
+              、
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF" title="Wikipedia:版权信息">
+               内容自由
+              </a>
+              、
+              <a href="/wiki/Wikipedia:%E8%AA%B0%E5%9C%A8%E5%AF%AB%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="Wikipedia:誰在寫維基百科">
+               任何人都能参与
+              </a>
+              的协作计划，其目标是建立一个完整、准确且中立的百科全书。
+             </p>
+             <p>
+              中文维基百科的成长依靠您的参与，無論是
+              <a class="mw-redirect" href="/wiki/Help:%E5%88%9B%E5%BB%BA%E6%96%B0%E9%A1%B5%E9%9D%A2" title="Help:创建新页面">
+               创建新条目
+              </a>
+              、
+              <a href="/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2" title="Help:编辑页面">
+               编辑现有条目
+              </a>
+              ，或者
+              <a class="mw-redirect" href="/wiki/Wikipedia:%E5%9B%BE%E7%89%87%E6%95%99%E7%A8%8B" title="Wikipedia:图片教程">
+               为条目增加插图
+              </a>
+              ，您都可以为维基百科作出贡献。
+             </p>
+             <div id="column-participate-button">
+              <span class="plainlinks">
+               <a href="/wiki/Wikipedia:%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB" title="Wikipedia:參與貢獻">
+                <span class="mw-ui-button mw-ui-progressive" role="button">
+                 开始参与维基百科
+                </span>
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="mp-2012-column-right-block nomobile" id="mp-2012-column-right-block-c">
+           <div class="mp-2012-column-right-subblock nomobile" id="mp-2012-column-tips-block">
+            <h2>
+             <span id=".E7.BB.B4.E5.9F.BA.E7.99.BE.E7.A7.91.E6.8F.90.E9.86.92.E6.82.A8">
+             </span>
+             <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8-\u7ef4\u57fa\u767e\u79d1","replies":["h-\u7ad9\u70b9-{zh-cn:\u94fe\u63a5;zh-hant:\u9023\u7d50}--\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8","h-\u8ba4\u8bc6\u7ef4\u57fa\u767e\u79d1-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8","h-\u5e38\u7528\u5de5\u5177-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8"],"headingLevel":2,"placeholderHeading":false}' id="维基百科提醒您">
+              <span data-mw-comment-start="" id="h-维基百科提醒您-维基百科">
+              </span>
+              维基百科提醒您
+              <span data-mw-comment-end="h-维基百科提醒您-维基百科">
+              </span>
+             </span>
+            </h2>
+            <div class="plainlinks mp-2012-text" id="column-tips">
+             <div class="floatright">
+              <a class="image" href="/wiki/File:Dialog-information_on.svg">
+               <img alt="Dialog-information on.svg" data-file-height="48" data-file-width="48" decoding="async" height="70" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/70px-Dialog-information_on.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/105px-Dialog-information_on.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dialog-information_on.svg/140px-Dialog-information_on.svg.png 2x" width="70"/>
+              </a>
+             </div>
+             <p>
+              <span id="mp-2012-column-tips-header">
+               <a href="/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%B8%8E%E5%AA%92%E4%BD%93" title="Wikipedia:维基百科与媒体">
+                這個世界對我們的認識
+               </a>
+              </span>
+              ：看看我們的
+              <a href="/wiki/Wikipedia:%E6%96%B0%E9%97%BB%E7%95%8C%E7%9A%84%E6%8A%A5%E5%AF%BC" title="Wikipedia:新闻界的报导">
+               Wikipedia:新闻界的报导
+              </a>
+              、
+              <a href="/wiki/Wikipedia:%E6%96%B0%E9%97%BB%E6%8A%A5%E5%AF%BC%E5%BC%95%E7%94%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E5%86%85%E5%AE%B9" title="Wikipedia:新闻报导引用维基百科的内容">
+               新闻报导引用维基百科的内容
+              </a>
+              ，你會知道維基百科已經逐漸被新聞界注視，且維基百科的內容經常作為新聞界、出版界、學術界甚至是法庭的資訊來源。
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="nomobile" id="mp-2012-links">
+         <table>
+          <tbody>
+           <tr>
+            <td>
+             <h3>
+              <span id=".E7.AB.99.E7.82.B9-.7Bzh-cn:.E9.93.BE.E6.8E.A5.3Bzh-hant:.E9.80.A3.E7.B5.90.7D-">
+              </span>
+              <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u7ad9\u70b9-{zh-cn:\u94fe\u63a5;zh-hant:\u9023\u7d50}--\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8","replies":[],"headingLevel":3,"placeholderHeading":false}' id="站点-{zh-cn:链接;zh-hant:連結}-">
+               <span data-mw-comment-start="" id="h-站点-{zh-cn:链接;zh-hant:連結}--维基百科提醒您">
+               </span>
+               站点連結
+               <span data-mw-comment-end="h-站点-{zh-cn:链接;zh-hant:連結}--维基百科提醒您">
+               </span>
+              </span>
+             </h3>
+             <ul>
+              <li>
+               <a class="mw-redirect" href="/wiki/Wikipedia:WAP%E5%AD%98%E5%8F%96" title="Wikipedia:WAP存取">
+                移动访问
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Wikipedia:%E6%96%B0%E8%81%9E" title="Wikipedia:新聞">
+                站点新闻
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="Wikipedia:联络我们">
+                联络我们
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E8%81%94%E5%90%88%E4%BE%9B%E7%A8%BF" title="Wikipedia:联合供稿">
+                <span lang="en">
+                 RSS
+                </span>
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia_talk:Guestbook_for_non-Chinese_speakers" title="Wikipedia talk:Guestbook for non-Chinese speakers">
+                <span lang="en">
+                 Guestbook
+                </span>
+               </a>
+              </li>
+             </ul>
+            </td>
+            <td>
+             <h3>
+              <span id=".E8.AE.A4.E8.AF.86.E7.BB.B4.E5.9F.BA.E7.99.BE.E7.A7.91">
+              </span>
+              <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u8ba4\u8bc6\u7ef4\u57fa\u767e\u79d1-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8","replies":[],"headingLevel":3,"placeholderHeading":false}' id="认识维基百科">
+               <span data-mw-comment-start="" id="h-认识维基百科-维基百科提醒您">
+               </span>
+               认识维基百科
+               <span data-mw-comment-end="h-认识维基百科-维基百科提醒您">
+               </span>
+              </span>
+             </h3>
+             <ul>
+              <li>
+               <a href="/wiki/Wikipedia:%E8%AA%B0%E5%9C%A8%E5%AF%AB%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91" title="Wikipedia:誰在寫維基百科">
+                谁在撰写
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E4%BA%94%E5%A4%A7%E6%94%AF%E6%9F%B1" title="Wikipedia:五大支柱">
+                五大支柱
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94" title="Wikipedia:常见问题解答">
+                常见问题
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%B8%8D%E6%98%AF%E4%BB%80%E4%B9%88" title="Wikipedia:维基百科不是什么">
+                常见誤解
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E7%AE%80%E8%A6%81%E8%A7%84%E5%88%99%E9%9B%86" title="Wikipedia:简要规则集">
+                简要规则集
+               </a>
+              </li>
+             </ul>
+            </td>
+            <td>
+             <h3>
+              <span id=".E5.B8.B8.E7.94.A8.E5.B7.A5.E5.85.B7">
+              </span>
+              <span class="mw-headline" data-mw-comment='{"type":"heading","level":0,"id":"h-\u5e38\u7528\u5de5\u5177-\u7ef4\u57fa\u767e\u79d1\u63d0\u9192\u60a8","replies":[],"headingLevel":3,"placeholderHeading":false}' id="常用工具">
+               <span data-mw-comment-start="" id="h-常用工具-维基百科提醒您">
+               </span>
+               常用工具
+               <span data-mw-comment-end="h-常用工具-维基百科提醒您">
+               </span>
+              </span>
+             </h3>
+             <ul>
+              <li>
+               <a href="/wiki/Wikipedia:%E5%82%99%E5%BF%98%E5%96%AE" title="Wikipedia:備忘單">
+                备忘单
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Wikipedia:%E7%AE%80%E6%98%8E%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF" title="Wikipedia:简明版权信息">
+                版权守则
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8A" title="Wikipedia:格式手冊">
+                格式手冊
+               </a>
+              </li>
+              <li>
+               <a class="mw-redirect" href="/wiki/Wikipedia:%E7%89%88%E9%9D%A2%E6%8C%87%E5%8D%97" title="Wikipedia:版面指南">
+                版面指南
+               </a>
+              </li>
+              <li>
+               <a href="/wiki/Wikipedia:%E6%9C%AF%E8%AF%AD%E8%A1%A8" title="Wikipedia:术语表">
+                术语表
+               </a>
+              </li>
+             </ul>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div class="nomobile" id="mp-2012-sisters">
+         <div>
+          <div class="center">
+           <div class="floatnone">
+            <img alt="Wikimedia-logo black.svg" data-file-height="512" data-file-width="512" decoding="async" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/45px-Wikimedia-logo_black.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/68px-Wikimedia-logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/90px-Wikimedia-logo_black.svg.png 2x" width="45"/>
+           </div>
+          </div>
+         </div>
+         <p style="text-align:center;">
+          <b>
+           维基百科
+          </b>
+          由非营利组织
+          <a class="extiw" href="https://foundation.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="wikimedia:首页">
+           维基媒体基金会
+          </a>
+          运作。基金会旗下尚有其他数个多语言、内容开放的维基计划：
+         </p>
+         <table align="center" cellpadding="2" class="plainlinks" style="width:90%; background-color:transparent; color:#777; font-size:95%;">
+          <tbody>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wiktionary.org/wiki/" title="维基词典">
+                <img alt="维基词典" data-file-height="350" data-file-width="375" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wiktprintable_without_text_zh.svg/37px-Wiktprintable_without_text_zh.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wiktprintable_without_text_zh.svg/56px-Wiktprintable_without_text_zh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Wiktprintable_without_text_zh.svg/74px-Wiktprintable_without_text_zh.svg.png 2x" width="37"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="width:27%;padding:4px;">
+             <a class="extiw" href="https://zh.wiktionary.org/wiki/" title="wikt:">
+              <b>
+               维基词典
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              多语言字词典
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wikisource.org/wiki/" title="维基文库">
+                <img alt="维基文库" data-file-height="430" data-file-width="410" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" width="35"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="width:27%;padding:4px;">
+             <a class="extiw" href="https://zh.wikisource.org/wiki/" title="s:">
+              <b>
+               维基文库
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由内容的图书馆
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wikiquote.org/wiki/" title="维基语录">
+                <img alt="维基语录" data-file-height="355" data-file-width="300" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" width="35"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="width:27%; padding:4px;">
+             <a class="extiw" href="https://zh.wikiquote.org/wiki/" title="q:">
+              <b>
+               维基语录
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              名人名言的集锦
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wikibooks.org/wiki/" title="维基教科书">
+                <img alt="维基教科书" data-file-height="300" data-file-width="300" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="width:19%; padding:4px;">
+             <a class="extiw" href="https://zh.wikibooks.org/wiki/" title="b:">
+              <b>
+               维基教科书
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的教科书和手册
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wikinews.org/wiki/" title="维基新闻">
+                <img alt="维基新闻" data-file-height="415" data-file-width="759" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/55px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/83px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/110px-Wikinews-logo.svg.png 2x" width="55"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://zh.wikinews.org/wiki/" title="n:">
+              <b>
+               维基新闻
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的新闻源
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://species.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="维基物种">
+                <img alt="维基物种" data-file-height="1103" data-file-width="941" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/80px-Wikispecies-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://species.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="wikispecies:首页">
+              <b>
+               维基物种
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              物种目录
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://zh.wikivoyage.org/wiki/%E9%A6%96%E9%A1%B5" title="维基导游">
+              <img alt="维基导游" data-file-height="193" data-file-width="193" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="35"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://zh.wikivoyage.org/wiki/" title="voy:">
+              <b>
+               维基导游
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的旅行指南
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://zh.wikiversity.org/wiki/Wikiversity:%E9%A6%96%E9%A1%B5" title="维基学院">
+                <img alt="维基学院" data-file-height="512" data-file-width="626" decoding="async" height="33" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/60px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/80px-Wikiversity_logo_2017.svg.png 2x" width="40"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://zh.wikiversity.org/wiki/" title="v:">
+              <b>
+               维基学院
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的研习社群
+             </span>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="维基共享资源">
+                <img alt="维基共享资源" data-file-height="1376" data-file-width="1024" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" width="35"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="commons:首页">
+              <b>
+               维基共享资源
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的多媒体资料库
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://www.wikidata.org/wiki/Wikidata:%E9%A6%96%E9%A0%81" title="维基数据">
+              <img alt="维基数据" data-file-height="590" data-file-width="1050" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/47px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/71px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/94px-Wikidata-logo.svg.png 2x" width="47"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:%E9%A6%96%E9%A1%B5" title="d:Wikidata:首页">
+              <b>
+               维基数据
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              自由的知识库
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://www.mediawiki.org/wiki/MediaWiki/zh" title="MediaWiki">
+                <img alt="MediaWiki" data-file-height="100" data-file-width="100" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/40px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/60px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/80px-MediaWiki-2020-icon.svg.png 2x" width="40"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://www.mediawiki.org/wiki/MediaWiki/zh" title="mw:MediaWiki/zh">
+              <b>
+               MediaWiki
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              Wiki软件开发
+             </span>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://meta.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="元维基">
+                <img alt="元维基" data-file-height="900" data-file-width="900" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/37px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/56px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/74px-Wikimedia_Community_Logo.svg.png 2x" width="37"/>
+               </a>
+              </div>
+             </div>
+            </td>
+            <td style="padding:4px;">
+             <a class="extiw" href="https://meta.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5" title="m:首页">
+              <b>
+               元维基
+              </b>
+             </a>
+             <br/>
+             <span style="font-size:small;">
+              协调各维基计划
+             </span>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+      <p>
+       <br/>
+      </p>
+      <!-- DiscussionTools addDiscussionTools called -->
+      <!-- 
+NewPP limit report
+Parsed by mw1437
+Cached time: 20210930080304
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.782 seconds
+Real time usage: 0.881 seconds
+Preprocessor visited node count: 1328/1000000
+Post‐expand include size: 28306/2097152 bytes
+Template argument size: 9077/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6960/5000000 bytes
+Lua time usage: 0.471/10.000 seconds
+Lua memory usage: 1376450/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  691.565      1 -total
+ 58.28%  403.021      1 Template:Good
+ 11.92%   82.469      1 Template:Feature
+  5.38%   37.206      2 Template:Lang
+  4.67%   32.321      2 Template:Category_handler
+  2.57%   17.753      1 Template:FeaturedContentType
+  2.28%   15.755      1 Template:FeaturedContentType/cascade
+  2.19%   15.113      1 Template:Otd
+  1.87%   12.938      1 Template:Featurepic
+  1.70%   11.738      1 Template:Clickable_button_2
+-->
+      <!-- Saved in parser cache with key zhwiki:pcache:idhash:3597889-0!canonical!zh and timestamp 20210930080304 and revision id 63724851. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//zh.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      取自“
+      <a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=Wikipedia:首页&amp;oldid=63724851">
+       https://zh.wikipedia.org/w/index.php?title=Wikipedia:首页&amp;oldid=63724851
+      </a>
+      ”
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    导航菜单
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       个人工具
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        没有登录
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论[n]">
+         讨论
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表[y]">
+         贡献
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=Wikipedia%3A%E9%A6%96%E9%A1%B5" title="建议您创建一个账户并登录，不过这不是强制的">
+         创建账户
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=Wikipedia%3A%E9%A6%96%E9%A1%B5" title="建议你登录，尽管并非必须。[o]">
+         登录
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        名字空间
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-project">
+         <a accesskey="a" href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="查看维基计划页面[a]">
+          首页
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Wikipedia_talk:%E9%A6%96%E9%A1%B5" rel="discussion" title="关于此页面的讨论[t]">
+          讨论
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        不转换
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        已展开
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        已折叠
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-varlang-0">
+         <a href="/zh/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh" lang="zh">
+          不转换
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-1">
+         <a href="/zh-hans/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans" lang="zh-Hans">
+          简体
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-2">
+         <a href="/zh-hant/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant" lang="zh-Hant">
+          繁體
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-3">
+         <a href="/zh-cn/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-CN" lang="zh-Hans-CN">
+          大陆简体
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-4">
+         <a href="/zh-hk/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-HK" lang="zh-Hant-HK">
+          香港繁體
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-5">
+         <a href="/zh-mo/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-MO" lang="zh-Hant-MO">
+          澳門繁體
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-6">
+         <a href="/zh-my/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-MY" lang="zh-Hans-MY">
+          大马简体
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-7">
+         <a href="/zh-sg/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hans-SG" lang="zh-Hans-SG">
+          新加坡简体
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-8">
+         <a href="/zh-tw/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh-Hant-TW" lang="zh-Hant-TW">
+          臺灣正體
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        查看
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5">
+          阅读
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Wikipedia:%E9%A6%96%E9%A1%B5&amp;action=edit" title="该页面已被保护。你可以查看该页源码。[e]">
+          查看源代码
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Wikipedia:%E9%A6%96%E9%A1%B5&amp;action=history" title="本页面的早前版本。[h]">
+          查看历史
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="更多选项">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        更多
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        已展开
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        已折叠
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         搜索
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="搜索维基百科" title="搜索维基百科[f]" type="search"/>
+         <input name="title" type="hidden" value="Special:搜索"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="搜索含这些文字的页面" type="submit" value="搜索"/>
+         <input class="searchButton" id="searchButton" name="go" title="若相同标题存在，则直接前往该页面" type="submit" value="前往"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="首页">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       导航
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页[z]">
+         首页
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-indexpage">
+        <a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科">
+         分类索引
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Featured_content">
+        <a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容">
+         特色内容
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料">
+         新闻动态
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改[r]">
+         最近更改
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面[x]">
+         随机条目
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=zh-hans" title="如果您在維基百科受益良多，您可以考慮資助我們">
+         资助维基百科
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-help-label" class="mw-portlet mw-portlet-help vector-menu vector-menu-portal portal" id="p-help" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-help-label">
+      <span>
+       帮助
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助">
+         帮助
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做">
+         维基社群
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-policy">
+        <a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引">
+         方针与指引
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-villagepump">
+        <a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论">
+         互助客栈
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Information_desk">
+        <a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方">
+         知识问答
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-conversion">
+        <a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求">
+         字词转换
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-IRC">
+        <a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93">
+         IRC即时聊天
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contact">
+        <a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科">
+         联络我们
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-about">
+        <a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介">
+         关于维基百科
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       工具
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/Wikipedia:%E9%A6%96%E9%A1%B5" title="列出所有与本页相链的页面[j]">
+         链入页面
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/Wikipedia:%E9%A6%96%E9%A1%B5" rel="nofollow" title="页面链出所有页面的更改[k]">
+         相关更改
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="/wiki/Project:%E4%B8%8A%E4%BC%A0" title="上传图像或多媒体文件[u]">
+         上传文件
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="全部特殊页面的列表[q]">
+         特殊页面
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Wikipedia:%E9%A6%96%E9%A1%B5&amp;oldid=63724851" title="本页面该版本的固定链接">
+         固定链接
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Wikipedia:%E9%A6%96%E9%A1%B5&amp;action=info" title="关于此页面的更多信息">
+         页面信息
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="链接到连接的数据仓库项目[g]">
+         维基数据项目
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+      <span>
+       打印/导出
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="electron-print_pdf">
+        <a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wikipedia%3A%E9%A6%96%E9%A1%B5&amp;action=show-download-screen">
+         下载为PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="javascript:print();" rel="alternate" title="本页面的可打印版本[p]">
+         打印页面
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       在其他项目中
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         维基共享资源
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         元维基
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         多语言维基文库
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         维基物种
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://zh.wikibooks.org/wiki/Wikibooks:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基教科书
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         维基数据
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         维基媒体年会
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item">
+        <a href="https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基新闻
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://zh.wikiquote.org/wiki/Wikiquote:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基语录
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://zh.wikisource.org/wiki/Wikisource:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基文库
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item">
+        <a href="https://zh.wikiversity.org/wiki/Wikiversity:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基学院
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item">
+        <a href="https://zh.wikivoyage.org/wiki/%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基导游
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5" hreflang="zh">
+         维基词典
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       其他语言
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="阿拉伯语">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="保加利亚语">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bo mw-list-item">
+        <a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/" hreflang="bo" lang="bo" title="藏语">
+         བོད་ཡིག
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="波斯尼亚语">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="加泰罗尼亚语">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cdo mw-list-item">
+        <a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/" hreflang="cdo" lang="cdo" title="Min Dong Chinese">
+         Mìng-dĕ̤ng-ngṳ̄
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="捷克语">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="丹麦语">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="德语">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="希腊语">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="英语">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="世界语">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="西班牙语">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="爱沙尼亚语">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="巴斯克语">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="波斯语">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="芬兰语">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="法语">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gan mw-list-item">
+        <a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/" hreflang="gan" lang="gan" title="赣语">
+         贛語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/" hreflang="gl" lang="gl" title="加利西亚语">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hak mw-list-item">
+        <a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/" hreflang="hak" lang="hak" title="客家语">
+         客家語/Hak-kâ-ngî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="希伯来语">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="克罗地亚语">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="匈牙利语">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="印度尼西亚语">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="意大利语">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="日语">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="格鲁吉亚语">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="韩语">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="立陶宛语">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/" hreflang="lv" lang="lv" title="拉脱维亚语">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn mw-list-item">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/" hreflang="mn" lang="mn" title="蒙古语">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="马来语">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="荷兰语">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="挪威尼诺斯克语">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="书面挪威语">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="波兰语">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="葡萄牙语">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="罗马尼亚语">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="俄语">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="塞尔维亚-克罗地亚语">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="斯洛伐克语">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="斯洛文尼亚语">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="塞尔维亚语">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="瑞典语">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szy mw-list-item">
+        <a class="interlanguage-link-target" href="https://szy.wikipedia.org/wiki/" hreflang="szy" lang="szy" title="Sakizaya">
+         Sakizaya
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tay mw-list-item">
+        <a class="interlanguage-link-target" href="https://tay.wikipedia.org/wiki/" hreflang="tay" lang="tay" title="Tayal">
+         Tayal
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="泰语">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="土耳其语">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-trv mw-list-item">
+        <a class="interlanguage-link-target" href="https://trv.wikipedia.org/wiki/" hreflang="trv" lang="trv" title="赛德克语">
+         Seediq
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug mw-list-item">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/" hreflang="ug" lang="ug" title="维吾尔语">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="乌克兰语">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="越南语">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/" hreflang="wuu" lang="wuu" title="吴语">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-za mw-list-item">
+        <a class="interlanguage-link-target" href="https://za.wikipedia.org/wiki/" hreflang="za" lang="za" title="壮语">
+         Vahcuengh
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-classical mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/" hreflang="lzh" lang="lzh" title="Classical Chinese">
+         文言
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/" hreflang="nan" lang="nan" title="Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/" hreflang="yue" lang="yue" title="Cantonese">
+         粵語
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     本页面最后修订于2021年1月15日 (星期五) 03:40。
+    </li>
+    <li id="footer-info-copyright">
+     本站的全部文字在
+     <a href="//zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA-3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" rel="license" title="Wikipedia:CC-BY-SA-3.0协议文本">
+      知识共享 署名-相同方式共享 3.0协议
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/deed.zh" rel="license" style="display:none;">
+     </a>
+     之条款下提供，附加条款亦可能应用。（请参阅
+     <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+      使用条款
+     </a>
+     ）
+     <br/>
+     Wikipedia®和维基百科标志是
+     <a href="//wikimediafoundation.org">
+      维基媒体基金会
+     </a>
+     的注册商标；维基™是维基媒体基金会的商标。
+     <br/>
+     维基媒体基金会是按美国国內稅收法501(c)(3)登记的
+     <a href="//donate.wikimedia.org/wiki/Tax_deductibility">
+      非营利慈善机构
+     </a>
+     。
+     <br/>
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      隐私政策
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="Wikipedia:关于">
+      关于维基百科
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="Wikipedia:免责声明">
+      免责声明
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//zh.m.wikipedia.org/w/index.php?title=Wikipedia:%E9%A6%96%E9%A1%B5&amp;mobileaction=toggle_view_mobile">
+      手机版视图
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      开发者
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/zh.wikipedia.org">
+      统计
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie声明
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.782","walltime":"0.881","ppvisitednodes":{"value":1328,"limit":1000000},"postexpandincludesize":{"value":28306,"limit":2097152},"templateargumentsize":{"value":9077,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6960,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  691.565      1 -total"," 58.28%  403.021      1 Template:Good"," 11.92%   82.469      1 Template:Feature","  5.38%   37.206      2 Template:Lang","  4.67%   32.321      2 Template:Category_handler","  2.57%   17.753      1 Template:FeaturedContentType","  2.28%   15.755      1 Template:FeaturedContentType/cascade","  2.19%   15.113      1 Template:Otd","  1.87%   12.938      1 Template:Featurepic","  1.70%   11.738      1 Template:Clickable_button_2"]},"scribunto":{"limitreport-timeusage":{"value":"0.471","limit":"10.000"},"limitreport-memusage":{"value":1376450,"limit":52428800}},"cachereport":{"origin":"mw1437","timestamp":"20210930080304","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1411"});});
+  </script>
+ </body>
+</html>

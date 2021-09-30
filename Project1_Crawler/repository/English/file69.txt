@@ -1,0 +1,1652 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="hr">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedija
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy hr","wgMonthNames":["","siječnja","veljače","ožujka","travnja","svibnja","lipnja","srpnja","kolovoza","rujna","listopada","studenoga","prosinca"],"wgRequestId":"8f3fe8a5-e137-48a7-9d00-c06b3bfb715a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Glavna_stranica","wgTitle":"Glavna stranica","wgCurRevisionId":5833490,"wgRevisionId":5833490,"wgArticleId":4,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedija"],"wgPageContentLanguage":"hr","wgPageContentModel":"wikitext","wgRelevantPageName":"Glavna_stranica","wgRelevantArticleId":4,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"hr","pageLanguageDir":"ltr","pageVariantFallbacks":"hr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"hrvatski","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.switcher","ext.gadget.jubilarci","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"hr"});
+});});
+  </script>
+  <link href="/w/load.php?lang=hr&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=hr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=hr&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hellfest2019TheYoungGods_05.jpg/1200px-Hellfest2019TheYoungGods_05.jpg" property="og:image"/>
+  <meta content="Wikipedija" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//hr.m.wikipedia.org/wiki/Glavna_stranica" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedija (hr)" type="application/opensearchdescription+xml"/>
+  <link href="//hr.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://hr.wikipedia.org/wiki/Glavna_stranica" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Glavna_stranica rootpage-Glavna_stranica skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Glavna stranica
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Izvor: Wikipedija
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Prijeđi na navigaciju
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Prijeđi na pretraživanje
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="hr">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r5732146">
+       .mw-parser-output .glavnastranicazaglavlje{padding:10px 20px;height:4em;max-height:50px;background-image:url("https://upload.wikimedia.org/wikipedia/commons/1/1a/Pleter41.svg");background-image:url("https://upload.wikimedia.org/wikipedia/commons/f/fc/Pleter-multi-gradient.svg");background-repeat:no-repeat;background-size:contain}.mw-parser-output .okvir{box-shadow:0 0 0.3rem #999;border-left-width:8px;border-left-style:solid;width:calc(50% - 11px);margin-bottom:7px}.mw-parser-output .flex{display:flex;flex-direction:row;justify-content:space-between;flex-wrap:wrap}.mw-parser-output .naslov{font-family:Georgia;font-variant:small-caps;font-size:2em;z-index:950;text-shadow:0px 0px #bab2b2}.mw-parser-output .arhiv-link{height:1.5em;float:right;margin:0 7px;font-family:sans-serif;font-variant:small-caps;font-size:1.25em;text-transform:lowercase;z-index:950}.mw-parser-output #mp-itn img{width:100%;height:auto}.mw-parser-output #mf-itn{padding:1vw}.mw-parser-output .sep{position:relative;height:1px}.mw-parser-output .sep-crte:before{content:"";position:absolute;top:0;left:5%;right:5%;width:90%;height:1px;background-image:linear-gradient(to right,transparent,rgb(48,49,51),transparent)}.mw-parser-output .sep-slika:after{content:"";position:absolute;z-index:1;top:-9px;left:calc(50% - 9px);width:30px;height:18px;background-image:url("https://upload.wikimedia.org/wikipedia/commons/1/1a/Pleter41.svg");background-position:center;background-repeat:no-repeat;background-size:cover;background-color:whitesmoke}@media only screen and (max-width:800px){.mw-parser-output .okvir{width:100%}.mw-parser-output .arhiv-link{margin:0}.mw-parser-output .glavnastranicazaglavlje{background-size:auto;max-height:58px}}
+      </style>
+      <style data-mw-deduplicate="TemplateStyles:r5734264">
+       @media(min-width:1000px){.mw-parser-output .main-top{align-items:center;background-image:url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Wikipedia_logo_letters_banner.svg");background-position:right;background-repeat:no-repeat;display:flex;margin-bottom:1.5rem;margin-top:0.5rem;padding-bottom:0;padding-left:0;padding-right:1.5rem;padding-top:0}.mw-parser-output .main-top-left{background-image:linear-gradient(to right,#f8f9fa 0%,#f8f9fa 70%,rgba(248,249,250,0)100%);flex:3;padding:2rem 0 2rem 1.5rem}.mw-parser-output .main-top-right{flex:2;margin-top:0;text-align:right}.mw-parser-output .main-top-right>ul{align-items:center;flex-direction:row-reverse;justify-content:right;margin-top:0;text-align:left}.mw-parser-output .main-top-createArticle+li .mw-ui-button.mw-ui-quiet{padding-right:1em}}.mw-parser-output div.hp-portali td{transition:2s}.mw-parser-output div.hp-portali a:hover{color:white!important}.mw-parser-output div.hp-portali td:nth-of-type(1):hover{box-shadow:inset 10em 0 0 0 #996633!important}.mw-parser-output div.hp-portali td:nth-of-type(2):hover{box-shadow:inset 10em 0 0 0 #999933!important}.mw-parser-output div.hp-portali td:nth-of-type(3):hover{box-shadow:inset 10em 0 0 0 #669933!important}.mw-parser-output div.hp-portali td:nth-of-type(4):hover{box-shadow:inset 10em 0 0 0 #339933!important}.mw-parser-output div.hp-portali td:nth-of-type(5):hover{box-shadow:inset 10em 0 0 0 #339999!important}.mw-parser-output div.hp-portali td:nth-of-type(6):hover{box-shadow:inset 10em 0 0 0 #336699!important}.mw-parser-output div.hp-portali td:nth-of-type(7):hover{box-shadow:inset 10em 0 0 0 #333399!important}.mw-parser-output div.hp-portali td:nth-of-type(8):hover{box-shadow:inset 10em 0 0 0 #993399!important}.mw-parser-output div.hp-portali td:nth-of-type(9):hover{box-shadow:inset 10em 0 0 0 #993366!important}.mw-parser-output div.hp-portali td:nth-of-type(10):hover{box-shadow:inset 10em 0 0 0 #993333!important}.mw-parser-output div.hp{background-color:#ffffff;color:#333333}.mw-parser-output .wikipedia-w{font-feature-settings:"ss05"}.mw-parser-output div.hp table{margin:0;border-collapse:separate}.mw-parser-output div.hp p{margin:0.5em 0}.mw-parser-output div.hp-header,.mw-parser-output div.hp-portali,.mw-parser-output div.hp-footer{margin:10px 0;background-color:#ffffff}.mw-parser-output div.hp-header{padding:10px;box-shadow:1px 1px 1px rgba(0,0,0,0.1)}.mw-parser-output div.hp-header>table,.mw-parser-output div.hp-portali>table{width:100%;margin:0}.mw-parser-output div.hp-header td{vertical-align:middle;text-align:center;padding:12px 7px}.mw-parser-output div.hp-header td.hp-dd{width:65%;font-family:"Linux Libertine G","Linux Libertine","Linux Libertine O","Libertinus Serif",Georgia,serif;font-size:1.3em;line-height:150%}.mw-parser-output div.hp-header .hp-dd-1{font-variant:small-caps;font-size:185%}.mw-parser-output div.hp-header td.hp-dd a{color:#333333}.mw-parser-output div.hp-header td.hp-statistike{border-left:1px solid #cccccc}.mw-parser-output div.hp-header .hp-statistike-1{display:inline-block;text-align:left}.mw-parser-output div.hp-portali{padding:2px 0;box-shadow:0 1px 1px rgba(0,0,0,0.1)}.mw-parser-output div.hp-portali table{text-align:center;font-size:0.9em;border-spacing:1px}.mw-parser-output div.hp-portali td{padding:0;border-width:5px 0 0 0;border-style:solid}.mw-parser-output div.hp-portali a{display:block;padding:3px 0.25em;color:#000000;transition:2s}.mw-parser-output div.hp-footer{text-align:center;font-size:0.95em}.mw-parser-output table.hp-block{width:100%;border-spacing:2px}.mw-parser-output table.hp-block>tbody>tr>td{vertical-align:top;padding:0}.mw-parser-output table.hp-block h2.hp-segment-title{background-color:#ffffff;margin:0;padding:10px 10px 10px 25px;white-space:nowrap;border-bottom:1px solid #555555;font-family:unset;font-size:2em;font-variant:small-caps;line-height:unset}@media screen and (max-width:999px){.mw-parser-output table.hp-block h2.hp-segment-title{padding-left:15px;font-size:1.8em}}.mw-parser-output table.hp-block h2.hp-segment-title a{color:#555555}.mw-parser-output table.hp-block div.hp-segment-content{padding:10px;border-top:2px solid #ffffff}.mw-parser-output #segment-Zusterprojecten div.hp-segment-content{text-align:center}@media screen and (max-width:899px){.mw-parser-output .hp-responsive-table,.mw-parser-output .hp-responsive-table>tbody,.mw-parser-output .hp-responsive-table>tbody>tr,.mw-parser-output .hp-responsive-table>tbody>tr>td{display:block;width:100%!important;height:auto;box-sizing:border-box}.mw-parser-output div.hp-header td.hp-statistike{padding-top:0;border-left:0 none}.mw-parser-output div.hp-portali table tr{display:flex!important;flex-wrap:wrap}.mw-parser-output div.hp-portali table td{width:auto!important;margin:0 1px 1px 0;flex:auto}.mw-parser-output table.hp-block>tbody>tr{display:flex!important;flex-direction:column}.mw-parser-output #segment-Over_Wikipedia{background-color:transparent!important;order:-1}.mw-parser-output #segment-Over_Wikipedia h2.hp-segment-title{display:none}.mw-parser-output #segment-Over_Wikipedia div.hp-segment-content{background-color:transparent!important;padding:0;font-size:0.95em}.mw-parser-output table.hp-block tr.hp-3colsegment-content>td{border-top:2px solid #ffffff}}
+      </style>
+      <div style="background:white;box-shadow:0 0 0.3rem #999;">
+       <div class='style="padding-top:25px;padding-bottom:25px;padding-left:25px;"'>
+        <div class="hp-header">
+         <table class="hp-responsive-table">
+          <tbody>
+           <tr>
+            <td class="hp-dd">
+             <div class="hp-dd-1" style="text-shadow: 2px 2px #f5f5f5;">
+              Dobro došli na
+              <span class="wikipedia-w">
+               Wikipediju
+              </span>
+             </div>
+             <div class="hp-dd-2" style="text-shadow: 1px 1px #f5f5f5;">
+              na
+              <a href="/wiki/Hrvatski_jezik" title="Hrvatski jezik">
+               <span class="color:black;">
+                hrvatskome jeziku
+               </span>
+              </a>
+              !
+             </div>
+             <div class="hp-statistike-1">
+              <div>
+               Trenutačno uređujemo
+               <b>
+                <a href="/wiki/Posebno:Statistika" title="Posebno:Statistika">
+                 209.785
+                </a>
+               </b>
+               članaka.
+              </div>
+             </div>
+            </td>
+            <td class="hp-statistike">
+             <div class="hp-statistike-1">
+              <div style="text-align: center;">
+               <a href="/wiki/Wikipedija" title="Wikipedija">
+                Wikipedija
+               </a>
+               je globalan, višejezičan projekt s ciljem izgradnje slobodne internetske enciklopedije koja je svima javno dostupna. Njezini su suradnici
+               <a href="/wiki/Dobrovoljni_rad" title="Dobrovoljni rad">
+                dobrovoljci
+               </a>
+               . Wikipedijom danas rukovodi neprofitna organizacija
+               <a href="/wiki/Zaklada_Wikimedija" title="Zaklada Wikimedija">
+                Zaklada Wikimedija
+               </a>
+               .
+              </div>
+              <div style="text-align: center;">
+               <b>
+                <a href="/wiki/Wikipedija:Dobro_do%C5%A1li" title="Wikipedija:Dobro došli">
+                 I vi možete uređivati Wikipediju!
+                </a>
+               </b>
+              </div>
+             </div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div class="hp-portali">
+         <table class="hp-responsive-table">
+          <tbody>
+           <tr>
+            <td style="background-color: #F9F4F0; border-color: #996633; width:10em;">
+             <a href="/wiki/Portal:Biologija" title="Portal:Biologija">
+              Biologija
+             </a>
+            </td>
+            <td style="background-color: #F9F9F0; border-color: #999933; width:10em;">
+             <a href="/wiki/Portal:Fizika" title="Portal:Fizika">
+              Fizika
+             </a>
+            </td>
+            <td style="background-color: #F4F9F0; border-color: #669933; width:10em;">
+             <a href="/wiki/Portal:Glazba" title="Portal:Glazba">
+              Glazba
+             </a>
+            </td>
+            <td style="background-color: #F0F9F0; border-color: #339933; width:10em;">
+             <a href="/wiki/Portal:Kemija" title="Portal:Kemija">
+              Kemija
+             </a>
+            </td>
+            <td style="background-color: #F0F9F9; border-color: #339999; width:10em;">
+             <a href="/wiki/Portal:Hrvatska" title="Portal:Hrvatska">
+              Hrvatska
+             </a>
+            </td>
+            <td style="background-color: #F0F4F9; border-color: #336699; width:10em;">
+             <a href="/wiki/Portal:Likovna_umjetnost" title="Portal:Likovna umjetnost">
+              Likovna umjetnost
+             </a>
+            </td>
+            <td style="background-color: #F0F0F9; border-color: #333399; width:10em;">
+             <a href="/wiki/Portal:Povijest" title="Portal:Povijest">
+              Povijest
+             </a>
+            </td>
+            <td style="background-color: #F9F0F9; border-color: #993399; width:10em;">
+             <a href="/wiki/Portal:%C5%A0port" title="Portal:Šport">
+              Šport
+             </a>
+            </td>
+            <td style="background-color: #F9F0F4; border-color: #993366; width:10em;">
+             <a href="/wiki/Portal:Zemljopis" title="Portal:Zemljopis">
+              Zemljopis
+             </a>
+            </td>
+            <td style="background-color: #F9F0F0; border-color: #993333; width:10em;">
+             <a href="/wiki/Portal:%C5%BDivotopis" title="Portal:Životopis">
+              Životopis
+             </a>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+      <div class="flex" style="width:100%;margin-top:15px;">
+       <div class="okvir" style="background:#f0f7ff;border-left-color:#a8d3ff;margin-right:5px;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="arhiv-link">
+           <small>
+            <a class="mw-redirect" href="/wiki/Wikipedija:Izabrani_%C4%8Dlanci/Arhiva_izabranih_%C4%8Dlanaka" title="Wikipedija:Izabrani članci/Arhiva izabranih članaka">
+             Arhiva
+            </a>
+           </small>
+          </span>
+          <span class="naslov">
+           <a href="/wiki/Wikipedija:Izabrani_%C4%8Dlanci" title="Wikipedija:Izabrani članci">
+            <span style="color:#000000;">
+             Izabrani članak
+            </span>
+           </a>
+          </span>
+         </div>
+        </div>
+        <div id="mp-left" style="background:#f0f7ff;padding:10px;">
+         <div id="mp-tfa">
+          <div class="floatleft">
+           <a class="image" href="/wiki/Datoteka:Hellfest2019TheYoungGods_05.jpg">
+            <img alt="Hellfest2019TheYoungGods 05.jpg" data-file-height="2690" data-file-width="4000" decoding="async" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hellfest2019TheYoungGods_05.jpg/150px-Hellfest2019TheYoungGods_05.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hellfest2019TheYoungGods_05.jpg/225px-Hellfest2019TheYoungGods_05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hellfest2019TheYoungGods_05.jpg/300px-Hellfest2019TheYoungGods_05.jpg 2x" width="150"/>
+           </a>
+          </div>
+          <p>
+           <b>
+            The Young Gods
+           </b>
+           <a href="/wiki/%C5%A0vicarska" title="Švicarska">
+            švicarski
+           </a>
+           je
+           <a class="new" href="/w/index.php?title=Industrial_rock&amp;action=edit&amp;redlink=1" title="Industrial rock (stranica ne postoji)">
+            industrial rock
+           </a>
+           sastav osnovan 1985. godine u
+           <a href="/wiki/%C5%BDeneva" title="Ženeva">
+            Ženevi
+           </a>
+           . Prvotnu postavu činili su pjevač
+           <a class="new" href="/w/index.php?title=Franz_Treichler&amp;action=edit&amp;redlink=1" title="Franz Treichler (stranica ne postoji)">
+            Franz Treichler
+           </a>
+           , Cesare Pizzi (zadužen za sempliranje) i bubnjar Frank Bagnoud. Veći dio karijere skupina je bila trio koji su činili pjevač, glazbenik zadužen za sempliranje i bubnjar, no bilo je višestrukih promjena u postavi. Treichler je jedini stalni član; sadašnju postavu čine još Pizzi i bubnjar Bernard Trontin. Tijekom karijere grupa je uvelike surađivala s
+           <a href="/wiki/Glazbeni_producent" title="Glazbeni producent">
+            producentom
+           </a>
+           <a class="new" href="/w/index.php?title=Roli_Mosimann&amp;action=edit&amp;redlink=1" title="Roli Mosimann (stranica ne postoji)">
+            Rolijem Mosimannom
+           </a>
+           .
+          </p>
+          <p>
+           <a href="/wiki/Glazba" title="Glazba">
+            Glazba
+           </a>
+           sastava uglavnom je utemeljena na
+           <a class="new" href="/w/index.php?title=Sempliranje&amp;action=edit&amp;redlink=1" title="Sempliranje (stranica ne postoji)">
+            sempliranju
+           </a>
+           i manipulaciji
+           <a href="/wiki/Zvuk" title="Zvuk">
+            zvuka
+           </a>
+           ; pjesme su oblikovane korištenjem različitih uzoraka, kao što su distorzirani gitarski rifovi i gudačke dionice. Na kasnijim uradcima nalaze se i elementi
+           <a href="/wiki/Ambijentalna_glazba" title="Ambijentalna glazba">
+            ambijentalne
+           </a>
+           i
+           <a href="/wiki/Elektroni%C4%8Dka_glazba" title="Elektronička glazba">
+            elektroničke glazbe
+           </a>
+           , ali i raznolikija instrumentacija. Pristup
+           <a href="/wiki/Rock" title="Rock">
+            rock glazbi
+           </a>
+           utemeljen na semplovima nadahnuo je brojne glazbenike, među kojima su
+           <a href="/wiki/David_Bowie" title="David Bowie">
+            David Bowie
+           </a>
+           ,
+           <a href="/wiki/The_Edge" title="The Edge">
+            The Edge
+           </a>
+           i
+           <a class="new" href="/w/index.php?title=Mike_Patton&amp;action=edit&amp;redlink=1" title="Mike Patton (stranica ne postoji)">
+            Mike Patton
+           </a>
+           .
+          </p>
+          <div style="text-align:center; width:100%;">
+           <div class="mw-ui-button mw-ui-constructive" style="line-height:2em; font-size:9pt; margin:0.3em 0.2em 0;">
+            <b>
+             <a href="/wiki/The_Young_Gods" title="The Young Gods">
+              Pročitajte cijeli članak
+             </a>
+            </b>
+           </div>
+           •
+           <div class="mw-ui-button mw-ui-constructive" style="line-height:2em; font-size:9pt; margin:0.3em 0.2em 0;">
+            <b>
+             <a href="/wiki/Wikipedija:Izabrani_%C4%8Dlanci/Prijedlozi_za_izabrane_%C4%8Dlanke" title="Wikipedija:Izabrani članci/Prijedlozi za izabrane članke">
+              Sudjelujte u izboru članaka
+             </a>
+            </b>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="okvir" style="background:#f0f7ff;border-left-color:#a8d3ff;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="arhiv-link">
+           <small>
+            <a class="mw-redirect" href="/wiki/Predlo%C5%BEak:Novosti/Arhiv" title="Predložak:Novosti/Arhiv">
+             Arhiva
+            </a>
+           </small>
+          </span>
+          <span class="naslov">
+           <a href="/wiki/Wikipedija:Novosti" title="Wikipedija:Novosti">
+            <span style="color:#000000;">
+             Novosti
+            </span>
+           </a>
+          </span>
+         </div>
+        </div>
+        <div id="mp-right" style="background:#f0f7ff;padding:10px;">
+         <div>
+          <div class="floatright">
+           <a class="image" href="/wiki/Datoteka:Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg">
+            <img alt="Hrvatsko katoličko sveučilište ulaz u glavnu zgradu Jan 20112.jpg" data-file-height="2976" data-file-width="3968" decoding="async" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg/200px-Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg/300px-Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg/400px-Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te_ulaz_u_glavnu_zgradu_Jan_20112.jpg 2x" width="200"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/28._rujna" title="28. rujna">
+             28. rujna
+            </a>
+            – Započela prva etapa međunarodne
+            <a href="/wiki/Biciklizam" title="Biciklizam">
+             biciklističke
+            </a>
+            utrke »CRO Race« između
+            <a href="/wiki/Osijek" title="Osijek">
+             Osijeka
+            </a>
+            i
+            <a href="/wiki/Vara%C5%BEdin" title="Varaždin">
+             Varaždina
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/27._rujna" title="27. rujna">
+             27. rujna
+            </a>
+            – Svečanim akademskim činom započela je nastava na novoustrojenom Medicinskom fakultetu
+            <a href="/wiki/Hrvatsko_katoli%C4%8Dko_sveu%C4%8Dili%C5%A1te" title="Hrvatsko katoličko sveučilište">
+             Hrvatskoga katoličkoga sveučilišta u Zagrebu
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/26._rujna" title="26. rujna">
+             26. rujna
+            </a>
+            – Zemni ostatci petstotinjak osoba sa staroga groblja kod
+            <a href="/wiki/Crkva_sv._Nikole_sa_%C5%BEupnim_dvorom,_gospodarskom_zgradom_i_pilom_u_%C5%BDumberku" title="Crkva sv. Nikole sa župnim dvorom, gospodarskom zgradom i pilom u Žumberku">
+             crkve sv. Nikole biskupa
+            </a>
+            na
+            <a href="/wiki/%C5%BDumberak_(op%C4%87ina)" title="Žumberak (općina)">
+             Žumberku
+            </a>
+            pokopani su, uz sprovodne obrede, nakon višedesetljetnih
+            <a href="/wiki/Arheologija" title="Arheologija">
+             arheoloških
+            </a>
+            iskapanja i istraživanja.
+           </li>
+           <li>
+            <a href="/wiki/25._rujna" title="25. rujna">
+             25. rujna
+            </a>
+            – Pod pokroviteljstvom Središnjega državnoga ureda za Hrvate izvan Republike Hrvatske i
+            <a href="/wiki/Hrvatska_matica_iseljenika" title="Hrvatska matica iseljenika">
+             Hrvatske matice iseljenika
+            </a>
+            održan je u
+            <a href="/wiki/Re%C5%A1etari" title="Rešetari">
+             Rešetarima
+            </a>
+            <i>
+             Susret pjesnika iz domovine i iseljeništva
+            </i>
+            .
+           </li>
+          </ul>
+          <p>
+           <br/>
+          </p>
+          <p>
+           Nedavne smrti:
+           <a href="/wiki/Zdravko_San%C4%8Devi%C4%87" title="Zdravko Sančević">
+            Zdravko Sančević
+           </a>
+           ,
+           <a href="/wiki/%C5%BDana_Lelas" title="Žana Lelas">
+            Žana Lelas
+           </a>
+           ,
+           <a href="/wiki/Cynthia_Hansell-Baki%C4%87" title="Cynthia Hansell-Bakić">
+            Cynthia Hansell-Bakić
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="okvir" style="background:#f5fff9;border-left-color: #85cca2;margin-right:5px;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="arhiv-link">
+           <small>
+            <a href="/wiki/Wikipedija:Slika_tjedna/Arhiv" title="Wikipedija:Slika tjedna/Arhiv">
+             Arhiva
+            </a>
+           </small>
+          </span>
+          <span class="naslov">
+           <a href="/wiki/Wikipedija:Slika_tjedna" title="Wikipedija:Slika tjedna">
+            <span style="color:#000000;">
+             Izabrana slika
+            </span>
+           </a>
+          </span>
+         </div>
+        </div>
+        <div style="background:#f5fff9;padding:6px;">
+         <div style="padding:6px">
+          <div style="text-align:center">
+           <p>
+            <a class="image" href="/wiki/Datoteka:GER_%E2%80%94_BY_%E2%80%93_Bezirk_Oberbayern_%E2%80%93_Landkreis_Miesbach_%E2%80%94_Gemeinde_Kreuth_%E2%80%94_Gemeindeteil_Wildbad_Kreuth_%E2%80%94_Grosse_Wolfsschlucht_(Wasserfall)_2020.GIF">
+             <img alt="GER — BY – Bezirk Oberbayern – Landkreis Miesbach — Gemeinde Kreuth — Gemeindeteil Wildbad Kreuth — Grosse Wolfsschlucht (Wasserfall) 2020.GIF" data-file-height="300" data-file-width="169" decoding="async" height="337" src="//upload.wikimedia.org/wikipedia/commons/3/3e/GER_%E2%80%94_BY_%E2%80%93_Bezirk_Oberbayern_%E2%80%93_Landkreis_Miesbach_%E2%80%94_Gemeinde_Kreuth_%E2%80%94_Gemeindeteil_Wildbad_Kreuth_%E2%80%94_Grosse_Wolfsschlucht_%28Wasserfall%29_2020.GIF" width="190"/>
+            </a>
+           </p>
+           <div style="margin-top:5px;">
+            <a href="/wiki/Vodopad" title="Vodopad">
+             Vodopad
+            </a>
+            u
+            <a href="/wiki/Bavarska" title="Bavarska">
+             Bavarskoj
+            </a>
+            u
+            <a href="/wiki/Njema%C4%8Dka" title="Njemačka">
+             Njemačkoj
+            </a>
+            .
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="okvir" style="background:#f5fff9;border-left-color: #85cca2;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="arhiv-link">
+           <small>
+            <a href="/wiki/Wikipedija:Izabrane_godi%C5%A1njice/rujan" title="Wikipedija:Izabrane godišnjice/rujan">
+             Arhiva
+            </a>
+           </small>
+          </span>
+          <span class="naslov">
+           <a href="/wiki/Wikipedija:Izabrane_godi%C5%A1njice" title="Wikipedija:Izabrane godišnjice">
+            <span style="color:#000000;">
+             Na današnji dan
+            </span>
+           </a>
+          </span>
+         </div>
+        </div>
+        <div id="mp-right" style="background:#f5fff9;padding:10px;">
+         <div>
+          <b>
+           <a href="/wiki/29._rujna" title="29. rujna">
+            29. rujna
+           </a>
+          </b>
+          – imendani i blagdani:
+          <a class="mw-redirect" href="/wiki/Sveti_Mihovil" title="Sveti Mihovil">
+           Sveti Mihovil
+          </a>
+          ,
+          <a href="/wiki/Gabriel" title="Gabriel">
+           Gabrijel
+          </a>
+          i
+          <a href="/wiki/Rafael_(arkan%C4%91eo)" title="Rafael (arkanđeo)">
+           Rafael
+          </a>
+          ark.;
+          <a class="new" href="/w/index.php?title=Svjetski_dan_srca&amp;action=edit&amp;redlink=1" title="Svjetski dan srca (stranica ne postoji)">
+           Svjetski dan srca
+          </a>
+          ,
+          <a href="/wiki/Hrvatska_policija#Zaštitnik_i_Dan_policije" title="Hrvatska policija">
+           Dan policije
+          </a>
+          , Dan grada u
+          <a href="/wiki/Bjelovar" title="Bjelovar">
+           Bjelovaru
+          </a>
+          .
+          <div style="float:right;margin-left:0.5em">
+           <p>
+            <a class="image" href="/wiki/Datoteka:Enrico_Fermi_1943-49.jpg" title="Fermi">
+             <img alt="Fermi" data-file-height="2922" data-file-width="2358" decoding="async" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/110px-Enrico_Fermi_1943-49.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/165px-Enrico_Fermi_1943-49.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/220px-Enrico_Fermi_1943-49.jpg 2x" width="110"/>
+            </a>
+           </p>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/1901." title="1901.">
+             1901.
+            </a>
+            – Rođen je
+            <a href="/wiki/Kategorija:Talijanski_fizi%C4%8Dari" title="Kategorija:Talijanski fizičari">
+             talijanski fizičar
+            </a>
+            i
+            <a href="/wiki/Kategorija:Dobitnici_Nobelove_nagrade_za_fiziku" title="Kategorija:Dobitnici Nobelove nagrade za fiziku">
+             nobelovac
+            </a>
+            <b>
+             <a href="/wiki/Enrico_Fermi" title="Enrico Fermi">
+              Enrico Fermi
+             </a>
+            </b>
+            <i>
+             (na slici)
+            </i>
+            .
+           </li>
+           <li>
+            <a href="/wiki/1909." title="1909.">
+             1909.
+            </a>
+            – U
+            <a href="/wiki/Zagreb" title="Zagreb">
+             Zagrebu
+            </a>
+            je umro
+            <b>
+             <a href="/wiki/Vladimir_Vidri%C4%87" title="Vladimir Vidrić">
+              Vladimir Vidrić
+             </a>
+            </b>
+            ,
+            <a href="/wiki/Kategorija:Hrvatski_knji%C5%BEevnici" title="Kategorija:Hrvatski književnici">
+             hrvatski književnik
+            </a>
+            , jedan od najistaknutijih
+            <a href="/wiki/Lirika" title="Lirika">
+             lirika
+            </a>
+            <a class="mw-redirect" href="/wiki/Moderna" title="Moderna">
+             moderne
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/1938." title="1938.">
+             1938.
+            </a>
+            –
+            <a class="mw-redirect" href="/wiki/UK" title="UK">
+             Britanija
+            </a>
+            ,
+            <a href="/wiki/Francuska" title="Francuska">
+             Francuska
+            </a>
+            ,
+            <a href="/wiki/Tre%C4%87i_Reich" title="Treći Reich">
+             Treći Reich
+            </a>
+            i
+            <a href="/wiki/Italija" title="Italija">
+             Italija
+            </a>
+            potpisali su
+            <b>
+             <a href="/wiki/M%C3%BCnchenski_sporazum" title="Münchenski sporazum">
+              Münchenski sporazum
+             </a>
+            </b>
+            , koji je Njemačkoj omogućio zaposjedanje dijelova
+            <a href="/wiki/%C4%8Cehoslova%C4%8Dka" title="Čehoslovačka">
+             Čehoslovačke
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/1949." title="1949.">
+             1949.
+            </a>
+            –
+            <b>
+             <a class="mw-redirect" href="/wiki/SSSR" title="SSSR">
+              Sovjetski Savez
+             </a>
+            </b>
+            otkazao je sporazum prijateljstva s
+            <a class="mw-redirect" href="/wiki/SFRJ" title="SFRJ">
+             Jugoslavijom
+            </a>
+            , koji je bio sklopljen
+            <a href="/wiki/11._travnja" title="11. travnja">
+             11. travnja
+            </a>
+            <a href="/wiki/1945." title="1945.">
+             1945.
+            </a>
+            godine.
+           </li>
+          </ul>
+          <p>
+           <br/>
+          </p>
+          Nedavni dani:
+          <a href="/wiki/28._rujna" title="28. rujna">
+           28. rujna
+          </a>
+          –
+          <a href="/wiki/27._rujna" title="27. rujna">
+           27. rujna
+          </a>
+          –
+          <a href="/wiki/26._rujna" title="26. rujna">
+           26. rujna
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="okvir" style="background:#f0f0f0;border-left-color: #8a8a8a;margin-right:5px;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="naslov">
+           O Wikipediji
+          </span>
+         </div>
+        </div>
+        <div style="background:#f0f0f0;padding:10px;">
+         <p>
+          <a href="/wiki/Wikipedija_na_hrvatskome_jeziku" title="Wikipedija na hrvatskome jeziku">
+           Wikipedija na hrvatskome jeziku
+          </a>
+          osnovana je
+          <a href="/wiki/16._velja%C4%8De" title="16. veljače">
+           16. veljače
+          </a>
+          <a href="/wiki/2003." title="2003.">
+           2003.
+          </a>
+         </p>
+         <ul>
+          <li>
+           <a href="/wiki/Wikipedija" title="Wikipedija">
+            Wikipedija
+           </a>
+           – što je Wikipedija, povijest i organizacija projekta
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:Za%C5%A1to_postati_suradnik%3F" title="Wikipedija:Zašto postati suradnik?">
+            Zašto postati suradnik?
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Pomo%C4%87:Sadr%C5%BEaj" title="Pomoć:Sadržaj">
+            Pomoć
+           </a>
+           – kako sudjelovati, što treba znati, kako koristiti?
+           <ul>
+            <li>
+             <a href="/wiki/Wikipedija:Uvodni_te%C4%8Daj" title="Wikipedija:Uvodni tečaj">
+              Uvodni tečaj
+             </a>
+             – za one koji vole lagani uvod
+            </li>
+            <li>
+             <a href="/wiki/Wikipedija:Wikipedija_A-%C5%BD" title="Wikipedija:Wikipedija A-Ž">
+              Wikipedija A-Ž
+             </a>
+             – za napredne
+            </li>
+            <li>
+             <a href="/wiki/Wikipedija:%C4%8Cesto_postavljana_pitanja" title="Wikipedija:Često postavljana pitanja">
+              Često postavljana pitanja (FAQ)
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:Kafi%C4%87" title="Wikipedija:Kafić">
+            Kafić
+           </a>
+           – stranica za raspravu, pitanja i razgovor
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:Abecedarij_%C4%8Dlanaka" title="Wikipedija:Abecedarij članaka">
+            Abecedarij svih članaka
+           </a>
+          </li>
+          <li>
+           <a class="extiw" href="https://meta.wikimedia.org/wiki/Complete_list_of_language_Wikipedias_available" title="meta:Complete list of language Wikipedias available">
+            Popis svih jezika Wikipedije
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:Kontaktirajte_nas" title="Wikipedija:Kontaktirajte nas">
+            Impresum
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="okvir" style="background:#f0f0f0;border-left-color: #8a8a8a;">
+        <div style="background:#fafafa;">
+         <div class="glavnastranicazaglavlje" style="padding:10px 20px;">
+          <span class="naslov">
+           Kako pomoći?
+          </span>
+         </div>
+        </div>
+        <div id="mp-right" style="background:#f0f0f0;padding:10px;">
+         <p>
+          Nakon što ste svladali upute iz
+          <a href="/wiki/Wikipedija:Uvodni_te%C4%8Daj" title="Wikipedija:Uvodni tečaj">
+           Uvodnog tečaja
+          </a>
+          surađujte u:
+         </p>
+         <ul>
+          <li>
+           <a href="/wiki/Kategorija:U_izradi" title="Kategorija:U izradi">
+            nadopuni započetih članaka
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Kategorija:Odr%C5%BEavanje_Wikipedije" title="Kategorija:Održavanje Wikipedije">
+            održavanju Wikipedije
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:%C5%A0to_je_najpotrebnije#Članci_koji_zahtijevaju_popravke_ili_poboljšanja" title="Wikipedija:Što je najpotrebnije">
+            poboljšavanju i popravku članaka
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Wikipedija:WikiProjekt" title="Wikipedija:WikiProjekt">
+            Wikiprojektima
+           </a>
+          </li>
+          <li>
+           pisanju:
+           <ul>
+            <li>
+             <a href="/wiki/Posebno:Tra%C5%BEene_stranice" title="Posebno:Tražene stranice">
+              najtraženijih članaka
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wikipedija:Tra%C5%BEeni_%C4%8Dlanci_po_temama" title="Wikipedija:Traženi članci po temama">
+              traženih članaka po temama
+             </a>
+            </li>
+            <li>
+             <a href="/wiki/Wikipedija:%C5%BDeljeni_%C4%8Dlanci" title="Wikipedija:Željeni članci">
+              željenih članaka
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <p>
+       <br/>
+       <style data-mw-deduplicate="TemplateStyles:r5702192">
+        .mw-parser-output .main-wikimedia-header{text-align:center}.mw-parser-output .main-wikimedia-icon{margin:0 0 0.5rem;text-align:center}.mw-parser-output .main-wikimedia-list{column-count:4;column-width:15em;margin-top:0.5rem}.mw-parser-output .main-wikimedia-list>.main-wikimedia-listItem{align-items:stretch;break-inside:avoid;clear:both;display:flex;page-break-inside:avoid;margin-bottom:0.5rem}.mw-parser-output .main-wikimedia-listItem>img{flex:0 auto}.mw-parser-output .main-wikimedia-listItem>a{flex:1;margin-left:-48px;padding-left:56px;position:relative;text-decoration:none}.mw-parser-output .main-wikimedia-listItem>a>em{font-style:normal}.mw-parser-output .main-wikimedia-listItem>a:hover>em{text-decoration:underline}.mw-parser-output .main-wikimedia-listItem>a>small{color:#72777d;display:block;font-size:0.85em;line-height:1.25}@media(max-width:719px){.mw-parser-output .main-wikimedia-header{font-family:inherit;font-size:1em}.mw-parser-output .main-wikimedia-list{font-size:0.85em;column-width:10em}}@media(min-width:720px){.mw-parser-output .main-wikimedia-header{margin-bottom:1rem}.mw-parser-output .main-wikimedia-listItem>a>small{font-size:1em}}@media(min-width:1000px){.mw-parser-output .main-wikimedia-header{margin-left:auto;margin-right:auto;width:100%}}
+       </style>
+      </p>
+      <div class="main-wikimedia main-plainlist">
+       <div class="main-wikimedia-icon">
+        <div class="center">
+         <div class="floatnone">
+          <img alt="" data-file-height="512" data-file-width="512" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/48px-Wikimedia-logo_black.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/72px-Wikimedia-logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/96px-Wikimedia-logo_black.svg.png 2x" width="48"/>
+         </div>
+        </div>
+       </div>
+       <h2 class="main-header main-wikimedia-header">
+        <span class="mw-headline" id="Ostali_projekti_neprofitne_Zaklade_Wikimedija">
+         Ostali projekti neprofitne
+         <a href="/wiki/Zaklada_Wikimedija" title="Zaklada Wikimedija">
+          Zaklade Wikimedija
+         </a>
+        </span>
+       </h2>
+       <ul class="main-wikimedia-list">
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/72px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/96px-Notification-icon-Commons-logo.svg.png 2x" title="Wikimedia Commons" width="48"/>
+         <a class="extiw" href="https://commons.wikimedia.org/wiki/" title="c:">
+          <em>
+           Zajednički poslužitelj
+          </em>
+          <small>
+           Multimedijalno skladište
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="100" data-file-width="100" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/48px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/72px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/96px-MediaWiki-2020-icon.svg.png 2x" title="MediaWiki" width="48"/>
+         <a class="extiw" href="https://www.mediawiki.org/wiki/" title="mw:">
+          <em>
+           MediaWiki
+          </em>
+          <small>
+           Dokumentacija programske opreme
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/48px-Notification-icon-Meta-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/72px-Notification-icon-Meta-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notification-icon-Meta-logo.svg/96px-Notification-icon-Meta-logo.svg.png 2x" title="Meta-Wiki" width="48"/>
+         <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+          <em>
+           Meta-Wiki
+          </em>
+          <small>
+           Koordinacija svih projekata
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/48px-Notification-icon-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/72px-Notification-icon-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Notification-icon-Wikidata-logo.svg/96px-Notification-icon-Wikidata-logo.svg.png 2x" title="Wikipodatci" width="48"/>
+         <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">
+          <em>
+           Wikipodatci
+          </em>
+          <small>
+           Slobodna baza znanja
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/48px-Notification-icon-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/72px-Notification-icon-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Notification-icon-Wikibooks-logo.svg/96px-Notification-icon-Wikibooks-logo.svg.png 2x" title="Wikiknjige" width="48"/>
+         <a class="extiw" href="https://hr.wikibooks.org/wiki/" title="b:">
+          <em>
+           Wikiknjige
+          </em>
+          <small>
+           Udžbenici u javnom vlasništvu
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/48px-Notification-icon-Wikiquote.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/72px-Notification-icon-Wikiquote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/96px-Notification-icon-Wikiquote.svg.png 2x" title="Wikicitat" width="48"/>
+         <a class="extiw" href="https://hr.wikiquote.org/wiki/" title="q:">
+          <em>
+           Wikicitat
+          </em>
+          <small>
+           Zbirka citata
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/48px-Notification-icon-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/72px-Notification-icon-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/96px-Notification-icon-Wikisource-logo.svg.png 2x" title="Wikizvor" width="48"/>
+         <a class="extiw" href="https://hr.wikisource.org/wiki/" title="s:">
+          <em>
+           Wikizvor
+          </em>
+          <small>
+           Dokumenti u javnom vlasništvu
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/48px-Notification-icon-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/72px-Notification-icon-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Notification-icon-Wikinews-logo.svg/96px-Notification-icon-Wikinews-logo.svg.png 2x" title="Wijeti" width="48"/>
+         <a class="extiw" href="https://en.wikipedia.org/wiki/n:" title="en:n:">
+          <em>
+           Wijesti
+          </em>
+          <small>
+           Slobodni izvor vijesti
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/48px-Notification-icon-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/72px-Notification-icon-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Notification-icon-Wikispecies-logo.svg/96px-Notification-icon-Wikispecies-logo.svg.png 2x" title="Wikivrste" width="48"/>
+         <a class="extiw" href="https://species.wikimedia.org/wiki/" title="species:">
+          <em>
+           Wikivrste
+          </em>
+          <small>
+           Popis vrsta
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/48px-Notification-icon-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/72px-Notification-icon-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/96px-Notification-icon-Wiktionary-logo.svg.png 2x" title="Wječnik" width="48"/>
+         <a class="extiw" href="https://hr.wiktionary.org/wiki/" title="wikt:">
+          <em>
+           Wječnik
+          </em>
+          <small>
+           Višejezični rječnik
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/48px-Notification-icon-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/72px-Notification-icon-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Notification-icon-Wikiversity-logo.svg/96px-Notification-icon-Wikiversity-logo.svg.png 2x" title="Wikiučilište" width="48"/>
+         <a class="extiw" href="https://beta.wikiversity.org/wiki/" title="betawikiversity:">
+          <em>
+           Wikiučilište
+          </em>
+          <small>
+           Obrazovni materijali
+          </small>
+         </a>
+        </li>
+        <li class="main-wikimedia-listItem">
+         <img alt="" data-file-height="30" data-file-width="30" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/48px-Notification-icon-Wikivoyage-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/72px-Notification-icon-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/96px-Notification-icon-Wikivoyage-logo.svg.png 2x" title="Wikiputovanja" width="48"/>
+         <a class="extiw" href="https://hr.wikivoyage.org/wiki/" title="voy:">
+          <em>
+           Wikiputovanja
+          </em>
+          <small>
+           Vodič za putovanje
+          </small>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20210929082255
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.160 seconds
+Real time usage: 0.194 seconds
+Preprocessor visited node count: 111/1000000
+Post‐expand include size: 10924/2097152 bytes
+Template argument size: 1/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8577/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   96.694      1 -total
+ 65.49%   63.325      1 Predložak:Glavna2/naslov
+ 20.93%   20.234      1 Predložak:Glavna_stranica/Ostali_projekti
+  5.12%    4.946      1 Predložak:Izabrani_članak
+  2.86%    2.762      1 Wikipedija:Izabrane_godišnjice/29._rujna
+  2.61%    2.519      1 Wikipedija:Izabrani_članci/39,_2021.
+  2.34%    2.258      1 Wikipedija:Slika_tjedna/39,_2021.
+  2.24%    2.169      1 Predložak:Novosti
+-->
+      <!-- Saved in parser cache with key hrwiki:pcache:idhash:4-0!canonical and timestamp 20210929082255 and revision id 5833490. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//hr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Dobavljeno iz "
+      <a dir="ltr" href="https://hr.wikipedia.org/w/index.php?title=Glavna_stranica&amp;oldid=5833490">
+       https://hr.wikipedia.org/w/index.php?title=Glavna_stranica&amp;oldid=5833490
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Posebno:Kategorije" title="Posebno:Kategorije">
+       Kategorija
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Kategorija:Wikipedija" title="Kategorija:Wikipedija">
+         Wikipedija
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigacijski izbornik
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Osobni alati
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Niste prijavljeni
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Posebno:Moj_razgovor" title="Rasprava o uređivanjima s ove IP adrese [n]">
+         Razgovor
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Posebno:Moji_doprinosi" title="Popis uređivanja učinjenih s ove IP adrese [y]">
+         Doprinosi
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Posebno:Stvori_ra%C4%8Dun&amp;returnto=Glavna+stranica" title="Predlažemo Vam da stvorite račun i prijavite se, iako to nije obavezno">
+         Stvori račun
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Posebno:Prijava&amp;returnto=Glavna+stranica" title="Predlažemo Vam da se prijavite, iako to nije obavezno [o]">
+         Prijavi se
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Imenski prostori
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Glavna_stranica" title="Pogledaj sadržaj [c]">
+          Glavna stranica
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Razgovor:Glavna_stranica" rel="discussion" title="Razgovorna stranica [t]">
+          Razgovor
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Inačice
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        prošireno
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        sažeto
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Pogledi
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Glavna_stranica">
+          Čitaj
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Glavna_stranica&amp;action=edit" title="Ova stranica je zaštićena. Možete pogledati izvorni kod. [e]">
+          Vidi izvornik
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Glavna_stranica&amp;action=history" title="Ranije izmjene na ovoj stranici [h]">
+          Vidi povijest
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Više
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        prošireno
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        sažeto
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Traži
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Pretraži projekt Wikipedija" title="Pretraži Wikipediju [f]" type="search"/>
+         <input name="title" type="hidden" value="Posebno:Traži"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Traži ovaj tekst na svim stranicama" type="submit" value="Traži"/>
+         <input class="searchButton" id="searchButton" name="go" title="Idi na stranicu s ovim imenom ako ona postoji" type="submit" value="Kreni"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Glavna_stranica" title="Posjeti glavnu stranicu">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Orijentacija
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Glavna_stranica" title="Posjeti glavnu stranicu [z]">
+         Glavna stranica
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedija:Kafi%C4%87" title="O projektu, što možete učiniti, gdje se što nalazi">
+         Kafić
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Wikipedija:Aktualno" title="Saznajte više o trenutačnim događajima">
+         Novosti
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Posebno:Nedavne_promjene" title="Popis nedavnih promjena u wikiju [r]">
+         Nedavne promjene
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Posebno:Slu%C4%8Dajna_stranica" title="Učitavanje slučajne stranice [x]">
+         Slučajna stranica
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Pomo%C4%87:Sadr%C5%BEaj" title="Mjesto gdje se može dobiti pomoć">
+         Pomoć
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_hr.wikipedia.org&amp;uselang=hr" title="Podržite nas">
+         Donacije
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Pomagala
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Posebno:%C5%A0to_vodi_ovamo/Glavna_stranica" title="Popis svih stranica koje sadrže poveznice na ovu stranicu [j]">
+         Što vodi ovamo
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Posebno:Povezane_promjene/Glavna_stranica" rel="nofollow" title="Nedavne promjene na stranicama koje su povezane s navedenom stranicom [k]">
+         Povezane promjene
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedija:Upload" title="Postavi datoteke [u]">
+         Postavi datoteku
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Posebno:Posebne_stranice" title="Popis svih posebnih stranica [q]">
+         Posebne stranice
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Glavna_stranica&amp;oldid=5833490" title="Trajna poveznica na ovu verziju stranice">
+         Trajna poveznica
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Glavna_stranica&amp;action=info" title="Više informacija o ovoj stranici">
+         Podatci o stranici
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Posebno:Citiraj&amp;page=Glavna_stranica&amp;id=5833490&amp;wpFormIdentifier=titleform" title="Informacije o tome kako citirati ovu stranicu">
+         Citiraj ovu stranicu
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Poveznica na stavku na projektu Wikipodatci [g]">
+         Stavka (Wikipodatci)
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Ispis/izvoz
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Posebno:Zbirka&amp;bookcmd=book_creator&amp;referer=Glavna+stranica">
+         Stvori knjigu
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Posebno:DownloadAsPdf&amp;page=Glavna_stranica&amp;action=show-download-screen">
+         Preuzmi kao PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Glavna_stranica&amp;printable=yes" title="Inačica za ispis ove stranice [p]">
+         Inačica za ispis
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Wikimedijini projekti
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Zajednički poslužitelj
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MedijaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Višejezični Wikizvor
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikivrste
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://hr.wikibooks.org/wiki/Glavna_stranica" hreflang="hr">
+         Wikiknjige
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikipodatci
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimanija
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://hr.wikiquote.org/wiki/Glavna_stranica" hreflang="hr">
+         Wikicitat
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://hr.wikisource.org/wiki/Glavna_stranica" hreflang="hr">
+         Wikizvor
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://hr.wiktionary.org/wiki/Glavna_stranica" hreflang="hr">
+         Wječnik
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Drugi jezici
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af mw-list-item">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/" hreflang="af" lang="af" title="afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="bjeloruski">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="bugarski">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="bosanski">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="katalonski">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="češki">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="danski">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="njemački">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="grčki">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="engleski">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="španjolski">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="estonski">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="baskijski">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="perzijski">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="finski">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="francuski">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="hebrejski">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="mađarski">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="indonezijski">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io mw-list-item">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/" hreflang="io" lang="io" title="ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="talijanski">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="japanski">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="latinski">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="makedonski">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="nizozemski">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="norveški bokmål">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pag mw-list-item">
+        <a class="interlanguage-link-target" href="https://pag.wikipedia.org/wiki/" hreflang="pag" lang="pag" title="pangasinan">
+         Pangasinan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="poljski">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portugalski">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="rumunjski">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="ruski">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="slovački">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="slovenski">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/" hreflang="sq" lang="sq" title="albanski">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="srpski">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="švedski">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="turski">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="ukrajinski">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="kineski">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Ova stranica posljednji je put uređivana 2. travnja 2021. u 12:34.
+    </li>
+    <li id="footer-info-copyright">
+     Tekst je dostupan pod licencijom
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons: Imenuj autora/Dijeli pod istim uvjetima
+     </a>
+     ; mogu se primjenjivati i dodatni uvjeti. Pogledajte
+     <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use">
+      Uvjete upotrebe
+     </a>
+     za detalje.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Zaštita privatnosti
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a class="mw-redirect" href="/wiki/Impresum" title="Impresum">
+      Impresum
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedija:Op%C4%87e_odricanje_od_odgovornosti" title="Wikipedija:Opće odricanje od odgovornosti">
+      Odricanje od odgovornosti
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//hr.m.wikipedia.org/w/index.php?title=Glavna_stranica&amp;mobileaction=toggle_view_mobile">
+      Prikaz za mobilne uređaje
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Razvojni programeri
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/hr.wikipedia.org">
+      Statistika
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Izjava o kolačićima
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.194","ppvisitednodes":{"value":111,"limit":1000000},"postexpandincludesize":{"value":10924,"limit":2097152},"templateargumentsize":{"value":1,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8577,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   96.694      1 -total"," 65.49%   63.325      1 Predložak:Glavna2/naslov"," 20.93%   20.234      1 Predložak:Glavna_stranica/Ostali_projekti","  5.12%    4.946      1 Predložak:Izabrani_članak","  2.86%    2.762      1 Wikipedija:Izabrane_godišnjice/29._rujna","  2.61%    2.519      1 Wikipedija:Izabrani_članci/39,_2021.","  2.34%    2.258      1 Wikipedija:Slika_tjedna/39,_2021.","  2.24%    2.169      1 Predložak:Novosti"]},"cachereport":{"origin":"mw1395","timestamp":"20210929082255","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Glavna stranica","url":"https:\/\/hr.wikipedia.org\/wiki\/Glavna_stranica","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Doprinositelji projektima Wikimedije"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-02-16T20:52:44Z","dateModified":"2021-04-02T10:34:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9e\/Hellfest2019TheYoungGods_05.jpg","headline":"glavna stranica projekta Wikimedije"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1391"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <title>
+   Support Wikipedia – Wikimedia Foundation
+  </title>
+  <meta content="max-image-preview:large" name="robots">
+   <!-- Jetpack Site Verification Tags -->
+   <meta content="oDIPtXUCUV_3tXQUtjCvEuW_VcN9jm4Gs6qYtAIqofk" name="google-site-verification">
+    <link href="//s.w.org" rel="dns-prefetch">
+     <link href="//v0.wordpress.com" rel="dns-prefetch"/>
+     <link href="https://wikimediafoundation.org/feed/" rel="alternate" title="Wikimedia Foundation » Feed" type="application/rss+xml"/>
+     <link href="https://wikimediafoundation.org/comments/feed/" rel="alternate" title="Wikimedia Foundation » Comments Feed" type="application/rss+xml"/>
+     <script type="text/javascript">
+      window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wikimediafoundation.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+     </script>
+     <style type="text/css">
+      img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+     </style>
+     <link href="https://wikimediafoundation.org/_static/??-eJyNjkEOwjAMBD9EatEC6gXxltSxqMFJqtgI5fekUg/tjeNoZ6SF7+I4oXwCKaAqBFaDSTK+nfBUfKmgVoW6yKlrwgn2xUshUmBPQpGSHWARX6k4oafH+l/etj0fIszJVsfmtinozCVv15ryiPfzbeiHSz9exx+wI071" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+     <style id="wp-block-library-inline-css">
+      .has-text-align-justify{text-align:justify;}
+     </style>
+     <script src="https://wikimediafoundation.org/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZsZGRqbG5uVEWAK9bIh4=" type="text/javascript">
+     </script>
+     <link href="https://wikimediafoundation.org/wp-json/" rel="https://api.w.org/"/>
+     <link href="https://wikimediafoundation.org/wp-json/wp/v2/pages/113" rel="alternate" type="application/json"/>
+     <link href="https://wikimediafoundation.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+     <link href="https://wikimediafoundation.org/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+     <meta content="WordPress 5.8.1" name="generator"/>
+     <link href="https://wikimediafoundation.org/support/" rel="canonical"/>
+     <link href="https://wikimediafoundation.org/?p=113" rel="shortlink"/>
+     <link href="https://wikimediafoundation.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikimediafoundation.org%2Fsupport%2F" rel="alternate" type="application/json+oembed"/>
+     <link href="https://wikimediafoundation.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikimediafoundation.org%2Fsupport%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+     <link href="https://wikimediafoundation.org/ar/support/" hreflang="ar-001" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/zh/support/" hreflang="zh-Hant" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/fr/support/" hreflang="fr-FR" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/ru/support/" hreflang="ru-RU" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/es/support/" hreflang="es-ES" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/de/support/" hreflang="de-DE" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/support/" hreflang="en-US" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/support/" hreflang="x-default" rel="alternate"/>
+     <style type="text/css">
+      img#wpstats{display:none}
+     </style>
+     <style type="text/css">
+      .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+     </style>
+     <!-- Jetpack Open Graph Tags -->
+     <meta content="article" property="og:type"/>
+     <meta content="Support Wikipedia" property="og:title"/>
+     <meta content="https://wikimediafoundation.org/support/" property="og:url"/>
+     <meta content="Support WikipediaYour donation protects the human right to free and open knowledge for everyone.Donate nowWikipedia is a free and open encyclopedia, hosted by the Wikimedia Foundation. The heart an…" property="og:description"/>
+     <meta content="2018-05-30T17:42:57+00:00" property="article:published_time"/>
+     <meta content="2021-08-26T16:49:21+00:00" property="article:modified_time"/>
+     <meta content="Wikimedia Foundation" property="og:site_name"/>
+     <meta content="https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg" property="og:image"/>
+     <meta content="1024" property="og:image:width"/>
+     <meta content="683" property="og:image:height"/>
+     <meta content="Marv edits Wikipedia at a WikiDemocracy Event in Lagos, Nigeria" property="og:image:alt"/>
+     <meta content="en_US" property="og:locale"/>
+     <meta content="Support Wikipedia" name="twitter:text:title"/>
+     <meta content="https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg?w=640" name="twitter:image"/>
+     <meta content="Marv edits Wikipedia at a WikiDemocracy Event in Lagos, Nigeria" name="twitter:image:alt"/>
+     <meta content="summary_large_image" name="twitter:card"/>
+     <!-- End Jetpack Open Graph Tags -->
+     <link href="https://wikimediafoundation.org/wp-content/uploads/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=32" rel="icon" sizes="32x32">
+      <link href="https://wikimediafoundation.org/wp-content/uploads/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=192" rel="icon" sizes="192x192">
+       <link href="https://wikimediafoundation.org/wp-content/uploads/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=180" rel="apple-touch-icon">
+        <meta content="https://wikimediafoundation.org/wp-content/uploads/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=270" name="msapplication-TileImage"/>
+        <style id="wp-custom-css" type="text/css">
+         .page-template-page-report-landing .header-default .ungrid .bg-img {
+	background-size: cover;
+}
+
+/*Override for color bug in reports, e.g. transparency report*/
+.header-blue + #content .toc.header-pink .toc-link-item.active>a {
+	background-color: #eeeaff !important;
+}
+
+.btn.btn-pink a, .btn-pink .btn a {
+	color: inherit;
+}
+
+/* temporary fix for errant content not translated notice */
+.primary-nav + .alert-warning {
+	display: none;
+}
+        </style>
+       </link>
+      </link>
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class="page-template-default page page-id-113 page-parent has-blocks">
+  <div data-dropdown-backdrop="">
+  </div>
+  <a class="skip-link screen-reader-text" href="#content">
+   Skip to content
+  </a>
+  <div class="mobile-cover">
+  </div>
+  <div class="site" id="page">
+   <header class="header-default minimal--short featured-photo--photo-centered header-pink" data-backdrop="inactive" data-dropdown="primary-nav" data-dropdown-content=".primary-nav__drawer" data-dropdown-status="uninitialized" data-dropdown-toggle=".primary-nav-toggle" data-toggleable="yes" data-trap="inactive" data-visible="false">
+    <div class="site-header">
+     <div class="site-header__inner" data-backdrop="inactive" data-dropdown="language-switcher" data-dropdown-content=".language-switcher__content" data-dropdown-status="uninitialized" data-dropdown-toggle=".language-switcher__button" data-toggleable="yes" data-trap="inactive" data-visible="no">
+      <button aria-expanded="false" aria-label="Toggle menu" class="primary-nav-toggle" data-dropdown-toggle="primary-nav" hidden="">
+       <span class="btn-label-a11y">
+        Toggle menu
+       </span>
+       <svg class="i icon icon-menu primary-nav-toggle__icon primary-nav-toggle__icon--closed">
+        <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#menu">
+        </use>
+       </svg>
+       <svg class="i icon icon-close primary-nav-toggle__icon primary-nav-toggle__icon--opened">
+        <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#close">
+        </use>
+       </svg>
+      </button>
+      <a class="nav-logo" href="https://wikimediafoundation.org">
+       <img alt="Wikimedia Foundation" class="nav-logo__image" src="https://wikimediafoundation.org/wp-content/themes/shiro/assets/src/svg/logo-horizontal.svg"/>
+      </a>
+      <div class="language-switcher">
+       <button aria-expanded="false" class="language-switcher__button" hidden="">
+        <span class="btn-label-a11y">
+         Current language:
+        </span>
+        <svg class="i icon icon-translate language-switcher__icon">
+         <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#translate">
+         </use>
+        </svg>
+        <span class="language-switcher__label">
+         en
+        </span>
+       </button>
+       <div class="language-switcher__content">
+        <ul>
+         <li class="language-switcher__language language-switcher__language--selected">
+          <span lang="en">
+           <a href="https://wikimediafoundation.org/support/">
+            <span class="language-switcher__language-name">
+             English
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="ar">
+           <a href="https://wikimediafoundation.org/ar/support/">
+            <span class="language-switcher__language-name">
+             العربية (العالم)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="zh">
+           <a href="https://wikimediafoundation.org/zh/support/">
+            <span class="language-switcher__language-name">
+             中文 (繁体中文)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="fr">
+           <a href="https://wikimediafoundation.org/fr/support/">
+            <span class="language-switcher__language-name">
+             Français (France)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="ru">
+           <a href="https://wikimediafoundation.org/ru/support/">
+            <span class="language-switcher__language-name">
+             Русский (Россия)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="es">
+           <a href="https://wikimediafoundation.org/es/support/">
+            <span class="language-switcher__language-name">
+             Español (España)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="de">
+           <a href="https://wikimediafoundation.org/de/support/">
+            <span class="language-switcher__language-name">
+             Deutsch (Deutschland)
+            </span>
+           </a>
+          </span>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="nav-donate">
+       <a class="nav-donate__link" href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=navButton&amp;uselang=en&amp;utm_source=113">
+        <svg class="i icon icon-lock nav-donate__icon nav-donate__icon--lock">
+         <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#lock">
+         </use>
+        </svg>
+        <svg class="i icon icon-heart nav-donate__icon nav-donate__icon--heart">
+         <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#heart">
+         </use>
+        </svg>
+        <span class="nav-donate__copy">
+         Donate now
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="header-inner mw-980">
+     <nav class="primary-nav">
+      <div class="primary-nav__drawer" data-dropdown-content="primary-nav">
+       <div class="nav-search">
+        <form action="https://wikimediafoundation.org/" class="search-form" method="get" role="search">
+         <label class="search-form__label">
+          <span class="screen-reader-text">
+           Search for:
+          </span>
+          <input class="search-form__field" name="s" placeholder="Search site" title="Search for:" type="search" value=""/>
+         </label>
+         <button class="search-form__button" type="submit">
+          <span class="screen-reader-text">
+           Search
+          </span>
+          <svg class="i icon icon-search search-form__icon">
+           <use xlink:href="https://wikimediafoundation.org/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#search">
+           </use>
+          </svg>
+         </button>
+        </form>
+       </div>
+       <ul class="primary-nav__items" id="menu-header-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123" id="menu-item-123">
+         <a href="https://wikimediafoundation.org/our-work/">
+          <span>
+           Our Work
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-113 current_page_item menu-item-115" id="menu-item-115">
+         <a aria-current="page" href="https://wikimediafoundation.org/support/">
+          <span>
+           Support Wikipedia
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119" id="menu-item-119">
+         <a href="https://wikimediafoundation.org/research/">
+          <span>
+           Research
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118" id="menu-item-118">
+         <a href="https://wikimediafoundation.org/advocacy/">
+          <span>
+           Advocacy
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117" id="menu-item-117">
+         <a href="https://wikimediafoundation.org/technology/">
+          <span>
+           Technology
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28" id="menu-item-28">
+         <a href="https://wikimediafoundation.org/news/">
+          <span>
+           News
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116" id="menu-item-116">
+         <a href="https://wikimediafoundation.org/participate/">
+          <span>
+           Participate
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120" id="menu-item-120">
+         <a href="https://wikimediafoundation.org/about/">
+          <span>
+           About
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="header-content">
+     </div>
+    </div>
+   </header>
+   <main id="content">
+    <div class="mw-980 mod-margin-bottom">
+     <div class="article-main wysiwyg">
+      <div class="wp-block-shiro-landing-page-hero hero is-style-donate-red90">
+       <header class="hero__header">
+        <div class="hero__text-column">
+         <small class="hero__kicker">
+          Support Wikipedia
+          <br/>
+          <a href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=comms">
+          </a>
+         </small>
+         <h1 class="hero__title">
+          Your donation protects the human right to free and open knowledge for everyone.
+          <br/>
+          <a href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=comms">
+          </a>
+         </h1>
+         <a class="hero__call-to-action cta-button" href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=comms">
+          Donate now
+         </a>
+        </div>
+        <figure class="hero__image-container image-filter-inherit">
+         <img alt="" class="hero__image" src="https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg?w=1024&amp;h=675&amp;crop=1"/>
+        </figure>
+       </header>
+       <div class="hero__intro">
+        <p>
+         Wikipedia is a free and open encyclopedia, hosted by the Wikimedia Foundation. The heart and soul of Wikipedia is our global community of over 200,000+ volunteer contributors, billions of readers, and donors like yourself – all united to share unlimited access to reliable information. Your donations keep our knowledge projects like Wikipedia freely available to everyone. Please help us keep Wikipedia growing.
+        </p>
+       </div>
+      </div>
+      <div class="wp-block-shiro-stairs">
+       <div class="wp-block-shiro-stair stair">
+        <h2 class="stair__heading is-style-h3">
+         Where your donations go
+        </h2>
+        <img class="wp-image-61213 size-image_16x9_small stair__image" height="338" loading="lazy" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?w=600&amp;h=338&amp;crop=1" width="600"/>
+        <p class="stair__body">
+         Transparency is core to the Wikimedia Foundation’s mission. Learn about how donations were spent last year to keep websites like Wikipedia thriving.
+        </p>
+        <a class="stair__read-more arrow-link" href="/support/where-your-money-goes/">
+         How we use your donations
+        </a>
+       </div>
+       <div class="wp-block-shiro-stair stair">
+        <h2 class="stair__heading is-style-h3">
+         Support from around the globe
+        </h2>
+        <img class="wp-image-61212 size-image_16x9_small stair__image" height="338" loading="lazy" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wall_of_Love_Paris_21_October_2017-e1565971475628.jpg?w=600&amp;h=338&amp;crop=1" width="600"/>
+        <p class="stair__body">
+         Donors from around the world support over 300 Wikipedias, represent nearly 30 countries and more than 20 languages. Every country is different and we provide a variety of methods to make donations.
+        </p>
+        <a class="stair__read-more arrow-link" href="https://donate.wikimedia.org/wiki/Ways_to_Give">
+         Ways you can give
+        </a>
+       </div>
+       <div class="wp-block-shiro-stair stair">
+        <h2 class="stair__heading is-style-h3">
+         Leave a legacy
+        </h2>
+        <img class="wp-image-64549 size-image_16x9_small stair__image" height="338" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?w=600&amp;h=338&amp;crop=1" srcset="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=1200,675 1200w, https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=600,338 600w" width="600"/>
+        <p class="stair__body">
+         Create a legacy that empowers free and equal access to the world’s knowledge. Make a future donation through your will or other estate plans.
+        </p>
+        <a class="stair__read-more arrow-link" href="/support/legacy-gift/">
+         Ensure the future of free knowledge
+        </a>
+       </div>
+       <div class="wp-block-shiro-stair stair">
+        <h2 class="stair__heading is-style-h3">
+         Our benefactors
+        </h2>
+        <img class="wp-image-61214 size-image_16x9_small stair__image" height="338" loading="lazy" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Elecampane_Inula._Love_for_life-e1565971460370.jpg?w=600&amp;h=338&amp;crop=1" width="600"/>
+        <p class="stair__body">
+         We are grateful to the generous benefactors who have made significant donations. Large gifts ensure that Wikipedia and other Wikimedia projects have support for years to come.
+        </p>
+        <a class="stair__read-more arrow-link" href="/support/benefactors/">
+         Celebrating our benefactors
+        </a>
+       </div>
+       <div class="wp-block-shiro-stair stair">
+        <h2 class="stair__heading is-style-h3">
+         Tax deductibility
+        </h2>
+        <img class="wp-image-61210 size-image_16x9_small stair__image" height="338" loading="lazy" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?w=600&amp;h=338&amp;crop=1" width="600"/>
+        <p class="stair__body">
+         As a 501(c)(3) nonprofit public charity, the Wikimedia Foundation may receive tax-deductible donations in the United States. Learn more about tax deductibility in other countries.
+        </p>
+        <a class="stair__read-more arrow-link" href="https://donate.wikimedia.org/wiki/Tax_deductibility">
+         More information about tax deductibility
+        </a>
+       </div>
+      </div>
+      <div class="wp-block-group">
+       <div class="wp-block-group__inner-container">
+        <div class="wp-block-shiro-spotlight spotlight alignfull is-style-donate-red90">
+         <div class="spotlight__inner">
+          <div class="spotlight__content">
+           <h2 class="spotlight__heading is-style-h1">
+            Help us unlock the world’s knowledge.
+           </h2>
+           <p class="spotlight__text">
+            As a nonprofit, Wikipedia and our related free knowledge projects are powered primarily through donations.
+           </p>
+           <a class="spotlight__cta" href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=supportModule&amp;uselang=en&amp;utm_source=10">
+            Donate now
+           </a>
+          </div>
+          <figure class="spotlight__image-wrapper image-filter-inherit">
+           <img class="wp-image-282 size-medium_large spotlight__image" height="683" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?w=1024" srcset="https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=300,200 300w, https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=768,512 768w" width="1024"/>
+          </figure>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="wp-block-columns is-style-align-buttons-bottom">
+       <div class="wp-block-column">
+        <div class="wp-block-group has-border-radius has-radius-big has-blue-90-background-color has-background">
+         <div class="wp-block-group__inner-container">
+          <p class="is-style-h1">
+           1 of the 10
+          </p>
+          <p>
+           <strong>
+            most-visited websites in the world and entirely funded by your donations. No ads. No paywalls.
+           </strong>
+          </p>
+          <a class="tweet-this wp-block-shiro-button is-style-as-link has-icon has-icon-social-twitter-blue" href="https://twitter.com/intent/tweet?text=200%2C000%2B%20editors%20contribute%20to%20Wikimedia%20projects%20every%20month https%3A%2F%2Fwikimediafoundation.org%2Fsupport%2F">
+           Tweet this
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="wp-block-column">
+        <div class="wp-block-group has-border-radius has-radius-big has-blue-90-background-color has-background">
+         <div class="wp-block-group__inner-container">
+          <p class="is-style-h1">
+           4 stars
+          </p>
+          <p>
+           <strong>
+            received from Charity Navigator, their highest rating
+           </strong>
+          </p>
+          <a class="tweet-this wp-block-shiro-button is-style-as-link has-icon has-icon-social-twitter-blue" href="https://twitter.com/intent/tweet?text=68%2B%20million%20media%20files%20on%20Wikimedia%20Commons https%3A%2F%2Fwikimediafoundation.org%2Fsupport%2F">
+           Tweet this
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="wp-block-column">
+        <div class="wp-block-group has-border-radius has-radius-big has-blue-90-background-color has-background">
+         <div class="wp-block-group__inner-container">
+          <p class="is-style-h1">
+           200,000+
+          </p>
+          <p>
+           <strong>
+            volunteers contribute to Wikipedia every month
+           </strong>
+          </p>
+          <a class="tweet-this wp-block-shiro-button is-style-as-link has-icon has-icon-social-twitter-blue" href="https://twitter.com/intent/tweet?text=1%2B%20billion%20unique%20devices%20access%20Wikimedia%20projects%20every%20month https%3A%2F%2Fwikimediafoundation.org%2Fsupport%2F">
+           Tweet this
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="wp-block-group alignwide">
+       <div class="wp-block-group__inner-container">
+        <div class="double-heading is-style-align-wide-blog">
+         <p class="double-heading__secondary is-style-h5">
+          <span>
+           Connect
+          </span>
+          —
+          <span class="" lang="fr">
+           Échanger
+          </span>
+         </p>
+         <h2 class="double-heading__primary is-style-h3">
+          Stay up-to-date on our work.
+         </h2>
+        </div>
+        <div class="wp-block-columns">
+         <div class="wp-block-column">
+          <form action="https://wikimediafoundation.us11.list-manage.com/subscribe/post?u=7e010456c3e448b30d8703345&amp;id=246cd15c56" class="mailchimp-subscribe__form" method="POST">
+           <div class="wp-block-shiro-mailchimp-subscribe mailchimp-subscribe">
+            <svg class="i icon icon-mail" fill="none" height="1em" viewbox="0 0 20 20" width="1em" xmlns="http://www.w3.org/2000/svg">
+             <path cliprule="evenodd" d="M2 2h16a2 2 0 012 2v2l-10 4L0 6V4a2 2 0 012-2zm0 16a2 2 0 01-2-2V8l10 4 10-4v8a2 2 0 01-2 2H2z" fill="#000" fillrule="evenodd">
+             </path>
+            </svg>
+            <h3>
+             Get email updates
+            </h3>
+            <p>
+             Subscribe to news about ongoing projects and initiatives.
+            </p>
+            <div class="mailchimp-subscribe__input-container">
+             <div class="mailchimp-subscribe__column-input">
+              <input class="mailchimp-subscribe__input-field" id="wmf-subscribe-input-email" name="EMAIL" placeholder="Email address" required="" type="email"/>
+             </div>
+             <div class="mailchimp-subscribe__column-button">
+              <button class="wp-block-shiro-button" type="submit">
+               Subscribe
+              </button>
+             </div>
+            </div>
+            <p class="mailchimp-subscribe__description has-base-30-color has-text-color has-small-font-size">
+             This mailing list is powered by MailChimp. The Wikimedia Foundation will handle your personal information in accordance with this site’s privacy policy.
+            </p>
+           </div>
+           <input id="mce-group[4037]-4037-1" name="group[4037]" type="hidden" value="2"/>
+          </form>
+         </div>
+         <div class="wp-block-column">
+          <div class="wp-block-shiro-contact contact">
+           <svg class="contact__icon" fill="none" height="1em" viewbox="0 0 20 20" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path cliprule="evenodd" d="M14.5 5.5a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zM2 16c0-2 2.083-5 8-5s8 3 8 5v3H2v-3z" fill="#000" fillrule="evenodd">
+            </path>
+           </svg>
+           <h3 class="contact__title">
+            Contact a human
+           </h3>
+           <div class="contact__description">
+            Questions about the Wikimedia Foundation or our projects? Get in touch with our team.
+           </div>
+           <a class="contact__call-to-action" href="https://wikimediafoundation.org/about/contact/">
+            Contact
+           </a>
+           <h4 class="contact__social-title">
+            Follow
+           </h4>
+           <div class="wp-block-buttons">
+            <div class="wp-block-button is-style-as-link has-icon has-icon-social-facebook-blue">
+             <a class="wp-block-button__link" href="https://www.facebook.com/wikimediafoundation/" rel="noreferrer noopener" target="_blank">
+              Facebook
+             </a>
+            </div>
+            <div class="wp-block-button is-style-as-link has-icon has-icon-social-twitter-blue">
+             <a class="wp-block-button__link" href="https://twitter.com/wikimedia" rel="noreferrer noopener" target="_blank">
+              Twitter
+             </a>
+            </div>
+            <div class="wp-block-button is-style-as-link has-icon has-icon-social-instagram-blue">
+             <a class="wp-block-button__link" href="https://www.instagram.com/wikimediafoundation/" rel="noreferrer noopener" target="_blank">
+              Instagram
+             </a>
+            </div>
+            <div class="wp-block-button is-style-as-link has-icon has-icon-social-linkedin-blue">
+             <a class="wp-block-button__link" href="https://www.linkedin.com/company/wikimedia-foundation" rel="noreferrer noopener" target="_blank">
+              LinkedIn
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="wp-block-group alignfull has-base-80-background-color has-background">
+       <div class="wp-block-group__inner-container">
+        <div class="double-heading">
+         <p class="double-heading__secondary is-style-h5">
+          <span>
+           News
+          </span>
+          —
+          <span class="" lang="">
+           Noticias
+          </span>
+         </p>
+        </div>
+        <div class="blog-post">
+         <a alt="" class="blog-post__image-link" href="https://wikimediafoundation.org/news/2021/09/22/wikimedia-foundation-reaches-100-million-endowment-goal/" tabindex="-1">
+          <img alt="Flower planted in the ground" class="blog-post__image" height="600" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?w=800&amp;h=600&amp;crop=1" srcset="https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?resize=400,300 400w, https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?resize=800,600 800w" width="800"/>
+         </a>
+         <div class="blog-post__content">
+          <h3 class="blog-post__title">
+           <a href="https://wikimediafoundation.org/news/2021/09/22/wikimedia-foundation-reaches-100-million-endowment-goal/">
+            Wikimedia Foundation reaches $100 million Endowment goal as Wikipedia celebrates 20 years of free knowledge
+           </a>
+          </h3>
+          <div class="blog-post__categories">
+           <a class="blog-post__category-link" href="https://wikimediafoundation.org/news/category/foundation/advancement/">
+            Advancement
+           </a>
+           <a class="blog-post__category-link" href="https://wikimediafoundation.org/news/category/foundation/advancement/endowment/">
+            Endowment
+           </a>
+           <a class="blog-post__category-link" href="https://wikimediafoundation.org/news/category/foundation/">
+            Foundation
+           </a>
+          </div>
+          <div class="blog-post__excerpt">
+           <p>
+            22 September 2021, San Francisco, CA, USA — The Wikimedia Foundation, the nonprofit that operates Wikipedia and other Wikimedia projects, today announced that the Wikimedia Endowment has reached its initial $100 million fundraising goal ahead of schedule. This early achievement is a testament to the generosity of Endowment donors around the world and provides enduring….
+           </p>
+          </div>
+          <div class="blog-post__meta">
+           <time class="blog-post__published" datetime="">
+            22 September 2021
+           </time>
+           <span class="blog-post__authors">
+            By
+            <a class="author url fn" href="https://wikimediafoundation.org/news/author/wikimedia-foundation/" rel="author" title="Posts by Wikimedia Foundation">
+             Wikimedia Foundation
+            </a>
+           </span>
+          </div>
+          <a aria-label="Read more about Wikimedia Foundation reaches $100 million Endowment goal as Wikipedia celebrates 20 years of free knowledge" class="blog-post__read-more" href="https://wikimediafoundation.org/news/2021/09/22/wikimedia-foundation-reaches-100-million-endowment-goal/">
+           Read more
+          </a>
+         </div>
+        </div>
+        <div class="blog-post">
+         <a alt="" class="blog-post__image-link" href="https://wikimediafoundation.org/news/2021/04/19/wikipedia-readers-in-latin-america-invited-to-support/" tabindex="-1">
+          <img alt="" class="blog-post__image" height="600" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?w=800&amp;h=600&amp;crop=1" srcset="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=400,300 400w, https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=800,600 800w" width="800"/>
+         </a>
+         <div class="blog-post__content">
+          <h3 class="blog-post__title">
+           <a href="https://wikimediafoundation.org/news/2021/04/19/wikipedia-readers-in-latin-america-invited-to-support/">
+            Wikipedia readers in Latin America invited to support 20 years of free knowledge through new fundraising campaign
+           </a>
+          </h3>
+          <div class="blog-post__categories">
+           <a class="blog-post__category-link" href="https://wikimediafoundation.org/news/category/foundation/advancement/">
+            Advancement
+           </a>
+           <a class="blog-post__category-link" href="https://wikimediafoundation.org/news/category/foundation/">
+            Foundation
+           </a>
+          </div>
+          <div class="blog-post__excerpt">
+           <p>
+            The Wikimedia Foundation today started a fundraising campaign on Wikipedia in several Latin American countries, starting in Brazil and continuing in Argentina, Chile, Colombia, Mexico, Peru, and Uruguay. Until the end of May, banners will be appearing on Wikipedia in these countries, asking readers to consider contributing with a donation. You may see these messages….
+           </p>
+          </div>
+          <div class="blog-post__meta">
+           <time class="blog-post__published" datetime="">
+            19 April 2021
+           </time>
+           <span class="blog-post__authors">
+            By
+            <a class="author url fn" href="https://wikimediafoundation.org/news/author/pats-pena/" rel="author" title="Posts by Pats Pena">
+             Pats Pena
+            </a>
+           </span>
+          </div>
+          <a aria-label="Read more about Wikipedia readers in Latin America invited to support 20 years of free knowledge through new fundraising campaign" class="blog-post__read-more" href="https://wikimediafoundation.org/news/2021/04/19/wikipedia-readers-in-latin-america-invited-to-support/">
+           Read more
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="double-heading">
+       <p class="double-heading__secondary is-style-h5">
+        <span>
+         Elsewhere in Wikimedia
+        </span>
+        —
+        <span class="" lang="">
+         En Otro Lugar de Wikimedia
+        </span>
+       </p>
+       <h2 class="double-heading__primary is-style-h3">
+        More about giving to the Wikimedia Foundation
+       </h2>
+      </div>
+      <div class="wp-block-columns">
+       <div class="wp-block-column">
+        <div class="wp-block-shiro-external-link external-link">
+         <p class="external-link__heading">
+          <a class="external-link__link" href="//store.wikimedia.org/">
+           <span class="external-link__heading-text">
+            The Wikipedia Store
+           </span>
+           <svg class="external-link__icon" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0h24v24H0z" fill="none">
+            </path>
+            <path d="M19 19H5V5h7V3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z">
+            </path>
+           </svg>
+          </a>
+         </p>
+         <p class="external-link__text">
+          Thank a volunteer. We use proceeds from the store to send thank you gifts to the volunteers who make Wikipedia possible.
+         </p>
+        </div>
+       </div>
+       <div class="wp-block-column">
+        <div class="wp-block-shiro-external-link external-link">
+         <p class="external-link__heading">
+          <a class="external-link__link" href="//wikimediaendowment.org/">
+           <span class="external-link__heading-text">
+            Wikimedia Endowment
+           </span>
+           <svg class="external-link__icon" height="1em" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0h24v24H0z" fill="none">
+            </path>
+            <path d="M19 19H5V5h7V3H5a2 2 0 00-2 2v14a2 2 0 002 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z">
+            </path>
+           </svg>
+          </a>
+         </p>
+         <p class="external-link__text">
+          Endowment gifts help us preserve, build, and ensure the future of free knowledge for future generations.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="wp-block-columns">
+       <div class="wp-block-column">
+       </div>
+       <div class="wp-block-column">
+       </div>
+      </div>
+     </div>
+    </div>
+    <section class="photo-attribution">
+     <h2 class="photo-attribution__heading">
+      Photo credits
+     </h2>
+     <div class="photo-attribution__inner">
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Flower planted in the ground" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg 1280w, https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?resize=300,199 300w, https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?resize=768,511 768w, https://wikimediafoundation.org/wp-content/uploads/2021/09/Crocus_vernus.jpeg?resize=1024,681 1024w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Crocus_vernus.jpg" rel="noopener noreferrer" target="_blank">
+          Crocus vernus
+         </a>
+        </p>
+        <p>
+         Smihael
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 3.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg 1280w, https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=300,199 300w, https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=768,510 768w, https://wikimediafoundation.org/wp-content/uploads/2021/04/Amanhecer_no_Hercules.jpg?resize=1024,680 1024w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Amanhecer_no_Hercules_--.jpg" rel="noopener noreferrer" target="_blank">
+          Amanhecer no Hercules
+         </a>
+        </p>
+        <p>
+         Carlos Perez Couto
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 3.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Marv edits Wikipedia at a WikiDemocracy Event in Lagos, Nigeria" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg?resize=300,200 300w, https://wikimediafoundation.org/wp-content/uploads/2018/06/Marv_edits_WikiDemocracy_Event_May_2017_31-e1533254943206.jpg?resize=768,512 768w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Marv_edits_WikiDemocracy_Event_May_2017_31.jpg" rel="noopener noreferrer" target="_blank">
+          Marv edits Wikipedia at WikiDemocracy_Event_May_2017_31
+         </a>
+        </p>
+        <p>
+         Zack McCune/Wikimedia Foundation
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 4.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Volunteers in Nigeria" class="attachment-63x63 size-63x63" height="47" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?resize=300,225 300w, https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?resize=768,576 768w, https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?resize=400,300 400w, https://wikimediafoundation.org/wp-content/uploads/2019/07/New_Readers_research_Nigeria-e1565971467671.jpg?resize=800,600 800w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:New_Readers_research_Nigeria.jpg" rel="noopener noreferrer" target="_blank">
+          New Readers research Nigeria
+         </a>
+        </p>
+        <p>
+         Zachary McCune
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 4.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Wall of Love in Paris" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wall_of_Love_Paris_21_October_2017-e1565971475628.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wall_of_Love_Paris_21_October_2017-e1565971475628.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wall_of_Love_Paris_21_October_2017-e1565971475628.jpg?resize=300,200 300w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wall_of_Love_Paris_21_October_2017-e1565971475628.jpg?resize=768,512 768w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Wall_of_Love,_Paris_21_October_2017.jpg" rel="noopener noreferrer" target="_blank">
+          Wall of Love, Paris 21 October 2017
+         </a>
+        </p>
+        <p>
+         Tom Hilton
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by/2.0/" rel="noopener noreferrer" target="_blank">
+          CC BY 2.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Flower" class="attachment-63x63 size-63x63" height="49" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Elecampane_Inula._Love_for_life-e1565971460370.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2019/07/Elecampane_Inula._Love_for_life-e1565971460370.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Elecampane_Inula._Love_for_life-e1565971460370.jpg?resize=300,233 300w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Elecampane_Inula._Love_for_life-e1565971460370.jpg?resize=768,597 768w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Elecampane_(Inula)._Love_for_life.JPG" rel="noopener noreferrer" target="_blank">
+          Elecampane (Inula). Love for life
+         </a>
+        </p>
+        <p>
+         Svklimkin
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 4.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Wikimedia Conference 2016 – Group photo" class="attachment-63x63 size-63x63" height="47" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?resize=300,224 300w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?resize=768,574 768w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?resize=400,300 400w, https://wikimediafoundation.org/wp-content/uploads/2019/07/Wikimedia_Conference_2016_–_Group_photo-e1565971666206.jpg?resize=800,600 800w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:Wikimedia_Conference_2016_%E2%80%93_Group_photo.jpg" rel="noopener noreferrer" target="_blank">
+          Wikimedia Conference 2016 – Group photo
+         </a>
+        </p>
+        <p>
+         Jason Krüger for Wikimedia Deutschland e.V.
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 4.0
+         </a>
+        </p>
+       </div>
+      </div>
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Wikipedia edit-a-thon Art+Feminism at the Royal Armoury in Stockholm" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?w=63" srcset="https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg 1024w, https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=300,200 300w, https://wikimediafoundation.org/wp-content/uploads/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=768,512 768w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:ArtAndFeminism_2017_Livrustkammaren_06.jpg" rel="noopener noreferrer" target="_blank">
+          Art+Feminism Wikipedia edit-a-thon
+         </a>
+        </p>
+        <p>
+         Jens Mohr
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 3.0
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </section>
+   </main>
+   <footer class="site-footer">
+    <div class="site-footer__inner">
+     <div class="site-footer__description">
+      <img alt="Wikimedia Foundation" class="site-footer__logo" src="https://wikimediafoundation.org/wp-content/uploads/2018/09/Wikimedia_Foundation_registered.png"/>
+      <p>
+       The Wikimedia Foundation, Inc is a nonprofit charitable organization dedicated to encouraging the growth, development and distribution of free, multilingual content, and to providing the full content of these wiki-based projects to the public free of charge.
+      </p>
+     </div>
+     <nav class="site-footer__callout-nav">
+      <ul class="site-footer__callout-nav__items" id="menu-footer-under-text">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48" id="menu-item-48">
+        <a href="/about/jobs/">
+         Careers
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161" id="menu-item-161">
+        <a href="https://wikimediafoundation.org/about/contact/">
+         Contact
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56940" id="menu-item-56940">
+        <a href="/about/press/">
+         Press
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div class="site-footer__navigation">
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-projects">
+       <h2>
+        Projects
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29" id="menu-item-29">
+          <a href="https://www.wikipedia.org/">
+           Wikipedia
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31" id="menu-item-31">
+          <a href="https://www.wikibooks.org/">
+           Wikibooks
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32" id="menu-item-32">
+          <a href="https://www.wikiversity.org/">
+           Wikiversity
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36" id="menu-item-36">
+          <a href="https://www.wikinews.org/">
+           Wikinews
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38" id="menu-item-38">
+          <a href="https://www.wiktionary.org/">
+           Wiktionary
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33" id="menu-item-33">
+          <a href="https://www.wikisource.org/">
+           Wikisource
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35" id="menu-item-35">
+          <a href="https://www.wikiquote.org/">
+           Wikiquote
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37" id="menu-item-37">
+          <a href="https://www.wikivoyage.org/">
+           Wikivoyage
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30" id="menu-item-30">
+          <a href="https://commons.wikimedia.org/">
+           Wikimedia Commons
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39" id="menu-item-39">
+          <a href="https://www.wikidata.org/">
+           Wikidata
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34" id="menu-item-34">
+          <a href="https://species.wikimedia.org/">
+           Wikispecies
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40" id="menu-item-40">
+          <a href="https://www.mediawiki.org/">
+           MediaWiki
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-affiliates">
+       <h2>
+        Movement Affiliates
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41" id="menu-item-41">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_chapters">
+           Wikimedia Chapters
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42" id="menu-item-42">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_thematic_organizations">
+           Wikimedia Thematic Organizations
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43" id="menu-item-43">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_user_groups">
+           Wikimedia User Groups
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-legal">
+       <h2>
+        Other
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44" id="menu-item-44">
+          <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+           Terms of use
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45" id="menu-item-45">
+          <a href="/privacy-policy/">
+           Privacy policy
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46" id="menu-item-46">
+          <a href="//foundation.wikimedia.org/wiki/Wikimedia:General_disclaimer">
+           Disclaimers
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62000" id="menu-item-62000">
+          <a href="https://wikimediafoundation.org/accessibility-statement/">
+           Accessibility statement
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47" id="menu-item-47">
+          <a href="//foundation.wikimedia.org/wiki/Cookie_statement">
+           Cookie statement
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+     <div class="site-footer__legal">
+      Except where otherwise noted, the content of this site is licensed under a
+      <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+       Creative Commons Attribution-ShareAlike 3.0 Unported license
+      </a>
+      .
+      <br>
+       Powered by WordPress.com VIP.
+       <a href="https://automattic.com/privacy-notice/">
+        Automattic Privacy Notice
+       </a>
+       .
+      </br>
+     </div>
+    </div>
+   </footer>
+   <!-- Matomo -->
+   <script>
+    var _paq = _paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//piwik.wikimedia.org/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '17']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+   </script>
+   <!-- End Matomo Code -->
+   <script id="shiro-script-js-extra">
+    var shiro = {"ajax_url":"https:\/\/wikimediafoundation.org\/wp-admin\/admin-ajax.php"};
+var wmfrtl = {"enable":""};
+   </script>
+   <script src="https://wikimediafoundation.org/_static/??-eJyVzcEOwiAQBNAfst0WRORg+i2ybCxEoGHXmv69NtG7HmeSNwPPpcNahIqAzJSJgefYKlyZSRhCZAFeb0daqW2+hq3PsfSJD/CTxBYX4f/M3nQ4ONLeWTMa4y0O6M/uOxEL3h/hjRPvkbKn8LmY8mU8aaWMtlalFzesT7Y=" type="text/javascript">
+   </script>
+   <script defer="" src="https://stats.wp.com/e-202139.js">
+   </script>
+   <script>
+    _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.1',blog:'155614485',post:'113',tz:'0',srv:'wikimediafoundation.org'} ]);
+	_stq.push([ 'clickTrackerInit', '155614485', '113' ]);
+   </script>
+  </div>
+ </body>
+</html>

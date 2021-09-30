@@ -1,0 +1,2302 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="ba">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Википедия
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ғинуар","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"d9f81c73-22c3-44b3-a5ef-772106848f9c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Баш_бит","wgTitle":"Баш бит","wgCurRevisionId":1077331,"wgRevisionId":1077331,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ba","wgPageContentModel":"wikitext","wgRelevantPageName":"Баш_бит","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"ba","pageLanguageDir":"ltr","pageVariantFallbacks":"ba"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"башҡортса","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296","wgSiteNoticeId":"2.0"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready",
+"mediawiki.ui.checkbox":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editZeroSection","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.sidebarRelated","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession","ext.dismissableSiteNotice"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ba"});
+});});
+  </script>
+  <link href="/w/load.php?lang=ba&amp;modules=ext.dismissableSiteNotice.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=ba&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=ba&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/0/08/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg" property="og:image"/>
+  <meta content="Википедия" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//ba.m.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Википедия (ba)" type="application/opensearchdescription+xml"/>
+  <link href="//ba.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://ba.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Баш_бит rootpage-Баш_бит skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+    <div id="mw-dismissablenotice-anonplace">
+    </div>
+    <script>
+     (function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eйәшерергә\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"ba\" dir=\"ltr\"\u003E\u003Cdiv class=\"center\"\u003E\n\u003Cdiv style=\"font-size:100%\"\u003E\u003Ca href=\"/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%B8%D1%81%D0%B5%D0%BC%D0%B4%D3%99%D1%80%D0%B5_2021\" title=\"align=center\"\u003E\u003Cimg alt=\"align=center\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png/100px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png\" decoding=\"async\" width=\"100\" height=\"71\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png/150px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png/200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%BE%D0%BD%D0%B4_%D0%A1%D0%93%D0%9E_%D0%A0%D0%91.png 2x\" data-file-width=\"3509\" data-file-height=\"2482\" /\u003E\u003C/a\u003E \u003Cb\u003E1 — 30 сентябрь \u003Ca href=\"/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%B8%D1%81%D0%B5%D0%BC%D0%B4%D3%99%D1%80%D0%B5_2021\" title=\"Проект:Башҡорт исемдәре 2021\"\u003E«Башҡорт исемдәре 2021» конкурс-марафоны\u003C/a\u003E\u003C/b\u003E\u003C/div\u003E\n\u003Cdiv style=\"font-size:100%\"\u003E\u003Ca href=\"/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80\" title=\"Проект:Башҡорттар\"\u003E\u003Cimg alt=\"Bashkir people4.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bashkir_people4.png/145px-Bashkir_people4.png\" decoding=\"async\" width=\"145\" height=\"22\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bashkir_people4.png/218px-Bashkir_people4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bashkir_people4.png/290px-Bashkir_people4.png 2x\" data-file-width=\"1622\" data-file-height=\"249\" /\u003E\u003C/a\u003E  \u003Cb\u003E21 февраль — 11 октябрь\u003C/b\u003E \u003Cb\u003E\u003Ca href=\"/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80\" title=\"Проект:Башҡорттар\"\u003E«Башҡорттар» конкурс-марафоны\u003C/a\u003E\u003C/b\u003E\u003C/div\u003E\n\u003Cdiv style=\"font-size:100%\"\u003E\u003Ca href=\"/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wm_Logo_Bashkortostan.jpg\" class=\"image\"\u003E\u003Cimg alt=\"Wm Logo Bashkortostan.jpg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wm_Logo_Bashkortostan.jpg/30px-Wm_Logo_Bashkortostan.jpg\" decoding=\"async\" width=\"30\" height=\"40\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wm_Logo_Bashkortostan.jpg/45px-Wm_Logo_Bashkortostan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wm_Logo_Bashkortostan.jpg/60px-Wm_Logo_Bashkortostan.jpg 2x\" data-file-width=\"600\" data-file-height=\"798\" /\u003E\u003C/a\u003E  \u003Cb\u003E1 март — 31 декабрь\u003C/b\u003E \u003Cb\u003E\u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://golos.bashkortostan.ru/polls/226/\"\u003E«Башҡортостан тауышы» («Голос РБ») сайтында һораулама\u003C/a\u003E\u003C/b\u003E \u003C/div\u003E\n\u003C/div\u003E\n\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+    </script>
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Баш бит
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Википедия — ирекле энциклопедия мәғлүмәте
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Перейти к навигации
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Перейти к поиску
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="ba">
+     <div class="mw-parser-output">
+      <table style="width:100%; background:#FCFCFC; margin:1.2em 0 6px 0; border:1px solid #C8D8FF; border-radius:7px;">
+       <tbody>
+        <tr>
+         <td class="bookbg" style="width:53%; margin-bottom:8px; background-repeat:no-repeat; background-position:+15px -28px; vertical-align:top;">
+          <table style="border:none; background:none; margin-left:15px;">
+           <tbody>
+            <tr>
+             <td style="text-align:center; white-space:nowrap; color:#000;">
+              <div id="mf-intro">
+               <div style="font-size:162%; color:#000;">
+                Башҡорт
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Википедия">
+                 Википедияһына
+                </a>
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D3%99%D1%85%D0%B8%D0%BC_%D0%B8%D1%82%D0%B5%D0%B3%D0%B5%D2%99" title="Википедия:Рәхим итегеҙ">
+                 рәхим итегеҙ!
+                </a>
+               </div>
+               <div style="top:+0.2em; font-size:100%;">
+                300-ләп телдәге
+                <a href="/wiki/%D0%90%D1%81%D1%8B%D2%A1_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82" title="Асыҡ контент">
+                 ирекле
+                </a>
+                интернет
+                <a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Энциклопедия">
+                 энциклопедияның
+                </a>
+               </div>
+               <div style="top:+0.2em; font-size:100%;">
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%82%D0%B5%D0%BB%D0%B5" title="Башҡорт теле">
+                 башҡортса
+                </a>
+                бүлегендә
+                <a href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Махсус:Статистика">
+                 58 329
+                </a>
+                мәҡәлә бар.
+               </div>
+               <hr/>
+               <div style="top:+0.2em; font-size:100%;">
+                Уны төҙөүҙә
+                <b>
+                 һәр кем
+                </b>
+                ҡатнаша ала.
+               </div>
+               <div style="top:+0.2em; font-size:100%;">
+                Һеҙҙе лә
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D0%B2%D0%B0%D2%A1%D0%B8%D2%93%D0%B0%D0%BB%D0%B0%D1%80/%D0%91%D0%B5%D2%99%D2%99%D0%B5%D2%A3_%D0%B1%D0%B5%D1%80%D0%BB%D3%99%D1%88%D0%BC%D3%99_%D0%B2%D0%B0%D2%A1%D0%B8%D2%93%D0%B0%D0%BB%D0%B0%D1%80%D1%8B" title="Портал:Ағымдағы ваҡиғалар/Беҙҙең берләшмә ваҡиғалары">
+                 берҙәм ирекмәндәр
+                </a>
+                ғаиләһенә саҡырабыҙ!
+               </div>
+               <div id="articlecount" style="font-size:75%;">
+                Welcome to the
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D3%99%D0%BA%D0%B8%D0%BB%D0%BB%D0%B5%D0%BA" title="Википедия:Вәкиллек">
+                 Embassy
+                </a>
+                ! * Добро пожаловать в
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%92%D3%99%D0%BA%D0%B8%D0%BB%D0%BB%D0%B5%D0%BA" title="Википедия:Вәкиллек">
+                 Посольство
+                </a>
+                !
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="width:40%; font-size:95%; text-align:left;">
+          <table style="border:none; width:100%; width:100%; background:transparent;">
+           <tbody>
+            <tr>
+             <td align="center" colspan="3">
+              <b>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D0%B9%D2%A1%D0%B0%D1%83" title="Портал:Байҡау">
+                Порталдар
+               </a>
+              </b>
+              <hr/>
+             </td>
+            </tr>
+            <tr>
+             <td style="width:7%; font-size:95%; vertical-align:top;white-space:nowrap;">
+              <p>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD" title="Портал:Башҡортостан">
+                Башҡортостан
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D1%88%D3%99%D1%85%D0%B5%D1%81%D1%82%D3%99%D1%80%D0%B5" title="Портал:Башҡортостан шәхестәре">
+                Башҡортостан шәхестәре
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%B0%D1%83%D1%8B%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Портал:Башҡортостан ауылдары">
+                Башҡортостан ауылдары
+               </a>
+               <br/>
+              </p>
+             </td>
+             <td style="width:7%; font-size:95%; vertical-align:top;white-space:nowrap;">
+              <p>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D3%99%D0%BD" title="Портал:Фән">
+                Фән
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">
+                География
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B0%D1%80%D0%B8%D1%85" title="Портал:Тарих">
+                Тарих
+               </a>
+               <br/>
+              </p>
+             </td>
+             <td style="width:7%; font-size:95%; vertical-align:top;white-space:nowrap;">
+              <p>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника">
+                Техника
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%99%D3%99%D0%BC%D2%93%D0%B8%D3%99%D1%82" title="Портал:Йәмғиәт">
+                Йәмғиәт
+               </a>
+               <br/>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Портал:Ислам">
+                Ислам
+               </a>
+               <br/>
+              </p>
+             </td>
+            </tr>
+            <tr>
+             <td align="center" colspan="3">
+              <hr/>
+              Яңы портал:
+              <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D3%99%D2%99%D3%99%D0%B1%D0%B8%D3%99%D1%82%D0%B5" title="Портал:Башҡорт әҙәбиәте">
+               Башҡорт әҙәбиәте
+              </a>
+             </td>
+            </tr>
+            <tr>
+             <td align="center" colspan="3">
+              <hr/>
+              Әүҙем порталдар:
+              <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D3%99%D2%99%D3%99%D0%B1%D0%B8%D3%99%D1%82%D0%B5" title="Портал:Башҡорт әҙәбиәте">
+               Башҡорт әҙәбиәте
+              </a>
+              ,
+              <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D3%A9%D1%80%D0%B9%D3%99%D0%BD_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Портал:Бөрйән районы">
+               Бөрйән
+              </a>
+              ,
+              <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B0%D0%BB%D0%B0%D1%83%D0%B0%D1%82_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Портал:Салауат районы">
+               Салауат
+              </a>
+              ,
+              <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9D%D1%83%D1%80%D0%B8%D0%BC%D0%B0%D0%BD_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Портал:Нуриман районы">
+               Нуриман
+              </a>
+              райондары
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="border-spacing:2px; margin:0em -2px 5px -2px;">
+       <tbody>
+        <tr>
+         <td style="width:52%; border:1px solid #C8D8FF; background-color:#ffffff; vertical-align:top; padding-left:3px; padding-right:3px; border-radius:7px;">
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Һайланған мәҡәләләр">
+               <img alt="" data-file-height="64" data-file-width="64" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fairytale_bookmark_gold.png/25px-Fairytale_bookmark_gold.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fairytale_bookmark_gold.png/38px-Fairytale_bookmark_gold.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fairytale_bookmark_gold.png/50px-Fairytale_bookmark_gold.png 2x" width="25"/>
+              </a>
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Һайланған мәҡәләләр">
+               Һайланған мәҡәлә
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div id="mf-FA" title="Һайланған мәҡәлә">
+               <div class="floatright">
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg">
+                 <img alt="Әхмәтзәки Вәлиди Туған" data-file-height="945" data-file-width="709" decoding="async" height="333" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg/250px-%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg/375px-%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg/500px-%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg 2x" width="250"/>
+                </a>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D3%98%D1%85%D0%BC%D3%99%D1%82%D0%B7%D3%99%D0%BA%D0%B8_%D0%92%D3%99%D0%BB%D0%B8%D0%B4%D0%B8_%D0%A2%D1%83%D2%93%D0%B0%D0%BD" title="Әхмәтзәки Вәлиди Туған">
+                  Әхмәтзәки Вәлиди Туған
+                 </a>
+                </b>
+                (
+                <a href="/wiki/10_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C" title="10 декабрь">
+                 10 декабрь
+                </a>
+                <a href="/wiki/1890_%D0%B9%D1%8B%D0%BB" title="1890 йыл">
+                 1890 йыл
+                </a>
+                —
+                <a href="/wiki/26_%D0%B8%D1%8E%D0%BB%D1%8C" title="26 июль">
+                 26 июль
+                </a>
+                <a href="/wiki/1970_%D0%B9%D1%8B%D0%BB" title="1970 йыл">
+                 1970 йыл
+                </a>
+                ) — күренекле сәйәсмән һәм дәүләт эшмәкәре,
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8_%D1%85%C9%99%D1%80%C9%99%D0%BA%C9%99%D1%82%D0%B5" title="Башҡорт милли хəрəкəте">
+                 Башҡорт милли-азатлыҡ хəрəкəте
+                </a>
+                етəксеһе,
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F%D2%BB%D1%8B" title="Башҡортостан автономияһы">
+                 автономиялы Башҡортостанға
+                </a>
+                нигеҙ һалыусы. Шәрҡиәтсе һәм төркиәт белгесе, Фәлсәфә докторы (1935), профессор, Манчестер университетының мөхбир докторы (1967).
+               </p>
+               <p>
+                Әхмәтзәки Вәлиди 1890 йылдың 10 декабрендә
+                <a href="/wiki/%D3%A8%D1%84%D3%A9_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D2%BB%D1%8B" title="Өфө губернаһы">
+                 Өфө губернаһы
+                </a>
+                <a href="/wiki/%D0%A1%D1%82%D3%99%D1%80%D0%BB%D0%B5%D1%82%D0%B0%D0%BC%D0%B0%D2%A1_%D3%A9%D0%B9%D3%99%D2%99%D0%B5" title="Стәрлетамаҡ өйәҙе">
+                 Стәрлетамаҡ өйәҙе
+                </a>
+                Илсек-Тимер улусының, хәҙерге
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D2%BB%D1%8B" title="Башҡортостан Республикаһы">
+                 Башҡортостан Республикаһы
+                </a>
+                <a href="/wiki/%D0%98%D1%88%D0%B5%D0%BC%D0%B1%D0%B0%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Ишембай районы">
+                 Ишембай районының
+                </a>
+                <a href="/wiki/%D0%9A%D3%A9%D2%99%D3%99%D0%BD_(%D0%98%D1%88%D0%B5%D0%BC%D0%B1%D0%B0%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B)" title="Көҙән (Ишембай районы)">
+                 Көҙән
+                </a>
+                ауылында тыуған.
+               </p>
+               <p>
+                1917 йылда социал-революционерҙар (эсерҙар) партияһына инә. Шул уҡ йылдың март — апрелендә Рəсəй мосолмандарының ваҡытлы үҙəк бюроһы ағзаһы була, 1917 йылдың апрелендә
+                <a href="/wiki/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82" title="Ташкент">
+                 Ташкент
+                </a>
+                ҡалаһында Мосолман советын ойоштороуҙа ҡатнаша һәм унда шул уҡ йылдың майында
+                <a href="/wiki/%D0%9C%D3%99%D1%81%D0%BA%D3%99%D2%AF" title="Мәскәү">
+                 Мәскәүҙә
+                </a>
+                уҙғарылған I Бөтə Рəсəй мосолман съезына Төркөстандан делегат итеп һайлана. Был съезда Әхмәтзәки Вәлиди Рəсəйҙең федератив республикаһының ҡоролошо һəм мосолман халыҡтарының милли-территориаль автономияһы идеяһын яҡлап сыға һәм Бөтə Рəсəй мосолман шураһының башҡарма комитеты һәм
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D3%A9%D0%BB%D0%BA%D3%99_%D0%B1%D1%8E%D1%80%D0%BE%D2%BB%D1%8B" title="Башҡорт өлкә бюроһы">
+                 Башҡорт өлкә бюроһы
+                </a>
+                ағзаһы булып китә.
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_(%D0%B3%D3%99%D0%B7%D0%B8%D1%82)" title="Башҡорт (гәзит)">
+                 «Башҡорт»
+                </a>
+                гәзитенең тәүге һанында Вәлидиҙең Башҡортостан үҙаллығы тураһында мәҡәләһе баҫылып сыға.
+               </p>
+               <p>
+                1917 йылдың 20—27 июлендә
+                <a href="/wiki/%D0%AB%D1%80%D1%8B%D0%BC%D0%B1%D1%83%D1%80" title="Ырымбур">
+                 Ырымбурҙа
+                </a>
+                үткән
+                <a href="/wiki/%D0%91%D3%A9%D1%82%D3%99_%D0%B1%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D2%A1%D0%BE%D1%80%D0%BE%D0%BB%D1%82%D0%B0%D0%B9%D2%99%D0%B0%D1%80%D1%8B" title="Бөтә башҡорт ҡоролтайҙары">
+                 I Башҡорт ҡоролтайында
+                </a>
+                ҡатнаша һәм унда президиумы ағзаһы һәм
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%BC%D3%99%D1%80%D0%BA%D3%99%D0%B7_%D1%88%D1%83%D1%80%D0%B0%D2%BB%D1%8B" title="Башҡорт мәркәз шураһы">
+                 Башҡорт мәркәз шураһы
+                </a>
+                рəйесе урынбаҫары итеп һайлана. Дəүлəт ҡоролошо (милли-территориаль автономия нигеҙендə) һəм «Ер мәсьәләләре» буйынса докладтар менән сығыш яһай. Икенсе докладында, ул XVII—XX быуаттар араһында юғалтылған башҡорт ерҙəрен ҡайтарып биреү зарурлығын билдəлəп үтә. 1917 йылдың 22—29 авгусында
+                <a href="/wiki/%D3%A8%D1%84%D3%A9" title="Өфө">
+                 Өфөлә
+                </a>
+                уҙған
+                <a href="/wiki/%D0%91%D3%A9%D1%82%D3%99_%D0%B1%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D2%A1%D0%BE%D1%80%D0%BE%D0%BB%D1%82%D0%B0%D0%B9%D2%99%D0%B0%D1%80%D1%8B" title="Бөтә башҡорт ҡоролтайҙары">
+                 II Башҡорт ҡоролтайында
+                </a>
+                ҡатнаша. Бында ул «
+                <a href="/wiki/%D0%9E%D0%BB%D0%BE_%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD" title="Оло Башҡортостан">
+                 Оло Башҡортостандың»
+                </a>
+                , «
+                <a href="/wiki/%D0%91%D3%99%D0%BB%D3%99%D0%BA%D3%99%D0%B9_%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD" title="Бәләкәй Башҡортостан">
+                 Бәләкәй Башҡортостандың»
+                </a>
+                һəм «Көнсығыш Рəсəйҙең Мосолман автономлы дəүлəттəре федерацияһының» карталарын төҙөй.
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%85%D3%A9%D0%BA%D2%AF%D0%BC%D3%99%D1%82%D0%B5" title="Башҡорт хөкүмәте">
+                 Башҡорт хөкүмәте
+                </a>
+                төҙөлгәс, Вәлидигә Хәрби һәм эске эштәр бүлектәре тапшырыла.
+               </p>
+               <p>
+                1917 йылдың ноябрендә Өфө губернаһының федералист башҡорттар исемлеге буйынса
+                <a class="mw-redirect" href="/wiki/%D0%91%D3%A9%D1%82%C9%99_%D0%A0%C9%99%D1%81%C9%99%D0%B9_%D0%9E%D0%B9%D0%BE%D1%88%D1%82%D0%BE%D1%80%D0%BE%D1%83_%D0%B9%D1%8B%D0%B9%D1%8B%D0%BB%D1%8B%D1%88%D1%8B" title="Бөтə Рəсəй Ойоштороу йыйылышы">
+                 Бөтə Рəсəй Ойоштороу йыйылышына
+                </a>
+                делегат итеп һайлана. Башҡорт мəркəз шураһының беренсе фармандарын төҙөүҙə һәм уларға ҡул ҡуйыуҙа ҡатнаша. Был фармандарҙа башҡорттарҙың сəйəси көрəштə позицияһы һəм федератив Рəсəй составында
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F%D2%BB%D1%8B" title="Башҡортостан автономияһы">
+                 Башҡортостан автономияһы
+                </a>
+                иғлан ителә. 1917 йылдың 8—20 декабрендә Ырымбурҙа үткән
+                <a href="/wiki/%D0%91%D3%A9%D1%82%D3%99_%D0%B1%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D2%A1%D0%BE%D1%80%D0%BE%D0%BB%D1%82%D0%B0%D0%B9%D2%99%D0%B0%D1%80%D1%8B" title="Бөтә башҡорт ҡоролтайҙары">
+                 III Башҡорт ҡоролтайында
+                </a>
+                ҡатнаша һәм унда президиумы рәйесе һәм
+                <a href="/wiki/%D0%9A%D0%B5%D1%81%D0%B5_%D2%A0%D0%BE%D1%80%D0%BE%D0%BB%D1%82%D0%B0%D0%B9" title="Кесе Ҡоролтай">
+                 Кесе Ҡоролтай
+                </a>
+                ағзаһы итеп һайлана,
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%85%D3%A9%D0%BA%D2%AF%D0%BC%D3%99%D1%82%D0%B5" title="Башҡорт хөкүмәте">
+                 Башҡорт хөкүмәте
+                </a>
+                рəйесе урынбаҫары һəм Хəрби бүлек мөдире итеп раҫлана.
+               </p>
+               <p>
+                1918 йылдың июненән алып 1919 йылдың февраленә тиклем
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%85%C9%99%D1%80%D0%B1%D0%B8_%D1%88%D1%83%D1%80%D0%B0%D2%BB%D1%8B" title="Башҡорт хəрби шураһы">
+                 Башҡорт хəрби шураһы
+                </a>
+                рəйесе,
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F%D2%BB%D1%8B" title="Башҡорт армияһы">
+                 Башҡорт ғәскәре
+                </a>
+                командующийы була. Башҡорт хөкүмəтенең
+                <a href="/wiki/%D0%A3%D1%87%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B4%D3%99%D1%80_%D0%B9%D1%8B%D0%B9%D1%8B%D0%BB%D1%8B%D1%88%D1%8B_%D0%B0%D2%93%D0%B7%D0%B0%D0%BB%D0%B0%D1%80%D1%8B_%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D0%B5%D1%82%D1%8B" title="Учредителдәр йыйылышы ағзалары комитеты">
+                 Бөтə Рəсəй Ойоштороу йыйылышы ағзалары комитеты
+                </a>
+                (КОМУЧ) һəм
+                <i>
+                 Ваҡытлы Себер хөкүмəте
+                </i>
+                менән үҙ-ара бəйлəнешен ойоштороуҙа әүҙем ҡатнаша. 1918 йылдың сентябрендә Өфөлә уҙғарылған
+                <a href="/wiki/%D3%A8%D1%84%D3%A9_%D0%B4%D3%99%D2%AF%D0%BB%D3%99%D1%82_%D0%BA%D3%99%D2%A3%D3%99%D1%88%D0%BC%D3%99%D2%BB%D0%B5" title="Өфө дәүләт кәңәшмәһе">
+                 Дәүләт кәңәшмәһендә
+                </a>
+                ҡатнаша, унда
+                <a href="/wiki/%D3%A8%D1%84%D3%A9_%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D2%BB%D1%8B" title="Өфө директорияһы">
+                 Өфө директорияһы
+                </a>
+                исеме аҫтында билдәле булған Бөтә Рәсәй хөкүмәте ойошторола. 1918 йылдың ноябрендә
+                <a class="mw-redirect" href="/wiki/%D0%90._%D0%92._%D0%9A%D0%BE%D0%BB%D1%87%D0%B0%D0%BA" title="А. В. Колчак">
+                 А. В. Колчактың
+                </a>
+                хəрби диктатураһын урынлаштырыуға һəм уның унитар Рəсəйҙе тергеҙеүгə, өлкə хөкүмəттəрен һəм милли ҡораллы формированиеларҙы бөтөрөүгə йүнəлтелгəн курсына ҡаршы сыға.
+               </p>
+               <a href="/wiki/%D3%98%D1%85%D0%BC%D3%99%D1%82%D0%B7%D3%99%D0%BA%D0%B8_%D0%92%D3%99%D0%BB%D0%B8%D0%B4%D0%B8_%D0%A2%D1%83%D2%93%D0%B0%D0%BD" title="Әхмәтзәки Вәлиди Туған">
+                <i>
+                 ↪ дауамы…
+                </i>
+               </a>
+               :
+              </div>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Һайланған мәҡәләләр">
+                Исемлек
+               </a>
+               (122) |
+               <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D2%BB%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99" title="Ҡалып:Ағымдағы һайланған мәҡәлә">
+                Үҙгәртеү
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Яҡшы мәҡәләләр">
+               <img alt="" data-file-height="57" data-file-width="57" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mao06_Blue_Star.png/25px-Mao06_Blue_Star.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mao06_Blue_Star.png/38px-Mao06_Blue_Star.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mao06_Blue_Star.png/50px-Mao06_Blue_Star.png 2x" width="25"/>
+              </a>
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Яҡшы мәҡәләләр">
+               Яҡшы мәҡәлә
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div id="mf-GA" title="Яҡшы мәҡәлә">
+               <div class="floatright">
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D0%B0%D0%BC%D0%B3%D0%B8_%D0%BA%D0%B0%D0%BD%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.png">
+                 <img alt="Тамги канлинцев.png" data-file-height="70" data-file-width="290" decoding="async" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/%D0%A2%D0%B0%D0%BC%D0%B3%D0%B8_%D0%BA%D0%B0%D0%BD%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.png/240px-%D0%A2%D0%B0%D0%BC%D0%B3%D0%B8_%D0%BA%D0%B0%D0%BD%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.png" srcset="//upload.wikimedia.org/wikipedia/commons/2/27/%D0%A2%D0%B0%D0%BC%D0%B3%D0%B8_%D0%BA%D0%B0%D0%BD%D0%BB%D0%B8%D0%BD%D1%86%D0%B5%D0%B2.png 1.5x" width="240"/>
+                </a>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D2%A0%D0%B0%D2%A3%D0%BB%D1%8B" title="Ҡаңлы">
+                  Ҡаңлы
+                 </a>
+                </b>
+                (
+                <i>
+                 ҡаңны
+                </i>
+                ) —
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D2%A1%D3%99%D0%B1%D0%B8%D0%BB%D3%99%D0%BB%D3%99%D1%80%D0%B5" title="Башҡорт ҡәбиләләре">
+                 башҡорт ҡәбиләһе
+                </a>
+                .
+               </p>
+               <p>
+                Телдәре
+                <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%82%D0%B5%D0%BB%D0%B5" title="Башҡорт теле">
+                 башҡорт теленең
+                </a>
+                <a href="/wiki/%D0%A2%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1-%D0%BA%D3%A9%D0%BD%D0%B1%D0%B0%D0%B9%D1%8B%D1%88_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Төньяҡ-көнбайыш диалект">
+                 төньяҡ-көнбайыш диалекты
+                </a>
+                <a href="/wiki/%D0%A2%D2%AF%D0%B1%D3%99%D0%BD%D0%B3%D0%B5_%D0%B0%D2%93%D0%B8%D2%99%D0%B5%D0%BB-%D1%8B%D2%A1_%D2%BB%D3%A9%D0%B9%D0%BB%D3%99%D1%88%D0%B5" title="Түбәнге ағиҙел-ыҡ һөйләше">
+                 түбәнге ағиҙел-ыҡ
+                </a>
+                менән
+                <a href="/wiki/%D0%A2%D0%B0%D0%BD%D1%8B%D0%BF_%D2%BB%D3%A9%D0%B9%D0%BB%D3%99%D1%88%D0%B5" title="Танып һөйләше">
+                 танып
+                </a>
+                һәм
+                <a href="/wiki/%D0%9A%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Көньяҡ диалект">
+                 көньяҡ диалекттың
+                </a>
+                <a href="/wiki/%D0%94%D0%B8%D0%BC_%D2%BB%D3%A9%D0%B9%D0%BB%D3%99%D1%88%D0%B5" title="Дим һөйләше">
+                 дим
+                </a>
+                һөйләштәренә ҡарай.
+               </p>
+               <p>
+                Ҡаңлы ҡәбиләһенең барлыҡҡа килеүен боронғо Туран халҡы менән бәйләйҙәр, улар актик һәм иртә урта быуаттарҙа
+                <a href="/wiki/%D2%BA%D1%8B%D1%80%D0%B4%D0%B0%D1%80%D1%8A%D1%8F" title="Һырдаръя">
+                 Һырдаръя
+                </a>
+                һәм
+                <a href="/wiki/%D0%9A%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1_%D0%A3%D1%80%D0%B0%D0%BB" title="Көньяҡ Урал">
+                 Көньяҡ Урал
+                </a>
+                араһындағы далаларҙа йәшәгән. Боронғо иран ижади ҡомартҡыларында («
+                <a href="/wiki/%D0%90%D0%B2%D0%B5%D1%81%D1%82%D0%B0" title="Авеста">
+                 Авеста»
+                </a>
+                , «Хвадай-намаг» («Хоҙайнамә»)), зороастрий яҙмаларында («Денкард», «Бундахишн»), «
+                <a href="/wiki/%D0%A8%D0%B0%D2%BB%D0%BD%D0%B0%D0%BC%D3%99" title="Шаһнамә">
+                 Шаһнамә»
+                </a>
+                поэмаһында туран һәм иран (арий) халыҡтарының ҡан-ҡәрҙәш булыуы тураһында әйтелә. Тәүге турандарҙың мифик ата-бабаһы Арийҙың ҡустыһы булған, был хәҙерге генетик тикшеренеүҙәр менән дә раҫлана.
+               </p>
+               <p>
+                Урта быуат ҡаңлылары «Сокровенное сказание»ла — канг-лин,
+                <a class="mw-redirect" href="/wiki/%D0%A0%D3%99%D1%88%D0%B8%D1%82_%D3%99%D1%82-%D0%94%D0%B8%D0%BD" title="Рәшит әт-Дин">
+                 Рәшит әт-Диндә
+                </a>
+                — канлы,
+                <a href="/wiki/%D3%98%D0%B1%D2%AF_%D3%99%D0%BB-%D2%92%D0%B0%D0%B7%D0%B8" title="Әбү әл-Ғази">
+                 Әбү әл-Ғази
+                </a>
+                ла канкли, канглы тип телгә алына. Был этноним шулай уҡ
+                <a href="/wiki/%D2%A0%D0%B0%D2%99%D0%B0%D2%A1%D1%82%D0%B0%D1%80" title="Ҡаҙаҡтар">
+                 ҡаҙаҡтар
+                </a>
+                ,
+                <a class="mw-redirect" href="/wiki/%D2%A0%D0%B0%D1%80%D0%B0%D2%A1%D0%B0%D0%BB%D0%BF%D0%B0%D2%A1%D1%82%D0%B0%D1%80" title="Ҡараҡалпаҡтар">
+                 ҡараҡалпаҡтар
+                </a>
+                ,
+                <a href="/wiki/%D2%A0%D1%8B%D1%80%D2%93%D1%8B%D2%99%D2%99%D0%B0%D1%80" title="Ҡырғыҙҙар">
+                 ҡырғыҙҙар
+                </a>
+                ,
+                <a href="/wiki/%D2%A0%D1%8B%D1%80%D1%8B%D0%BC_%D1%82%D0%B0%D1%82%D0%B0%D1%80%D2%99%D0%B0%D1%80%D1%8B" title="Ҡырым татарҙары">
+                 ҡырым татарҙары
+                </a>
+                ,
+                <a href="/wiki/%D0%9D%D1%83%D2%93%D0%B0%D0%B9%D2%99%D0%B0%D1%80" title="Нуғайҙар">
+                 нуғайҙар
+                </a>
+                һәм
+                <a href="/wiki/%D2%AE%D0%B7%D0%B1%D3%99%D0%BA%D1%82%D3%99%D1%80" title="Үзбәктәр">
+                 үзбәктәрҙең
+                </a>
+                составында теркәлгән. Ҡәбилә формалашыуына уларҙың
+                <a href="/wiki/%D2%A0%D1%8B%D0%BF%D1%81%D0%B0%D2%A1%D1%82%D0%B0%D1%80" title="Ҡыпсаҡтар">
+                 ҡыпсаҡтар
+                </a>
+                араһында йәшәүе йоғонто яһай. Тикшеренеүселәрҙең күбеһенең раҫлауынса, ҡаңлыларҙың берләшмәһе XI—XII быуаттарҙа
+                <a href="/wiki/%D0%90%D1%80%D0%B0%D0%BB_%D0%B4%D0%B8%D2%A3%D0%B3%D0%B5%D2%99%D0%B5" title="Арал диңгеҙе">
+                 Арал
+                </a>
+                буйы далаларында
+                <a href="/wiki/%D0%91%D3%99%D1%88%D0%BD%D3%99%D0%BA%D1%82%D3%99%D1%80" title="Бәшнәктәр">
+                 бәшнәк
+                </a>
+                -
+                <a href="/wiki/%D0%A3%D2%93%D1%8B%D2%99%D2%99%D0%B0%D1%80" title="Уғыҙҙар">
+                 уғыҙ
+                </a>
+                нигеҙендә барлыҡҡа килгән. Шул уҡ ваҡытта «ҡаңлы» этнонимы бәшнәктең боронғо үҙатамаһы булған «ҡаңғар» менән оҡшаш. Ҡаңлыларҙың этник формалашыуында шулай уҡ ҡыпсаҡтарҙың ҙур роль уйнауы һыҙыҡ өҫтөнә алына, улар 1220 йылда
+                <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B4%D0%B0%D1%80" title="Монголдар">
+                 монголдар
+                </a>
+                тарафынан тар-мар ителгәндән һуң башлыса
+                <a class="mw-redirect" href="/wiki/%D2%A0%D1%8B%D0%BF%D1%81%D0%B0%D2%A1_%D0%B4%D0%B0%D0%BB%D0%B0%D2%BB%D1%8B" title="Ҡыпсаҡ далаһы">
+                 Ҡыпсаҡ далаһы
+                </a>
+                (Дешт-и-Ҡыпсаҡ) халҡы составына ҡушыла. ­Икенсе гипотеза буйынса, ҡаңлылар
+                <a href="/wiki/%D2%BA%D1%8B%D1%80%D0%B4%D0%B0%D1%80%D1%8A%D1%8F" title="Һырдаръя">
+                 Һырдаръяла
+                </a>
+                Ҡаңгөй дәүләтен төҙөгән ҡаңгөйҙәрҙең этник вариҫтары булып тора.
+               </p>
+               <p>
+                Ҡаңлылар
+                <a href="/wiki/%D0%90%D1%81%D1%8B%D0%BB%D1%8B%D0%BA%D2%AF%D0%BB" title="Асылыкүл">
+                 Асылыкүл
+                </a>
+                менән
+                <a href="/wiki/%D2%A0%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D0%BA%D2%AF%D0%BB" title="Ҡандракүл">
+                 Ҡандракүл
+                </a>
+                буйында,
+                <a href="/wiki/%D0%A1%D3%99%D1%80%D0%BC%D3%99%D1%81%D3%99%D0%BD" title="Сәрмәсән">
+                 Сәрмәсән
+                </a>
+                йылғаһы бассейны, шулай уҡ
+                <a href="/wiki/%D0%91%D0%B0%D2%99%D1%8B" title="Баҙы">
+                 Баҙы
+                </a>
+                йылғаһының — үрге,
+                <a href="/wiki/%D3%A8%D2%AB%D3%99%D0%BD" title="Өҫән">
+                 Өҫән
+                </a>
+                йылғаһының — урта,
+                <a href="/wiki/%D0%90%D2%93%D0%B8%D2%99%D0%B5%D0%BB_(%D0%B9%D1%8B%D0%BB%D2%93%D0%B0)" title="Ағиҙел (йылға)">
+                 Ағиҙел
+                </a>
+                йылғаһының түбәнге ағымында төпләнә, бында улар
+                <a href="/wiki/%D0%94%D1%8B%D1%83%D0%B0%D0%BD" title="Дыуан">
+                 дыуан
+                </a>
+                ,
+                <a href="/wiki/%D0%99%D1%8B%D0%BB%D0%B0%D0%BD" title="Йылан">
+                 йылан
+                </a>
+                ,
+                <a href="/wiki/%D0%99%D3%99%D0%BB%D0%B4%D3%99%D0%BA" title="Йәлдәк">
+                 йәлдәк
+                </a>
+                ,
+                <a href="/wiki/%D2%A0%D0%B0%D1%80%D1%88%D1%8B%D0%BD" title="Ҡаршын">
+                 ҡаршын
+                </a>
+                ,
+                <a class="new" href="/w/index.php?title=%D2%A0%D0%BE%D0%B1%D0%B0%D1%83&amp;action=edit&amp;redlink=1" title="Ҡобау (был бит юҡ)">
+                 ҡобау
+                </a>
+                ,
+                <a href="/wiki/%D0%9C%D0%B5%D2%A3" title="Мең">
+                 мең
+                </a>
+                һәм
+                <a href="/wiki/%D0%A3%D0%BD%D0%BB%D0%B0%D1%80" title="Унлар">
+                 унлар
+                </a>
+                ҡәбиләләре менән күрше була.
+                <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%B5%D0%B5%D0%B2_%D0%A0%D3%99%D0%B8%D0%BB_%D2%92%D2%AF%D0%BC%D3%99%D1%80_%D1%83%D0%BB%D1%8B" title="Кузеев Рәил Ғүмәр улы">
+                 Р. Ғ. Кузеев
+                </a>
+                буйынса, көнбайыш
+                <a href="/wiki/%D0%A2%D0%B0%D1%80%D0%B8%D1%85%D0%B8_%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD" title="Тарихи Башҡортостан">
+                 Башҡортостанда
+                </a>
+                ҡаңлылар боронғо башҡорт ҡәбиләләре менән ныҡ ҡатышалар, бының хаҡында ҡаңлылар араһында
+                <a href="/wiki/%D2%AE%D2%AB%D3%99%D1%80%D0%B3%D3%99%D0%BD" title="Үҫәргән">
+                 үҫәргән
+                </a>
+                ,
+                <a href="/wiki/%D0%91%D3%A9%D1%80%D0%B9%D3%99%D0%BD" title="Бөрйән">
+                 бөрйән
+                </a>
+                һәм
+                <a href="/wiki/%D0%AE%D1%80%D0%BC%D0%B0%D1%82%D1%8B" title="Юрматы">
+                 юрматы
+                </a>
+                ҡәбиләләренең тамғалары таралыуы дәлилләй. Шулай уҡ ҡаңлы һәм үҫәргән ҡәбиләләренең ҡошо ла бер —
+                <a href="/wiki/%D0%A2%D0%BE%D1%80%D0%BD%D0%B0" title="Торна">
+                 торна
+                </a>
+                .
+               </p>
+               <p>
+                Хәҙерге ваҡытта ҡәбиләнең аҫаба биләмәләренә
+                <a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B0%D1%80_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Благовар районы">
+                 Благовар
+                </a>
+                ,
+                <a href="/wiki/%D0%91%D3%A9%D1%80%D3%A9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Бөрө районы">
+                 Бөрө
+                </a>
+                ,
+                <a href="/wiki/%D0%91%D2%AF%D0%B7%D0%B4%D3%99%D0%BA_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Бүздәк районы">
+                 Бүздәк
+                </a>
+                ,
+                <a href="/wiki/%D0%91%D3%99%D0%BB%D3%99%D0%B1%D3%99%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Бәләбәй районы">
+                 Бәләбәй
+                </a>
+                ,
+                <a href="/wiki/%D0%94%D2%AF%D1%80%D1%82%D3%A9%D0%B9%D0%BB%D3%A9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Дүртөйлө районы">
+                 Дүртөйлө
+                </a>
+                ,
+                <a href="/wiki/%D0%94%D3%99%D2%AF%D0%BB%D3%99%D0%BA%D3%99%D0%BD_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Дәүләкән районы">
+                 Дәүләкән
+                </a>
+                ,
+                <a href="/wiki/%D0%9A%D1%83%D1%88%D0%BD%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Кушнаренко районы">
+                 Кушнаренко
+                </a>
+                ,
+                <a href="/wiki/%D0%9C%D0%B8%D1%88%D0%BA%D3%99_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Мишкә районы">
+                 Мишкә
+                </a>
+                ,
+                <a href="/wiki/%D0%A1%D0%B0%D2%A1%D0%BC%D0%B0%D2%93%D0%BE%D1%88_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Саҡмағош районы">
+                 Саҡмағош
+                </a>
+                ,
+                <a href="/wiki/%D0%A2%D1%83%D0%B9%D0%BC%D0%B0%D0%B7%D1%8B_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Туймазы районы">
+                 Туймазы
+                </a>
+                һәм
+                <a href="/wiki/%D0%A8%D0%B0%D1%80%D0%B0%D0%BD_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Шаран районы">
+                 Шаран
+                </a>
+                райондары инә.
+               </p>
+               <a href="/wiki/%D2%A0%D0%B0%D2%A3%D0%BB%D1%8B" title="Ҡаңлы">
+                <i>
+                 ↪ дауамы…
+                </i>
+               </a>
+              </div>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Яҡшы мәҡәләләр">
+                Исемлек
+               </a>
+               (111) |
+               <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D1%8F%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99" title="Ҡалып:Ағымдағы яҡшы мәҡәлә">
+                Үҙгәртеү
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              <img alt="" data-file-height="128" data-file-width="128" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/25px-Crystal_Clear_action_bookmark_Silver_approved.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/38px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Crystal_Clear_action_bookmark_Silver_approved.svg/50px-Crystal_Clear_action_bookmark_Silver_approved.svg.png 2x" width="25"/>
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B8%D1%84%D0%B0%D1%82%D0%BB%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Сифатлы мәҡәләләр">
+               Сифатлы мәҡәлә
+              </a>
+              ,
+              <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%BA%D1%82%D3%99%D1%80_%D2%BB%D3%99%D0%BC_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B4%D0%B0%D1%80" title="Википедия:Һайланған исемлектәр һәм порталдар">
+               исемлектәр, порталдар
+              </a>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <p>
+               <i>
+                Һуңғы сифатлы мәҡәлә:
+               </i>
+               <a href="/wiki/%D0%A5%D3%99%D0%BC%D0%B8%D1%82_%D0%97%D3%A9%D0%B1%D3%99%D0%B9%D0%B5%D1%80_%D2%A0%D1%83%D1%88%D0%B0%D0%B9" title="Хәмит Зөбәйер Ҡушай">
+                Хәмит Зөбәйер Ҡушай
+               </a>
+               .
+              </p>
+              <p>
+               <i>
+                Һуңғы һайланған исемлек:
+               </i>
+               <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%D2%BB%D1%8B%D0%BD_%D0%B0%D0%BB%D2%93%D0%B0%D0%BD_%D2%A1%D0%B0%D1%82%D1%8B%D0%BD-%D2%A1%D1%8B%D2%99%D2%99%D0%B0%D1%80_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%B3%D0%B5" title="Нобель премияһын алған ҡатын-ҡыҙҙар исемлеге">
+                Нобель премияһын алған ҡатын-ҡыҙҙар исемлеге
+               </a>
+               .
+              </p>
+              <p>
+               <i>
+                Һуңғы һайланған портал:
+               </i>
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%B0%D1%83%D1%8B%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Портал:Башҡортостан ауылдары">
+                Башҡортостан ауылдары
+               </a>
+               .
+              </p>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B8%D1%84%D0%B0%D1%82%D0%BB%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80" title="Википедия:Сифатлы мәҡәләләр">
+                Сифатлы мәҡәләләр
+               </a>
+               (17) |
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%B8%D1%81%D0%B5%D0%BC%D0%BB%D0%B5%D0%BA%D1%82%D3%99%D1%80_%D2%BB%D3%99%D0%BC_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B4%D0%B0%D1%80" title="Википедия:Һайланған исемлектәр һәм порталдар">
+                Исемлектәр һәм порталдар
+               </a>
+               (1, 1) |
+               <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D1%81%D0%B8%D1%84%D0%B0%D1%82%D0%BB%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99" title="Ҡалып:Ағымдағы сифатлы мәҡәлә">
+                Үҙгәртеү
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td>
+         </td>
+         <td style="width:48%; border:1px solid #C8D8FF; background-color:#ffffff; vertical-align:top; padding-left: 3px;padding-right: 3px; border-radius:7px;">
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              Аҙна рәсеме
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div id="mf-POTD" title="Аҙна рәсеме">
+               <div class="center">
+                <div class="floatnone">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg">
+                  <img alt="Ахун һынташтарының иң бейеге.jpg" data-file-height="4160" data-file-width="3120" decoding="async" height="467" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg/350px-%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg/525px-%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg/700px-%D0%90%D1%85%D1%83%D0%BD_%D2%BB%D1%8B%D0%BD%D1%82%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%D0%BD%D1%8B%D2%A3_%D0%B8%D2%A3_%D0%B1%D0%B5%D0%B9%D0%B5%D0%B3%D0%B5.jpg 2x" width="350"/>
+                 </a>
+                </div>
+               </div>
+               <div class="center">
+                <a href="/wiki/%D0%90%D1%85%D1%83%D0%BD_%D0%BC%D0%B5%D0%B3%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D1%8B" title="Ахун мегалитик комплексы">
+                 Ахун
+                </a>
+                һынташтарының береһе (
+                <a href="/wiki/%D0%A3%D1%87%D0%B0%D0%BB%D1%8B_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B" title="Учалы районы">
+                 Учалы районы
+                </a>
+                ).
+               </div>
+              </div>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%90%D2%99%D0%BD%D0%B0%D0%BB%D0%B0%D2%93%D1%8B_%D1%80%D3%99%D1%81%D0%B5%D0%BC/2021/39" title="Ҡалып:Аҙналағы рәсем/2021/39">
+                Үҙгәртеү
+               </a>
+               |
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D2%99%D0%BD%D0%B0_%D1%80%D3%99%D1%81%D0%B5%D0%BC%D0%B5" title="Википедия:Аҙна рәсеме">
+                Архив
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              Бөгөн:
+              <b>
+               <a href="/wiki/29_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="29 сентябрь">
+                29 сентябрь
+               </a>
+              </b>
+              <small>
+               <small>
+                ♦ Кисәге:
+                <a href="/wiki/28_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="28 сентябрь">
+                 28 сентябрь
+                </a>
+                ♦ Иртәгә:
+                <a href="/wiki/30_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C" title="30 сентябрь">
+                 30 сентябрь
+                </a>
+                ♦
+                <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C" title="Ҡалып:Календарь">
+                 Барлыҡ көндәр
+                </a>
+                ♦
+               </small>
+              </small>
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <h2>
+               <span id=".D0.91.D0.B0.D0.B9.D1.80.D0.B0.D0.BC.D0.B4.D0.B0.D1.80_.D2.BB.D3.99.D0.BC_.D0.B8.D2.AB.D1.82.D3.99.D0.BB.D0.B5.D0.BA.D0.BB.D0.B5_.D0.B4.D0.B0.D1.82.D0.B0.D0.BB.D0.B0.D1.80">
+               </span>
+               <span class="mw-headline" id="Байрамдар_һәм_иҫтәлекле_даталар">
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Christmas_bell_icon.png">
+                 <img alt="Christmas bell icon.png" data-file-height="256" data-file-width="256" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Christmas_bell_icon.png/30px-Christmas_bell_icon.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Christmas_bell_icon.png/45px-Christmas_bell_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Christmas_bell_icon.png/60px-Christmas_bell_icon.png 2x" width="30"/>
+                </a>
+                <a href="/wiki/%D0%91%D0%B0%D0%B9%D1%80%D0%B0%D0%BC" title="Байрам">
+                 Байрамдар
+                </a>
+                һәм иҫтәлекле даталар
+               </span>
+              </h2>
+              <dl>
+               <dt>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sciences_de_la_terre.svg">
+                 <img alt="Sciences de la terre.svg" data-file-height="256" data-file-width="256" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/25px-Sciences_de_la_terre.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/38px-Sciences_de_la_terre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/50px-Sciences_de_la_terre.svg.png 2x" width="25"/>
+                </a>
+                Халыҡ-ара
+               </dt>
+              </dl>
+              <ul>
+               <li>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_Nations.svg" title="БМО">
+                 <img alt="БМО" class="thumbborder" data-file-height="800" data-file-width="1200" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/22px-Flag_of_the_United_Nations.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/33px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/44px-Flag_of_the_United_Nations.svg.png 2x" width="22"/>
+                </a>
+                <a class="mw-redirect" href="/wiki/%D0%91%D0%9C%D0%9E" title="БМО">
+                 БМО
+                </a>
+                :
+                <a href="/wiki/%D0%99%D3%A9%D1%80%D3%99%D0%BA" title="Йөрәк">
+                 Йөрәк
+                </a>
+                көнө.
+               </li>
+              </ul>
+              <dl>
+               <dt>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Crystal_locale.png">
+                 <img alt="Crystal locale.png" data-file-height="64" data-file-width="64" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crystal_locale.png/27px-Crystal_locale.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crystal_locale.png/41px-Crystal_locale.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Crystal_locale.png/54px-Crystal_locale.png 2x" width="27"/>
+                </a>
+                Милли
+               </dt>
+              </dl>
+              <ul>
+               <li>
+                <span class="flagicon">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" title="Америка Ҡушма Штаттары">
+                  <img alt="Америка Ҡушма Штаттары" class="thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" width="22"/>
+                 </a>
+                </span>
+                <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0_%D2%A0%D1%83%D1%88%D0%BC%D0%B0_%D0%A8%D1%82%D0%B0%D1%82%D1%82%D0%B0%D1%80%D1%8B" title="Америка Ҡушма Штаттары">
+                 АҠШ
+                </a>
+                :
+                <a class="mw-redirect" href="/wiki/%D2%A0%D3%99%D2%BB%D2%AF%D3%99" title="Ҡәһүә">
+                 Ҡәһүә
+                </a>
+                көнө.
+               </li>
+               <li>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Brunei.svg" title="Бруней">
+                 <img alt="Бруней" class="thumbborder" data-file-height="720" data-file-width="1440" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/22px-Flag_of_Brunei.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/33px-Flag_of_Brunei.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/44px-Flag_of_Brunei.svg.png 2x" width="22"/>
+                </a>
+                <a href="/wiki/%D0%91%D1%80%D1%83%D0%BD%D0%B5%D0%B9" title="Бруней">
+                 Бруней
+                </a>
+                :
+                <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F" title="Конституция">
+                 Конституция
+                </a>
+                көнө.
+               </li>
+              </ul>
+              <dl>
+               <dt>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Social_sciences.svg">
+                 <img alt="Social sciences.svg" data-file-height="122" data-file-width="139" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/25px-Social_sciences.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/38px-Social_sciences.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/50px-Social_sciences.svg.png 2x" width="25"/>
+                </a>
+                Һөнәри
+               </dt>
+              </dl>
+              <ul>
+               <li>
+                <span class="flagicon">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Argentina.svg" title="Аргентина">
+                  <img alt="Аргентина" class="thumbborder" data-file-height="500" data-file-width="800" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/22px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/33px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/44px-Flag_of_Argentina.svg.png 2x" width="22"/>
+                 </a>
+                </span>
+                <a href="/wiki/%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0" title="Аргентина">
+                 Аргентина
+                </a>
+                : Уйлап сығарыусылар көнө.
+               </li>
+               <li>
+                <span class="flagicon">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Iran.svg" title="Иран">
+                  <img alt="Иран" class="thumbborder" data-file-height="360" data-file-width="630" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/33px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/44px-Flag_of_Iran.svg.png 2x" width="22"/>
+                 </a>
+                </span>
+                <a href="/wiki/%D0%98%D1%80%D0%B0%D0%BD" title="Иран">
+                 Иран
+                </a>
+                : Янғын һағы көнө.
+               </li>
+               <li>
+                <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kyrgyzstan.svg" title="Ҡырғыҙстан флагы">
+                 <img alt="Ҡырғыҙстан флагы" class="thumbborder" data-file-height="600" data-file-width="1000" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/25px-Flag_of_Kyrgyzstan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/38px-Flag_of_Kyrgyzstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/50px-Flag_of_Kyrgyzstan.svg.png 2x" width="25"/>
+                </a>
+                <a href="/wiki/%D2%A0%D1%8B%D1%80%D2%93%D1%8B%D2%99%D1%81%D1%82%D0%B0%D0%BD" title="Ҡырғыҙстан">
+                 Ҡырғыҙстан
+                </a>
+                :
+                <a href="/wiki/%D2%A0%D0%B0%D0%BD" title="Ҡан">
+                 Ҡан
+                </a>
+                донорҙары көнө.
+               </li>
+               <li>
+                <span class="flagicon">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" title="Рәсәй">
+                  <img alt="Рәсәй" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" width="22"/>
+                 </a>
+                </span>
+                <a class="mw-redirect" href="/wiki/%D0%A0%D3%99%D1%81%D3%99%D0%B9" title="Рәсәй">
+                 Рәсәй
+                </a>
+                : Табип-отоларингологтар көнө.
+               </li>
+              </ul>
+              <p align="right" style="font-size:85%;">
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              29 сентябрь юбилярҙары
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div id="mf-AD" title="29 сентябрь юбилярҙары">
+              </div>
+              <p align="right" style="font-size:85%;">
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              Ҡыҙыҡ мәғлүмәт
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div id="mf-duk" title="Ҡыҙыҡ мәғлүмәт">
+               <div class="thumb tright">
+                <div class="thumbinner" style="width:77px;">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soldier_Horse.JPG">
+                  <img alt="" class="thumbimage" data-file-height="2288" data-file-width="1712" decoding="async" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Soldier_Horse.JPG/75px-Soldier_Horse.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Soldier_Horse.JPG/113px-Soldier_Horse.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Soldier_Horse.JPG/150px-Soldier_Horse.JPG 2x" width="75"/>
+                 </a>
+                 <div class="thumbcaption">
+                  <div class="magnify">
+                   <a class="internal" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soldier_Horse.JPG" title="Ҙурайтырға">
+                   </a>
+                  </div>
+                  <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%B0%D0%BD%D0%B0%D0%BD_%D1%8F%D2%BB%D0%B0%D0%BB%D2%93%D0%B0%D0%BD_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F" title="Терракотанан яһалған армия">
+                   Терракоттанан яһалған һалдат менән ат
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <ul>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%99%D1%8B%D0%BB%D0%B0%D0%BD" title="Йылан">
+                   Йылан
+                  </a>
+                 </b>
+                 ҡәбиләһе
+                 <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80" title="Башҡорттар">
+                  башҡорттары
+                 </a>
+                 өс ырыуҙан тора: Эске, Иҙел һәм Тышҡы (Ҡыр), уларҙың телдәре
+                 <a href="/wiki/%D0%A2%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1-%D0%BA%D3%A9%D0%BD%D0%B1%D0%B0%D0%B9%D1%8B%D1%88_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="Төньяҡ-көнбайыш диалект">
+                  төньяҡ-көнбайыш диалектының
+                 </a>
+                 <a href="/wiki/%D0%A2%D0%B0%D0%BD%D1%8B%D0%BF_%D2%BB%D3%A9%D0%B9%D0%BB%D3%99%D1%88%D0%B5" title="Танып һөйләше">
+                  танып
+                 </a>
+                 һәм
+                 <a href="/wiki/%D0%A2%D2%AF%D0%B1%D3%99%D0%BD%D0%B3%D0%B5_%D0%B0%D2%93%D0%B8%D2%99%D0%B5%D0%BB-%D1%8B%D2%A1_%D2%BB%D3%A9%D0%B9%D0%BB%D3%99%D1%88%D0%B5" title="Түбәнге ағиҙел-ыҡ һөйләше">
+                  түбәнге ағиҙел-ыҡ
+                 </a>
+                 һөйләштәренә ҡарай.
+                </li>
+                <li>
+                 <a class="mw-redirect" href="/wiki/%D0%A6%D0%B8%D0%BD%D1%8C_%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F%D2%BB%D1%8B" title="Цинь династияһы">
+                  Цинь династияһы
+                 </a>
+                 императоры
+                 <a href="/wiki/%D0%A6%D0%B8%D0%BD%D1%8C_%D0%A8%D0%B8_%D0%A5%D1%83%D0%B0%D0%BD" title="Цинь Ши Хуан">
+                  Цинь Ши Хуан
+                 </a>
+                 мавзолейы янында күмелгән
+                 <b>
+                  <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%B0%D0%BD%D0%B0%D0%BD_%D1%8F%D2%BB%D0%B0%D0%BB%D2%93%D0%B0%D0%BD_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F" title="Терракотанан яһалған армия">
+                   Терракота ғәскәре
+                  </a>
+                 </b>
+                 бер-береһенә оҡшамаған 6 меңдән ашыу яугир һәм ат скульптураларынан тора, уның байтаҡ өлөшө әле ҡаҙып алынмаған.
+                </li>
+                <li>
+                 <a href="/wiki/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80" title="Башҡорттар">
+                  Башҡорттарҙан
+                 </a>
+                 тәүге
+                 <b>
+                  <a href="/wiki/%D3%98%D0%B1%D0%B4%D0%B8%D0%B5%D0%B2_%D3%98%D1%85%D0%BC%D3%99%D1%82%D0%B9%D3%99%D0%BD_%D3%98%D0%B1%D0%B4%D0%B5%D0%BB%D2%93%D3%99%D0%BB%D0%BB%D3%99%D0%BC_%D1%83%D0%BB%D1%8B" title="Әбдиев Әхмәтйән Әбделғәлләм улы">
+                   медицина докторы
+                  </a>
+                 </b>
+                 <a href="/wiki/%D0%9C%D3%99%D1%82%D3%99%D0%BB" title="Мәтәл">
+                  Мәтәл
+                 </a>
+                 һәм
+                 <a href="/wiki/%D3%98%D1%81%D3%99%D0%BD_(%D0%94%D2%AF%D1%80%D1%82%D3%A9%D0%B9%D0%BB%D3%A9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B)" title="Әсән (Дүртөйлө районы)">
+                  Әсән
+                 </a>
+                 ауылдарында табип булып эшләй.
+                </li>
+                <li>
+                 <a href="/wiki/%D0%92%D0%B0%D0%BD_(%D0%BA%D2%AF%D0%BB)" title="Ван (күл)">
+                  Содалы иң ҙур күл
+                 </a>
+                 <a href="/wiki/%D0%A2%D3%A9%D1%80%D0%BA%D0%B8%D3%99" title="Төркиә">
+                  Төркиәлә
+                 </a>
+                 урынлашҡан.
+                </li>
+               </ul>
+               <div class="thumb tright">
+                <div class="thumbinner" style="width:102px;">
+                 <a class="image" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_(Grus_grus).jpg">
+                  <img alt="" class="thumbimage" data-file-height="3132" data-file-width="4312" decoding="async" height="73" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg/100px-%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg/150px-%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg/200px-%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_%28Grus_grus%29.jpg 2x" width="100"/>
+                 </a>
+                 <div class="thumbcaption">
+                  <div class="magnify">
+                   <a class="internal" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C_%D1%81%D1%96%D1%80%D0%B8%D0%B9_(Grus_grus).jpg" title="Ҙурайтырға">
+                   </a>
+                  </div>
+                  <a href="/wiki/%D2%BA%D0%BE%D1%80%D0%BE_%D1%82%D0%BE%D1%80%D0%BD%D0%B0" title="Һоро торна">
+                   Һоро торналар
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <ul>
+                <li>
+                 <a href="/wiki/%D2%A0%D3%99%D0%BD%D0%B8%D1%84%D3%99_%D1%8E%D0%BB%D1%8B" title="Ҡәнифә юлы">
+                  Ҡәнифә юлының
+                 </a>
+                 икенсе атамаһы —
+                 <i>
+                  <b>
+                   Каруан юлы
+                  </b>
+                 </i>
+                 . Ул
+                 <a href="/wiki/%D0%AF%D0%B9%D1%8B%D2%A1" title="Яйыҡ">
+                  Яйыҡ
+                 </a>
+                 йылғаһы аша сығып,
+                 <a href="/wiki/%D2%A0%D0%B0%D2%99%D0%B0%D2%93%D1%81%D1%82%D0%B0%D0%BD" title="Ҡаҙағстан">
+                  Ҡаҙағстан
+                 </a>
+                 аша
+                 <a href="/wiki/%D0%A3%D1%80%D1%82%D0%B0_%D0%90%D0%B7%D0%B8%D1%8F" title="Урта Азия">
+                  Урта Азияға
+                 </a>
+                 барып сыға.
+                 <a href="/wiki/%D0%AB%D1%80%D1%8B%D0%BC%D0%B1%D1%83%D1%80_%D0%B1%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80%D1%8B" title="Ырымбур башҡорттары">
+                  Ырымбур башҡорттары
+                 </a>
+                 юлдың ул өлөшөн «
+                 <a href="/wiki/%D0%9C%D1%8B%D1%81%D1%8B%D1%80" title="Мысыр">
+                  Мысыр
+                 </a>
+                 юлы» тип атаған.
+                 <a href="/wiki/%D0%93%D3%A9%D0%B1%D3%A9%D1%80%D0%BB%D3%A9_(%D0%B9%D1%8B%D0%BB%D2%93%D0%B0)" title="Гөбөрлө (йылға)">
+                  Гөбөрлө
+                 </a>
+                 йылғаһы кисеүен «
+                 <a href="/wiki/%D0%9C%D1%8B%D1%81%D1%8B%D1%80" title="Мысыр">
+                  Мысыр
+                 </a>
+                 кисеүе» тип йөрөткәндәр.
+                </li>
+                <li>
+                 <b>
+                  <a href="/wiki/%D2%BA%D0%BE%D1%80%D0%BE_%D1%82%D0%BE%D1%80%D0%BD%D0%B0" title="Һоро торна">
+                   Һоро торналар
+                  </a>
+                 </b>
+                 — 8000 метрға күтәрелеп
+                 <a href="/wiki/%D0%93%D0%B8%D0%BC%D0%B0%D0%BB%D0%B0%D0%B9_%D1%82%D0%B0%D1%83%D2%99%D0%B0%D1%80%D1%8B" title="Гималай тауҙары">
+                  Гималай тауҙары
+                 </a>
+                 аша оса алған берҙән-бер ҡош.
+                </li>
+               </ul>
+              </div>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D2%A0%D1%8B%D2%99%D1%8B%D2%A1_%D0%BC%D3%99%D2%93%D0%BB%D2%AF%D0%BC%D3%99%D1%82" title="Ҡалып:Ҡыҙыҡ мәғлүмәт">
+                Үҙгәртеү
+               </a>
+               |
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%A0%D1%8B%D2%99%D1%8B%D2%A1_%D0%BC%D3%99%D2%93%D0%BB%D2%AF%D0%BC%D3%99%D1%82" title="Википедия:Ҡыҙыҡ мәғлүмәт">
+                Архив
+               </a>
+               |
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%A0%D1%8B%D2%99%D1%8B%D2%A1_%D0%BC%D3%99%D2%93%D0%BB%D2%AF%D0%BC%D3%99%D1%82/%D0%A2%D3%99%D2%A1%D0%B4%D0%B8%D0%BC" title="Википедия:Ҡыҙыҡ мәғлүмәт/Тәҡдим">
+                Тәҡдим
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+           <tbody>
+            <tr>
+             <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+              Яңы мәҡәлә
+             </th>
+            </tr>
+            <tr>
+             <td style="padding:5px; background:transparent;">
+              <div class="mw-inputbox-centered" style="">
+               <form action="/w/index.php" class="createbox" method="get" name="createbox">
+                <input name="action" type="hidden" value="edit"/>
+                <input name="preload" type="hidden" value="Ҡалып:Болванка"/>
+                <input class="mw-inputbox-input mw-ui-input mw-ui-input-inline mw-inputbox-createbox" dir="ltr" name="title" placeholder="Мәҡәлә исемен яҙығыҙ" required="" size="50"/>
+                <br/>
+                <input class="mw-ui-button mw-ui-progressive" name="create" type="submit" value="Башларға"/>
+               </form>
+              </div>
+              <p align="right" style="font-size:85%;">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D3%99%D2%A1%D3%99%D0%BB%D3%99_%D0%BE%D2%AB%D1%82%D0%B0%D2%BB%D1%8B" title="Википедия:Мәҡәлә оҫтаһы">
+                Мәҡәлә оҫтаһы
+               </a>
+               |
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B8%D2%99_%D0%B1%D0%B0%D1%88%D0%BB%D0%B0%D0%BD%D2%93%D1%8B%D1%81_%D3%A9%D1%81%D3%A9%D0%BD_%D2%A1%D1%83%D0%BB%D0%BB%D0%B0%D0%BD%D0%BC%D0%B0" title="Википедия:Тиҙ башланғыс өсөн ҡулланма">
+                Тиҙ башланғыс
+               </a>
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div align="center" style="width:100%; border:1px solid #C8D8FF; border-radius:7px;">
+       <table style="width:100%; padding:5px; text-align:left; background:transparent;">
+        <tbody>
+         <tr>
+          <th style="width:100%; padding:2px; padding-left:8px; background:transparent; border-bottom:solid 4px #C8D8FF; font-size:125%;">
+           Проекттар
+          </th>
+         </tr>
+         <tr>
+          <td style="padding:5px; background:transparent;">
+           <table class="wikitable" style="margin:auto; clear:both;">
+            <caption>
+             2021 йыл проекттары
+            </caption>
+            <tbody>
+             <tr>
+              <th>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D2%BB%D1%8B_%D0%91%D0%B0%D1%88%D0%BB%D1%8B%D2%93%D1%8B_%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D1%8B_2021" title="Проект:Башҡортостан Республикаһы Башлығы гранты 2021">
+                Республика Башлығы гранты
+               </a>
+              </th>
+              <th>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D1%82%D0%B0%D1%80%D0%B8%D1%85%D1%8B_%D0%B9%D1%8B%D0%BB%D1%8B" title="Проект:Башҡорт тарихы йылы">
+                Башҡорт тарихы йылы
+               </a>
+              </th>
+              <th>
+               Халыҡ-ара проекттар
+              </th>
+             </tr>
+             <tr>
+              <td>
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%82%D0%B0%D1%80" title="Проект:Башҡорттар">
+                Башҡорттар
+               </a>
+               <br/>
+               21 февраль — 11 октябрь
+              </td>
+              <td>
+               <a class="external text" href="https://ru.wikimedia.org/wiki/Конкурсы/WikiGap_2021_Russia">
+                WikiGap 2021 Russia
+               </a>
+               <br/>
+               8 март — 8 май
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:center;">
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A2%D0%B0%D1%80%D0%B8%D1%85%D0%B8_%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D1%82%D0%BE%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B8%D1%8F%D2%BB%D1%8B_2021" title="Проект:Тарихи Башҡортостан топонимияһы 2021">
+                Тарихи Башҡортостан топонимияһы 2021
+               </a>
+               <br/>
+               1 — 31 март
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%92%D0%B8%D0%BA%D0%B8-%D1%8F%D2%99_2021" title="Проект:Вики-яҙ 2021">
+                Вики-яҙ 2021
+               </a>
+               <br/>
+               21 март — 31 май
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:center;">
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:112-%D1%81%D0%B5_%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%BA%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F%D2%BB%D1%8B_%D1%8F%D1%83%D0%B3%D0%B8%D1%80%D2%99%D0%B0%D1%80%D1%8B" title="Проект:112-се Башҡорт кавалерия дивизияһы яугирҙары">
+                112-се Башҡорт кавалерия дивизияһы яугирҙары
+               </a>
+               <br/>
+               1 — 30 июнь
+              </td>
+              <td>
+               <a class="external text" href="https://ru.wikivoyage.org/wiki/Wikivoyage:Вики_любит_Землю_2021">
+                «Вики_любит_Землю_2021»
+               </a>
+               <br/>
+               Фотоконкурс
+               <br/>
+               1 — 30 июнь
+              </td>
+             </tr>
+             <tr>
+              <td style="text-align:center;">
+               Википедия:Белешмә
+               <br/>
+               1 — 31 июль
+              </td>
+              <td>
+              </td>
+              <td>
+               <a class="extiw" href="https://meta.wikimedia.org/wiki/Turkic_Marathon_2021" title="m:Turkic Marathon 2021">
+                Төрки Марафоны 2021
+               </a>
+               <br/>
+               1 — 31 июль
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:center;">
+               <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%98%D1%81%D0%B5%D0%BC%D0%B5%D2%A3_%D0%BC%D0%B0%D1%82%D1%83%D1%80_2021" title="Проект:Исемең матур 2021">
+                Башҡорт исемдәре
+               </a>
+               <br/>
+               1 — 30 сентябрь
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:center;">
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:1000_%D3%99%D2%BB%D3%99%D0%BC%D0%B8%D3%99%D1%82%D0%BB%D0%B5_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99" title="Проект:1000 әһәмиәтле мәҡәлә">
+                1000_әһәмиәтле_мәҡәлә
+               </a>
+               һәм
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9C%D0%B8%D1%80%D0%B8%D0%B0%D0%B4%D0%B0" title="Проект:Мириада">
+                Мириада
+               </a>
+               <br/>
+               1 — 30 ноябрь
+              </td>
+              <td>
+               Азия айлығы
+               <br/>
+               1 — 30 ноябрь
+              </td>
+             </tr>
+             <tr>
+              <td>
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%C2%AB%D0%A2%D3%A9%D0%BD%D1%8C%D1%8F%D2%A1_%D0%B0%D0%BC%D1%83%D1%80%D2%99%D0%B0%D1%80%D1%8B%C2%BB" title="Проект:«Төньяҡ амурҙары»">
+                «Төньяҡ амурҙары»
+               </a>
+               <br/>
+               йыл дауамында
+              </td>
+             </tr>
+             <tr>
+              <td>
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%C2%AB%D0%9C%D1%83%D1%81%D0%B0_%D0%9C%D0%BE%D1%80%D1%82%D0%B0%D0%B7%D0%B8%D0%BD_%D1%8F%D1%83%D2%99%D0%B0%D1%88%D1%82%D0%B0%D1%80%D1%8B%C2%BB" title="Проект:«Муса Мортазин яуҙаштары»">
+                «Муса Мортазин яуҙаштары»
+               </a>
+               <br/>
+               йыл дауамында
+              </td>
+             </tr>
+             <tr>
+              <td>
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%AE%D0%B1%D0%B8%D0%BB%D1%8F%D1%80%D2%93%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B1%D2%AF%D0%BB%D3%99%D0%B3%D0%B5" title="Проект:Юбилярға Википедия бүләге">
+                Йыл юбилярҙары
+               </a>
+               <br/>
+               йыл дауамында
+              </td>
+             </tr>
+             <tr>
+              <td>
+              </td>
+              <td>
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%82%D0%B0%D0%BD_%D0%B0%D1%83%D1%8B%D0%BB%D0%B4%D0%B0%D1%80%D1%8B" title="Проект:Башҡортостан ауылдары">
+                Башҡортостан ауылдары
+               </a>
+               <br/>
+               йыл дауамында
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <a class="extiw" href="https://meta.wikimedia.org/wiki/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%BC%D0%B0_%D0%9D%D1%83%D1%80%D1%8B%D0%B5%D0%B2%D0%B0" title="m:Онлайн ВикиШкола Рустама Нурыева">
+                Онлайн ВикиМәктәп
+               </a>
+               /
+               <a class="extiw" href="https://meta.wikimedia.org/wiki/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%92%D0%B8%D0%BA%D0%B8%D0%A8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%BC%D0%B0_%D0%9D%D1%83%D1%80%D1%8B%D0%B5%D0%B2%D0%B0/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="m:Онлайн ВикиШкола Рустама Нурыева/Расписание">
+                Расписание
+               </a>
+               <br/>
+               <b>
+                <a class="external text" href="https://docs.google.com/forms/d/e/1FAIpQLSczuRDGOYaAEDi5uPLpQLj6iAEGR1jBFPWH4eCrPMU7tXrPXw/viewform" rel="nofollow">
+                 Курсҡа яҙылыу
+                </a>
+               </b>
+               <br/>
+               <p>
+                Курстар башланыу көндәре: 1 март, 19 май, 30 июнь, 11 август, 13 октябрь, 16 декабрь
+               </p>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <b>
+                ―――――――――――――――――――――
+               </b>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <b>
+                <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82_%D0%B1%D1%83%D0%B9%D1%8B%D0%BD%D1%81%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%82%D0%B0%D1%80" title="Категория:Алфавит буйынса проекттар">
+                 Башҡа проекттар
+                </a>
+               </b>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D2%99%D0%BD%D0%B0_%D1%80%D3%99%D1%81%D0%B5%D0%BC%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2/2021" title="Википедия:Аҙна рәсеме/Архив/2021">
+                2021 йылда Баш биттәге аҙна рәсеме
+               </a>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9C%D0%B8%D1%80%D0%B8%D0%B0%D0%B4%D0%B0/%D2%98%D1%83%D1%80%D0%BB%D1%8B%D2%93%D1%8B/%D3%98%D2%99_%D0%B3%D0%B5%D0%BD%D3%99_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B4%D0%B0%D1%80_%D0%B5%D1%82%D0%BC%D3%99%D0%B9" title="Проект:Мириада/Ҙурлығы/Әҙ генә символдар етмәй">
+                Мириада проектында әҙ генә символдар етмәгән мәҡәләләр
+               </a>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="3" style="text-align:center;">
+               <a class="external text" href="https://golos.bashkortostan.ru/polls/226/" rel="nofollow">
+                Башҡорт Википедияһы сараларын баһалау
+               </a>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <p align="right" style="font-size:85%;">
+            <a href="/wiki/%D2%A0%D0%B0%D0%BB%D1%8B%D0%BF:%D0%99%D1%8B%D0%BB_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%82%D0%B0%D1%80%D1%8B" title="Ҡалып:Йыл проекттары">
+             Үҙгәртеү
+            </a>
+           </p>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div align="center" style="width:100%; border:1px solid #C8D8FF; border-radius:7px;">
+       <div style="text-align:center;">
+        <table style="width: 100%;">
+         <tbody>
+          <tr>
+           <td style="width:8%;">
+            <a href="https://ba.wikibooks.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Дәреслек">
+             <img alt="Дәреслек" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/55px-HSWBooks.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/83px-HSWBooks.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/HSWBooks.svg/110px-HSWBooks.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://ba.wikisource.org/wiki/Main_Page/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%81%D0%B0" title="Викикитапхана">
+             <img alt="Викикитапхана" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/55px-HSWSource.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/83px-HSWSource.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/HSWSource.svg/110px-HSWSource.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://ba.wikiquote.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Викиөҙөмтә">
+             <img alt="Викиөҙөмтә" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/55px-HSWQuote.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/83px-HSWQuote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HSWQuote.svg/110px-HSWQuote.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://incubator.wikimedia.org/wiki/Wt/ba/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Викиһүҙлек">
+             <img alt="Викиһүҙлек" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/55px-HSWtionary.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/83px-HSWtionary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HSWtionary.svg/110px-HSWtionary.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://commons.wikimedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Викимилек">
+             <img alt="Викимилек" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/55px-HSCommons.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/83px-HSCommons.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/HSCommons.svg/110px-HSCommons.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://incubator.wikimedia.org/wiki/Main_Page" title="Викидата">
+             <img alt="Викидата" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/55px-Wikidata-HS-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/83px-Wikidata-HS-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Wikidata-HS-icon.svg/110px-Wikidata-HS-icon.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://ba.wikinews.org/wiki/ru:%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Викияңылыҡтар">
+             <img alt="Викияңылыҡтар" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/55px-HSWNews.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/83px-HSWNews.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HSWNews.svg/110px-HSWNews.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://meta.wikimedia.org/wiki/" title="Мета-вики">
+             <img alt="Мета-вики" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/55px-HSWikimedia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/83px-HSWikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/110px-HSWikimedia.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://incubator.wikimedia.org/wiki/Main_Page" title="Инкубатор">
+             <img alt="Инкубатор" data-file-height="156" data-file-width="156" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/HSIncubator.svg/55px-HSIncubator.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/HSIncubator.svg/83px-HSIncubator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/HSIncubator.svg/110px-HSIncubator.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://species.wikimedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Викитөрҙәр">
+             <img alt="Викитөрҙәр" data-file-height="300" data-file-width="300" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/55px-HSWSpecies.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/83px-HSWSpecies.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HSWSpecies.svg/110px-HSWSpecies.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://incubator.wikimedia.org/wiki/Wy/ba/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Сәйәхәт">
+             <img alt="Сәйәхәт" data-file-height="512" data-file-width="512" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HSWVoyage.svg/55px-HSWVoyage.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HSWVoyage.svg/83px-HSWVoyage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HSWVoyage.svg/110px-HSWVoyage.svg.png 2x" width="55"/>
+            </a>
+           </td>
+           <td style="width:8%;">
+            <a href="https://ba.wikisource.org/wiki/Main_Page/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%81%D0%B0" title="Университет">
+             <img alt="Университет" data-file-height="512" data-file-width="512" decoding="async" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/55px-HSWVersity.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/83px-HSWVersity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSWVersity.svg/110px-HSWVersity.svg.png 2x" width="55"/>
+            </a>
+           </td>
+          </tr>
+          <tr style="font-size: smaller; font-size:90%; line-height: 1.2; vertical-align: top;">
+           <td>
+            <a class="extiw" href="https://ba.wikibooks.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="b:Баш бит">
+             Дәреслек
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://ba.wikisource.org/wiki/Main_Page/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82%D1%81%D0%B0" title="s:Main Page/Башҡортса">
+             Китапхана
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://ba.wikiquote.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="q:Баш бит">
+             Өҙөмтә
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://incubator.wikimedia.org/wiki/Wt/ba/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="incubator:Wt/ba/Баш бит">
+             Һүҙлек
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="commons:Заглавная страница">
+             Милек
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="wikidata:Wikidata:Main Page">
+             Викидата
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://ru.wikipedia.org/wiki/n:%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="ru:n:Баш бит">
+             Яңылыҡтар
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+             Мета
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://incubator.wikimedia.org/wiki/Main_Page" title="incubator:Main Page">
+             Инкубатор
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://species.wikimedia.org/wiki/Main_Page" title="wikispecies:Main Page">
+             Төрҙәр
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://incubator.wikimedia.org/wiki/Wy/ba/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="incubator:Wy/ba/Баш бит">
+             Сәйәхәт
+            </a>
+           </td>
+           <td>
+            <a class="extiw" href="https://en.wikiversity.org/wiki/Main_Page" title="wikiversity:Main Page">
+             Университет
+            </a>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1304
+Cached time: 20210929015318
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.253 seconds
+Real time usage: 0.351 seconds
+Preprocessor visited node count: 791/1000000
+Post‐expand include size: 51674/2097152 bytes
+Template argument size: 22749/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 543/5000000 bytes
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 992012/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.395      1 -total
+ 93.32%  146.877      9 Ҡалып:MP-part2
+ 54.69%   86.072      2 29_сентябрь
+ 23.01%   36.219     12 Ҡалып:Replace
+ 15.98%   25.154      4 Ҡалып:Флагификация
+  5.11%    8.044      1 Ҡалып:Флагификация/АҠШ
+  4.96%    7.813      1 Ҡалып:Аҙна_рәсеме
+  4.11%    6.476      1 Ҡалып:Флагификация/Иран
+  3.76%    5.923      1 Ҡалып:Бруней
+  3.75%    5.900      1 Ҡалып:Ҡырғыҙстан
+-->
+      <!-- Saved in parser cache with key bawiki:pcache:idhash:1-0!canonical and timestamp 20210929015318 and revision id 1077331. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//ba.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      <a dir="ltr" href="https://ba.wikipedia.org/w/index.php?title=Баш_бит&amp;oldid=1077331">
+       https://ba.wikipedia.org/w/index.php?title=Баш_бит&amp;oldid=1077331
+      </a>
+      ҡабул ителгән
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Навигация
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Шәхси ҡоралдар
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Танылмағанһығыҙ
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D3%98%D2%A3%D0%B3%D3%99%D0%BC%D3%99_%D0%B1%D0%B8%D1%82%D0%B5%D0%BC" title="IP адресығыҙ өсөн фекер алышыу бите [n]">
+         Әңгәмә
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D3%A8%D0%BB%D3%A9%D1%88%D3%A9%D0%BC" title="Был IP-адрестан яһалған төҙәтеүҙәр [y]">
+         Башҡарған эштәр
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%98%D2%AB%D3%99%D0%BF_%D1%8F%D2%99%D1%8B%D1%83%D1%8B_%D1%8F%D2%BB%D0%B0%D1%83&amp;returnto=%D0%91%D0%B0%D1%88+%D0%B1%D0%B8%D1%82" title="Мотлаҡ булмаһа ла, Һеҙгә иҫәп яҙмаһы төҙөргә һәм системала танылырға тәҡдим итәбеҙ">
+         Яңы ҡатнашыусыны теркәү
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%A2%D0%B0%D0%BD%D1%8B%D0%BB%D1%8B%D1%83&amp;returnto=%D0%91%D0%B0%D1%88+%D0%B1%D0%B8%D1%82" title="Бында теркәлеү үтергә була, әммә был эш мәжбүри түгел [o]">
+         Танылыу
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Исем арауыҡтары
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Мәҡәлә эстәлеге [c]">
+          Баш бит
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%A4%D0%B5%D0%BA%D0%B5%D1%80%D0%BB%D3%99%D1%88%D0%B5%D2%AF:%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" rel="discussion" title="Биттең эстәлеге тураһында фекерләшеү [t]">
+          Фекер алышыу
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Варианттар
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Ҡарауҙар
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82">
+          Уҡыу
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;action=edit" title="Был бит үҙгәртеүҙән һаҡланған.
+Тик сығанаҡ текстын ғына ҡарай һәм күсереп ала алаһығыҙ. [e]">
+          Сығанаҡты ҡарау
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;action=history" title="Биттең төҙәтеүҙәр исемлеге [h]">
+          Тарихты ҡарау
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Больше возможностей">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Тағы
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Эҙләү
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Википедия эсендә эҙләү" title="Эҙләргә Википедия [f]" type="search"/>
+         <input name="title" type="hidden" value="Махсус:Эҙләү"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Ошондай эстәлекле биттәрҙе табырға" type="submit" value="Табыу"/>
+         <input class="searchButton" id="searchButton" name="go" title="Нәҡ ошондай исеме булған биткә күсергә" type="submit" value="Күсеү"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Баш биткә күсергә">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Төп йүнәлештәр
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage">
+        <a accesskey="z" href="/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Баш биткә күсергә [z]">
+         Баш бит
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-index">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D0%BB%D1%8B_%D0%BA%D2%AF%D1%80%D2%BB%D3%99%D1%82%D0%BA%D0%B5%D1%81">
+         Алфавитлы күрһәткес
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D0%B2%D0%B0%D2%A1%D0%B8%D2%93%D0%B0%D0%BB%D0%B0%D1%80" title="Ағымдағы ваҡиғалар исемлеге">
+         Ағымдағы ваҡиғалар
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-articles-label" class="mw-portlet mw-portlet-articles vector-menu vector-menu-portal portal" id="p-articles" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-articles-label">
+      <span>
+       Мәҡәләләр
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-featured">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%BA%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D2%93%D0%B0%D0%BD_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80">
+         Һайланған
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-good">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D2%A1%D1%88%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80">
+         Яҡшы
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-quality">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B8%D1%84%D0%B0%D1%82%D0%BB%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80">
+         Сифатлы
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-1000">
+        <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:1000_%D3%99%D2%BB%D3%99%D0%BC%D0%B8%D3%99%D1%82%D0%BB%D0%B5_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99">
+         1 000 мотлаҡ
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-10000">
+        <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9C%D0%B8%D1%80%D0%B8%D0%B0%D0%B4%D0%B0">
+         10 000 әһәмиәтле
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Башҡортнамә">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D2%BB%D1%8B%D0%BD%D0%B4%D0%B0_%D0%B1%D1%83%D0%BB%D1%8B%D1%80%D2%93%D0%B0_%D1%82%D0%B5%D0%B9%D0%B5%D1%88_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BB%D3%99%D1%80">
+         Башҡортнамә
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-newpages">
+        <a href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%AF%D2%A3%D1%8B_%D0%B1%D0%B8%D1%82%D1%82%D3%99%D1%80">
+         Яңы мәҡәләләр
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%9E%D1%81%D1%80%D0%B0%D2%A1%D0%BB%D1%8B_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99" title="Осраҡлы битте ҡарарға [x]">
+         Осраҡлы мәҡәлә
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" id="p-participation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-participation-label">
+      <span>
+       Ҡатнашыу
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B5%D1%80%D0%BB%D3%99%D1%88%D0%BC%D3%99" title="Проект буйынса һеҙ нимә эшләй алаһығыҙ һәм ҡайҙа нимә барлығы тураһында белешмә">
+         Берләшмә
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-forum">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%A0%D0%BE%D1%80%D0%BE%D0%BB%D1%82%D0%B0%D0%B9">
+         Ҡоролтай
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D2%BA%D1%83%D2%A3%D2%93%D1%8B_%D2%AF%D2%99%D0%B3%D3%99%D1%80%D1%82%D0%B5%D2%AF%D2%99%D3%99%D1%80" title="Һуңғы үҙгәртеүҙәр исемлеге [r]">
+         Һуңғы үҙгәртеүҙәр
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B5%D0%BB%D0%B5%D1%88%D0%BC%D3%99" title="«Википедия» буйынса белешмә">
+         Белешмә
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ba.wikipedia.org&amp;uselang=ba" title="Беҙгә ярҙам итегеҙ">
+         Иғәнә
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupportregional">
+        <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D2%93%D1%8B%D0%BC%D0%B4%D0%B0%D2%93%D1%8B_%D0%B2%D0%B0%D2%A1%D0%B8%D2%93%D0%B0%D0%BB%D0%B0%D1%80/%D0%91%D0%B0%D1%88%D2%A1%D0%BE%D1%80%D1%82_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D2%BB%D1%8B%D0%BD%D0%B0_%D0%BC%D0%B0%D1%82%D0%B4%D0%B8_%D1%8F%D1%80%D2%99%D0%B0%D0%BC">
+         Матди ярҙам
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Ҡоралдар
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%91%D1%8B%D0%BD%D0%B4%D0%B0_%D2%BB%D1%8B%D0%BB%D1%82%D0%B0%D0%BD%D0%BC%D0%B0%D0%BB%D0%B0%D1%80/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" title="Был биткә һылтанған барлык биттәрҙең исемлеге [j]">
+         Бында һылтанмалар
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%91%D3%99%D0%B9%D0%BB%D0%B5_%D2%AF%D2%99%D0%B3%D3%99%D1%80%D1%82%D0%B5%D2%AF%D2%99%D3%99%D1%80/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" rel="nofollow" title="Был биттән һылтанған биттәрҙә һуңғы үҙгәртеүҙәр [k]">
+         Бәйле үҙгәртеүҙәр
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81_%D0%B1%D0%B8%D1%82%D1%82%D3%99%D1%80" title="Барлыҡ махсус биттәр исемлеге [q]">
+         Махсус биттәр
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;oldid=1077331" title="Биттең был өлгөһөнә даими һылтанма">
+         Даими һылтанма
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;action=info" title="Был бит тураһында ентекләберәк">
+         Бит мәғлүмәттәре
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;id=1077331&amp;wpFormIdentifier=titleform" title="Был битте нисек өҙөмтәләргә кәрәклеге тураһында мәғлүмәт">
+         Мәҡәләгә һылтанма яһа
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Мәғлүмәт репозитарийҙағы үҙара бәйле элементҡа һылтанма [g]">
+         Викидата элементы
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Баҫтырырға/сығарырға
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:Collection&amp;bookcmd=book_creator&amp;referer=%D0%91%D0%B0%D1%88+%D0%B1%D0%B8%D1%82">
+         Китап төҙөргә
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=%D0%9C%D0%B0%D1%85%D1%81%D1%83%D1%81:DownloadAsPdf&amp;page=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;action=show-download-screen">
+         PDF форматында күсереп алырға
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;printable=yes" title="Был биттең ҡағыҙға баҫыу өлгөһө [p]">
+         Баҫтырыу өлгөһө
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Башҡа проекттарҙа
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викимилек
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         Медиавики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Мета-вики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Многоязычная Викитека
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викивиды
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://ba.wikibooks.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D3%99%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%BA:%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" hreflang="ba">
+         Викиучебник
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Викидата
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Викимания
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Башҡа телдәрҙә
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="арабский">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="азербайджанский">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb mw-list-item">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/" hreflang="azb" lang="azb" title="South Azerbaijani">
+         تۆرکجه
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="белорусский">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce mw-list-item">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/" hreflang="ce" lang="ce" title="чеченский">
+         Нохчийн
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-crh mw-list-item">
+        <a class="interlanguage-link-target" href="https://crh.wikipedia.org/wiki/" hreflang="crh" lang="crh" title="крымско-татарский">
+         Qırımtatarca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv mw-list-item">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/" hreflang="cv" lang="cv" title="чувашский">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="немецкий">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="английский">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="испанский">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="персидский">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="французский">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gag mw-list-item">
+        <a class="interlanguage-link-target" href="https://gag.wikipedia.org/wiki/" hreflang="gag" lang="gag" title="гагаузский">
+         Gagauz
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="армянский">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="итальянский">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="грузинский">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kaa mw-list-item">
+        <a class="interlanguage-link-target" href="https://kaa.wikipedia.org/wiki/" hreflang="kaa" lang="kaa" title="каракалпакский">
+         Qaraqalpaqsha
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/" hreflang="kk" lang="kk" title="казахский">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-krc mw-list-item">
+        <a class="interlanguage-link-target" href="https://krc.wikipedia.org/wiki/" hreflang="krc" lang="krc" title="карачаево-балкарский">
+         Къарачай-малкъар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky mw-list-item">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/" hreflang="ky" lang="ky" title="киргизский">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="русский">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah mw-list-item">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/" hreflang="sah" lang="sah" title="саха">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tk mw-list-item">
+        <a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/" hreflang="tk" lang="tk" title="туркменский">
+         Türkmençe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="турецкий">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="татарский">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tyv mw-list-item">
+        <a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/" hreflang="tyv" lang="tyv" title="тувинский">
+         Тыва дыл
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug mw-list-item">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/" hreflang="ug" lang="ug" title="уйгурский">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="украинский">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz mw-list-item">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/" hreflang="uz" lang="uz" title="узбекский">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Был бит һуңғы тапҡыр 17:28 27 сентябрь 2021 үҙгәртелгән.
+    </li>
+    <li id="footer-info-copyright">
+     Текст
+     <a href="http://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution/Share-Alike
+     </a>
+     лицензияһы шарттары буйынса асыҡ, айырым осраҡтарҙа өҫтәмә шарттар ғәмәлдә булырға мөмкин. Тулы мәғлүмәт өсөн ҡарағыҙ:
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ru">
+      Ҡулланыу шарттары
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" title="m:Privacy policy/ru">
+      Сер һаҡлау сәйәсәте
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D1%81%D1%83%D0%B8%D1%80%D0%BB%D0%B0%D0%BC%D0%B0" title="Википедия:Тасуирлама">
+      Википедия тураһында
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AF%D1%83%D0%B0%D0%BF%D0%BB%D1%8B%D0%BB%D1%8B%D2%A1%D1%82%D0%B0%D0%BD_%D0%B1%D0%B0%D1%88_%D1%82%D0%B0%D1%80%D1%82%D1%8B%D1%83" title="Википедия:Яуаплылыҡтан баш тартыу">
+      Яуаплылыҡтан баш тартыу
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//ba.m.wikipedia.org/w/index.php?title=%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82&amp;mobileaction=toggle_view_mobile">
+      Мобиль нөсхә
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Яһаусылар
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/ba.wikipedia.org">
+      Статистика
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie тураһында килешеү
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.253","walltime":"0.351","ppvisitednodes":{"value":791,"limit":1000000},"postexpandincludesize":{"value":51674,"limit":2097152},"templateargumentsize":{"value":22749,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":543,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  157.395      1 -total"," 93.32%  146.877      9 Ҡалып:MP-part2"," 54.69%   86.072      2 29_сентябрь"," 23.01%   36.219     12 Ҡалып:Replace"," 15.98%   25.154      4 Ҡалып:Флагификация","  5.11%    8.044      1 Ҡалып:Флагификация/АҠШ","  4.96%    7.813      1 Ҡалып:Аҙна_рәсеме","  4.11%    6.476      1 Ҡалып:Флагификация/Иран","  3.76%    5.923      1 Ҡалып:Бруней","  3.75%    5.900      1 Ҡалып:Ҡырғыҙстан"]},"scribunto":{"limitreport-timeusage":{"value":"0.012","limit":"10.000"},"limitreport-memusage":{"value":992012,"limit":52428800}},"cachereport":{"origin":"mw1304","timestamp":"20210929015318","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u0411\u0430\u0448 \u0431\u0438\u0442","url":"https:\/\/ba.wikipedia.org\/wiki\/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-06-02T16:23:46Z","dateModified":"2021-09-27T17:28:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/08\/%D0%92%D0%B0%D0%BB%D0%B8%D0%B4%D0%B8.jpg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":166,"wgHostname":"mw1321"});});
+  </script>
+ </body>
+</html>

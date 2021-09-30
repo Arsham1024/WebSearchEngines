@@ -1,0 +1,1715 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikibooks
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1967f9f6-e3aa-492c-9e11-ce9fcea91b3e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":3831056,"wgRevisionId":3831056,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Main page"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{
+"value":{"levels":3}}},"wgStableRevisionId":3831056,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikibooks","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296","wgSiteNoticeId":"2.24"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready",
+"ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.wikidialog","ext.gadget.commons-file","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.dismissableSiteNotice"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=en&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.37.0-wmf.23" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Wikibooks" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//en.m.wikibooks.org/wiki/Main_Page" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/favicon/wikibooks.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikibooks (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikibooks.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikibooks.org/wiki/Main_Page" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+    <div id="mw-dismissablenotice-anonplace">
+    </div>
+    <script>
+     (function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cdiv style=\"background: #ffffff; border: solid 1px #48b; width: auto; padding-left:2px; padding-right:2px; margin-left:auto; margin-right:auto; vertical-align: top; display:table; color:black;\"\u003EThe Wikibooks community has accepted \u003Ca href=\"/wiki/Wikibooks:Reading_room/Proposals#Implementation\" title=\"Wikibooks:Reading room/Proposals\"\u003Evideo game strategy guides\u003C/a\u003E on this wiki! See \u003Ca href=\"/wiki/Wikibooks:Strategy_guides\" title=\"Wikibooks:Strategy guides\"\u003EWikibooks:Strategy guides\u003C/a\u003E for the newly-created policy on strategy games. We're looking forward to your contributions.\n\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+    </script>
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Main Page
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikibooks, open books for an open world
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <div id="mf-main" style="width:100%; margin:0px; padding:0px 5px 5px 5px;">
+       <div id="mf-help" style="clear:both; text-align:center; font-size:95%; margin:0em 1em 0em 1em;">
+        <p>
+         <a href="/wiki/Wikibooks:Featured_books" title="Wikibooks:Featured books">
+          Featured books
+         </a>
+         •
+         <a href="/wiki/Wikijunior" title="Wikijunior">
+          Wikijunior
+         </a>
+         •
+         <a href="/wiki/Cookbook:Table_of_Contents" title="Cookbook:Table of Contents">
+          Cookbook
+         </a>
+         •
+         <a href="/wiki/Wikibooks:Card_Catalog_Office" title="Wikibooks:Card Catalog Office">
+          Browse books
+         </a>
+         •
+         <a href="/wiki/Help:Contents" title="Help:Contents">
+          Help
+         </a>
+         •
+         <a href="/wiki/Wikibooks:Reading_room" title="Wikibooks:Reading room">
+          Forum
+         </a>
+         •
+         <a href="/wiki/Using_Wikibooks" title="Using Wikibooks">
+          Using Wikibooks
+         </a>
+        </p>
+       </div>
+       <div style="width:40%; clear:both; float:left; text-align:center; padding-bottom: 1em;">
+        <div style="font-size:162%; padding:0.1em;">
+         <a href="/wiki/Wikibooks:Welcome" title="Wikibooks:Welcome">
+          Welcome
+         </a>
+         to
+         <a href="/wiki/Wikibooks:What_is_Wikibooks" title="Wikibooks:What is Wikibooks">
+          Wikibooks
+         </a>
+         ,
+        </div>
+        <div style="font-size:95%; padding-top:0.2em;">
+         the open-content textbooks collection that
+         <a href="/wiki/Help:Contributing" title="Help:Contributing">
+          anyone can edit
+         </a>
+         .
+        </div>
+        <div id="pagecount" style="font-size:85%;">
+         <a href="/wiki/Wikibooks_Stacks/Departments" title="Wikibooks Stacks/Departments">
+          3,381 books
+         </a>
+         with
+         <a href="/wiki/Special:AllPages" title="Special:AllPages">
+          93,248 pages
+         </a>
+         .
+        </div>
+       </div>
+       <div style="flex: 1 0 50%; width:50%; min-width:10em; float: right; box-sizing: border-box; font-size:95%; display: flex; flex-wrap: wrap;">
+        <div style="float:left; width:25%; flex: 1 0 25%; min-width: 12em;">
+         <ul>
+          <li>
+           <a href="/wiki/Department:Computing" title="Department:Computing">
+            Computing
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Engineering" title="Department:Engineering">
+            Engineering
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Humanities" title="Department:Humanities">
+            Humanities
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div style="float:left; width:25%; flex: 1 0 25%; min-width: 12em;">
+         <ul>
+          <li>
+           <a href="/wiki/Department:Languages" title="Department:Languages">
+            Languages
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Mathematics" title="Department:Mathematics">
+            Mathematics
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Miscellaneous" title="Department:Miscellaneous">
+            Miscellaneous
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div style="float:left; width:25%; flex: 1 0 25%; min-width: 12em;">
+         <ul>
+          <li>
+           <a href="/wiki/Department:Recreational_activities" title="Department:Recreational activities">
+            Recreational activities
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Science" title="Department:Science">
+            Science
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Social_sciences" title="Department:Social sciences">
+            Social sciences
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div style="float:left; width:25%; flex: 1 0 25%; min-width: 12em;">
+         <ul>
+          <li>
+           <a href="/wiki/Department:Standard_curricula" title="Department:Standard curricula">
+            Standard curricula
+           </a>
+          </li>
+          <li>
+           <a href="/wiki/Department:Wikijunior" title="Department:Wikijunior">
+            Wikijunior
+           </a>
+          </li>
+          <li>
+           <b>
+            <a href="/wiki/Wikibooks_Stacks/Departments" title="Wikibooks Stacks/Departments">
+             All subjects
+            </a>
+           </b>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div id="mp-content" style="clear:both; width:100%; margin: 25px 0 0 0; display: flex; flex-wrap: wrap; box-sizing: border-box;">
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Wikibooks:Featured_books" title="Wikibooks:Featured books">
+            More featured books...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/US_History" title="US History">
+            <img alt="Aldrin Apollo 11.jpg" data-file-height="2700" data-file-width="2700" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aldrin_Apollo_11.jpg/210px-Aldrin_Apollo_11.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aldrin_Apollo_11.jpg/315px-Aldrin_Apollo_11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aldrin_Apollo_11.jpg/420px-Aldrin_Apollo_11.jpg 2x" width="210"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          The
+          <a href="/wiki/US_History" title="US History">
+           United States History
+          </a>
+          book covers US history from the pre-Columbian era to the present day.
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Aldrin_Apollo_11.jpg" title="File:Aldrin Apollo 11.jpg">
+           Image credit
+          </a>
+         </div>
+        </div>
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Wikijunior" title="Wikijunior">
+            More featured children's books...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/Wikijunior:Europe" title="Wikijunior:Europe">
+            <img alt="Europe location.png" data-file-height="1200" data-file-width="1600" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Europe_location.png/280px-Europe_location.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Europe_location.png/420px-Europe_location.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Europe_location.png/560px-Europe_location.png 2x" width="280"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          Young readers can have fun learning about Europe at
+          <a href="/wiki/Wikijunior:Europe" title="Wikijunior:Europe">
+           Wikijunior:Europe
+          </a>
+          . Europe has over 700 million people, and over 40 countries.
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Europe_location.png" title="File:Europe location.png">
+           Image credit
+          </a>
+         </div>
+        </div>
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Category:Featured_recipes" title="Category:Featured recipes">
+            More featured recipes...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/Cookbook:Hamburger" title="Cookbook:Hamburger">
+            <img alt="Hamburger sandwich.jpg" data-file-height="323" data-file-width="424" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hamburger_sandwich.jpg/276px-Hamburger_sandwich.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hamburger_sandwich.jpg/414px-Hamburger_sandwich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e8/Hamburger_sandwich.jpg 2x" width="276"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          A
+          <a href="/wiki/Cookbook:Hamburger" title="Cookbook:Hamburger">
+           Hamburger
+          </a>
+          (or, less frequently, a hamburg) is a variant on a sandwich involving a patty of ground meat, usually beef (known in the United Kingdom as a beefburger), or a vegetarian patty.
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Hamburger_sandwich.jpg" title="File:Hamburger sandwich.jpg">
+           Image credit
+          </a>
+         </div>
+        </div>
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Wikibooks:Promoted_shelves" title="Wikibooks:Promoted shelves">
+            More promoted shelves...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/Shelf:Games" title="Shelf:Games">
+            <img alt="Chess board blank.svg" data-file-height="246" data-file-width="242" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Chess_board_blank.svg/207px-Chess_board_blank.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Chess_board_blank.svg/310px-Chess_board_blank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Chess_board_blank.svg/413px-Chess_board_blank.svg.png 2x" width="207"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          <a href="/wiki/Shelf:Games" title="Shelf:Games">
+           Shelf:Games
+          </a>
+          contains books on games, and includes the subsection shelves
+          <a href="/wiki/Shelf:Athletic_games" title="Shelf:Athletic games">
+           athletic games
+          </a>
+          ,
+          <a href="/wiki/Shelf:Board_games" title="Shelf:Board games">
+           board games
+          </a>
+          ,
+          <a href="/wiki/Shelf:Card_games" title="Shelf:Card games">
+           card games
+          </a>
+          ,
+          <a href="/wiki/Shelf:Electronic_games" title="Shelf:Electronic games">
+           electronic games
+          </a>
+          , and
+          <a href="/wiki/Shelf:Game_design" title="Shelf:Game design">
+           game design
+          </a>
+          .
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Chess_board_blank.svg" title="File:Chess board blank.svg">
+           Image credit
+          </a>
+         </div>
+        </div>
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Wikibooks:Promoted_shelves" title="Wikibooks:Promoted shelves">
+            More promoted shelves...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/Shelf:Computer_programming" title="Shelf:Computer programming">
+            <img alt="Openscad SVG.svg" data-file-height="206" data-file-width="256" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Openscad_SVG.svg/261px-Openscad_SVG.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Openscad_SVG.svg/392px-Openscad_SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Openscad_SVG.svg/522px-Openscad_SVG.svg.png 2x" width="261"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          <a href="/wiki/Shelf:Computer_programming" title="Shelf:Computer programming">
+           Shelf:Computer programming
+          </a>
+          contains books on programming, such as
+          <a href="/wiki/LaTeX" title="LaTeX">
+           LaTeX
+          </a>
+          ,
+          <a href="/wiki/OpenSCAD_User_Manual" title="OpenSCAD User Manual">
+           OpenSCAD User Manual
+          </a>
+          ,
+          <a href="/wiki/Python_Programming" title="Python Programming">
+           Python Programming
+          </a>
+          , and
+          <a href="/wiki/Java_Programming" title="Java Programming">
+           Java Programming
+          </a>
+          .
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Openscad_SVG.svg" title="File:Openscad SVG.svg">
+           Image credit
+          </a>
+         </div>
+        </div>
+        <div style="box-sizing: border-box; float:left; flex: 1 0 33%; width:33%; border: 0.2em solid #FAFAFA; padding: 1em; background-color:#F3F3F3; min-width: 20em; overflow:hidden;">
+         <div style="text-align:center; margin-bottom:10px;">
+          <b>
+           <a href="/wiki/Wikibooks:Promoted_shelves" title="Wikibooks:Promoted shelves">
+            More promoted shelves...
+           </a>
+          </b>
+         </div>
+         <div class="center">
+          <div class="floatnone">
+           <a href="/wiki/Shelf:Languages_of_Asia" title="Shelf:Languages of Asia">
+            <img alt="Taj Mahal in March 2004.jpg" data-file-height="1681" data-file-width="2040" decoding="async" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/255px-Taj_Mahal_in_March_2004.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/382px-Taj_Mahal_in_March_2004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/510px-Taj_Mahal_in_March_2004.jpg 2x" width="255"/>
+           </a>
+          </div>
+         </div>
+         <div style="margin-top:10px;">
+          <a href="/wiki/Shelf:Languages_of_Asia" title="Shelf:Languages of Asia">
+           Shelf:Languages of Asia
+          </a>
+          contains books on Asian languages, such as
+          <a href="/wiki/Marathi" title="Marathi">
+           Marathi
+          </a>
+          ,
+          <a href="/wiki/Bengali" title="Bengali">
+           Bengali
+          </a>
+          ,
+          <a href="/wiki/Kannada" title="Kannada">
+           Kannada
+          </a>
+          ,
+          <a href="/wiki/Hindi" title="Hindi">
+           Hindi
+          </a>
+          , and
+          <a href="/wiki/Sanskrit" title="Sanskrit">
+           Sanskrit
+          </a>
+          .
+         </div>
+         <div class="noprint" style="float:right; font-size:80%;">
+          <a href="/wiki/File:Taj_Mahal_in_March_2004.jpg" title="File:Taj Mahal in March 2004.jpg">
+           Image credit
+          </a>
+         </div>
+        </div>
+       </div>
+       <div style="float:left; width:100%; margin-top:10px; text-align:center; clear:both;">
+        <div style="float:left; width:100%;">
+         Wikibooks is hosted by the
+         <a class="extiw" href="https://en.wikipedia.org/wiki/Wikimedia_Foundation" title="w:Wikimedia Foundation">
+          Wikimedia Foundation
+         </a>
+         , which also hosts:
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikiversity.org/wiki/" title="Wikiversity">
+           <img alt="Wikiversity" data-file-height="512" data-file-width="626" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/59px-Wikiversity_logo_2017.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/88px-Wikiversity_logo_2017.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/117px-Wikiversity_logo_2017.svg.png 2x" width="59"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikiversity.org/wiki/" title="v:">
+           Wikiversity
+          </a>
+          <br/>
+          Learning resources
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikipedia.org/wiki/" title="Wikipedia">
+           <img alt="Wikipedia" data-file-height="94" data-file-width="103" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/53px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/79px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/105px-Wikipedia-logo-v2.svg.png 2x" width="53"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikipedia.org/wiki/" title="w:">
+           Wikipedia
+          </a>
+          <br/>
+          Encyclopedia
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wiktionary.org/wiki/" title="Wiktionary">
+           <img alt="Wiktionary" data-file-height="350" data-file-width="370" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/51px-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/76px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/102px-Wiktionary-logo.svg.png 2x" width="51"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wiktionary.org/wiki/" title="wikt:">
+           Wiktionary
+          </a>
+          <br/>
+          Dictionary and thesaurus
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikiquote.org/wiki/" title="Wikiquote">
+           <img alt="Wikiquote" data-file-height="355" data-file-width="300" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/61px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/81px-Wikiquote-logo.svg.png 2x" width="40"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikiquote.org/wiki/" title="q:">
+           Wikiquote
+          </a>
+          <br/>
+          Quotations
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikisource.org/wiki/" title="Wikisource">
+           <img alt="Wikisource" data-file-height="430" data-file-width="410" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/46px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/69px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/92px-Wikisource-logo.svg.png 2x" width="46"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikisource.org/wiki/" title="s:">
+           Wikisource
+          </a>
+          <br/>
+          Documents
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://species.wikimedia.org/wiki/" title="Wikispecies">
+           <img alt="Wikispecies" data-file-height="1103" data-file-width="941" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/41px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/61px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/82px-Wikispecies-logo.svg.png 2x" width="41"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://species.wikimedia.org/wiki/" title="wikispecies:">
+           Wikispecies
+          </a>
+          <br/>
+          Species directory
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikinews.org/wiki/" title="Wikinews">
+           <img alt="Wikinews" data-file-height="415" data-file-width="759" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/88px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/132px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/176px-Wikinews-logo.svg.png 2x" width="88"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikinews.org/wiki/" title="n:">
+           Wikinews
+          </a>
+          <br/>
+          News reports
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://en.wikivoyage.org/wiki/" title="Wikivoyage">
+           <img alt="Wikivoyage" data-file-height="193" data-file-width="193" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/48px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/72px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/96px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="48"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://en.wikivoyage.org/wiki/" title="wikivoyage:">
+           Wikivoyage
+          </a>
+          <br/>
+          Travel guide
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://www.wikidata.org/wiki/" title="Wikidata">
+           <img alt="Wikidata" data-file-height="590" data-file-width="1050" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/86px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/129px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/171px-Wikidata-logo.svg.png 2x" width="86"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://www.wikidata.org/wiki/" title="wikidata:">
+           Wikidata
+          </a>
+          <br/>
+          Knowledge database
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://commons.wikimedia.org/wiki/" title="Wikimedia Commons">
+           <img alt="Wikimedia Commons" data-file-height="1376" data-file-width="1024" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/36px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/71px-Commons-logo.svg.png 2x" width="36"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/" title="commons:">
+           Commons
+          </a>
+          <br/>
+          Media repository
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://meta.wikimedia.org/wiki/" title="Meta Wikimedia">
+           <img alt="Meta Wikimedia" data-file-height="900" data-file-width="900" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/48px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/72px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/96px-Wikimedia_Community_Logo.svg.png 2x" width="48"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+           Meta
+          </a>
+          <br/>
+          Coordination
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://www.mediawiki.org/wiki/" title="MediaWiki">
+           <img alt="MediaWiki" data-file-height="100" data-file-width="100" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/48px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/72px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/96px-MediaWiki-2020-icon.svg.png 2x" width="48"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://www.mediawiki.org/wiki/" title="mw:">
+           MediaWiki
+          </a>
+          <br/>
+          MediaWiki software
+         </p>
+        </div>
+        <div class="plainlinks" style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="//phabricator.wikimedia.org/" title="Phabricator">
+           <img alt="Phabricator" data-file-height="3333" data-file-width="3333" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Phacility_phabricator_logo.png/48px-Phacility_phabricator_logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Phacility_phabricator_logo.png/72px-Phacility_phabricator_logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Phacility_phabricator_logo.png/96px-Phacility_phabricator_logo.png 2x" width="48"/>
+          </a>
+          <br/>
+          <a class="external text" href="https://phabricator.wikimedia.org/">
+           Phabricator
+          </a>
+          <br/>
+          MediaWiki bug tracker
+         </p>
+        </div>
+        <div style="float:left; height:100px; padding:1em; margin:0em; overflow:hidden;">
+         <p>
+          <a href="https://wikitech.wikimedia.org/wiki/" title="Wikimedia Labs">
+           <img alt="Wikimedia Labs" data-file-height="900" data-file-width="900" decoding="async" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wikimedia_Cloud_Services_logo.svg/48px-Wikimedia_Cloud_Services_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wikimedia_Cloud_Services_logo.svg/72px-Wikimedia_Cloud_Services_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wikimedia_Cloud_Services_logo.svg/96px-Wikimedia_Cloud_Services_logo.svg.png 2x" width="48"/>
+          </a>
+          <br/>
+          <a class="extiw" href="https://wikitech.wikimedia.org/wiki/" title="labsconsole:">
+           Wikimedia Labs
+          </a>
+          <br/>
+          MediaWiki development
+         </p>
+        </div>
+       </div>
+       <div style="clear:both; border-top:1px solid rgb(167, 215, 249); text-align:center; padding-top:5px;">
+        <div class="plainlinks">
+         <p>
+          The
+          <a class="extiw" href="https://en.wikipedia.org/wiki/Wikimedia_Foundation" title="w:Wikimedia Foundation">
+           Wikimedia Foundation
+          </a>
+          is a non-profit organization that depends on your
+          <a href="/wiki/Wikibooks:Welcome" title="Wikibooks:Welcome">
+           voluntarism
+          </a>
+          and
+          <a class="extiw" href="https://foundation.wikimedia.org/wiki/Fundraising" title="foundation:Fundraising">
+           donations
+          </a>
+          to operate. If you find Wikibooks or
+          <a class="extiw" href="https://meta.wikimedia.org/wiki/Template:Sisterprojects" title="meta:Template:Sisterprojects">
+           other projects
+          </a>
+          hosted by the Wikimedia Foundation useful, please volunteer or make a donation. Your donations primarily helps to purchase
+          <a class="extiw" href="https://meta.wikimedia.org/wiki/Wikimedia_servers" title="m:Wikimedia servers">
+           server equipment
+          </a>
+          , launch new
+          <a class="extiw" href="https://meta.wikimedia.org/wiki/Proposals_for_new_projects" title="m:Proposals for new projects">
+           projects
+          </a>
+          , and develop MediaWiki—the software that makes Wikibooks possible.
+         </p>
+        </div>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20210922015528
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.148 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 1215/1000000
+Post‐expand include size: 15383/2097152 bytes
+Template argument size: 4594/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 824020/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  125.419      1 -total
+ 34.27%   42.983      1 Main_Page/Featured
+ 32.62%   40.909      1 Template:NUMBEROFBOOKS
+ 32.24%   40.441      1 Template:Goodbook/List
+ 29.26%   36.696      1 Template:BOOKCATEGORY
+ 27.03%   33.904      1 Template:BOOKNAME
+ 25.01%   31.364      1 Template:BOOKNAME/core
+ 20.49%   25.697      2 Template:Goodbook
+ 20.33%   25.493      1 Template:Goodbook/US_History
+ 19.62%   24.607      6 Template:Image
+-->
+      <!-- Saved in parser cache with key enwikibooks:pcache:idhash:1-0!canonical and timestamp 20210922015528 and revision id 3831056. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Retrieved from "
+      <a dir="ltr" href="https://en.wikibooks.org/w/index.php?title=Main_Page&amp;oldid=3831056">
+       https://en.wikibooks.org/w/index.php?title=Main_Page&amp;oldid=3831056
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Special:Categories" title="Special:Categories">
+       Category
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Main_page" title="Category:Main page">
+         Main page
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Personal tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Not logged in
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         Discussion for this IP address
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         Contributions
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         Create account
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]">
+         Log in
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Main_Page" title="View the content page [c]">
+          Main page
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Talk:Main_Page" rel="discussion" title="Discussion about the content page [t]">
+          Discussion
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span>
+        Views
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Main_Page">
+          Read
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Main_Page&amp;action=edit" title="This page is protected.
+You can view its source [e]">
+          View source
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Search
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Search Wikibooks" title="Search Wikibooks [f]" type="search"/>
+         <input name="title" type="hidden" value="Special:Search"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search the pages for this text" type="submit" value="Search"/>
+         <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <nav aria-labelledby="p-Navigation-label" class="mw-portlet mw-portlet-Navigation vector-menu vector-menu-portal portal" id="p-Navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Navigation-label">
+      <span>
+       Navigation
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main Page
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Help:Contents" title="Find help on how to use and edit Wikibooks">
+         Help
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Browse">
+        <a href="/wiki/Wikibooks:Card_Catalog_Office" title="Check out what Wikibooks has to offer">
+         Browse
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Cookbook">
+        <a href="/wiki/Cookbook:Table_of_Contents" title="Learn recipes from around the world">
+         Cookbook
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikijunior">
+        <a href="/wiki/Wikijunior" title="Books for children">
+         Wikijunior
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Featured-books">
+        <a href="/wiki/Wikibooks:Featured_books" title="The best of Wikibooks">
+         Featured books
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">
+         Recent changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikibooks.org&amp;uselang=en" title="Support Wikibooks">
+         Donations
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randomrootpage">
+        <a href="/wiki/Special:RandomInCategory/Book:Wikibooks_Stacks/Books">
+         Random book
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Using-Wikibooks">
+        <a href="/wiki/Using_Wikibooks">
+         Using Wikibooks
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Community-label" class="mw-portlet mw-portlet-Community vector-menu vector-menu-portal portal" id="p-Community" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Community-label">
+      <span>
+       Community
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Reading-room-forum">
+        <a href="/wiki/Wikibooks:Reading_room">
+         Reading room forum
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikibooks:Community_Portal" title="Find your way around the Wikibooks community">
+         Community portal
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Wikibooks:Reading_room/Bulletin_Board" title="Important community news">
+         Bulletin Board
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-maintenance">
+        <a href="/wiki/Wikibooks:Maintenance" title="Frequent tasks that you can help with">
+         Help out!
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Policies-and-guidelines">
+        <a href="/wiki/Wikibooks:Policies_and_guidelines" title="Pages detailing important rules and procedures">
+         Policies and guidelines
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contact">
+        <a href="/wiki/Wikibooks:Contact_us" title="Alternative methods of communication">
+         Contact us
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]">
+         What links here
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Main_Page&amp;oldid=3831056" title="Permanent link to this revision of the page">
+         Permanent link
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Main_Page&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Main_Page&amp;id=3831056&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Link to connected data repository item [g]">
+         Wikidata item
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Sister_projects-label" class="mw-portlet mw-portlet-Sister_projects vector-menu vector-menu-portal portal" id="p-Sister_projects" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Sister_projects-label">
+      <span>
+       Sister projects
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Wikipedia">
+        <a href="https://en.wikipedia.org/wiki/Main_Page">
+         Wikipedia
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikiversity">
+        <a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page">
+         Wikiversity
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wiktionary">
+        <a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page">
+         Wiktionary
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikiquote">
+        <a href="https://en.wikiquote.org/wiki/Main_Page">
+         Wikiquote
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikisource">
+        <a href="https://en.wikisource.org/wiki/Main_Page">
+         Wikisource
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikinews">
+        <a href="https://en.wikinews.org/wiki/Main_Page">
+         Wikinews
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikivoyage">
+        <a href="https://en.wikivoyage.org/wiki/Main_Page">
+         Wikivoyage
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Commons">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page">
+         Commons
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Wikidata">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">
+         Wikidata
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-MediaWiki">
+        <a href="https://www.mediawiki.org/wiki/Main_Page">
+         MediaWiki
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Meta-Wiki">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page">
+         Meta-Wiki
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Print/export
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Main+Page">
+         Create a collection
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Main_Page&amp;action=show-download-screen">
+         Download as PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Main_Page&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       In other projects
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikidata
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item">
+        <a href="https://en.wikinews.org/wiki/Main_Page" hreflang="en">
+         Wikinews
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item">
+        <a href="https://en.wikipedia.org/wiki/Main_Page" hreflang="en">
+         Wikipedia
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://en.wikiquote.org/wiki/Main_Page" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://en.wikisource.org/wiki/Main_Page" hreflang="en">
+         Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item">
+        <a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page" hreflang="en">
+         Wikiversity
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item">
+        <a href="https://en.wikivoyage.org/wiki/Main_Page" hreflang="en">
+         Wikivoyage
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page" hreflang="en">
+         Wiktionary
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 class="vector-menu-heading" id="p-lang-label">
+      <span>
+       In other languages
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-aa mw-list-item">
+        <a class="interlanguage-link-target" href="https://aa.wikibooks.org/wiki/Main_Page" hreflang="aa" lang="aa" title="Main Page – Afar">
+         Qafár af
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-af mw-list-item">
+        <a class="interlanguage-link-target" href="https://af.wikibooks.org/wiki/" hreflang="af" lang="af" title="Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ang mw-list-item">
+        <a class="interlanguage-link-target" href="https://ang.wikibooks.org/wiki/" hreflang="ang" lang="ang" title="Old English">
+         Ænglisc
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikibooks.org/wiki/" hreflang="ar" lang="ar" title="Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast mw-list-item">
+        <a class="interlanguage-link-target" href="https://ast.wikibooks.org/wiki/Portada" hreflang="ast" lang="ast" title="Portada – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikibooks.org/wiki/" hreflang="az" lang="az" title="Azerbaijani">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikibooks.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D3%99%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%BA:%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" hreflang="ba" lang="ba" title="Викидәреслек:Баш бит – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikibooks.org/wiki/" hreflang="be" lang="be" title="Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikibooks.org/wiki/" hreflang="bg" lang="bg" title="Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bn.wikibooks.org/wiki/" hreflang="bn" lang="bn" title="Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikibooks.org/wiki/" hreflang="bs" lang="bs" title="Bosnian">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikibooks.org/wiki/" hreflang="ca" lang="ca" title="Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikibooks.org/wiki/" hreflang="cs" lang="cs" title="Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv mw-list-item">
+        <a class="interlanguage-link-target" href="https://cv.wikibooks.org/wiki/" hreflang="cv" lang="cv" title="Chuvash">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy mw-list-item">
+        <a class="interlanguage-link-target" href="https://cy.wikibooks.org/wiki/" hreflang="cy" lang="cy" title="Welsh">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikibooks.org/wiki/" hreflang="da" lang="da" title="Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikibooks.org/wiki/" hreflang="de" lang="de" title="German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikibooks.org/wiki/" hreflang="el" lang="el" title="Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikibooks.org/wiki/" hreflang="eo" lang="eo" title="Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikibooks.org/wiki/" hreflang="es" lang="es" title="Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikibooks.org/wiki/" hreflang="et" lang="et" title="Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikibooks.org/wiki/" hreflang="eu" lang="eu" title="Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikibooks.org/wiki/" hreflang="fa" lang="fa" title="Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikibooks.org/wiki/" hreflang="fi" lang="fi" title="Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikibooks.org/wiki/" hreflang="fr" lang="fr" title="French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy mw-list-item">
+        <a class="interlanguage-link-target" href="https://fy.wikibooks.org/wiki/" hreflang="fy" lang="fy" title="Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikibooks.org/wiki/" hreflang="gl" lang="gl" title="Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikibooks.org/wiki/" hreflang="he" lang="he" title="Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi mw-list-item">
+        <a class="interlanguage-link-target" href="https://hi.wikibooks.org/wiki/" hreflang="hi" lang="hi" title="Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikibooks.org/wiki/" hreflang="hr" lang="hr" title="Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikibooks.org/wiki/" hreflang="hu" lang="hu" title="Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikibooks.org/wiki/" hreflang="hy" lang="hy" title="Armenian">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia mw-list-item">
+        <a class="interlanguage-link-target" href="https://ia.wikibooks.org/wiki/" hreflang="ia" lang="ia" title="Interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikibooks.org/wiki/" hreflang="id" lang="id" title="Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ie mw-list-item">
+        <a class="interlanguage-link-target" href="https://ie.wikibooks.org/wiki/" hreflang="ie" lang="ie" title="Interlingue">
+         Interlingue
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is mw-list-item">
+        <a class="interlanguage-link-target" href="https://is.wikibooks.org/wiki/" hreflang="is" lang="is" title="Icelandic">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikibooks.org/wiki/" hreflang="it" lang="it" title="Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikibooks.org/wiki/" hreflang="ja" lang="ja" title="Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikibooks.org/wiki/" hreflang="ka" lang="ka" title="Georgian">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikibooks.org/wiki/" hreflang="kk" lang="kk" title="Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km mw-list-item">
+        <a class="interlanguage-link-target" href="https://km.wikibooks.org/wiki/" hreflang="km" lang="km" title="Khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikibooks.org/wiki/" hreflang="ko" lang="ko" title="Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku mw-list-item">
+        <a class="interlanguage-link-target" href="https://ku.wikibooks.org/wiki/" hreflang="ku" lang="ku" title="Kurdish">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky mw-list-item">
+        <a class="interlanguage-link-target" href="https://ky.wikibooks.org/wiki/" hreflang="ky" lang="ky" title="Kyrgyz">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikibooks.org/wiki/" hreflang="la" lang="la" title="Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li mw-list-item">
+        <a class="interlanguage-link-target" href="https://li.wikibooks.org/wiki/" hreflang="li" lang="li" title="Limburgish">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikibooks.org/wiki/" hreflang="lt" lang="lt" title="Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikibooks.org/wiki/S%C4%81kumlapa" hreflang="lv" lang="lv" title="Sākumlapa – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mg mw-list-item">
+        <a class="interlanguage-link-target" href="https://mg.wikibooks.org/wiki/" hreflang="mg" lang="mg" title="Malagasy">
+         Malagasy
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikibooks.org/wiki/" hreflang="mk" lang="mk" title="Macedonian">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml mw-list-item">
+        <a class="interlanguage-link-target" href="https://ml.wikibooks.org/wiki/" hreflang="ml" lang="ml" title="Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr mw-list-item">
+        <a class="interlanguage-link-target" href="https://mr.wikibooks.org/wiki/" hreflang="mr" lang="mr" title="Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikibooks.org/wiki/" hreflang="ms" lang="ms" title="Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne mw-list-item">
+        <a class="interlanguage-link-target" href="https://ne.wikibooks.org/wiki/" hreflang="ne" lang="ne" title="Nepali">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikibooks.org/wiki/" hreflang="nl" lang="nl" title="Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikibooks.org/wiki/" hreflang="no" lang="no" title="Norwegian">
+         Norsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc mw-list-item">
+        <a class="interlanguage-link-target" href="https://oc.wikibooks.org/wiki/" hreflang="oc" lang="oc" title="Occitan">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa mw-list-item">
+        <a class="interlanguage-link-target" href="https://pa.wikibooks.org/wiki/" hreflang="pa" lang="pa" title="Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikibooks.org/wiki/" hreflang="pl" lang="pl" title="Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikibooks.org/wiki/" hreflang="pt" lang="pt" title="Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikibooks.org/wiki/" hreflang="ro" lang="ro" title="Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikibooks.org/wiki/" hreflang="ru" lang="ru" title="Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sa mw-list-item">
+        <a class="interlanguage-link-target" href="https://sa.wikibooks.org/wiki/" hreflang="sa" lang="sa" title="Sanskrit">
+         संस्कृतम्
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-se mw-list-item">
+        <a class="interlanguage-link-target" href="https://se.wikibooks.org/wiki/V%C3%A1ldosiidu" hreflang="se" lang="se" title="Váldosiidu – Northern Sami">
+         Davvisámegiella
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si mw-list-item">
+        <a class="interlanguage-link-target" href="https://si.wikibooks.org/wiki/" hreflang="si" lang="si" title="Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikibooks.org/wiki/" hreflang="sk" lang="sk" title="Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikibooks.org/wiki/" hreflang="sl" lang="sl" title="Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikibooks.org/wiki/" hreflang="sq" lang="sq" title="Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikibooks.org/wiki/" hreflang="sr" lang="sr" title="Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-su mw-list-item">
+        <a class="interlanguage-link-target" href="https://su.wikibooks.org/wiki/Tepas" hreflang="su" lang="su" title="Tepas – Sundanese">
+         Sunda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikibooks.org/wiki/" hreflang="sv" lang="sv" title="Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta mw-list-item">
+        <a class="interlanguage-link-target" href="https://ta.wikibooks.org/wiki/" hreflang="ta" lang="ta" title="Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te mw-list-item">
+        <a class="interlanguage-link-target" href="https://te.wikibooks.org/wiki/" hreflang="te" lang="te" title="Telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg mw-list-item">
+        <a class="interlanguage-link-target" href="https://tg.wikibooks.org/wiki/" hreflang="tg" lang="tg" title="Tajik">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikibooks.org/wiki/" hreflang="th" lang="th" title="Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl mw-list-item">
+        <a class="interlanguage-link-target" href="https://tl.wikibooks.org/wiki/" hreflang="tl" lang="tl" title="Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikibooks.org/wiki/" hreflang="tr" lang="tr" title="Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikibooks.org/wiki/" hreflang="tt" lang="tt" title="Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikibooks.org/wiki/" hreflang="uk" lang="uk" title="Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur mw-list-item">
+        <a class="interlanguage-link-target" href="https://ur.wikibooks.org/wiki/" hreflang="ur" lang="ur" title="Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikibooks.org/wiki/" hreflang="vi" lang="vi" title="Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikibooks.org/wiki/" hreflang="zh" lang="zh" title="Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wikibooks" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 25 April 2021, at 19:00.
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike License.
+     </a>
+     ; additional terms may apply.  By using this site, you agree to the
+     <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+      Privacy Policy.
+     </a>
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikibooks:Welcome" title="Wikibooks:Welcome">
+      About Wikibooks
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikibooks:General_disclaimer" title="Wikibooks:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikibooks.org/w/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/en.wikibooks.org">
+      Statistics
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.218","ppvisitednodes":{"value":1215,"limit":1000000},"postexpandincludesize":{"value":15383,"limit":2097152},"templateargumentsize":{"value":4594,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  125.419      1 -total"," 34.27%   42.983      1 Main_Page/Featured"," 32.62%   40.909      1 Template:NUMBEROFBOOKS"," 32.24%   40.441      1 Template:Goodbook/List"," 29.26%   36.696      1 Template:BOOKCATEGORY"," 27.03%   33.904      1 Template:BOOKNAME"," 25.01%   31.364      1 Template:BOOKNAME/core"," 20.49%   25.697      2 Template:Goodbook"," 20.33%   25.493      1 Template:Goodbook/US_History"," 19.62%   24.607      6 Template:Image"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":824020,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20210922015528","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Main Page","url":"https:\/\/en.wikibooks.org\/wiki\/Main_Page","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-07-10T10:16:38Z","dateModified":"2021-04-25T19:00:03Z","headline":"Wikimedia project page"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1327"});});
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2737 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="lld">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","jené","fauré","merz","auril","mei","Juni","lugio","agost","setëmber","utober","nuvëmber","dezëmber"],"wgRequestId":"af07452d-38f0-495e-9282-d96933f8bb58","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Plata_prinzipala","wgTitle":"Plata prinzipala","wgCurRevisionId":18051,"wgRevisionId":18051,"wgArticleId":968,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"lld","wgPageContentModel":"wikitext","wgRelevantPageName":"Plata_prinzipala","wgRelevantArticleId":968,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"lld","pageLanguageDir":"ltr","pageVariantFallbacks":"lld"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Ladin","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":
+"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"lld"});
+});});
+  </script>
+  <link href="/w/load.php?lang=lld&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=lld&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/1200px-Wikimedia_logo_family_complete-2013.svg.png" property="og:image"/>
+  <meta content="Wikipedia" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//lld.m.wikipedia.org/wiki/Plata_prinzipala" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (lld)" type="application/opensearchdescription+xml"/>
+  <link href="//lld.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://lld.wikipedia.org/wiki/Plata_prinzipala" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Plata_prinzipala rootpage-Plata_prinzipala skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Plata prinzipala
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Da Wikipedia
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="lld">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r12112">
+       .mw-parser-output .pp-flexbox{display:flex}.mw-parser-output .pp-col30{width:30%}.mw-parser-output .pp-col40{width:40%;display:flex;align-items:center}.mw-parser-output .pp-col50{width:50%}.mw-parser-output .pp-col40 div{text-align:left}.mw-parser-output .pp-box{margin-top:2em}@media only screen and (max-width:719px){.mw-parser-output .pp-flexbox{display:block;margin-top:0!important}.mw-parser-output .pp-col30,.mw-parser-output .pp-col40,.mw-parser-output .pp-col50{width:auto;margin-top:1em!important}}
+      </style>
+      <div style="width:100%; border:3px solid red; border-radius:7.5px;">
+       <div style="border:3px solid gold; border-radius:7.5px; margin:4px;">
+        <div style="color:#005b99; padding-top:35px; padding-bottom:35px; text-align:center; font-weight:bold;">
+         <p>
+          <span style="font-size:150%; font-family:Verdana; color:Midnightblue;">
+           Bëgngnüs y bëgngnüdes sön Wikipedia,
+          </span>
+         </p>
+         <p>
+          <span style="font-size:90%; font-family:Verdana; margin:0 0 0 0em;">
+           l’enziclopedia lëdia y colaborativa.
+          </span>
+         </p>
+        </div>
+        <p>
+         <br/>
+        </p>
+        <div class="pp-flexbox">
+         <div class="pp-col50" style="background: #fff; border: solid 1px #F5F5F5;padding: 10px;">
+          <div style="background: #fff; border: 1px solid #FFA500; margin-bottom: 5px;">
+           <h4 style="padding: 0.3em; margin: 0;font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0 0 0 grey;text-align:center;font-weight:bold;">
+            <span class="mw-headline" id="Articul_en_vidrina">
+             Articul en vidrina
+            </span>
+           </h4>
+          </div>
+          <div style="margin-top: 0px;">
+           <p>
+            La
+            <b>
+             biologia
+            </b>
+            (dal grech βιολογία, metü adöm da βίος, bìos = "vita" y λόγος, lògos = "stüde") é 
+la sciënza che stüdia la vita, chël ó dí i prozesc fisics y chimics di fenomens en cunt di sistems
+viënc tolon ite süa biochimica, i mecanisms molecolars, la genetica, l’anatomia, la fisiologia y
+d’atri prozesc sciöche l’adatamënt, le svilup, l’evoluziun, l’iteraziun danter i organisms y le 
+comportamënt.
+            <b>
+             …
+             <a href="/wiki/Biologia" title="Biologia">
+              Biologia
+             </a>
+            </b>
+           </p>
+          </div>
+         </div>
+         <div class="pp-col50" style="background: #fff; border: 1px solid #F5F5F5;padding: 10px;">
+          <div style="background: #fff; border: 1px solid #FFA500;">
+           <h4 style="padding: 0.3em; margin: 0px;font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0 0 0 grey;text-align:center;font-weight:bold;">
+            <span class="mw-headline" id="Imaja_en_vidrina">
+             Imaja en vidrina
+            </span>
+           </h4>
+          </div>
+          <div style="background: none; margin: 5px 10px 10px 10px;text-align:center;overflow:auto;">
+           <div class="center">
+            <div class="floatnone">
+             <a class="image" href="/wiki/File:Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg">
+              <img alt="Frea pass Sella group Pisciadu Dolomites South Tyrol.jpg" data-file-height="7163" data-file-width="13500" decoding="async" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg/320px-Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg/480px-Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg/640px-Frea_pass_Sella_group_Pisciadu_Dolomites_South_Tyrol.jpg 2x" width="320"/>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div style="clear:both;">
+        </div>
+        <div class="pp-box">
+         <div style="text-align:center;">
+          <div class="plainlinks" style="border: 1px solid orange; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background: #fff; background: -moz-linear-gradient(top, #fff 75%, #F5F5F5 100%); background-image: -moz-linear-gradient(#6677FA, #6677FA); background-image: -o-linear-gradient(#6677FA, #6677FA); background-image: -webkit-linear-gradient(#6677FA, #6677FA); background-image: linear-gradient( #6677FA, #6677FA); height:auto; padding-left: 7px; padding-top:5px; padding-bottom:5px; margin-left:5px; margin-right:5px;">
+           <div style="font-size: 120%; font-weight:bold;">
+            <span style="font-family:Tahoma;color:Blue;text-shadow: 0 0 0 grey;">
+             Categories
+            </span>
+           </div>
+          </div>
+         </div>
+         <div style="border:0; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background: #fff; background: -moz-linear-gradient(top, #fff 75%, #F5F5F5 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(75%,#fff), color-stop(100%,#F5F5F5)); background: -webkit-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: -o-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: -ms-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: linear-gradient(top, #fff 75%,#fff 100%); height:auto; padding-left:10px; padding-right:10px; padding-bottom:5px; padding-top:5px; margin:5px 5px 5px 5px; font-size:90%;">
+          <div class="pp-flexbox" style="justify-content: space-evenly;">
+           <div class="pp-col40">
+            <div style="float:left;margin-right:5em;">
+             <a class="image" href="/wiki/File:Ladin.png">
+              <img alt="Ladin.png" data-file-height="2130" data-file-width="3051" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ladin.png/35px-Ladin.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ladin.png/53px-Ladin.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ladin.png/70px-Ladin.png 2x" width="35"/>
+             </a>
+            </div>
+            <div>
+             <b>
+              <a href="/wiki/Valedes_ladines" title="Valedes ladines">
+               Valedes ladines
+              </a>
+             </b>
+             <br/>
+             <a href="/wiki/Storia_dles_valades_ladines_dles_Dolomites" title="Storia dles valades ladines dles Dolomites">
+              Storia dles valades ladines
+             </a>
+             -
+             <a href="/wiki/Cultura_ladina" title="Cultura ladina">
+              Cultura ladina
+             </a>
+             -
+             <a href="/wiki/Dolomites" title="Dolomites">
+              Dolomites
+             </a>
+            </div>
+           </div>
+           <div class="pp-col40">
+            <div style="float:left;margin-right:5em;">
+             <a class="image" href="/wiki/File:Flag_of_Ladinia.svg">
+              <img alt="Flag of Ladinia.svg" data-file-height="300" data-file-width="500" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Ladinia.svg/35px-Flag_of_Ladinia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Ladinia.svg/53px-Flag_of_Ladinia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Ladinia.svg/70px-Flag_of_Ladinia.svg.png 2x" width="35"/>
+             </a>
+            </div>
+            <div>
+             <b>
+              <a href="/wiki/Ladin" title="Ladin">
+               Lingaz ladin
+              </a>
+             </b>
+             <br/>
+             <a href="/wiki/Leteratura_ladina" title="Leteratura ladina">
+              Leteratura
+             </a>
+             -
+             <a href="/wiki/Linguistica_ladina" title="Linguistica ladina">
+              Linguistica
+             </a>
+            </div>
+           </div>
+          </div>
+          <div class="pp-flexbox" style="justify-content: space-evenly;margin-top:1em;">
+           <div class="pp-col40">
+            <div style="float:left;margin-right:5em;">
+             <a class="image" href="/wiki/File:Nuvola_apps_kalzium.png">
+              <img alt="Nuvola apps kalzium.png" data-file-height="128" data-file-width="128" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/35px-Nuvola_apps_kalzium.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/53px-Nuvola_apps_kalzium.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/70px-Nuvola_apps_kalzium.png 2x" width="35"/>
+             </a>
+            </div>
+            <div>
+             <b>
+              <a href="/wiki/Sci%C3%ABnza" title="Sciënza">
+               Sciënza
+              </a>
+             </b>
+             <br/>
+             <a href="/wiki/Astronomia" title="Astronomia">
+              Astronomia
+             </a>
+             -
+             <a href="/wiki/Matematica" title="Matematica">
+              Matematica
+             </a>
+             -
+             <a href="/wiki/Fisica" title="Fisica">
+              Fisica
+             </a>
+             -
+             <a href="/wiki/Chimica" title="Chimica">
+              Chimica
+             </a>
+             -
+             <a href="/wiki/Biologia" title="Biologia">
+              Biologia
+             </a>
+            </div>
+           </div>
+           <div class="pp-col40">
+            <div style="float:left;margin-right:5em;">
+             <a class="image" href="/wiki/File:Nuvola_apps_browser.png">
+              <img alt="Nuvola apps browser.png" data-file-height="440" data-file-width="440" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuvola_apps_browser.png/35px-Nuvola_apps_browser.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuvola_apps_browser.png/53px-Nuvola_apps_browser.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nuvola_apps_browser.png/70px-Nuvola_apps_browser.png 2x" width="35"/>
+             </a>
+            </div>
+            <div>
+             <b>
+              <a href="/wiki/Sci%C3%ABnza_soziela" title="Sciënza soziela">
+               Sciënzes sozieles
+              </a>
+             </b>
+             <br/>
+             <a href="/wiki/Storia" title="Storia">
+              Storia
+             </a>
+             -
+             <a href="/wiki/Geografia" title="Geografia">
+              Geografia
+             </a>
+             -
+             <a href="/wiki/Filosofia" title="Filosofia">
+              Filosofia
+             </a>
+             -
+             <a href="/wiki/Ert" title="Ert">
+              Ert
+             </a>
+            </div>
+           </div>
+          </div>
+          <div style="clear:right">
+          </div>
+          <div class="plainlinks noprint" style="font-size:90%; float:right;">
+          </div>
+          <div style="clear: both">
+          </div>
+         </div>
+        </div>
+        <div class="pp-box">
+         <div style="text-align:center;">
+          <div class="plainlinks" style="border: 1px solid orange; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background: #fff; background: -moz-linear-gradient(top, #fff 75%, #F5F5F5 100%); background-image: -moz-linear-gradient(#6677FA, #6677FA); background-image: -o-linear-gradient(#6677FA, #6677FA); background-image: -webkit-linear-gradient(#6677FA, #6677FA); background-image: linear-gradient( #6677FA, #6677FA); height:auto; padding-left: 7px; padding-top:5px; padding-bottom:5px; margin-left:5px; margin-right:5px;">
+           <div style="font-size: 120%; font-weight:bold;">
+            <span style="font-family:Tahoma;color:Blue;text-shadow: 0 0 0 grey;">
+             Variantes Locales dl Ladin
+            </span>
+           </div>
+          </div>
+         </div>
+         <div style="border:0; -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35); -moz-border-radius: 7px; -webkit-border-radius: 7px; border-radius: 7px; background: #fff; background: -moz-linear-gradient(top, #fff 75%, #F5F5F5 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(75%,#fff), color-stop(100%,#F5F5F5)); background: -webkit-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: -o-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: -ms-linear-gradient(top, #fff 75%,#F5F5F5 100%); background: linear-gradient(top, #fff 75%,#fff 100%); height:auto; padding-left:10px; padding-right:10px; padding-bottom:5px; padding-top:5px; margin:5px 5px 5px 5px; font-size:90%;">
+          <div class="pp-flexbox" style="justify-content: space-evenly;">
+           <div class="pp-col30">
+            <b>
+            </b>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #F0FFFF; margin: 1px;">
+             <b>
+             </b>
+             <div class="center">
+              <table cellspacing="0" style="background: #F0FFFF">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul por
+                   <a href="/wiki/Ladin_Val_Badia" title="Ladin Val Badia">
+                    Ladin Val Badia
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background: #F0FFFF; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Gadertal.jpg">
+                    <img alt="Gadertal.jpg" data-file-height="1024" data-file-width="1536" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gadertal.jpg/25px-Gadertal.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gadertal.jpg/38px-Gadertal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gadertal.jpg/50px-Gadertal.jpg 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Badiot}}
+             </code>
+            </b>
+           </div>
+           <div class="pp-col30">
+            <b>
+            </b>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #FF6600; margin: 1px;">
+             <b>
+             </b>
+             <div align="center">
+              <table cellspacing="0" style="background: #FF6600">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul per
+                   <a href="/wiki/Ladin_gherd%C3%ABina" title="Ladin gherdëina">
+                    Ladin Gherdëina
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background:#FF6600; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Val_Gardena_dall%27alto.JPG">
+                    <img alt="Val Gardena dall'alto.JPG" data-file-height="2304" data-file-width="3072" decoding="async" height="19" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Val_Gardena_dall%27alto.JPG/25px-Val_Gardena_dall%27alto.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Val_Gardena_dall%27alto.JPG/38px-Val_Gardena_dall%27alto.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Val_Gardena_dall%27alto.JPG/50px-Val_Gardena_dall%27alto.JPG 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Gherdëina}}
+             </code>
+            </b>
+           </div>
+           <div class="pp-col30">
+            <b>
+            </b>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #F5F5DC; margin: 1px;">
+             <b>
+             </b>
+             <div align="center">
+              <table cellspacing="0" style="background: #F5F5DC">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul por
+                   <a href="/wiki/Ladin_fascian" title="Ladin fascian">
+                    Ladin Fascian
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background: #F5F5DC; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Campitello_(Val_di_Fassa).JPG">
+                    <img alt="Campitello (Val di Fassa).JPG" data-file-height="1200" data-file-width="1600" decoding="async" height="19" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Campitello_%28Val_di_Fassa%29.JPG/25px-Campitello_%28Val_di_Fassa%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Campitello_%28Val_di_Fassa%29.JPG/38px-Campitello_%28Val_di_Fassa%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Campitello_%28Val_di_Fassa%29.JPG/50px-Campitello_%28Val_di_Fassa%29.JPG 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Fascian}}
+             </code>
+            </b>
+           </div>
+          </div>
+          <div class="pp-flexbox" style="justify-content: space-evenly;margin-top:2em;">
+           <div class="pp-col30">
+            <b>
+            </b>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #00A86B; margin: 1px;">
+             <b>
+             </b>
+             <div align="center">
+              <table cellspacing="0" style="background: #00A86B">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul por
+                   <a href="/wiki/Ladin_fodom" title="Ladin fodom">
+                    Ladin Fodom
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background: #00A86B; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Pieve_di_Livinallongo,_Decanato_Church.jpg">
+                    <img alt="Pieve di Livinallongo, Decanato Church.jpg" data-file-height="2304" data-file-width="3072" decoding="async" height="19" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pieve_di_Livinallongo%2C_Decanato_Church.jpg/25px-Pieve_di_Livinallongo%2C_Decanato_Church.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pieve_di_Livinallongo%2C_Decanato_Church.jpg/38px-Pieve_di_Livinallongo%2C_Decanato_Church.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pieve_di_Livinallongo%2C_Decanato_Church.jpg/50px-Pieve_di_Livinallongo%2C_Decanato_Church.jpg 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Fodom}}
+             </code>
+            </b>
+           </div>
+           <div class="pp-col30">
+            <i>
+            </i>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #FFFF66; margin: 1px;">
+             <i>
+             </i>
+             <div align="center">
+              <table cellspacing="0" style="background: #FFFF66">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul por
+                   <a href="/wiki/Ladin_anpezan" title="Ladin anpezan">
+                    Ladin Anpezan
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background: #FFFF66; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Faloria_Cortina_d%27Ampezzo_10.jpg">
+                    <img alt="Faloria Cortina d'Ampezzo 10.jpg" data-file-height="3000" data-file-width="4340" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/25px-Faloria_Cortina_d%27Ampezzo_10.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/38px-Faloria_Cortina_d%27Ampezzo_10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/50px-Faloria_Cortina_d%27Ampezzo_10.jpg 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Anpezan}}
+             </code>
+            </b>
+           </div>
+           <div class="pp-col30">
+            <b>
+            </b>
+            <div style="float: center; border: 1px solid #c0c0c0; background: #808080; margin: 1px;">
+             <b>
+             </b>
+             <div align="center">
+              <table cellspacing="0" style="background: #808080">
+               <tbody>
+                <tr>
+                 <td style="font-size: 9pt; padding: 1pt; line-height: 1.25em; color: black; text-align: center;">
+                  <b>
+                   Articul por
+                   <a href="/wiki/Ladin_dolomitan" title="Ladin dolomitan">
+                    Ladin Dolomitan
+                   </a>
+                  </b>
+                 </td>
+                 <td style="width: 35px; height: 30px; background: #808080; text-align: right; font-size: 9pt;">
+                  <b>
+                   <a class="image" href="/wiki/File:Sella_da_Ciandepin%C3%ABi.jpg">
+                    <img alt="Sella da Ciandepinëi.jpg" data-file-height="4915" data-file-width="13251" decoding="async" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sella_da_Ciandepin%C3%ABi.jpg/25px-Sella_da_Ciandepin%C3%ABi.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sella_da_Ciandepin%C3%ABi.jpg/38px-Sella_da_Ciandepin%C3%ABi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sella_da_Ciandepin%C3%ABi.jpg/50px-Sella_da_Ciandepin%C3%ABi.jpg 2x" width="25"/>
+                   </a>
+                  </b>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </div>
+            </div>
+            <b>
+             <br/>
+             <code>
+              {{Dolomitan}}
+             </code>
+            </b>
+           </div>
+          </div>
+          <div style="clear:right">
+          </div>
+          <div class="plainlinks noprint" style="font-size:90%; float:right;">
+          </div>
+          <div style="clear: both">
+          </div>
+         </div>
+        </div>
+        <div class="pp-flexbox">
+         <div class="pp-col50" style="background: #fff; border: solid 1px #F5F5F5;padding: 10px;">
+          <div style="background: #fff; border: 1px solid #FFA500; margin-bottom: 5px;">
+           <h4 style="padding: 0.3em; margin: 0;font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0 0 0 grey;text-align:center;font-weight:bold;">
+            <span id="Cie_possi_pa_f.C3.A9.3F">
+            </span>
+            <span class="mw-headline" id="Cie_possi_pa_fé?">
+             Cie possi pa fé?
+            </span>
+           </h4>
+          </div>
+          <div style="margin-top: 0px;">
+           <p>
+            <b>
+             N valguna regules per scrijer sun la Wikipedia Ladina:
+            </b>
+           </p>
+           <p>
+            1.Chësta ie na lerch per duc, respeteiela! Nia l adurvé per fé retlam o polemiches.
+           </p>
+           <p>
+            2.Wikipedia ie neutrala y ne muessa nia repurté minonghes subietives.
+           </p>
+           <p>
+            3.Indicheia ti articuli che te scrijes la funtanes scrites che revardea i contenuc.
+           </p>
+           <p>
+            4.Sce ne te ses nia da ulà scumencé, cëleti ala
+            <a class="mw-redirect" href="/wiki/Usc_fondamentales" title="Usc fondamentales">
+             ujes fundamenteles
+            </a>
+            .
+           </p>
+           <p>
+            5.Sce l ie mesun, jonteti pro suinsom al articul che te scrijes l idiom ladin che te adroves cun l Template che ie da abiné tla tabela "Variantes locales dl ladin"
+           </p>
+           <div style="text-align:center;font-size:larger;">
+            <p>
+             <b>
+              <a href="/wiki/Wikipedia:Caf%C3%A9_ladin" title="Wikipedia:Café ladin">
+               Café ladin
+              </a>
+             </b>
+             ·
+             <b>
+              <a href="/wiki/Wikipedia:Suport_tecnich" title="Wikipedia:Suport tecnich">
+               Suport tecnich
+              </a>
+             </b>
+             ·
+             <b>
+              <a href="/wiki/Vocabolar_dl_ladin_leterar" title="Vocabolar dl ladin leterar">
+               Vocabolar dl ladin leterar
+              </a>
+             </b>
+             ·
+             <b>
+              <a class="extiw" href="https://en.wikipedia.org/wiki/wikt:Category:Ladin_language" title="en:wikt:Category:Ladin language">
+               Wictionary
+              </a>
+             </b>
+             ·
+             <b>
+              <a class="extiw" href="https://wikisource.org/wiki/Main_Page/Ladin" title="oldwikisource:Main Page/Ladin">
+               Wikisource por ladin
+              </a>
+             </b>
+             ·
+             <b>
+              <a class="extiw" href="https://it.wikipedia.org/wiki/v:Categoria:Lezioni_di_Cultura_ladina" title="it:v:Categoria:Lezioni di Cultura ladina">
+               Wikiversità
+              </a>
+             </b>
+            </p>
+           </div>
+          </div>
+         </div>
+         <div class="pp-flexbox">
+          <div class="pp-col50" style="background: #fff; border: solid 1px #F5F5F5;padding: 10px;">
+           <div style="background: #fff; border: 1px solid #FFA500; margin-bottom: 5px;">
+            <h4 style="padding: 0.3em; margin: 0;font-family:Tahoma;font-size:100%;color:Blue;text-shadow: 0 0 0 grey;text-align:center;font-weight:bold;">
+             <span class="mw-headline" id="N_proverb_ladin">
+              N proverb ladin
+             </span>
+            </h4>
+           </div>
+           <div style="margin-top: 0px;">
+            <p>
+             “Do San Berto n’á le tëmp plü degun famëi”
+            </p>
+            <div class="center">
+             <div class="thumb tnone">
+              <div class="thumbinner" style="width:222px;">
+               <a class="image" href="/wiki/File:Ladin2_K.jpg">
+                <img alt="Ladin2 K.jpg" class="thumbimage" data-file-height="790" data-file-width="1181" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ladin2_K.jpg/220px-Ladin2_K.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ladin2_K.jpg/330px-Ladin2_K.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ladin2_K.jpg/440px-Ladin2_K.jpg 2x" width="220"/>
+               </a>
+               <div class="thumbcaption">
+                <div class="magnify">
+                 <a class="internal" href="/wiki/File:Ladin2_K.jpg" title="Fé majer">
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <p>
+           <br/>
+          </p>
+          <div align="center">
+           <b>
+            Wikipedia y sü proiec te deplü lingac:
+           </b>
+           <div class="center">
+            <div class="floatnone">
+             <div class="noresize">
+              <map name="ImageMap_bd69104cdf85b885">
+               <area alt="Meta-Wiki, coordinamënt di proiec Wikimedia" coords="240,68,20" href="https://meta.wikimedia.org/wiki/" shape="circle" title="Meta-Wiki, coordinamënt di proiec Wikimedia"/>
+               <area alt="WikiSpecies, catalogh dles sortes viëntes" coords="270,161,22" href="https://species.wikimedia.org/wiki/" shape="circle" title="WikiSpecies, catalogh dles sortes viëntes"/>
+               <area alt="MediaWiki, le software di proiec Wikimedia" coords="229,190,283,228" href="https://www.mediawiki.org/wiki/" shape="rect" title="MediaWiki, le software di proiec Wikimedia"/>
+               <area alt="Wikiversità, ressurses y ativités didatiches" coords="52,221,95,253" href="/wiki/Pagina_principale" shape="rect" title="Wikiversità, ressurses y ativités didatiches"/>
+               <area alt="Wikizionar" coords="19,185,58,221" href="https://lld.wiktionary.org/wiki/" shape="rect" title="Wikizionar"/>
+               <area alt="Wikinotizies" coords="1,139,65,175" href="https://en.wikinews.org/wiki/" shape="rect" title="Wikinotizies"/>
+               <area alt="Wikisource, documentaziun y bilbioteca publica" coords="34,106,22" href="https://lld.wikisource.org/wiki/" shape="circle" title="Wikisource, documentaziun y bilbioteca publica"/>
+               <area alt="Wikimedia Commons, ressurses multimediales" coords="66,69,22" href="https://commons.wikimedia.org/wiki/" shape="circle" title="Wikimedia Commons, ressurses multimediales"/>
+               <area alt="Wikipedia, l’enziclopedia lëdia" coords="104,38,22" href="/wiki/Plata_prinzipala" shape="circle" title="Wikipedia, l’enziclopedia lëdia"/>
+               <area alt="Wikimania, conferënza en cunt di proiec de Wikimedia" coords="130,8,170,53" href="https://wikimania.wikimedia.org/wiki/" shape="rect" title="Wikimania, conferënza en cunt di proiec de Wikimedia"/>
+               <area alt="Incubator,proiec che pëia ia" coords="209,221,239,260" href="https://incubator.wikimedia.org/wiki/" shape="rect" title="Incubator,proiec che pëia ia"/>
+               <area alt="Wikiquote, na racoiüda de zitaziuns" coords="248,84,292,131" href="https://lld.wikiquote.org/wiki/" shape="rect" title="Wikiquote, na racoiüda de zitaziuns"/>
+               <area alt="Wikibooks, ƚa biblioteca lëdia" coords="175,20,217,61" href="https://lld.wikibooks.org/wiki/" shape="rect" title="Wikibooks, ƚa biblioteca lëdia"/>
+               <area alt="Wikidata" coords="160,251,202,277" href="https://www.wikidata.org/wiki/" shape="rect" title="Wikidata"/>
+               <area alt="Wikivoyage" coords="127,261,21" href="https://en.wikivoyage.org/wiki/" shape="circle" title="Wikivoyage"/>
+               <area alt="Wikimedia Foundation, organisaziun che gestësc i proiec de Wikimedia" coords="150,150,44" href="https://foundation.wikimedia.org/wiki/" shape="circle" title="Wikimedia Foundation, organisaziun che gestësc i proiec de Wikimedia"/>
+              </map>
+              <img alt="Wikimedia logo family complete-2013.svg" data-file-height="1100" data-file-width="1100" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/300px-Wikimedia_logo_family_complete-2013.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/450px-Wikimedia_logo_family_complete-2013.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wikimedia_logo_family_complete-2013.svg/600px-Wikimedia_logo_family_complete-2013.svg.png 2x" usemap="#ImageMap_bd69104cdf85b885" width="300"/>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1373
+Cached time: 20210926055701
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.100 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 222/1000000
+Post‐expand include size: 12243/2097152 bytes
+Template argument size: 4826/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4312/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   75.839      1 -total
+ 44.27%   33.571      2 Template:BoxHeader
+ 35.35%   26.807      2 Template:Gradient
+ 29.58%   22.431      2 Template:BoxContent
+ 14.24%   10.796      1 Template:Bëgngnüs_y_bëgngnüdes
+  5.54%    4.199      1 Template:Articul_prinzipal
+  5.28%    4.005      1 Template:Imaja_prinzipala
+  4.27%    3.239      1 Template:Dolomitan
+  4.15%    3.144      1 Template:Fodom
+  3.89%    2.950      1 Template:Anpezan
+-->
+      <!-- Saved in parser cache with key lldwiki:pcache:idhash:968-0!canonical and timestamp 20210926055701 and revision id 18051. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//lld.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Tëut da "
+      <a dir="ltr" href="https://lld.wikipedia.org/w/index.php?title=Plata_prinzipala&amp;oldid=18051">
+       https://lld.wikipedia.org/w/index.php?title=Plata_prinzipala&amp;oldid=18051
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menu de navigazion
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Strumënc persunei
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Accesso non effettuato
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Speciale:MieDiscussioni" title="Discussioni sulle modifiche fatte da questo indirizzo IP [n]">
+         Descuscions
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Speciale:MieiContributi" title="Un elenco delle modifiche fatte da questo indirizzo IP [y]">
+         Contribuzions
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Speciale:CreaUtenza&amp;returnto=Plata+prinzipala" title="L fos bon sce te te scrijësses it per avëi n cont y te culeghësses, ma te ne l mues nia fé">
+         Scrite ite
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Speciale:Entra&amp;returnto=Plata+prinzipala" title="L fos bon sce te culeghësses, ma te ne muesses nia [o]">
+         Culeghete
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Plata_prinzipala" title="Cëlti ala usc [c]">
+          Plata prinzipala
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Discussione:Plata_prinzipala" rel="discussion" title="Descuscion de chësta plata [t]">
+          Descuscion
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Variantes
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Vijites
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Plata_prinzipala">
+          Liej
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Plata_prinzipala&amp;action=edit" title="Chësta plata é sconada, mo pos odëi le codesc fondamental. [e]">
+          Ciara ala funtana
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Plata_prinzipala&amp;action=history" title="Ultima verscions de chësta plata [h]">
+          Storia dl documënt
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Altro
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Crì
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Chir te Wikipedia" title="Chir te Wikipedia [f]" type="search"/>
+         <input name="title" type="hidden" value="Speciale:Ricerca"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Chir chësc test sun la plata." type="submit" value="Crì"/>
+         <input class="searchButton" id="searchButton" name="go" title="Va a na plata cun chësc inuem sce l la da" type="submit" value="Va"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Plata_prinzipala" title="Va sun la plata prinzipala">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navigazion
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Plata_prinzipala" title="Va sun la plata prinzipala [z]">
+         Plata prinzipala
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:Portal_de_comunit%C3%A0" title="Descrizion dl proiet, cie che te posses fé y ulà che te posses abiné la robes">
+         Portal de comunità
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Wikipedia:Avenim%C3%ABnc_de_atualit%C3%A0" title="Nfurmazions sun avenimënc de atualità">
+         Avenimënc de atualità
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Speciale:UltimeModifiche" title="Na lista de mudamënc fac da puech te la wiki [r]">
+         Ultimi mudamënc
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Speciale:PaginaCasuale" title="Cëria na plata a cajo [x]">
+         Plata a caje
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Plata de aiut">
+         Aiut
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=lld.wikipedia.org&amp;uselang=lld" title="Judenes">
+         Fé na dunazion
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Strumënc
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Speciale:PuntanoQui/Plata_prinzipala" title="Na lista de duta la plates wiki che porta tlo [j]">
+         Links che porta tlo
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Speciale:ModificheCorrelate/Plata_prinzipala" rel="nofollow" title="Ultima mudazions te plates culeghedes a chësta plata [k]">
+         Mudamënc che à da n fé cun chësc
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=lld" title="Cëria su documënc [u]">
+         Cëria su n documënt
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Speciale:PagineSpeciali" title="Lista de duta la plates spezieles [q]">
+         Plates spezieles
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Plata_prinzipala&amp;oldid=18051" title="Link per for a chësta reviscion de la plata">
+         Link per for
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Plata_prinzipala&amp;action=info" title="Ulteriori informazioni su questa pagina">
+         Nfurmazions sun la plata
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Speciale:Cita&amp;page=Plata_prinzipala&amp;id=18051&amp;wpFormIdentifier=titleform" title="Nfurmazion sun co zité chësta plata">
+         Zitea chësta plata
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Culegamënt cul element culegà de l archive di dac [g]">
+         Wikidata element
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Stampé/esporté
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Speciale:Libro&amp;bookcmd=book_creator&amp;referer=Plata+prinzipala">
+         Mët adum n liber
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Speciale:DownloadAsPdf&amp;page=Plata_prinzipala&amp;action=show-download-screen">
+         Cëria ju coche PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Plata_prinzipala&amp;printable=yes" title="Verscion da stampé de chëesta plata [p]">
+         Verscion da stampé
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Te d'atri proiec
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikidata
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Te autra rujenedes
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-aa mw-list-item">
+        <a class="interlanguage-link-target" href="https://aa.wikipedia.org/wiki/Main_Page" hreflang="aa" lang="aa" title="Main Page - afar">
+         Qafár af
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ab mw-list-item">
+        <a class="interlanguage-link-target" href="https://ab.wikipedia.org/wiki/%D0%98%D1%85%D0%B0%D0%B4%D0%BE%D1%83_%D0%B0%D0%B4%D0%B0%D2%9F%D1%8C%D0%B0" hreflang="ab" lang="ab" title="Ихадоу адаҟьа - abcaso">
+         Аҧсшәа
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ace mw-list-item">
+        <a class="interlanguage-link-target" href="https://ace.wikipedia.org/wiki/%C3%94n_Keu%C3%AB" hreflang="ace" lang="ace" title="Ôn Keuë - accinese">
+         Acèh
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ady mw-list-item">
+        <a class="interlanguage-link-target" href="https://ady.wikipedia.org/wiki/%D0%9D%D1%8D%D0%BA%D3%80%D1%83%D0%B1%D0%B3%D1%8A%D0%BE_%D1%88%D1%8A%D1%85%D1%8C%D0%B0%D3%80" hreflang="ady" lang="ady" title="НэкӀубгъо шъхьаӀ - adyghe">
+         Адыгабзэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-af mw-list-item">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Tuisblad" hreflang="af" lang="af" title="Tuisblad - afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ak mw-list-item">
+        <a class="interlanguage-link-target" href="https://ak.wikipedia.org/wiki/Krataafa_Titiriw" hreflang="ak" lang="ak" title="Krataafa Titiriw - akan">
+         Akan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-als mw-list-item">
+        <a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Wikipedia:Houptsyte" hreflang="gsw" lang="gsw" title="Wikipedia:Houptsyte - Alemannisch">
+         Alemannisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-alt mw-list-item">
+        <a class="interlanguage-link-target" href="https://alt.wikipedia.org/wiki/%D0%A2%D3%A7%D1%81_%D0%B1%D3%B1%D0%BA" hreflang="alt" lang="alt" title="Тӧс бӱк - altai meridionale">
+         Алтай тил
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-am mw-list-item">
+        <a class="interlanguage-link-target" href="https://am.wikipedia.org/wiki/%E1%8B%8B%E1%8A%93%E1%8B%8D_%E1%8C%88%E1%8C%BD" hreflang="am" lang="am" title="ዋናው ገጽ - amarico">
+         አማርኛ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-an mw-list-item">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Portalada" hreflang="an" lang="an" title="Portalada - aragonese">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ang mw-list-item">
+        <a class="interlanguage-link-target" href="https://ang.wikipedia.org/wiki/Heafodtramet" hreflang="ang" lang="ang" title="Heafodtramet - inglese antico">
+         Ænglisc
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" hreflang="ar" lang="ar" title="الصفحة الرئيسية - arabo">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arc mw-list-item">
+        <a class="interlanguage-link-target" href="https://arc.wikipedia.org/wiki/%DC%A6%DC%90%DC%AC%DC%90_%DC%AA%DC%9D%DC%AB%DC%9D%DC%AC%DC%90" hreflang="arc" lang="arc" title="ܦܐܬܐ ܪܝܫܝܬܐ - aramaico">
+         ܐܪܡܝܐ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ary mw-list-item">
+        <a class="interlanguage-link-target" href="https://ary.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D9%84%D9%91%D9%88%D9%84%D8%A7" hreflang="ary" lang="ary" title="الصفحة اللّولا - arabo marocchino">
+         الدارجة
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arz mw-list-item">
+        <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D9%87_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D9%87" hreflang="arz" lang="arz" title="الصفحه الرئيسيه - arabo egiziano">
+         مصرى
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-as mw-list-item">
+        <a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%87%E0%A6%9F%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4" hreflang="as" lang="as" title="বেটুপাত - assamese">
+         অসমীয়া
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast mw-list-item">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Portada" hreflang="ast" lang="ast" title="Portada - asturiano">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-atj mw-list-item">
+        <a class="interlanguage-link-target" href="https://atj.wikipedia.org/wiki/Otitikowin" hreflang="atj" lang="atj" title="Otitikowin - Atikamekw">
+         Atikamekw
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-av mw-list-item">
+        <a class="interlanguage-link-target" href="https://av.wikipedia.org/wiki/%D0%91%D0%B5%D1%82%D3%80%D0%B5%D1%80%D0%B0%D0%B1_%D0%B3%D1%8C%D1%83%D0%BC%D0%B5%D1%80" hreflang="av" lang="av" title="БетӀераб гьумер - avaro">
+         Авар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-avk mw-list-item">
+        <a class="interlanguage-link-target" href="https://avk.wikipedia.org/wiki/Xadola" hreflang="avk" lang="avk" title="Xadola - kotava">
+         Kotava
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-awa mw-list-item">
+        <a class="interlanguage-link-target" href="https://awa.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE" hreflang="awa" lang="awa" title="प्रधान पन्ना - awadhi">
+         अवधी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ay mw-list-item">
+        <a class="interlanguage-link-target" href="https://ay.wikipedia.org/wiki/Nayriri_u%C3%B1stawi" hreflang="ay" lang="ay" title="Nayriri uñstawi - aymara">
+         Aymar aru
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Ana_s%C9%99hif%C9%99" hreflang="az" lang="az" title="Ana səhifə - azerbaigiano">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb mw-list-item">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7_%D8%B5%D9%81%D8%AD%D9%87" hreflang="azb" lang="azb" title="آنا صفحه - South Azerbaijani">
+         تۆرکجه
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" hreflang="ba" lang="ba" title="Баш бит - baschiro">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ban mw-list-item">
+        <a class="interlanguage-link-target" href="https://ban.wikipedia.org/wiki/Kaca_Utama" hreflang="ban" lang="ban" title="Kaca Utama - balinese">
+         Basa Bali
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bar mw-list-item">
+        <a class="interlanguage-link-target" href="https://bar.wikipedia.org/wiki/Wikipedia:Hoamseitn" hreflang="bar" lang="bar" title="Wikipedia:Hoamseitn - bavarese">
+         Boarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bat-smg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/P%C4%97rms_poslapis" hreflang="sgs" lang="sgs" title="Pėrms poslapis - Samogitian">
+         Žemaitėška
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bcl mw-list-item">
+        <a class="interlanguage-link-target" href="https://bcl.wikipedia.org/wiki/Panginot_na_Pahina" hreflang="bcl" lang="bcl" title="Panginot na Pahina - Central Bikol">
+         Bikol Central
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0" hreflang="be" lang="be" title="Галоўная старонка - bielorusso">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BD%D0%BA%D0%B0" hreflang="be-tarask" lang="be-tarask" title="Галоўная старонка - Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="bg" lang="bg" title="Начална страница - bulgaro">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bh mw-list-item">
+        <a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE" hreflang="bh" lang="bh" title="मुख्य पन्ना - Bhojpuri">
+         भोजपुरी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bi mw-list-item">
+        <a class="interlanguage-link-target" href="https://bi.wikipedia.org/wiki/Nambawan_Pej" hreflang="bi" lang="bi" title="Nambawan Pej - bislama">
+         Bislama
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bjn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bjn.wikipedia.org/wiki/Tungkaran_Tatambaian" hreflang="bjn" lang="bjn" title="Tungkaran Tatambaian - banjar">
+         Banjar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bm mw-list-item">
+        <a class="interlanguage-link-target" href="https://bm.wikipedia.org/wiki/Ny%C9%9B_f%C9%94l%C9%94" hreflang="bm" lang="bm" title="Nyɛ fɔlɔ - bambara">
+         Bamanankan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE" hreflang="bn" lang="bn" title="প্রধান পাতা - bengalese">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bo mw-list-item">
+        <a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%82%E0%BD%91%E0%BD%BC%E0%BD%84%E0%BC%8B%E0%BD%A4%E0%BD%BC%E0%BD%82" hreflang="bo" lang="bo" title="གདོང་ཤོག - tibetano">
+         བོད་ཡིག
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bpy mw-list-item">
+        <a class="interlanguage-link-target" href="https://bpy.wikipedia.org/wiki/%E0%A6%AA%E0%A6%AF%E0%A6%BC%E0%A6%B2%E0%A6%BE_%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE" hreflang="bpy" lang="bpy" title="পয়লা পাতা - bishnupriya">
+         বিষ্ণুপ্রিয়া মণিপুরী
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-br mw-list-item">
+        <a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Degemer" hreflang="br" lang="br" title="Degemer - bretone">
+         Brezhoneg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Po%C4%8Detna_strana" hreflang="bs" lang="bs" title="Početna strana - bosniaco">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bug mw-list-item">
+        <a class="interlanguage-link-target" href="https://bug.wikipedia.org/wiki/Mappadec%C3%A9%C5%8B" hreflang="bug" lang="bug" title="Mappadecéŋ - bugi">
+         ᨅᨔ ᨕᨘᨁᨗ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bxr mw-list-item">
+        <a class="interlanguage-link-target" href="https://bxr.wikipedia.org/wiki/%D0%9D%D1%8E%D1%83%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D2%BB%D0%B0%D0%BD" hreflang="bxr" lang="bxr" title="Нюур хуудаһан - Russia Buriat">
+         Буряад
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Portada" hreflang="ca" lang="ca" title="Portada - catalano">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cbk-zam mw-list-item">
+        <a class="interlanguage-link-target" href="https://cbk-zam.wikipedia.org/wiki/El_Primero_Pagina" hreflang="cbk" lang="cbk" title="El Primero Pagina - Chavacano">
+         Chavacano de Zamboanga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cdo mw-list-item">
+        <a class="interlanguage-link-target" href="https://cdo.wikipedia.org/wiki/T%C3%A0u_Hi%C4%95k" hreflang="cdo" lang="cdo" title="Tàu Hiĕk - Min Dong Chinese">
+         Mìng-dĕ̤ng-ngṳ̄
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce mw-list-item">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8C%D1%80%D1%82%D0%B0_%D0%B0%D0%B3%D3%80%D0%BE" hreflang="ce" lang="ce" title="Коьрта агӀо - ceceno">
+         Нохчийн
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/Unang_Panid" hreflang="ceb" lang="ceb" title="Unang Panid - cebuano">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ch mw-list-item">
+        <a class="interlanguage-link-target" href="https://ch.wikipedia.org/wiki/Fanhaluman" hreflang="ch" lang="ch" title="Fanhaluman - chamorro">
+         Chamoru
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cho mw-list-item">
+        <a class="interlanguage-link-target" href="https://cho.wikipedia.org/wiki/Main_Page" hreflang="cho" lang="cho" title="Main Page - choctaw">
+         Choctaw
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-chr mw-list-item">
+        <a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8E%A4%E1%8E%B5%E1%8E%AE%E1%8E%B5%E1%8F%8D%E1%8F%97" hreflang="chr" lang="chr" title="ᎤᎵᎮᎵᏍᏗ - cherokee">
+         ᏣᎳᎩ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-chy mw-list-item">
+        <a class="interlanguage-link-target" href="https://chy.wikipedia.org/wiki/Va%27ohtama" hreflang="chy" lang="chy" title="Va'ohtama - cheyenne">
+         Tsetsêhestâhese
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B3%D8%AA%D9%BE%DB%8E%DA%A9" hreflang="ckb" lang="ckb" title="دەستپێک - curdo sorani">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-co mw-list-item">
+        <a class="interlanguage-link-target" href="https://co.wikipedia.org/wiki/Pagina_maestra" hreflang="co" lang="co" title="Pagina maestra - corso">
+         Corsu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cr mw-list-item">
+        <a class="interlanguage-link-target" href="https://cr.wikipedia.org/wiki/%E1%93%83%E1%94%A5%E1%91%95%E1%92%BB%E1%90%B9%E1%94%85%E1%91%8C%E1%92%8B%E1%93%82%E1%91%B2%E1%93%90" hreflang="cr" lang="cr" title="ᓃᔥᑕᒻᐹᔅᑌᒋᓂᑲᓐ - cree">
+         Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-crh mw-list-item">
+        <a class="interlanguage-link-target" href="https://crh.wikipedia.org/wiki/Ba%C5%9F_Saife" hreflang="crh" lang="crh" title="Baş Saife - turco crimeo">
+         Qırımtatarca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana" hreflang="cs" lang="cs" title="Hlavní strana - ceco">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-csb mw-list-item">
+        <a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/Prz%C3%A9dn%C3%B4_starna" hreflang="csb" lang="csb" title="Przédnô starna - kashubian">
+         Kaszëbsczi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cu mw-list-item">
+        <a class="interlanguage-link-target" href="https://cu.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D1%8C%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="cu" lang="cu" title="Главьна страница - slavo ecclesiastico">
+         Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv mw-list-item">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A2%C4%95%D0%BF_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="cv" lang="cv" title="Тĕп страница - ciuvascio">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy mw-list-item">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Hafan" hreflang="cy" lang="cy" title="Hafan - gallese">
+         Cymraeg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Forside" hreflang="da" lang="da" title="Forside - danese">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dag mw-list-item">
+        <a class="interlanguage-link-target" href="https://dag.wikipedia.org/wiki/Sol%C9%94%C9%A3u" hreflang="dag" lang="dag" title="Solɔɣu - Dagbani">
+         Dagbanli
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wikipedia:Hauptseite" hreflang="de" lang="de" title="Wikipedia:Hauptseite - tedesco">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-din mw-list-item">
+        <a class="interlanguage-link-target" href="https://din.wikipedia.org/wiki/Apam_k%C3%ABd%C3%AFt" hreflang="din" lang="din" title="Apam këdït - dinca">
+         Thuɔŋjäŋ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq mw-list-item">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/Pela_Seri" hreflang="diq" lang="diq" title="Pela Seri - Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/G%C5%82owny_bok" hreflang="dsb" lang="dsb" title="Głowny bok - basso sorabo">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dty mw-list-item">
+        <a class="interlanguage-link-target" href="https://dty.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE" hreflang="dty" lang="dty" title="मुख्य पन्ना - Doteli">
+         डोटेली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dv mw-list-item">
+        <a class="interlanguage-link-target" href="https://dv.wikipedia.org/wiki/%DE%89%DE%A6%DE%87%DE%A8_%DE%9E%DE%A6%DE%8A%DE%B0%DE%99%DE%A7" hreflang="dv" lang="dv" title="މައި ޞަފްޙާ - divehi">
+         ދިވެހިބަސް
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dz mw-list-item">
+        <a class="interlanguage-link-target" href="https://dz.wikipedia.org/wiki/%E0%BD%98%E0%BC%8B%E0%BD%A4%E0%BD%BC%E0%BD%82%E0%BC%8D" hreflang="dz" lang="dz" title="མ་ཤོག། - dzongkha">
+         ཇོང་ཁ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ee mw-list-item">
+        <a class="interlanguage-link-target" href="https://ee.wikipedia.org/wiki/Axa_do_%C5%8Ag%C9%94" hreflang="ee" lang="ee" title="Axa do Ŋgɔ - ewe">
+         Eʋegbe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CF%8D%CE%BB%CE%B7:%CE%9A%CF%8D%CF%81%CE%B9%CE%B1" hreflang="el" lang="el" title="Πύλη:Κύρια - greco">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eml mw-list-item">
+        <a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/PP" hreflang="egl" lang="egl" title="PP - Emiliano-Romagnolo">
+         Emiliàn e rumagnòl
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Main_Page" hreflang="en" lang="en" title="Main Page - inglese">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Vikipedio:%C4%88efpa%C4%9Do" hreflang="eo" lang="eo" title="Vikipedio:Ĉefpaĝo - esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Wikipedia:Portada" hreflang="es" lang="es" title="Wikipedia:Portada - spagnolo">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Vikipeedia:Esileht" hreflang="et" lang="et" title="Vikipeedia:Esileht - estone">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Azala" hreflang="eu" lang="eu" title="Azala - basco">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ext mw-list-item">
+        <a class="interlanguage-link-target" href="https://ext.wikipedia.org/wiki/P%C3%A1gina_prencipal" hreflang="ext" lang="ext" title="Página prencipal - estremegno">
+         Estremeñu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" hreflang="fa" lang="fa" title="صفحهٔ اصلی - persiano">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ff mw-list-item">
+        <a class="interlanguage-link-target" href="https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo" hreflang="ff" lang="ff" title="Hello jaɓɓorgo - fulah">
+         Fulfulde
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Wikipedia:Etusivu" hreflang="fi" lang="fi" title="Wikipedia:Etusivu - finlandese">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fiu-vro mw-list-item">
+        <a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/Wikipedia:P%C3%A4%C3%A4leht" hreflang="vro" lang="vro" title="Wikipedia:Pääleht - võro">
+         Võro
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fj mw-list-item">
+        <a class="interlanguage-link-target" href="https://fj.wikipedia.org/wiki/Tabana_levu" hreflang="fj" lang="fj" title="Tabana levu - figiano">
+         Na Vosa Vakaviti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fo mw-list-item">
+        <a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Fors%C3%AD%C3%B0a" hreflang="fo" lang="fo" title="Forsíða - faroese">
+         Føroyskt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" hreflang="fr" lang="fr" title="Wikipédia:Accueil principal - francese">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frp mw-list-item">
+        <a class="interlanguage-link-target" href="https://frp.wikipedia.org/wiki/Vouiquip%C3%A8dia:Re%C3%A7ua_princip%C3%A2la" hreflang="frp" lang="frp" title="Vouiquipèdia:Reçua principâla - francoprovenzale">
+         Arpetan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-frr mw-list-item">
+        <a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Wikipedia:Hoodsid" hreflang="frr" lang="frr" title="Wikipedia:Hoodsid - frisone settentrionale">
+         Nordfriisk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fur mw-list-item">
+        <a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Pagjine_princip%C3%A2l" hreflang="fur" lang="fur" title="Pagjine principâl - friulano">
+         Furlan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy mw-list-item">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Haadside" hreflang="fy" lang="fy" title="Haadside - frisone occidentale">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga mw-list-item">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Pr%C3%ADomhleathanach" hreflang="ga" lang="ga" title="Príomhleathanach - irlandese">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gag mw-list-item">
+        <a class="interlanguage-link-target" href="https://gag.wikipedia.org/wiki/Ba%C5%9F_yaprak" hreflang="gag" lang="gag" title="Baş yaprak - gagauzo">
+         Gagauz
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gan mw-list-item">
+        <a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E5%B0%81%E9%9D%A2" hreflang="gan" lang="gan" title="封面 - gan">
+         贛語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gcr mw-list-item">
+        <a class="interlanguage-link-target" href="https://gcr.wikipedia.org/wiki/Paj_Prensipal" hreflang="gcr" lang="gcr" title="Paj Prensipal - Guianan Creole">
+         Kriyòl gwiyannen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gd mw-list-item">
+        <a class="interlanguage-link-target" href="https://gd.wikipedia.org/wiki/Pr%C3%AComh-Dhuilleag" hreflang="gd" lang="gd" title="Prìomh-Dhuilleag - gaelico scozzese">
+         Gàidhlig
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Portada" hreflang="gl" lang="gl" title="Portada - galiziano">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-glk mw-list-item">
+        <a class="interlanguage-link-target" href="https://glk.wikipedia.org/wiki/%DA%AF%D8%AA%CB%87_%D9%88%D9%84%DA%AF" hreflang="glk" lang="glk" title="گتˇ ولگ - gilaki">
+         گیلکی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gn mw-list-item">
+        <a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Ape" hreflang="gn" lang="gn" title="Ape - guaraní">
+         Avañe'ẽ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gom mw-list-item">
+        <a class="interlanguage-link-target" href="https://gom.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%87%E0%A4%B2_%E0%A4%AA%E0%A4%BE%E0%A4%A8" hreflang="gom" lang="gom" title="मुखेल पान - konkani goano">
+         गोंयची कोंकणी / Gõychi Konknni
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gor mw-list-item">
+        <a class="interlanguage-link-target" href="https://gor.wikipedia.org/wiki/Halaman_Bungaliyo" hreflang="gor" lang="gor" title="Halaman Bungaliyo - gorontalo">
+         Bahasa Hulontalo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-got mw-list-item">
+        <a class="interlanguage-link-target" href="https://got.wikipedia.org/wiki/%F0%90%8C%B0%F0%90%8C%BD%F0%90%8C%B0%F0%90%8D%83%F0%90%8D%84%F0%90%8D%89%F0%90%8C%B3%F0%90%8C%B4%F0%90%8C%B9%F0%90%8C%BD%F0%90%8C%B9%F0%90%8C%BB%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%86%F0%90%8D%83" hreflang="got" lang="got" title="𐌰𐌽𐌰𐍃𐍄𐍉𐌳𐌴𐌹𐌽𐌹𐌻𐌰𐌿𐍆𐍃 - gotico">
+         𐌲𐌿𐍄𐌹𐍃𐌺
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gu mw-list-item">
+        <a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%AE%E0%AB%81%E0%AA%96%E0%AA%AA%E0%AB%83%E0%AA%B7%E0%AB%8D%E0%AA%A0" hreflang="gu" lang="gu" title="મુખપૃષ્ઠ - gujarati">
+         ગુજરાતી
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gv mw-list-item">
+        <a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Ard-ghuillag" hreflang="gv" lang="gv" title="Ard-ghuillag - mannese">
+         Gaelg
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ha mw-list-item">
+        <a class="interlanguage-link-target" href="https://ha.wikipedia.org/wiki/Babban_shafi" hreflang="ha" lang="ha" title="Babban shafi - hausa">
+         Hausa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hak mw-list-item">
+        <a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/Th%C3%A8u-Ya%CC%8Dp" hreflang="hak" lang="hak" title="Thèu-Ya̍p - hakka">
+         客家語/Hak-kâ-ngî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-haw mw-list-item">
+        <a class="interlanguage-link-target" href="https://haw.wikipedia.org/wiki/Ka_papa_kinohi" hreflang="haw" lang="haw" title="Ka papa kinohi - hawaiano">
+         Hawaiʻi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99" hreflang="he" lang="he" title="עמוד ראשי - ebraico">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi mw-list-item">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" hreflang="hi" lang="hi" title="मुखपृष्ठ - hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hif mw-list-item">
+        <a class="interlanguage-link-target" href="https://hif.wikipedia.org/wiki/Pahila_Panna" hreflang="hif" lang="hif" title="Pahila Panna - hindi figiano">
+         Fiji Hindi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ho mw-list-item">
+        <a class="interlanguage-link-target" href="https://ho.wikipedia.org/wiki/Main_Page" hreflang="ho" lang="ho" title="Main Page - hiri motu">
+         Hiri Motu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Glavna_stranica" hreflang="hr" lang="hr" title="Glavna stranica - croato">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/H%C5%82owna_strona" hreflang="hsb" lang="hsb" title="Hłowna strona - alto sorabo">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ht mw-list-item">
+        <a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Paj_Prensipal" hreflang="ht" lang="ht" title="Paj Prensipal - creolo haitiano">
+         Kreyòl ayisyen
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kezd%C5%91lap" hreflang="hu" lang="hu" title="Kezdőlap - ungherese">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B3%D5%AC%D5%AD%D5%A1%D5%BE%D5%B8%D6%80_%D5%A7%D5%BB" hreflang="hy" lang="hy" title="Գլխավոր էջ - armeno">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hyw mw-list-item">
+        <a class="interlanguage-link-target" href="https://hyw.wikipedia.org/wiki/%D4%B3%D5%AC%D5%AD%D5%A1%D6%82%D5%B8%D6%80_%D4%B7%D5%BB" hreflang="hyw" lang="hyw" title="Գլխաւոր Էջ - Western Armenian">
+         Արեւմտահայերէն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hz mw-list-item">
+        <a class="interlanguage-link-target" href="https://hz.wikipedia.org/wiki/Main_Page" hreflang="hz" lang="hz" title="Main Page - herero">
+         Otsiherero
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ia mw-list-item">
+        <a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Pagina_principal" hreflang="ia" lang="ia" title="Pagina principal - interlingua">
+         Interlingua
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Halaman_Utama" hreflang="id" lang="id" title="Halaman Utama - indonesiano">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ie mw-list-item">
+        <a class="interlanguage-link-target" href="https://ie.wikipedia.org/wiki/Principal_p%C3%A1gine" hreflang="ie" lang="ie" title="Principal págine - interlingue">
+         Interlingue
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ig mw-list-item">
+        <a class="interlanguage-link-target" href="https://ig.wikipedia.org/wiki/Ihu_m%CC%80b%E1%BB%A5" hreflang="ig" lang="ig" title="Ihu m̀bụ - igbo">
+         Igbo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ik mw-list-item">
+        <a class="interlanguage-link-target" href="https://ik.wikipedia.org/wiki/Aimaa%C4%A1vik" hreflang="ik" lang="ik" title="Aimaaġvik - inupiak">
+         Iñupiak
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ilo mw-list-item">
+        <a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Umuna_a_Panid" hreflang="ilo" lang="ilo" title="Umuna a Panid - ilocano">
+         Ilokano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-inh mw-list-item">
+        <a class="interlanguage-link-target" href="https://inh.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%82%D1%82%D0%B5%D1%80%D0%B0_%D0%BE%D0%B0%D0%B3%D3%80%D1%83%D0%B2" hreflang="inh" lang="inh" title="Керттера оагӀув - ingush">
+         ГӀалгӀай
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-io mw-list-item">
+        <a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Frontispico" hreflang="io" lang="io" title="Frontispico - ido">
+         Ido
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-is mw-list-item">
+        <a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Fors%C3%AD%C3%B0a" hreflang="is" lang="is" title="Forsíða - islandese">
+         Íslenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pagina_principale" hreflang="it" lang="it" title="Pagina principale - italiano">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-iu mw-list-item">
+        <a class="interlanguage-link-target" href="https://iu.wikipedia.org/wiki/%E1%90%8A%E1%92%A5%E1%96%85" hreflang="iu" lang="iu" title="ᐊᒥᖅ - inuktitut">
+         ᐃᓄᒃᑎᑐᑦ/inuktitut
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" hreflang="ja" lang="ja" title="メインページ - giapponese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jam mw-list-item">
+        <a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Mien_Piej" hreflang="jam" lang="jam" title="Mien Piej - creolo giamaicano">
+         Patois
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jbo mw-list-item">
+        <a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/uikipedi%27as:ralju" hreflang="jbo" lang="jbo" title="uikipedi'as:ralju - lojban">
+         La .lojban.
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-jv mw-list-item">
+        <a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Wikipedia:Pendhapa" hreflang="jv" lang="jv" title="Wikipedia:Pendhapa - giavanese">
+         Jawa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%90%E1%83%A0%E1%83%98_%E1%83%92%E1%83%95%E1%83%94%E1%83%A0%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="მთავარი გვერდი - georgiano">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kaa mw-list-item">
+        <a class="interlanguage-link-target" href="https://kaa.wikipedia.org/wiki/Bas_bet" hreflang="kaa" lang="kaa" title="Bas bet - kara-kalpak">
+         Qaraqalpaqsha
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kab mw-list-item">
+        <a class="interlanguage-link-target" href="https://kab.wikipedia.org/wiki/Asebter_agejdan" hreflang="kab" lang="kab" title="Asebter agejdan - cabilo">
+         Taqbaylit
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kbd mw-list-item">
+        <a class="interlanguage-link-target" href="https://kbd.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BF%D1%8D%D0%BA%D3%80%D1%83%D1%8D%D1%86%D3%80_%D0%BD%D1%8D%D1%85%D1%8A%D1%8B%D1%89%D1%85%D1%8C%D1%8D" hreflang="kbd" lang="kbd" title="НапэкӀуэцӀ нэхъыщхьэ - cabardino">
+         Адыгэбзэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kbp mw-list-item">
+        <a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/Tal%C9%A9_%C9%96eu" hreflang="kbp" lang="kbp" title="Talɩ ɖeu - Kabiye">
+         Kabɩyɛ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kg mw-list-item">
+        <a class="interlanguage-link-target" href="https://kg.wikipedia.org/wiki/Muk%C3%A2nda_ya_ngudi" hreflang="kg" lang="kg" title="Mukânda ya ngudi - kongo">
+         Kongo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ki mw-list-item">
+        <a class="interlanguage-link-target" href="https://ki.wikipedia.org/wiki/Main_Page" hreflang="ki" lang="ki" title="Main Page - kikuyu">
+         Gĩkũyũ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kj mw-list-item">
+        <a class="interlanguage-link-target" href="https://kj.wikipedia.org/wiki/Main_Page" hreflang="kj" lang="kj" title="Main Page - kuanyama">
+         Kwanyama
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" hreflang="kk" lang="kk" title="Басты бет - kazako">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kl mw-list-item">
+        <a class="interlanguage-link-target" href="https://kl.wikipedia.org/wiki/Saqqaa" hreflang="kl" lang="kl" title="Saqqaa - groenlandese">
+         Kalaallisut
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-km mw-list-item">
+        <a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%91%E1%9F%86%E1%9E%96%E1%9F%90%E1%9E%9A%E1%9E%8A%E1%9E%BE%E1%9E%98" hreflang="km" lang="km" title="ទំព័រដើម - khmer">
+         ភាសាខ្មែរ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kn mw-list-item">
+        <a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F" hreflang="kn" lang="kn" title="ಮುಖ್ಯ ಪುಟ - kannada">
+         ಕನ್ನಡ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" hreflang="ko" lang="ko" title="위키백과:대문 - coreano">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-koi mw-list-item">
+        <a class="interlanguage-link-target" href="https://koi.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D0%B4%D3%A7%D1%82%D1%87%D0%B0%D0%BD_%D0%BB%D0%B8%D1%81%D1%82%D0%B1%D0%BE%D0%BA" hreflang="koi" lang="koi" title="Пондӧтчан листбок - permiaco">
+         Перем коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kr mw-list-item">
+        <a class="interlanguage-link-target" href="https://kr.wikipedia.org/wiki/Main_Page" hreflang="kr" lang="kr" title="Main Page - kanuri">
+         Kanuri
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-krc mw-list-item">
+        <a class="interlanguage-link-target" href="https://krc.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B5%D1%82" hreflang="krc" lang="krc" title="Баш бет - karachay-Balkar">
+         Къарачай-малкъар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ks mw-list-item">
+        <a class="interlanguage-link-target" href="https://ks.wikipedia.org/wiki/%D8%A7%D9%8E%DB%81%D9%8E%D9%85_%D8%B5%D9%8E%D9%81%DB%81%D9%95" hreflang="ks" lang="ks" title="اَہَم صَفہٕ - kashmiri">
+         कॉशुर / کٲشُر
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ksh mw-list-item">
+        <a class="interlanguage-link-target" href="https://ksh.wikipedia.org/wiki/Wikipedia:Houpsigk" hreflang="ksh" lang="ksh" title="Wikipedia:Houpsigk - coloniese">
+         Ripoarisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ku mw-list-item">
+        <a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Destp%C3%AAk" hreflang="ku" lang="ku" title="Destpêk - curdo">
+         Kurdî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kv mw-list-item">
+        <a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D1%88%D3%A7%D1%80_%D0%BB%D0%B8%D1%81%D1%82_%D0%B1%D0%BE%D0%BA" hreflang="kv" lang="kv" title="Медшӧр лист бок - komi">
+         Коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kw mw-list-item">
+        <a class="interlanguage-link-target" href="https://kw.wikipedia.org/wiki/Folen_dre" hreflang="kw" lang="kw" title="Folen dre - cornico">
+         Kernowek
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky mw-list-item">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%91%D0%B0%D1%88%D0%B1%D0%B0%D1%80%D0%B0%D0%BA" hreflang="ky" lang="ky" title="Башбарак - kirghiso">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Vicipaedia:Pagina_prima" hreflang="la" lang="la" title="Vicipaedia:Pagina prima - latino">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lad mw-list-item">
+        <a class="interlanguage-link-target" href="https://lad.wikipedia.org/wiki/La_Primera_Hoja" hreflang="lad" lang="lad" title="La Primera Hoja - giudeo-spagnolo">
+         Ladino
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lb mw-list-item">
+        <a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Haapts%C3%A4it" hreflang="lb" lang="lb" title="Haaptsäit - lussemburghese">
+         Lëtzebuergesch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lbe mw-list-item">
+        <a class="interlanguage-link-target" href="https://lbe.wikipedia.org/wiki/%D0%90%D0%B3%D1%8C%D0%B0%D0%BC%D0%BC%D1%83%D1%80_%D0%BB%D0%B0%D0%B6%D0%B8%D0%BD" hreflang="lbe" lang="lbe" title="Агьаммур лажин - Lak">
+         Лакку
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lez mw-list-item">
+        <a class="interlanguage-link-target" href="https://lez.wikipedia.org/wiki/%D0%9A%D1%8C%D0%B8%D0%BB%D0%B8%D0%BD_%D1%87%D1%87%D0%B8%D0%BD" hreflang="lez" lang="lez" title="Кьилин ччин - lesgo">
+         Лезги
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lfn mw-list-item">
+        <a class="interlanguage-link-target" href="https://lfn.wikipedia.org/wiki/Paje_xef" hreflang="lfn" lang="lfn" title="Paje xef - Lingua Franca Nova">
+         Lingua Franca Nova
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lg mw-list-item">
+        <a class="interlanguage-link-target" href="https://lg.wikipedia.org/wiki/Olupapula_Olusooka" hreflang="lg" lang="lg" title="Olupapula Olusooka - ganda">
+         Luganda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-li mw-list-item">
+        <a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Veurblaad" hreflang="li" lang="li" title="Veurblaad - limburghese">
+         Limburgs
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lij mw-list-item">
+        <a class="interlanguage-link-target" href="https://lij.wikipedia.org/wiki/Pagina_prin%C3%A7ip%C3%A2" hreflang="lij" lang="lij" title="Pagina prinçipâ - ligure">
+         Ligure
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo mw-list-item">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Pagina_principala" hreflang="lmo" lang="lmo" title="Pagina principala - lombardo">
+         Lombard
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ln mw-list-item">
+        <a class="interlanguage-link-target" href="https://ln.wikipedia.org/wiki/Lok%C3%A1s%C3%A1_ya_libos%C3%B3" hreflang="ln" lang="ln" title="Lokásá ya libosó - lingala">
+         Lingála
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lo mw-list-item">
+        <a class="interlanguage-link-target" href="https://lo.wikipedia.org/wiki/%E0%BB%9C%E0%BB%89%E0%BA%B2%E0%BA%AB%E0%BA%BC%E0%BA%B1%E0%BA%81" hreflang="lo" lang="lo" title="ໜ້າຫຼັກ - lao">
+         ລາວ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lrc mw-list-item">
+        <a class="interlanguage-link-target" href="https://lrc.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A2%D8%B3%D9%88%D9%86%D9%B1" hreflang="lrc" lang="lrc" title="سرآسونٱ - luri settentrionale">
+         لۊری شومالی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Pagrindinis_puslapis" hreflang="lt" lang="lt" title="Pagrindinis puslapis - lituano">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ltg mw-list-item">
+        <a class="interlanguage-link-target" href="https://ltg.wikipedia.org/wiki/Suoku_puslopa" hreflang="ltg" lang="ltg" title="Suoku puslopa - letgallo">
+         Latgaļu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/S%C4%81kumlapa" hreflang="lv" lang="lv" title="Sākumlapa - lettone">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mad mw-list-item">
+        <a class="interlanguage-link-target" href="https://mad.wikipedia.org/wiki/Tan%C3%A8yan" hreflang="mad" lang="mad" title="Tanèyan - madurese">
+         Madhurâ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mai mw-list-item">
+        <a class="interlanguage-link-target" href="https://mai.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%81%E0%A4%96_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE" hreflang="mai" lang="mai" title="सम्मुख पन्ना - maithili">
+         मैथिली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-map-bms mw-list-item">
+        <a class="interlanguage-link-target" href="https://map-bms.wikipedia.org/wiki/Kaca_Utama" hreflang="jv-x-bms" lang="jv-x-bms" title="Kaca Utama - Basa Banyumasan">
+         Basa Banyumasan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mdf mw-list-item">
+        <a class="interlanguage-link-target" href="https://mdf.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F_%D0%BB%D0%BE%D0%BF%D0%B0" hreflang="mdf" lang="mdf" title="Пря лопа - moksha">
+         Мокшень
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mg mw-list-item">
+        <a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Wikipedia:Fandraisana" hreflang="mg" lang="mg" title="Wikipedia:Fandraisana - malgascio">
+         Malagasy
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mhr mw-list-item">
+        <a class="interlanguage-link-target" href="https://mhr.wikipedia.org/wiki/%D0%A2%D3%B1%D2%A5_%D0%BB%D0%B0%D1%88%D1%82%D1%8B%D0%BA" hreflang="mhr" lang="mhr" title="Тӱҥ лаштык - Eastern Mari">
+         Олык марий
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mi mw-list-item">
+        <a class="interlanguage-link-target" href="https://mi.wikipedia.org/wiki/Hau_K%C4%81inga" hreflang="mi" lang="mi" title="Hau Kāinga - maori">
+         Māori
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-min mw-list-item">
+        <a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/Laman_Utamo" hreflang="min" lang="min" title="Laman Utamo - menangkabau">
+         Minangkabau
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk" lang="mk" title="Главна страница - macedone">
+         Македонски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml mw-list-item">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%A7%E0%B4%BE%E0%B4%A8_%E0%B4%A4%E0%B4%BE%E0%B5%BE" hreflang="ml" lang="ml" title="പ്രധാന താൾ - malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mn mw-list-item">
+        <a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%9D%D2%AF%D2%AF%D1%80_%D1%85%D1%83%D1%83%D0%B4%D0%B0%D1%81" hreflang="mn" lang="mn" title="Нүүр хуудас - mongolo">
+         Монгол
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mni mw-list-item">
+        <a class="interlanguage-link-target" href="https://mni.wikipedia.org/wiki/%EA%AF%83%EA%AF%94%EA%AF%A8%EA%AF%91%EA%AF%A3%EA%AF%8F%EA%AF%95_%EA%AF%82%EA%AF%83%EA%AF%A5%EA%AF%8F" hreflang="mni" lang="mni" title="ꯃꯔꯨꯑꯣꯏꯕ ꯂꯃꯥꯏ - manipuri">
+         ꯃꯤꯇꯩ ꯂꯣꯟ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mnw mw-list-item">
+        <a class="interlanguage-link-target" href="https://mnw.wikipedia.org/wiki/%E1%80%99%E1%80%AF%E1%80%80%E1%80%BA%E1%80%9C%E1%80%AD%E1%80%80%E1%80%BA%E1%80%90%E1%80%99%E1%80%BA" hreflang="mnw" lang="mnw" title="မုက်လိက်တမ် - Mon">
+         ဘာသာ မန်
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr mw-list-item">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" hreflang="mr" lang="mr" title="मुखपृष्ठ - marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mrj mw-list-item">
+        <a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/%D0%A2%D3%B9%D0%BD%D0%B3_%D3%B9%D0%BB%D3%B9%D1%88%D1%82%D3%93%D1%88" hreflang="mrj" lang="mrj" title="Тӹнг ӹлӹштӓш - mari occidentale">
+         Кырык мары
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Laman_Utama" hreflang="ms" lang="ms" title="Laman Utama - malese">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mt mw-list-item">
+        <a class="interlanguage-link-target" href="https://mt.wikipedia.org/wiki/Il-Pa%C4%A1na_prin%C4%8Bipali" hreflang="mt" lang="mt" title="Il-Paġna prinċipali - maltese">
+         Malti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mus mw-list-item">
+        <a class="interlanguage-link-target" href="https://mus.wikipedia.org/wiki/Main_Page" hreflang="mus" lang="mus" title="Main Page - creek">
+         Mvskoke
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mwl mw-list-item">
+        <a class="interlanguage-link-target" href="https://mwl.wikipedia.org/wiki/Biquip%C3%A9dia:P%C3%A1igina_percipal" hreflang="mwl" lang="mwl" title="Biquipédia:Páigina percipal - mirandese">
+         Mirandés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my mw-list-item">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%97%E1%80%9F%E1%80%AD%E1%80%AF%E1%80%85%E1%80%AC%E1%80%99%E1%80%BB%E1%80%80%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC" hreflang="my" lang="my" title="ဗဟိုစာမျက်နှာ - birmano">
+         မြန်မာဘာသာ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-myv mw-list-item">
+        <a class="interlanguage-link-target" href="https://myv.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" hreflang="myv" lang="myv" title="Прявтлопа - erzya">
+         Эрзянь
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mzn mw-list-item">
+        <a class="interlanguage-link-target" href="https://mzn.wikipedia.org/wiki/%DA%AF%D8%AA_%D8%B5%D9%81%D8%AD%D9%87" hreflang="mzn" lang="mzn" title="گت صفحه - mazandarani">
+         مازِرونی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-na mw-list-item">
+        <a class="interlanguage-link-target" href="https://na.wikipedia.org/wiki/Bwiema_peij" hreflang="na" lang="na" title="Bwiema peij - nauru">
+         Dorerin Naoero
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nah mw-list-item">
+        <a class="interlanguage-link-target" href="https://nah.wikipedia.org/wiki/Cal%C4%ABxatl" hreflang="nah" lang="nah" title="Calīxatl - Nāhuatl">
+         Nāhuatl
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nap mw-list-item">
+        <a class="interlanguage-link-target" href="https://nap.wikipedia.org/wiki/Paggena_prencepale" hreflang="nap" lang="nap" title="Paggena prencepale - napoletano">
+         Napulitano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds mw-list-item">
+        <a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Wikipedia:H%C3%B6%C3%B6ftsiet" hreflang="nds" lang="nds" title="Wikipedia:Hööftsiet - basso tedesco">
+         Plattdüütsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nds-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/V%C3%B6%C3%A4rblad" hreflang="nds-NL" lang="nds-NL" title="Vöärblad - basso tedesco olandese">
+         Nedersaksies
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ne mw-list-item">
+        <a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0" hreflang="ne" lang="ne" title="मुख्य पृष्ठ - nepalese">
+         नेपाली
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-new mw-list-item">
+        <a class="interlanguage-link-target" href="https://new.wikipedia.org/wiki/%E0%A4%AE%E0%A5%82_%E0%A4%AA%E0%A5%8C" hreflang="new" lang="new" title="मू पौ - newari">
+         नेपाल भाषा
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ng mw-list-item">
+        <a class="interlanguage-link-target" href="https://ng.wikipedia.org/wiki/Hambili_Tarkerazu" hreflang="ng" lang="ng" title="Hambili Tarkerazu - ndonga">
+         Oshiwambo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nia mw-list-item">
+        <a class="interlanguage-link-target" href="https://nia.wikipedia.org/wiki/Olayama" hreflang="nia" lang="nia" title="Olayama - nias">
+         Li Niha
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hoofdpagina" hreflang="nl" lang="nl" title="Hoofdpagina - olandese">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Hovudside" hreflang="nn" lang="nn" title="Hovudside - norvegese nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Portal:Forside" hreflang="nb" lang="nb" title="Portal:Forside - norvegese bokmål">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nov mw-list-item">
+        <a class="interlanguage-link-target" href="https://nov.wikipedia.org/wiki/Chefi_pagine" hreflang="nov" lang="nov" title="Chefi pagine - novial">
+         Novial
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nqo mw-list-item">
+        <a class="interlanguage-link-target" href="https://nqo.wikipedia.org/wiki/%DF%93%DF%8F%DF%AC%DF%9F%DF%8F%DF%B2%DF%AC%DF%98%DF%8A" hreflang="nqo" lang="nqo" title="ߓߏ߬ߟߏ߲߬ߘߊ - n’ko">
+         ߒߞߏ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nrm mw-list-item">
+        <a class="interlanguage-link-target" href="https://nrm.wikipedia.org/wiki/Page_d%C3%A9_garde" hreflang="nrf" lang="nrf" title="Page dé garde - Norman">
+         Nouormand
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nso mw-list-item">
+        <a class="interlanguage-link-target" href="https://nso.wikipedia.org/wiki/Letlakala_la_pele" hreflang="nso" lang="nso" title="Letlakala la pele - sotho del nord">
+         Sesotho sa Leboa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nv mw-list-item">
+        <a class="interlanguage-link-target" href="https://nv.wikipedia.org/wiki/%C3%8Diyis%C3%AD%C3%AD_Naaltsoos" hreflang="nv" lang="nv" title="Íiyisíí Naaltsoos - navajo">
+         Diné bizaad
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ny mw-list-item">
+        <a class="interlanguage-link-target" href="https://ny.wikipedia.org/wiki/Tsamba_Lalikulu" hreflang="ny" lang="ny" title="Tsamba Lalikulu - nyanja">
+         Chi-Chewa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc mw-list-item">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Acu%C3%A8lh" hreflang="oc" lang="oc" title="Acuèlh - occitano">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-olo mw-list-item">
+        <a class="interlanguage-link-target" href="https://olo.wikipedia.org/wiki/Pi%C3%A4sivu" hreflang="olo" lang="olo" title="Piäsivu - Livvi-Karelian">
+         Livvinkarjala
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-om mw-list-item">
+        <a class="interlanguage-link-target" href="https://om.wikipedia.org/wiki/Fuula_Dura" hreflang="om" lang="om" title="Fuula Dura - oromo">
+         Oromoo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-or mw-list-item">
+        <a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%A7%E0%AC%BE%E0%AC%A8_%E0%AC%AA%E0%AD%83%E0%AC%B7%E0%AD%8D%E0%AC%A0%E0%AC%BE" hreflang="or" lang="or" title="ପ୍ରଧାନ ପୃଷ୍ଠା - odia">
+         ଓଡ଼ିଆ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os mw-list-item">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/%D0%A1%C3%A6%D0%B9%D1%80%D0%B0%D0%B3_%D1%84%D0%B0%D1%80%D1%81" hreflang="os" lang="os" title="Сæйраг фарс - ossetico">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa mw-list-item">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A9%81%E0%A9%B1%E0%A8%96_%E0%A8%B8%E0%A8%AB%E0%A8%BC%E0%A8%BE" hreflang="pa" lang="pa" title="ਮੁੱਖ ਸਫ਼ਾ - punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pag mw-list-item">
+        <a class="interlanguage-link-target" href="https://pag.wikipedia.org/wiki/Arapan_ya_Bolong" hreflang="pag" lang="pag" title="Arapan ya Bolong - pangasinan">
+         Pangasinan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pam mw-list-item">
+        <a class="interlanguage-link-target" href="https://pam.wikipedia.org/wiki/Pun_Bulung" hreflang="pam" lang="pam" title="Pun Bulung - pampanga">
+         Kapampangan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pap mw-list-item">
+        <a class="interlanguage-link-target" href="https://pap.wikipedia.org/wiki/P%C3%A1gina_Prinsipal" hreflang="pap" lang="pap" title="Página Prinsipal - papiamento">
+         Papiamentu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pcd mw-list-item">
+        <a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/Accueul" hreflang="pcd" lang="pcd" title="Accueul - piccardo">
+         Picard
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pdc mw-list-item">
+        <a class="interlanguage-link-target" href="https://pdc.wikipedia.org/wiki/Haaptblatt" hreflang="pdc" lang="pdc" title="Haaptblatt - tedesco della Pennsylvania">
+         Deitsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pfl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pfl.wikipedia.org/wiki/Wikipedia:Haubdsaid" hreflang="pfl" lang="pfl" title="Wikipedia:Haubdsaid - tedesco palatino">
+         Pälzisch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pi mw-list-item">
+        <a class="interlanguage-link-target" href="https://pi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%BF%E0%A4%AF_%E0%A4%AA%E0%A4%B0%E0%A5%81%E0%A4%B6%E0%A5%8D%E0%A4%B9%E0%A4%A0" hreflang="pi" lang="pi" title="मुखिय परुश्हठ - pali">
+         पालि
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pih mw-list-item">
+        <a class="interlanguage-link-target" href="https://pih.wikipedia.org/wiki/Mien_Paij" hreflang="pih" lang="pih" title="Mien Paij - Norfuk / Pitkern">
+         Norfuk / Pitkern
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" hreflang="pl" lang="pl" title="Wikipedia:Strona główna - polacco">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pms mw-list-item">
+        <a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Intrada" hreflang="pms" lang="pms" title="Intrada - piemontese">
+         Piemontèis
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnb mw-list-item">
+        <a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%BE%DB%81%D9%84%D8%A7_%D8%B5%D9%81%DB%81" hreflang="pnb" lang="pnb" title="پہلا صفہ - Western Punjabi">
+         پنجابی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pnt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pnt.wikipedia.org/wiki/%CE%91%CF%81%CF%87%CE%B9%CE%BA%CF%8C%CE%BD_%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1" hreflang="pnt" lang="pnt" title="Αρχικόν σελίδα - pontico">
+         Ποντιακά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ps mw-list-item">
+        <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%D9%84%D9%88%D9%85%DA%93%DB%8C_%D9%85%D8%AE" hreflang="ps" lang="ps" title="لومړی مخ - pashto">
+         پښتو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" hreflang="pt" lang="pt" title="Wikipédia:Página principal - portoghese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-qu mw-list-item">
+        <a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Qhapaq_p%27anqa" hreflang="qu" lang="qu" title="Qhapaq p'anqa - quechua">
+         Runa Simi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rm mw-list-item">
+        <a class="interlanguage-link-target" href="https://rm.wikipedia.org/wiki/Wikipedia:Pagina_principala" hreflang="rm" lang="rm" title="Wikipedia:Pagina principala - romancio">
+         Rumantsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rmy mw-list-item">
+        <a class="interlanguage-link-target" href="https://rmy.wikipedia.org/wiki/Sherutni_patrin" hreflang="rmy" lang="rmy" title="Sherutni patrin - Vlax Romani">
+         Romani čhib
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rn mw-list-item">
+        <a class="interlanguage-link-target" href="https://rn.wikipedia.org/wiki/Main_Page" hreflang="rn" lang="rn" title="Main Page - rundi">
+         Kirundi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Pagina_principal%C4%83" hreflang="ro" lang="ro" title="Pagina principală - rumeno">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-roa-rup mw-list-item">
+        <a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/Prota_fr%C3%A3ndz%C3%A3" hreflang="rup" lang="rup" title="Prota frãndzã - Aromanian">
+         Armãneashti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-roa-tara mw-list-item">
+        <a class="interlanguage-link-target" href="https://roa-tara.wikipedia.org/wiki/Pagene_Prengep%C3%A1le" hreflang="nap-x-tara" lang="nap-x-tara" title="Pagene Prengepále - Tarantino">
+         Tarandíne
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="ru" lang="ru" title="Заглавная страница - russo">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rue mw-list-item">
+        <a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="rue" lang="rue" title="Головна сторінка - ruteno">
+         Русиньскый
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-rw mw-list-item">
+        <a class="interlanguage-link-target" href="https://rw.wikipedia.org/wiki/Intangiriro" hreflang="rw" lang="rw" title="Intangiriro - kinyarwanda">
+         Ikinyarwanda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sa mw-list-item">
+        <a class="interlanguage-link-target" href="https://sa.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0%E0%A4%AE%E0%A5%8D" hreflang="sa" lang="sa" title="मुख्यपृष्ठम् - sanscrito">
+         संस्कृतम्
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah mw-list-item">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%A1%D2%AF%D1%80%D2%AF%D0%BD_%D1%81%D0%B8%D1%80%D1%8D%D0%B9" hreflang="sah" lang="sah" title="Сүрүн сирэй - sacha">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sat mw-list-item">
+        <a class="interlanguage-link-target" href="https://sat.wikipedia.org/wiki/%E1%B1%A2%E1%B1%A9%E1%B1%AC%E1%B1%A9%E1%B1%9B_%E1%B1%A5%E1%B1%9F%E1%B1%A6%E1%B1%B4%E1%B1%9F" hreflang="sat" lang="sat" title="ᱢᱩᱬᱩᱛ ᱥᱟᱦᱴᱟ - santali">
+         ᱥᱟᱱᱛᱟᱲᱤ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sc mw-list-item">
+        <a class="interlanguage-link-target" href="https://sc.wikipedia.org/wiki/P%C3%A0gina_printzipale" hreflang="sc" lang="sc" title="Pàgina printzipale - sardo">
+         Sardu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-scn mw-list-item">
+        <a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/P%C3%A0ggina_principali" hreflang="scn" lang="scn" title="Pàggina principali - siciliano">
+         Sicilianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco mw-list-item">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Main_Page" hreflang="sco" lang="sco" title="Main Page - scozzese">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sd mw-list-item">
+        <a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D9%85%D9%8F%DA%A9_%D8%B5%D9%81%D8%AD%D9%88" hreflang="sd" lang="sd" title="مُک صفحو - sindhi">
+         سنڌي
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-se mw-list-item">
+        <a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/Port%C3%A1la:Ovdasiidu" hreflang="se" lang="se" title="Portála:Ovdasiidu - sami del nord">
+         Davvisámegiella
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sg mw-list-item">
+        <a class="interlanguage-link-target" href="https://sg.wikipedia.org/wiki/G%C3%A4_nz%C3%B6n%C3%AE" hreflang="sg" lang="sg" title="Gä nzönî - sango">
+         Sängö
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Glavna_stranica" hreflang="sh" lang="sh" title="Glavna stranica - serbo-croato">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-shi mw-list-item">
+        <a class="interlanguage-link-target" href="https://shi.wikipedia.org/wiki/Tasna_Tamzwarut" hreflang="shi" lang="shi" title="Tasna Tamzwarut - tashelhit">
+         Taclḥit
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-shn mw-list-item">
+        <a class="interlanguage-link-target" href="https://shn.wikipedia.org/wiki/%E1%81%BC%E1%82%83%E1%82%88%E1%82%81%E1%80%B0%E1%80%9D%E1%80%BA%E1%82%81%E1%82%85%E1%81%B5%E1%80%BA%E1%82%88" hreflang="shn" lang="shn" title="ၼႃႈႁူဝ်ႁႅၵ်ႈ - shan">
+         ၽႃႇသႃႇတႆး
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si mw-list-item">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B8%E0%B7%94%E0%B6%BD%E0%B7%8A_%E0%B6%B4%E0%B7%92%E0%B6%A7%E0%B7%94%E0%B7%80" hreflang="si" lang="si" title="මුල් පිටුව - singalese">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Main_Page" hreflang="en-simple" lang="en-simple" title="Main Page - Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Hlavn%C3%A1_str%C3%A1nka" hreflang="sk" lang="sk" title="Hlavná stránka - slovacco">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-skr mw-list-item">
+        <a class="interlanguage-link-target" href="https://skr.wikipedia.org/wiki/%D9%BE%DB%81%D9%84%D8%A7_%D9%BE%D8%B1%D8%AA" hreflang="skr" lang="skr" title="پہلا پرت - Saraiki">
+         سرائیکی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Glavna_stran" hreflang="sl" lang="sl" title="Glavna stran - sloveno">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sm mw-list-item">
+        <a class="interlanguage-link-target" href="https://sm.wikipedia.org/wiki/It%C5%ABlau_Muamua" hreflang="sm" lang="sm" title="Itūlau Muamua - samoano">
+         Gagana Samoa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-smn mw-list-item">
+        <a class="interlanguage-link-target" href="https://smn.wikipedia.org/wiki/Ovd%C3%A2sij%C4%91o" hreflang="smn" lang="smn" title="Ovdâsijđo - sami di Inari">
+         Anarâškielâ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sn mw-list-item">
+        <a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Peji_Rekutanga" hreflang="sn" lang="sn" title="Peji Rekutanga - shona">
+         ChiShona
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-so mw-list-item">
+        <a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Bogga_Hore" hreflang="so" lang="so" title="Bogga Hore - somalo">
+         Soomaaliga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Faqja_kryesore" hreflang="sq" lang="sq" title="Faqja kryesore - albanese">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0" hreflang="sr" lang="sr" title="Главна страна - serbo">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-srn mw-list-item">
+        <a class="interlanguage-link-target" href="https://srn.wikipedia.org/wiki/Fesipapira" hreflang="srn" lang="srn" title="Fesipapira - sranan tongo">
+         Sranantongo
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ss mw-list-item">
+        <a class="interlanguage-link-target" href="https://ss.wikipedia.org/wiki/Likhasi_Lelikhulu" hreflang="ss" lang="ss" title="Likhasi Lelikhulu - swati">
+         SiSwati
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-st mw-list-item">
+        <a class="interlanguage-link-target" href="https://st.wikipedia.org/wiki/Leqephe_la_pele" hreflang="st" lang="st" title="Leqephe la pele - sotho del sud">
+         Sesotho
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-stq mw-list-item">
+        <a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Haudsiede" hreflang="stq" lang="stq" title="Haudsiede - saterfriesisch">
+         Seeltersk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-su mw-list-item">
+        <a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Tepas" hreflang="su" lang="su" title="Tepas - sundanese">
+         Sunda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida" hreflang="sv" lang="sv" title="Portal:Huvudsida - svedese">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sw mw-list-item">
+        <a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Mwanzo" hreflang="sw" lang="sw" title="Mwanzo - swahili">
+         Kiswahili
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl mw-list-item">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/Przodni%C5%8F_zajta" hreflang="szl" lang="szl" title="Przodniŏ zajta - slesiano">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szy mw-list-item">
+        <a class="interlanguage-link-target" href="https://szy.wikipedia.org/wiki/saayaway_a_belih" hreflang="szy" lang="szy" title="saayaway a belih - Sakizaya">
+         Sakizaya
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta mw-list-item">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="முதற் பக்கம் - tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tay mw-list-item">
+        <a class="interlanguage-link-target" href="https://tay.wikipedia.org/wiki/T%E2%80%99ringan_na_zzngayan" hreflang="tay" lang="tay" title="T’ringan na zzngayan - Tayal">
+         Tayal
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tcy mw-list-item">
+        <a class="interlanguage-link-target" href="https://tcy.wikipedia.org/wiki/%E0%B2%AE%E0%B3%81%E0%B2%96%E0%B3%8D%E0%B2%AF_%E0%B2%AA%E0%B3%81%E0%B2%9F" hreflang="tcy" lang="tcy" title="ಮುಖ್ಯ ಪುಟ - tulu">
+         ತುಳು
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te mw-list-item">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80" hreflang="te" lang="te" title="మొదటి పేజీ - telugu">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tet mw-list-item">
+        <a class="interlanguage-link-target" href="https://tet.wikipedia.org/wiki/P%C3%A1jina_Mahuluk" hreflang="tet" lang="tet" title="Pájina Mahuluk - tetum">
+         Tetun
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg mw-list-item">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%A1%D0%B0%D2%B3%D0%B8%D1%84%D0%B0%D0%B8_%D0%B0%D1%81%D0%BB%D3%A3" hreflang="tg" lang="tg" title="Саҳифаи аслӣ - tagico">
+         Тоҷикӣ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" hreflang="th" lang="th" title="หน้าหลัก - thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ti mw-list-item">
+        <a class="interlanguage-link-target" href="https://ti.wikipedia.org/wiki/%E1%88%98%E1%89%A0%E1%8C%88%E1%88%B2_%E1%8C%88%E1%8C%BD" hreflang="ti" lang="ti" title="መበገሲ ገጽ - tigrino">
+         ትግርኛ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tk mw-list-item">
+        <a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/Ba%C5%9F_Sahypa" hreflang="tk" lang="tk" title="Baş Sahypa - turcomanno">
+         Türkmençe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl mw-list-item">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Unang_Pahina" hreflang="tl" lang="tl" title="Unang Pahina - tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tn mw-list-item">
+        <a class="interlanguage-link-target" href="https://tn.wikipedia.org/wiki/Main_Page" hreflang="tn" lang="tn" title="Main Page - tswana">
+         Setswana
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-to mw-list-item">
+        <a class="interlanguage-link-target" href="https://to.wikipedia.org/wiki/Peesi_tali_fiefia" hreflang="to" lang="to" title="Peesi tali fiefia - tongano">
+         Lea faka-Tonga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tpi mw-list-item">
+        <a class="interlanguage-link-target" href="https://tpi.wikipedia.org/wiki/Fran_pes" hreflang="tpi" lang="tpi" title="Fran pes - tok pisin">
+         Tok Pisin
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Anasayfa" hreflang="tr" lang="tr" title="Anasayfa - turco">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-trv mw-list-item">
+        <a class="interlanguage-link-target" href="https://trv.wikipedia.org/wiki/Ruwahan_patas" hreflang="trv" lang="trv" title="Ruwahan patas - taroko">
+         Seediq
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ts mw-list-item">
+        <a class="interlanguage-link-target" href="https://ts.wikipedia.org/wiki/Tlukankulu" hreflang="ts" lang="ts" title="Tlukankulu - tsonga">
+         Xitsonga
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%91%D0%B0%D1%88_%D0%B1%D0%B8%D1%82" hreflang="tt" lang="tt" title="Баш бит - tataro">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tum mw-list-item">
+        <a class="interlanguage-link-target" href="https://tum.wikipedia.org/wiki/Main_Page" hreflang="tum" lang="tum" title="Main Page - tumbuka">
+         ChiTumbuka
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tw mw-list-item">
+        <a class="interlanguage-link-target" href="https://tw.wikipedia.org/wiki/Krataa_Fuforo" hreflang="tw" lang="tw" title="Krataa Fuforo - ci">
+         Twi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ty mw-list-item">
+        <a class="interlanguage-link-target" href="https://ty.wikipedia.org/wiki/Fa%E2%80%99ari%E2%80%99ira%E2%80%99a" hreflang="ty" lang="ty" title="Fa’ari’ira’a - taitiano">
+         Reo tahiti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tyv mw-list-item">
+        <a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB_%D0%B0%D1%80%D1%8B%D0%BD" hreflang="tyv" lang="tyv" title="Кол арын - tuvinian">
+         Тыва дыл
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-udm mw-list-item">
+        <a class="interlanguage-link-target" href="https://udm.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%BD_%D0%B1%D0%B0%D0%BC" hreflang="udm" lang="udm" title="Кутскон бам - udmurt">
+         Удмурт
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug mw-list-item">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B4%D8%A8%DB%95%D8%AA" hreflang="ug" lang="ug" title="باشبەت - uiguro">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Головна сторінка - ucraino">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur mw-list-item">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%DB%82_%D8%A7%D9%88%D9%84" hreflang="ur" lang="ur" title="صفحۂ اول - urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz mw-list-item">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Bosh_Sahifa" hreflang="uz" lang="uz" title="Bosh Sahifa - uzbeco">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ve mw-list-item">
+        <a class="interlanguage-link-target" href="https://ve.wikipedia.org/wiki/Hayani" hreflang="ve" lang="ve" title="Hayani - venda">
+         Tshivenda
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vec mw-list-item">
+        <a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Wikipedia:Prinsipio" hreflang="vec" lang="vec" title="Wikipedia:Prinsipio - veneto">
+         Vèneto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vep mw-list-item">
+        <a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/P%C3%A4lehtpol%E2%80%99" hreflang="vep" lang="vep" title="Pälehtpol’ - vepso">
+         Vepsän kel’
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh" hreflang="vi" lang="vi" title="Trang Chính - vietnamita">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vls mw-list-item">
+        <a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/Voorblad" hreflang="vls" lang="vls" title="Voorblad - fiammingo occidentale">
+         West-Vlams
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vo mw-list-item">
+        <a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Cifapad" hreflang="vo" lang="vo" title="Cifapad - volapük">
+         Volapük
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa mw-list-item">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Mwaisse_p%C3%A5dje" hreflang="wa" lang="wa" title="Mwaisse pådje - vallone">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war mw-list-item">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Syahan_nga_Pakli" hreflang="war" lang="war" title="Syahan nga Pakli - waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wo mw-list-item">
+        <a class="interlanguage-link-target" href="https://wo.wikipedia.org/wiki/X%C3%ABt_wu_nj%C3%ABkk" hreflang="wo" lang="wo" title="Xët wu njëkk - wolof">
+         Wolof
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%B0%81%E9%9D%A2" hreflang="wuu" lang="wuu" title="封面 - wu">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xal mw-list-item">
+        <a class="interlanguage-link-target" href="https://xal.wikipedia.org/wiki/%D0%9D%D2%AF%D1%80_%D1%85%D0%B0%D0%BB%D1%85" hreflang="xal" lang="xal" title="Нүр халх - kalmyk">
+         Хальмг
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xh mw-list-item">
+        <a class="interlanguage-link-target" href="https://xh.wikipedia.org/wiki/Iphepha_Elingundoqo" hreflang="xh" lang="xh" title="Iphepha Elingundoqo - xhosa">
+         IsiXhosa
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xmf mw-list-item">
+        <a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%93%E1%83%A3%E1%83%93%E1%83%AE%E1%83%90%E1%83%A1%E1%83%B7%E1%83%9A%E1%83%90" hreflang="xmf" lang="xmf" title="დუდხასჷლა - mengrelio">
+         მარგალური
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi mw-list-item">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%94%D7%95%D7%99%D7%A4%D7%98_%D7%96%D7%99%D7%99%D7%98" hreflang="yi" lang="yi" title="הויפט זייט - yiddish">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yo mw-list-item">
+        <a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/Oj%C3%BAew%C3%A9_%C3%80k%E1%BB%8D%CC%81k%E1%BB%8D%CC%81" hreflang="yo" lang="yo" title="Ojúewé Àkọ́kọ́ - yoruba">
+         Yorùbá
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-za mw-list-item">
+        <a class="interlanguage-link-target" href="https://za.wikipedia.org/wiki/Yiebdaeuz" hreflang="za" lang="za" title="Yiebdaeuz - zhuang">
+         Vahcuengh
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zea mw-list-item">
+        <a class="interlanguage-link-target" href="https://zea.wikipedia.org/wiki/V%C3%B2blad" hreflang="zea" lang="zea" title="Vòblad - zelandese">
+         Zeêuws
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" hreflang="zh" lang="zh" title="Wikipedia:首页 - cinese">
+         中文
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-classical mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E5%8D%B7%E9%A6%96" hreflang="lzh" lang="lzh" title="維基大典:卷首 - Classical Chinese">
+         文言
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh" hreflang="nan" lang="nan" title="Thâu-ia̍h - Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%A0%AD%E7%89%88" hreflang="yue" lang="yue" title="頭版 - Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zu mw-list-item">
+        <a class="interlanguage-link-target" href="https://zu.wikipedia.org/wiki/Ikhasi_Elikhulu" hreflang="zu" lang="zu" title="Ikhasi Elikhulu - zulu">
+         IsiZulu
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wikipedia" title="Muda i links te autra rujenedes">
+         Muda i links
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Chësta plata ie stata mudeda l'ultimo iede ai 22 fau 2021 dala 10:56.
+    </li>
+    <li id="footer-info-copyright">
+     L test ie a disposizion sota
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     ;
+L po se dé autra condizions.
+Cëla
+     <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     per details.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/it" title="m:Privacy policy/it">
+      Prutezion di dac
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:Nfurmazions" title="Wikipedia:Nfurmazions">
+      Nfurmazions sun Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Avisc_generei" title="Wikipedia:Avisc generei">
+      Avisc de lege
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//lld.m.wikipedia.org/w/index.php?title=Plata_prinzipala&amp;mobileaction=toggle_view_mobile">
+      Verscion mobila
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Svilupadëures
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/lld.wikipedia.org">
+      Statistiches
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Declarazion sui cookie
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.182","ppvisitednodes":{"value":222,"limit":1000000},"postexpandincludesize":{"value":12243,"limit":2097152},"templateargumentsize":{"value":4826,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4312,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   75.839      1 -total"," 44.27%   33.571      2 Template:BoxHeader"," 35.35%   26.807      2 Template:Gradient"," 29.58%   22.431      2 Template:BoxContent"," 14.24%   10.796      1 Template:Bëgngnüs_y_bëgngnüdes","  5.54%    4.199      1 Template:Articul_prinzipal","  5.28%    4.005      1 Template:Imaja_prinzipala","  4.27%    3.239      1 Template:Dolomitan","  4.15%    3.144      1 Template:Fodom","  3.89%    2.950      1 Template:Anpezan"]},"cachereport":{"origin":"mw1373","timestamp":"20210926055701","ttl":1814400,"transientcontent":false}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Plata prinzipala","url":"https:\/\/lld.wikipedia.org\/wiki\/Plata_prinzipala","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributori ai progetti Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-23T14:55:15Z","dateModified":"2021-02-22T08:56:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1d\/Wikimedia_logo_family_complete-2013.svg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":243,"wgHostname":"mw1413"});});
+  </script>
+ </body>
+</html>

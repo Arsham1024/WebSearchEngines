@@ -1,0 +1,2836 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="mk">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Википедија
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","јануари","февруари","март","април","мај","јуни","јули","август","септември","октомври","ноември","декември"],"wgRequestId":"8f99198e-7543-47ca-8756-deed09241829","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Главна_страница","wgTitle":"Главна страница","wgCurRevisionId":4650269,"wgRevisionId":4650269,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"mk","wgPageContentModel":"wikitext","wgRelevantPageName":"Главна_страница","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":4650269,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"mk","pageLanguageDir":"ltr","pageVariantFallbacks":"mk"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"македонски","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296","wgSiteNoticeId":"2.1"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession","ext.dismissableSiteNotice"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"mk"});
+});});
+  </script>
+  <link href="/w/load.php?lang=mk&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=mk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=mk&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/M%C3%A9decins_Sans_Fronti%C3%A8res_-_Missions.svg/1200px-M%C3%A9decins_Sans_Fronti%C3%A8res_-_Missions.svg.png" property="og:image"/>
+  <meta content="Википедија" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//mk.m.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Википедија (mk)" type="application/opensearchdescription+xml"/>
+  <link href="//mk.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://mk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Главна_страница rootpage-Главна_страница skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+    <div id="mw-dismissablenotice-anonplace">
+    </div>
+    <script>
+     (function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eтргни\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"mk\" dir=\"ltr\"\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\n\u003Cdiv class=\"floatleft\"\u003E\u003Ca href=\"/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:F_icon.svg\" class=\"image\"\u003E\u003Cimg alt=\"F icon.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/25px-F_icon.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/38px-F_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/50px-F_icon.svg.png 2x\" data-file-width=\"128\" data-file-height=\"128\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cp\u003EСледете ја Википедија на македонски јазик на \u003Cb\u003E\u003Cspan class=\"plainlinks\"\u003E\u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://www.facebook.com/mk.wikipedia\"\u003EFacebook\u003C/a\u003E!\u003C/span\u003E\u003C/b\u003E\n\u003Cbr style=\"clear:both;\" /\u003E\n\u003C/p\u003E\n\u003Cdiv class=\"floatleft\"\u003E\u003Ca href=\"/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Circle-icons-fashion.svg\" class=\"image\" title=\"Меѓународна иницијатива „Вики ја сака модата“\"\u003E\u003Cimg alt=\"Меѓународна иницијатива „Вики ја сака модата“\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Circle-icons-fashion.svg/30px-Circle-icons-fashion.svg.png\" decoding=\"async\" width=\"30\" height=\"30\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Circle-icons-fashion.svg/45px-Circle-icons-fashion.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Circle-icons-fashion.svg/60px-Circle-icons-fashion.svg.png 2x\" data-file-width=\"512\" data-file-height=\"512\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cp\u003EСе известуваат сите заинтересирани уредници на Википедија на македонски јазик дека во периодот од 24–30 септември 2021 година ќе се одржи уредувачка седмица во рамки на меѓународната иницијатива „\u003Cb\u003E\u003Ca href=\"/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%B8%D0%BA%D0%B8_%D1%98%D0%B0_%D1%81%D0%B0%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B0%D1%82%D0%B0_2021\" title=\"Википедија:Вики ја сака модата 2021\"\u003EВики ја сака модата\u003C/a\u003E\u003C/b\u003E“. Приклучете се и освојте една од наградите!\n\u003Cbr style=\"clear:both;\" /\u003E\n\u003C/p\u003E\n\u003Cdiv class=\"floatleft\"\u003E\u003Ca href=\"/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Coat_of_arms_of_Chile_(c).svg\" class=\"image\" title=\"Уредувачки ден „Покраини во Чиле“\"\u003E\u003Cimg alt=\"Уредувачки ден „Покраини во Чиле“\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/40px-Coat_of_arms_of_Chile_%28c%29.svg.png\" decoding=\"async\" width=\"40\" height=\"28\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/60px-Coat_of_arms_of_Chile_%28c%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Coat_of_arms_of_Chile_%28c%29.svg/80px-Coat_of_arms_of_Chile_%28c%29.svg.png 2x\" data-file-width=\"710\" data-file-height=\"498\" /\u003E\u003C/a\u003E\u003C/div\u003E\n\u003Cp\u003EСе известуваат сите заинтересирани уредници на Википедија на македонски јазик дека на 30 септември 2021 година ќе се одржи \u003Ca href=\"/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A3%D1%80%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8\" title=\"Википедија:Уредувачки денови\"\u003Eуредувачки ден\u003C/a\u003E на тема „\u003Cb\u003E\u003Ca href=\"/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A3%D1%80%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%87%D0%BA%D0%B8_%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8_2021#Покраини_во_Чиле\" title=\"Википедија:Уредувачки денови 2021\"\u003EПокраини во Чиле\u003C/a\u003E\u003C/b\u003E“.\n\u003Cbr style=\"clear:both;\" /\u003E\n\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+    </script>
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Главна страница
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Од Википедија — слободната енциклопедија
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Прејди на прегледникот
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Прејди на пребарувањето
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="mk">
+     <div class="mw-parser-output">
+      <center>
+       <div id="EnWpMpSearch2" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;width: 100%; text-align: center; white-space: nowrap; margin-bottom: 10px; background-color: #ffffff; border: 1px solid #ccc;">
+        <div id="EnWpMpBook2" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;padding: 1em 0 .6em; background-repeat: no-repeat; background-position: 0% 20%;">
+         <div style="text-align: center;">
+          <div style="text-align: center; white-space: nowrap;">
+           <h3 style="text-align: center; font-size: 180%; font-family:'hoeflr text','times new roman', serif; font-variant: small-caps; border: none; margin: 0; padding: 0;">
+            <span id=".D0.94.D0.BE.D0.B1.D1.80.D0.B5_.D0.B4.D0.BE.D1.98.D0.B4.D0.BE.D0.B2.D1.82.D0.B5_.D0.BD.D0.B0_.D0.92.D0.B8.D0.BA.D0.B8.D0.BF.D0.B5.D0.B4.D0.B8.D1.98.D0.B0">
+            </span>
+            <span class="mw-headline" id="Добре_дојдовте_на_Википедија">
+             <span lang="mk">
+              Добре дојдовте на Википедија
+             </span>
+            </span>
+           </h3>
+           <div style="margin-top: .3em; font-size: 90%;">
+            <b>
+             слободната енциклопедија
+            </b>
+            што може
+            <b>
+             <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%BE%D0%B2%D0%B5%D0%B4" title="Википедија:Вовед">
+              секој да ја уредува
+             </a>
+            </b>
+            <br/>
+            имаме
+            <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8" title="Специјална:Статистики">
+             117.134
+            </a>
+            статии на
+            <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Македонски јазик">
+             македонски јазик
+            </a>
+           </div>
+          </div>
+         </div>
+         <div style="clear: left">
+         </div>
+        </div>
+       </div>
+      </center>
+      <table border="0" cellpadding="0" cellspacing="0" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; margin:0; background:transparent; width:100%;">
+       <tbody>
+        <tr>
+         <td style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border:1px solid #bdc4c9; background-color:white; width:75%;" valign="top">
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:#dae8f5; border-bottom:1px solid #bdc4c9; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Избрана статија за оваа седмица
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div id="mf-Избрана_статија_за_оваа_седмица" style="padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <a class="image" href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Earth_to_Sun_-_mk.png" title="На сончевата светлина ѝ требаат околу 8 минути и 19 секунди за да стигне до Земјата доколку се движи со брзина на светлината">
+                 <img alt="На сончевата светлина ѝ требаат околу 8 минути и 19 секунди за да стигне до Земјата доколку се движи со брзина на светлината" data-file-height="866" data-file-width="1530" decoding="async" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Earth_to_Sun_-_mk.png/300px-Earth_to_Sun_-_mk.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Earth_to_Sun_-_mk.png/450px-Earth_to_Sun_-_mk.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Earth_to_Sun_-_mk.png/600px-Earth_to_Sun_-_mk.png 2x" width="300"/>
+                </a>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D0%91%D1%80%D0%B7%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD%D0%B0%D1%82%D0%B0" title="Брзина на светлината">
+                  Брзина на светлината
+                 </a>
+                </b>
+                — физичка
+                <a class="mw-disambig" href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B0" title="Константа">
+                 константа
+                </a>
+                важна во голем број области од
+                <a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Физика">
+                 физиката
+                </a>
+                . Нејзината вредност (во
+                <a href="/wiki/%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC" title="Вакуум">
+                 вакуум
+                </a>
+                ) изнесува точно 299.792.458 м/с (≈3,00 × 108 м/с), односно 1.079.252.848,8 км/ч. Според
+                <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%B7%D0%B0_%D1%80%D0%B5%D0%BB%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B0" title="Специјална теорија за релативноста">
+                 специјалната теорија на релативноста
+                </a>
+                тоа е максималната
+                <a href="/wiki/%D0%91%D1%80%D0%B7%D0%B8%D0%BD%D0%B0" title="Брзина">
+                 брзина
+                </a>
+                со која сета
+                <a href="/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%98%D0%B0" title="Енергија">
+                 енергијата
+                </a>
+                ,
+                <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D1%98%D0%B0" title="Материја">
+                 материјата
+                </a>
+                и сите
+                <a class="new" href="/w/index.php?title=%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%BA%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0&amp;action=edit&amp;redlink=1" title="Физичка информација (страницата не постои)">
+                 информации
+                </a>
+                можат да патуваат во
+                <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0" title="Вселена">
+                 универзумот
+                </a>
+                , а која може да се постигне единствено во
+                <a href="/wiki/%D0%92%D0%B0%D0%BA%D1%83%D1%83%D0%BC" title="Вакуум">
+                 вакуум
+                </a>
+                . Затоа често се обележува и со
+                <b>
+                 c
+                 <sub>
+                  0
+                 </sub>
+                </b>
+                . Во други средини (
+                <a href="/wiki/%D0%A2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82" title="Течност">
+                 течности
+                </a>
+                ,
+                <a href="/wiki/%D0%93%D0%B0%D1%81" title="Гас">
+                 гасови
+                </a>
+                ...) брзината на светлината е различна и секогаш помала отколку во вакуум.
+               </p>
+               <p>
+                Со брзината на светлината во вакуум се движат
+                <a class="new" href="/w/index.php?title=%D0%91%D0%B5%D0%B7%D0%BC%D0%B0%D1%81%D0%B5%D0%BD%D0%B8_%D1%87%D0%B5%D1%81%D1%82%D0%B8%D1%87%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Безмасени честички (страницата не постои)">
+                 честичките кои немаат маса
+                </a>
+                и
+                <a href="/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B5%D1%82%D0%BD%D0%BE_%D0%B7%D1%80%D0%B0%D1%87%D0%B5%D1%9A%D0%B5" title="Електромагнетно зрачење">
+                 електромагнетното зрачење
+                </a>
+                (
+                <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD%D0%B0" title="Светлина">
+                 светлината
+                </a>
+                и
+                <a class="mw-redirect" href="/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B8_%D0%B1%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8" title="Гравитациони бранови">
+                 гравитационите бранови
+                </a>
+                и се одвиваат промените во
+                <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5_(%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0)" title="Поле (физика)">
+                 полињата
+                </a>
+                . Тие ја задржуваат
+                <span class="texhtml">
+                 <i>
+                  c
+                 </i>
+                </span>
+                без разлика на движењето на нивниот извор или на
+                <a class="new" href="/w/index.php?title=%D0%98%D0%BD%D0%B5%D1%80%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%B5%D0%BD_%D0%BF%D0%BE%D1%98%D0%B4%D0%BE%D0%B2%D0%B5%D0%BD_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&amp;action=edit&amp;redlink=1" title="Инерцијален појдовен систем (страницата не постои)">
+                 инерцијалниот појдовен систем
+                </a>
+                на набљудувачот. Во
+                <a href="/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%B7%D0%B0_%D1%80%D0%B5%D0%BB%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B0" title="Теорија за релативноста">
+                 теоријата на релативноста
+                </a>
+                <span class="texhtml">
+                 <i>
+                  c
+                 </i>
+                </span>
+                ги соединува
+                <a href="/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%80" title="Време-простор">
+                 просторот и времето
+                </a>
+                и се појавува во познатата Ајнштајнова равенка за
+                <a href="/wiki/%D0%95%D0%B4%D0%BD%D0%B0%D0%BA%D0%B2%D0%BE%D1%81%D1%82_%D0%BD%D0%B0_%D0%BC%D0%B0%D1%81%D0%B0%D1%82%D0%B0_%D0%B8_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%98%D0%B0%D1%82%D0%B0" title="Еднаквост на масата и енергијата">
+                 еднаквост на масата и енергијата
+                </a>
+                <span class="texhtml">
+                 <i>
+                  E
+                 </i>
+                 =
+                 <i>
+                  mc
+                 </i>
+                 <sup>
+                  2
+                 </sup>
+                </span>
+                .
+               </p>
+               <p>
+                Брзината со која светлината се пренесува низ
+                <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%95%D0%B8%D1%80%D0%BD%D0%BE%D1%81%D1%82" title="Проѕирност">
+                 проѕирни материјали
+                </a>
+                (стакло, воздух...), а радиобрановите низ кабли, е помала од
+                <span class="texhtml">
+                 <i>
+                  c
+                 </i>
+                </span>
+                . Односот меѓу
+                <span class="texhtml">
+                 <i>
+                  c
+                 </i>
+                </span>
+                и
+                <span class="texhtml">
+                 <i>
+                  v
+                 </i>
+                </span>
+                , брзината со која светлината патува низ одреден материјал, го дава
+                <a href="/wiki/%D0%9F%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5" title="Показател на прекршување">
+                 показателот на прекршување
+                </a>
+                <span class="texhtml">
+                 <i>
+                  n
+                 </i>
+                </span>
+                на материјалот (
+                <span class="texhtml">
+                 <i>
+                  n
+                 </i>
+                 =
+                 <i>
+                  c
+                 </i>
+                 /
+                 <i>
+                  v
+                 </i>
+                </span>
+                ). За
+                <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD%D0%B0" title="Светлина">
+                 видливата светлина
+                </a>
+                показателот на прекршување на стаклото изнесува околу 1,5, што значи дека низ стаклото светлината патува со брзина од
+                <span class="nowrap">
+                 <i>
+                  c
+                 </i>
+                 / 1,5 ≈ 200.000 км/с
+                </span>
+                . Показателот на прекршување на воздухот изнесува приближно 1,0003 за видливата светлина, што значи дека таа низ воздух се движи со брзина од 299.700 км/с (90 км/с побавно отколку со
+                <span class="texhtml">
+                 <i>
+                  c
+                 </i>
+                </span>
+                ). (
+                <i>
+                 <a href="/wiki/%D0%91%D1%80%D0%B7%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B8%D0%BD%D0%B0%D1%82%D0%B0" title="Брзина на светлината">
+                  Дознајте повеќе...
+                 </a>
+                </i>
+                )
+               </p>
+               <div align="right" class="noprint" style="border-top:1px solid #ccc; padding:.2em 0">
+                <b>
+                 <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D0%BE%D0%B4%D1%80%D0%B6%D0%B8%D0%BD%D0%B0" title="Портал:Избрана содржина">
+                  архива
+                 </a>
+                </b>
+                ·
+                <b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B8_%D0%B7%D0%B0_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%98%D0%B0" title="Википедија:Кандидати за избрана статија">
+                  наредни избрани статии
+                 </a>
+                </b>
+                ·
+                <b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D1%83%D0%BC%D0%B8_%D0%B7%D0%B0_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%98%D0%B0" title="Википедија:Критериуми за избрана статија">
+                  критериуми
+                 </a>
+                </b>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <p>
+           <br/>
+          </p>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th colspan="2">
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:#dae8f5; border-bottom:1px solid #bdc4c9; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Слика на денот
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td align="center" valign="center" width="100%">
+              <div style="padding:0.4em 1em 0.3em;">
+               <a class="image" href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg">
+                <img alt="Wroclaw Most Mlynski w porannej mgle przed switem.jpg" data-file-height="2806" data-file-width="4548" decoding="async" height="308" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/500px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/750px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/1000px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 2x" width="500"/>
+               </a>
+               <br/>
+               Еден од Млинските мостови (изгр. 1885) на реката
+               <a href="/wiki/%D0%9E%D0%B4%D1%80%D0%B0" title="Одра">
+                Одра
+               </a>
+               , во
+               <a href="/wiki/%D0%92%D1%80%D0%BE%D1%86%D0%BB%D0%B0%D0%B2" title="Вроцлав">
+                Вроцлав
+               </a>
+               , Полска.
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div align="center" class="noprint">
+               <div style="border-top:1px solid #ccc; padding:.2em 0">
+                <b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D0%BB%D0%B8%D0%BA%D0%B0/2021/%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8" title="Википедија:Избрана слика/2021/септември">
+                  други избрани слики
+                 </a>
+                </b>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:#dae8f5; border-bottom:1px solid #bdc4c9; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Дали сте знаеле…
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div id="mf-Дали_сте_знаеле" style="padding:0.4em 1em 0.3em;">
+               <p>
+                <i>
+                 Занимливости од содржините на Википедија:
+                </i>
+               </p>
+               <div class="floatright">
+                <a class="image" href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:Tumba_Belasica_IMG_7972.jpg" title="Поглед кон врвот Тумба на Беласица">
+                 <img alt="Поглед кон врвот Тумба на Беласица" data-file-height="1365" data-file-width="2048" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tumba_Belasica_IMG_7972.jpg/180px-Tumba_Belasica_IMG_7972.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tumba_Belasica_IMG_7972.jpg/270px-Tumba_Belasica_IMG_7972.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tumba_Belasica_IMG_7972.jpg/360px-Tumba_Belasica_IMG_7972.jpg 2x" width="180"/>
+                </a>
+               </div>
+               <ul>
+                <li>
+                 ...дека врвот
+                 <b>
+                  <a href="/wiki/%D0%A2%D1%83%D0%BC%D0%B1%D0%B0_(%D0%B2%D1%80%D0%B2)" title="Тумба (врв)">
+                   Тумба
+                  </a>
+                 </b>
+                 на
+                 <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%81%D0%B8%D1%86%D0%B0" title="Беласица">
+                  Беласица
+                 </a>
+                 е тромеѓа помеѓу
+                 <a href="/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Вардарска Македонија">
+                  Вардарска
+                 </a>
+                 ,
+                 <a href="/wiki/%D0%95%D0%B3%D0%B5%D1%98%D1%81%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Егејска Македонија">
+                  Егејска
+                 </a>
+                 и
+                 <a href="/wiki/%D0%9F%D0%B8%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Пиринска Македонија">
+                  Пиринска Македонија
+                 </a>
+                 ?
+                </li>
+                <li>
+                 ...дека
+                 <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%9F%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Балкански Полуостров">
+                  Балканскиот Полуостров
+                 </a>
+                 е нарчен по
+                 <b>
+                  <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0" title="Стара Планина">
+                   Стара Планина
+                  </a>
+                 </b>
+                 , чие турско име е „Балкан“?
+                </li>
+                <li>
+                 ...дека
+                 <b>
+                  <a href="/wiki/%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0" title="Битола">
+                   Битола
+                  </a>
+                 </b>
+                 е основана од кралот
+                 <b>
+                  <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF_II_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8" title="Филип II Македонски">
+                   Филип II Македонски
+                  </a>
+                 </b>
+                 ?
+                </li>
+                <li>
+                 ...дека
+                 <b>
+                  <a href="/wiki/%D0%9F%D0%B0%D1%84%D0%BD%D1%83%D1%82%D0%B8%D1%98_%D0%A7%D0%B5%D0%B1%D0%B8%D1%88%D0%BE%D0%B2" title="Пафнутиј Чебишов">
+                   Пафнутиј Чебишов
+                  </a>
+                 </b>
+                 (1821 – 1894) се смета за татко на
+                 <a href="/wiki/%D0%A0%D1%83%D1%81%D0%B8%D1%98%D0%B0" title="Русија">
+                  руската
+                 </a>
+                 <a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Математика">
+                  математика
+                 </a>
+                 ?
+                </li>
+                <li>
+                 ...дека зборот
+                 <b>
+                  <a href="/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D0%B0" title="Савана">
+                   савана
+                  </a>
+                 </b>
+                 е од таинско потекло и првично се однесувал на рамничарски подрчаја во
+                 <a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D0%B0" title="Панама">
+                  Панама
+                 </a>
+                 каде денес нема таков
+                 <a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом">
+                  биом
+                 </a>
+                 ?
+                </li>
+                <li>
+                 ...дека
+                 <a href="/wiki/%D0%91%D1%83%D0%BA%D0%B0" title="Бука">
+                  буковите шуми
+                 </a>
+                 во долината на
+                 <b>
+                  <a href="/wiki/%D0%94%D0%BB%D0%B0%D0%B1%D0%BE%D0%BA%D0%B0_%D0%A0%D0%B5%D0%BA%D0%B0" title="Длабока Река">
+                   Длабока Река
+                  </a>
+                 </b>
+                 во Мавровско се прогласени за
+                 <b>
+                  <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0_%D0%A3%D0%9D%D0%95%D0%A1%D0%9A%D0%9E" title="Светско наследство на УНЕСКО">
+                   светско наследство на УНЕСКО
+                  </a>
+                 </b>
+                 ?
+                </li>
+                <li>
+                 ...дека пред да се самоубие, англискиот неокласицистички сликар
+                 <b>
+                  <a href="/wiki/%D0%8F%D0%BE%D0%BD_%D0%92%D0%B8%D0%BB%D0%B8%D1%98%D0%B0%D0%BC_%D0%93%D0%BE%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Џон Вилијам Годвард">
+                   Џон Вилијам Годвард
+                  </a>
+                 </b>
+                 напишал „
+                 <i>
+                  на светов нема доволно место за мене и
+                  <a href="/wiki/%D0%9F%D0%B0%D0%B1%D0%BB%D0%BE_%D0%9F%D0%B8%D0%BA%D0%B0%D1%81%D0%BE" title="Пабло Пикасо">
+                   Пикасо
+                  </a>
+                 </i>
+                 “?
+                </li>
+                <li>
+                 ...дека големиот
+                 <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%87%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Античка Македонија">
+                  древномакедонски
+                 </a>
+                 војсководец
+                 <b>
+                  <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%B5%D1%80_(%D0%B2%D0%BE%D1%98%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D1%86)" title="Кратер (војсководец)">
+                   Кратер
+                  </a>
+                 </b>
+                 е роден кај
+                 <a href="/wiki/%D0%A0%D1%83%D0%BF%D0%B8%D1%88%D1%82%D0%B0" title="Рупишта">
+                  Рупишта
+                 </a>
+                 , Костурско?
+                </li>
+                <li>
+                 ...дека планетата
+                 <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)" title="Венера (планета)">
+                  Венера
+                 </a>
+                 македонскиот народ ја нарекувал „
+                 <b>
+                  <a class="mw-redirect" href="/wiki/%D0%9E%D0%B1%D0%B4%D0%B5%D0%BD%D0%B8%D1%86%D0%B0" title="Обденица">
+                   Обденица
+                  </a>
+                 </b>
+                 “
+                </li>
+                <li>
+                 ...дека
+                 <b>
+                  <a href="/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D1%83%D1%81" title="Бамбус">
+                   бамбусот
+                  </a>
+                 </b>
+                 е најбрзорастечко растение на светот, и може да расте по еден метар дневно?
+                </li>
+                <li>
+                 ...дека францускиот астроном
+                 <b>
+                  <a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9B%D1%83%D1%98_%D0%B4%D0%B5_%D0%9B%D0%B0%D0%BA%D0%B0%D1%98" title="Никола Луј де Лакај">
+                   Никола Луј де Лакај
+                  </a>
+                 </b>
+                 открил дури
+                 <a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9B%D1%83%D1%98_%D0%B4%D0%B5_%D0%9B%D0%B0%D0%BA%D0%B0%D1%98#Работа_на_’Ртот_на_Добрата_Надеж" title="Никола Луј де Лакај">
+                  14 соѕвездија
+                 </a>
+                 ?
+                </li>
+                <li>
+                 ...дека
+                 <b>
+                  <a href="/wiki/%D0%A5%D0%B5%D0%BD%D1%80%D0%B8_VI" title="Хенри VI">
+                   Хенри VI
+                  </a>
+                 </b>
+                 станал
+                 <a class="mw-redirect" href="/wiki/%D0%9A%D1%80%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%98%D0%B0" title="Крал на Англија">
+                  крал
+                 </a>
+                 на возраст од само 9 месеци?
+                </li>
+                <li>
+                 ...дека ѕвезденото јато
+                 <b>
+                  <a href="/wiki/%D0%9F%D0%BB%D0%B5%D1%98%D0%B0%D0%B4%D0%B8_(%D1%95%D0%B2%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD%D0%BE_%D1%98%D0%B0%D1%82%D0%BE)" title="Плејади (ѕвездено јато)">
+                   Плејади
+                  </a>
+                 </b>
+                 македонскиот народ го нарекувал „
+                 <b>
+                  <a href="/wiki/%D0%9F%D0%BB%D0%B5%D1%98%D0%B0%D0%B4%D0%B8_(%D0%BC%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0)" title="Плејади (митологија)">
+                   Квачка
+                  </a>
+                 </b>
+                 “?
+                </li>
+                <li>
+                 ...дека
+                 <b>
+                  <a href="/wiki/%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4" title="Гренланд">
+                   Гренланд
+                  </a>
+                 </b>
+                 е најголемиот
+                 <a href="/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2" title="Остров">
+                  остров
+                 </a>
+                 на светот?
+                </li>
+               </ul>
+               <div align="right" class="noprint">
+                <div style="border-top:1px solid #ccc; padding:.2em 0">
+                 <b>
+                  <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D1%88%D0%BA%D0%B0:%D0%94%D0%B0%D0%BB%D0%B8_%D1%81%D1%82%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D0%BB%D0%B5/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0" title="Предлошка:Дали сте знаеле/Архива">
+                   архива
+                  </a>
+                 </b>
+                 ·
+                 <b>
+                  <a class="mw-redirect" href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D1%88%D0%BA%D0%B0:%D0%94%D0%B0%D0%BB%D0%B8_%D1%81%D1%82%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D0%BB%D0%B5/%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D1%82%D0%B5_%D1%84%D0%B0%D0%BA%D1%82" title="Предлошка:Дали сте знаеле/предложете факт">
+                   предложете факт
+                  </a>
+                 </b>
+                </div>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:#dae8f5; border-bottom:1px solid #bdc4c9; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               На денешен ден…
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div id="mf-На_денешен_ден" style="padding:0.4em 1em 0.3em;">
+               <p>
+                <i>
+                 Денес е
+                 <a href="/wiki/30_%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8" title="30 септември">
+                  30
+                 </a>
+                 <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9D%D0%B0_%D0%B4%D0%B5%D0%BD%D0%B5%D1%88%D0%B5%D0%BD_%D0%B4%D0%B5%D0%BD/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B0/%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8" title="Википедија:На денешен ден/Архива/септември">
+                  септември
+                 </a>
+                 <a href="/wiki/2021" title="2021">
+                  2021
+                 </a>
+                 г.
+                </i>
+               </p>
+               <p>
+                <a href="/wiki/30_%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8_(%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B8)" title="30 септември (настани)">
+                 <b>
+                  Настани
+                 </b>
+                 :
+                </a>
+               </p>
+               <table cellpadding="2" cellspacing="0" style="border-top:0px; background-color:transparent;">
+                <tbody>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1814" title="1814">
+                    1814
+                   </a>
+                  </td>
+                  <td>
+                   По победата на
+                   <a class="mw-redirect" href="/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD" title="Наполеон">
+                    Наполеон
+                   </a>
+                   , големите сили го свикале
+                   <a href="/wiki/%D0%92%D0%B8%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81" title="Виенски конгрес">
+                    Виенскиот конгрес
+                   </a>
+                   . Одлуките што биле донесени, на
+                   <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Европа">
+                    Европа
+                   </a>
+                   и обезбедиле мир, но неколку децении не го решиле прашањето на малите народи, жртвувани за да се наградат големите сили.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1864" title="1864">
+                    1864
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD" title="Бостон">
+                    Бостонскиот
+                   </a>
+                   забар
+                   <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%B8%D1%98%D0%B0%D0%BC_%D0%9C%D0%BE%D1%80%D1%82%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Вилијам Мортон (страницата не постои)">
+                    Вилијам Мортон
+                   </a>
+                   прв го употребил
+                   <a href="/wiki/%D0%95%D1%82%D0%B5%D1%80" title="Етер">
+                    етерот
+                   </a>
+                   како средство за
+                   <a href="/wiki/%D0%90%D0%BD%D0%B5%D1%81%D1%82%D0%B5%D0%B7%D0%B8%D1%98%D0%B0" title="Анестезија">
+                    анестезија
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1903" title="1903">
+                    1903
+                   </a>
+                  </td>
+                  <td>
+                   Во
+                   <a href="/wiki/%D0%92%D0%B8%D0%B5%D0%BD%D0%B0" title="Виена">
+                    Виена
+                   </a>
+                   и
+                   <a href="/wiki/%D0%9C%D0%B8%D1%80%D1%86%D1%88%D1%82%D0%B5%D0%B3" title="Мирцштег">
+                    Мирцштег
+                   </a>
+                   почнал состанокот помеѓу рускиот цар
+                   <a class="mw-redirect" href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%98_II" title="Николај II">
+                    Николај II
+                   </a>
+                   и австроунгарскиот цар
+                   <a class="new" href="/w/index.php?title=%D0%A4%D1%80%D0%B0%D0%BD%D1%86_%D0%88%D0%BE%D1%81%D0%B8%D1%84&amp;action=edit&amp;redlink=1" title="Франц Јосиф (страницата не постои)">
+                    Франц Јосиф
+                   </a>
+                   и нивните министри за надворешни работи, на кој е изработена програма за реформи во Македонија позната како „
+                   <a href="/wiki/%D0%9C%D0%B8%D1%80%D1%86%D1%88%D1%82%D0%B5%D1%88%D0%BA%D0%B8_%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B8" title="Мирцштешки реформи">
+                    Мирцштешка реформска програма
+                   </a>
+                   “, донесени на 2 октомври
+                   <a href="/wiki/1903" title="1903">
+                    1903
+                   </a>
+                   г. Со овие реформи, иако битно не се изменила состојбата во Македонија, дале придонес за актуелизирање на македонското прашање во меѓународните односи.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1991" title="1991">
+                    1991
+                   </a>
+                  </td>
+                  <td>
+                   Повеќе стотици илјади Чеси загрижени поради евентуалната поделба на земјата бараа референдум за отцепување на
+                   <a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%87%D0%BA%D0%B0" title="Словачка">
+                    Словачка
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1993" title="1993">
+                    1993
+                   </a>
+                  </td>
+                  <td>
+                   Советот на
+                   <a href="/wiki/%D0%9D%D0%90%D0%A2%D0%9E" title="НАТО">
+                    НАТО
+                   </a>
+                   го одобри воениот план за поставување на повеќе од 50.000 војници во
+                   <a href="/wiki/%D0%91%D0%BE%D1%81%D0%BD%D0%B0_%D0%B8_%D0%A5%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0" title="Босна и Херцеговина">
+                    Босна и Херцеговина
+                   </a>
+                   во период од две години.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1998" title="1998">
+                    1998
+                   </a>
+                  </td>
+                  <td>
+                   Во Скопје почна со работа Македонската информативна агенција —
+                   <a class="mw-redirect" href="/wiki/%D0%9C%D0%98%D0%90" title="МИА">
+                    МИА
+                   </a>
+                   , официјален јавен информативен сервис на
+                   <a class="mw-redirect" href="/wiki/%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Република Македонија">
+                    Република Македонија
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <p>
+                <a href="/wiki/30_%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8_(%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%D0%B8)" title="30 септември (родени)">
+                 <b>
+                  Родени
+                 </b>
+                 :
+                </a>
+               </p>
+               <table cellpadding="2" cellspacing="0" style="border-top:0px; background-color:transparent;">
+                <tbody>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1207" title="1207">
+                    1207
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%8F%D0%B0%D0%BB%D0%B0%D0%BB%D1%83%D0%B4%D0%B8%D0%BD_%D0%A0%D1%83%D0%BC%D0%B8" title="Џалалудин Руми">
+                    Џалалудин Руми
+                   </a>
+                   —
+                   <a class="mw-redirect" href="/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%B8%D1%98%D0%B0" title="Персија">
+                    персиски
+                   </a>
+                   <a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BC" title="Ислам">
+                    исламски
+                   </a>
+                   <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%B5%D1%82" title="Поет">
+                    поет
+                   </a>
+                   ,
+                   <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" title="Правник (страницата не постои)">
+                    правник
+                   </a>
+                   и
+                   <a class="mw-redirect" href="/wiki/%D0%A2%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3" title="Теолог">
+                    теолог
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1876" title="1876">
+                    1876
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%A0%D0%B0%D0%BA%D0%B8%D1%9C" title="Милан Ракиќ">
+                    Милан Ракиќ
+                   </a>
+                   — српски поет.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1917" title="1917">
+                    1917
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%91%D0%B0%D0%B4%D0%B8_%D0%A0%D0%B8%D1%87&amp;action=edit&amp;redlink=1" title="Бади Рич (страницата не постои)">
+                    Бади Рич
+                   </a>
+                   — американски
+                   <a href="/wiki/%D0%8F%D0%B5%D0%B7" title="Џез">
+                    џез
+                   </a>
+                   -музичар.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1924" title="1924">
+                    1924
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%A2%D1%80%D1%83%D0%BC%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BF%D0%BE%D1%82%D0%B8" title="Труман Капоти">
+                    Труман Капоти
+                   </a>
+                   — американски писател.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1927" title="1927">
+                    1927
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%B8%D1%98%D0%B0%D0%BC_%D0%9C%D0%B5%D1%80%D0%B2%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" title="Вилијам Мервин (страницата не постои)">
+                    Вилијам Мервин
+                   </a>
+                   — американски поет.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1931" title="1931">
+                    1931
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%95%D0%BD%D1%9F%D0%B8_%D0%94%D0%B8%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Енџи Дикинсон (страницата не постои)">
+                    Енџи Дикинсон
+                   </a>
+                   — американска глумица.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1940" title="1940">
+                    1940
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%9A%D1%80%D1%81%D1%82%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%9C&amp;action=edit&amp;redlink=1" title="Здравка Крстуловиќ (страницата не постои)">
+                    Здравка Крстуловиќ
+                   </a>
+                   — хрватска и југословенска глумица.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1947" title="1947">
+                    1947
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D1%80%D0%BA_%D0%91%D0%BE%D0%BB%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" title="Марк Болан (страницата не постои)">
+                    Марк Болан
+                   </a>
+                   — англиски
+                   <a href="/wiki/%D0%A0%D0%BE%D0%BA-%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0" title="Рок-музика">
+                    рок-музичар
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1962" title="1962">
+                    1962
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA_%D0%A0%D0%B0%D1%98%D0%BA%D0%B0%D1%80%D0%B4" title="Франк Рајкард">
+                    Франк Рајкард
+                   </a>
+                   — холандски
+                   <a class="mw-redirect" href="/wiki/%D0%A4%D1%83%D0%B4%D0%B1%D0%B0%D0%BB%D0%B5%D1%80" title="Фудбалер">
+                    фудбалер
+                   </a>
+                   и тренер.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1962" title="1962">
+                    1962
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%A6%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D0%B2%D0%B8%D1%9C&amp;action=edit&amp;redlink=1" title="Борислав Цветковиќ (страницата не постои)">
+                    Борислав Цветковиќ
+                   </a>
+                   — југословенски и хрватски фудбалер и тренер.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1980" title="1980">
+                    1980
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B8%D0%BD%D0%B3%D0%B8%D1%81" title="Мартина Хингис">
+                    Мартина Хингис
+                   </a>
+                   — швајцарска
+                   <a href="/wiki/%D0%A2%D0%B5%D0%BD%D0%B8%D1%81" title="Тенис">
+                    тенисерка
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1980" title="1980">
+                    1980
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%94%D0%B0%D0%BD%D1%82%D0%B5_%D0%90%D0%BC%D0%B0%D1%80%D0%B0%D0%BB&amp;action=edit&amp;redlink=1" title="Данте Амарал (страницата не постои)">
+                    Данте Амарал
+                   </a>
+                   — бразилски
+                   <a href="/wiki/%D0%9E%D0%B4%D0%B1%D0%BE%D1%98%D0%BA%D0%B0" title="Одбојка">
+                    одбојкар
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1980" title="1980">
+                    1980
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%93%D0%B5%D1%80%D1%82_%D0%A1%D1%82%D0%B5%D0%B3%D0%BC%D0%B0%D0%BD%D1%81" title="Герт Стегманс">
+                    Герт Стегманс
+                   </a>
+                   — белгиски
+                   <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B7%D0%B0%D0%BC" title="Велосипедизам">
+                    велосипедист
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1983" title="1983">
+                    1983
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0_%D0%A0%D0%B0%D0%B4%D1%83%D0%BA%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" title="Андреа Радукан (страницата не постои)">
+                    Андреа Радукан
+                   </a>
+                   — романска
+                   <a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Гимнастика">
+                    гимнастичарка
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1986" title="1986">
+                    1986
+                   </a>
+                  </td>
+                  <td>
+                   <a class="mw-redirect" href="/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D0%B8%D0%B5_%D0%96%D0%B8%D1%80%D1%83" title="Оливие Жиру">
+                    Оливие Жиру
+                   </a>
+                   — француски
+                   <a href="/wiki/%D0%A4%D1%83%D0%B4%D0%B1%D0%B0%D0%BB" title="Фудбал">
+                    фудбалер
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1991" title="1991">
+                    1991
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%8F%D0%BE%D1%84%D1%80%D0%B8_%D0%9B%D0%BE%D0%B2%D0%B5%D1%80%D1%9A&amp;action=edit&amp;redlink=1" title="Џофри Ловерњ (страницата не постои)">
+                    Џофри Ловерњ
+                   </a>
+                   — француски
+                   <a href="/wiki/%D0%9A%D0%BE%D1%88%D0%B0%D1%80%D0%BA%D0%B0" title="Кошарка">
+                    кошаркар
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <p>
+                <a href="/wiki/30_%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8_(%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B0%D0%BB%D0%B5)" title="30 септември (починале)">
+                 <b>
+                  Починале
+                 </b>
+                 :
+                </a>
+               </p>
+               <table cellpadding="2" cellspacing="0" style="border-top:0px; background-color:transparent;">
+                <tbody>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1955" title="1955">
+                    1955
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%8F%D0%B5%D1%98%D0%BC%D1%81_%D0%94%D0%B8%D0%BD" title="Џејмс Дин">
+                    Џејмс Дин
+                   </a>
+                   — американски глумец.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1979" title="1979">
+                    1979
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%97%D0%B5%D0%BF%D0%BE_%D0%9C%D0%B0%D1%80%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="Зепо Маркс (страницата не постои)">
+                    Зепо Маркс
+                   </a>
+                   — американски глумец.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1986" title="1986">
+                    1986
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81_%D0%9A%D0%B0%D0%BB%D0%B4%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Николас Калдор (страницата не постои)">
+                    Николас Калдор
+                   </a>
+                   — британски економист.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1990" title="1990">
+                    1990
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%92%D0%B0%D1%98%D1%82" title="Патрик Вајт">
+                    Патрик Вајт
+                   </a>
+                   — австралиски писател, добитник на
+                   <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%B7%D0%B0_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Нобелова награда за литература">
+                    Нобеловата награда
+                   </a>
+                   во
+                   <a href="/wiki/1973" title="1973">
+                    1973
+                   </a>
+                   година.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1989" title="1989">
+                    1989
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%9E%D1%81%D0%BA%D0%B0%D1%80_%D0%94%D0%B0%D0%B2%D0%B8%D1%87%D0%BE&amp;action=edit&amp;redlink=1" title="Оскар Давичо (страницата не постои)">
+                    Оскар Давичо
+                   </a>
+                   — српски и југословенски писател.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/1991" title="1991">
+                    1991
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%A2%D0%BE%D0%BC%D0%B0_%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BA%D0%BE%D0%B2%D0%B8%D1%9C" title="Тома Здравковиќ">
+                    Тома Здравковиќ
+                   </a>
+                   — српски фолк-пејач.
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/2001" title="2001">
+                    2001
+                   </a>
+                  </td>
+                  <td>
+                   <a class="new" href="/w/index.php?title=%D0%8F%D0%BE%D0%BD_%D0%9B%D0%B8%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" title="Џон Лили (страницата не постои)">
+                    Џон Лили
+                   </a>
+                   — американски
+                   <a href="/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Психологија">
+                    психолог
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="right" valign="top">
+                   <a href="/wiki/2011" title="2011">
+                    2011
+                   </a>
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%90%D0%BD%D0%B2%D0%B0%D1%80_%D0%B0%D0%BB_%D0%90%D0%B2%D0%BB%D0%B0%D0%BA%D0%B8" title="Анвар ал Авлаки">
+                    Анвар ал Авлаки
+                   </a>
+                   — член на
+                   <a href="/wiki/%D0%90%D0%BB-%D0%9A%D0%B0%D0%B5%D0%B4%D0%B0" title="Ал-Каеда">
+                    Ал-Каеда
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <p>
+                <a href="/wiki/30_%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D0%BC%D0%B2%D1%80%D0%B8_(%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B8)" title="30 септември (празници)">
+                 <b>
+                  Празници
+                 </b>
+                 :
+                </a>
+               </p>
+               <table cellpadding="2" cellspacing="0" style="border-top:0px; background-color:transparent;">
+                <tbody>
+                 <tr>
+                  <td align="right" valign="top">
+                   ٭
+                  </td>
+                  <td>
+                   <a href="/wiki/%D0%91%D0%B0%D1%98%D1%80%D0%B0%D0%BC" title="Бајрам">
+                    Рамазански Бајрам
+                   </a>
+                   (2008).
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="padding:0 0.5em;">
+         </td>
+         <td style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:white; border:1px solid #bfbea3; vertical-align:top; width:25%;">
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:PaleGoldenrod; border-bottom:1px solid #e9e8d6; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Што е Википедија?
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding:0.4em 1em 0.3em;">
+               <p>
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%97%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Википедија:За Википедија">
+                 Википедија
+                </a>
+                е
+                <a href="/wiki/%D0%95%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Енциклопедија">
+                 енциклопедија
+                </a>
+                напишана преку
+                <a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE_%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0%D1%9A%D0%B5" title="Колаборативно пишување">
+                 соработка
+                </a>
+                на
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9A%D0%BE%D1%98_%D1%98%D0%B0_%D0%BF%D0%B8%D1%88%D1%83%D0%B2%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Википедија:Кој ја пишува Википедија">
+                 многу од нејзините читатели
+                </a>
+                . Таа е посебен вид на
+                <a href="/wiki/%D0%9C%D1%80%D0%B5%D0%B6%D0%BD%D0%BE_%D0%BC%D0%B5%D1%81%D1%82%D0%BE" title="Мрежно место">
+                 мрежно место
+                </a>
+                , наречено
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8" title="Вики">
+                 вики
+                </a>
+                , што го прави придонесот кон неа брз и лесен.
+               </p>
+               <p>
+                Сакате да помогнете?
+                <br/>
+                Започнете со нашиот
+                <b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%BE%D0%B2%D0%B5%D0%B4" title="Википедија:Вовед">
+                  вовед
+                 </a>
+                </b>
+                !
+               </p>
+               <div style="border-top:1px solid #ccc; font-size:95%;">
+                <p>
+                 <b>
+                  Содржина и помош
+                 </b>
+                 <br/>
+                </p>
+                <div class="floatright">
+                 <img alt="" data-file-height="94" data-file-width="103" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/45px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 2x" width="30"/>
+                </div>
+                <p>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D0%BE%D1%87%D0%B5%D1%82%D0%B5%D0%BD_%D0%BA%D1%83%D1%80%D1%81" title="Википедија:Почетен курс">
+                  почетен курс
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%88:%D0%A1%D0%BE%D0%B4%D1%80%D0%B6%D0%B8%D0%BD%D0%B0" title="Помош:Содржина">
+                  помош
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D0%BE%D0%BC%D0%BE%D1%88%D0%BD%D0%B0_%D1%82%D0%B0%D0%B1%D0%B5%D0%BB%D0%B0" title="Википедија:Помошна табела">
+                  кратко упатство
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%88:%D0%9F%D1%80%D0%B5%D0%B2%D0%BE%D0%B4_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%98%D0%B0" title="Помош:Превод на статија">
+                  превод на статија
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%B0%D1%88%D0%B0%D1%82%D0%B0_%D0%BF%D1%80%D0%B2%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%98%D0%B0" title="Википедија:Вашата прва статија">
+                  вашата прва статија
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%88%D0%BC%D0%B0" title="Википедија:Селска чешма">
+                  селска чешма
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%B8%D0%BA%D0%B8_%D1%81%D1%80%D0%B5%D0%B4%D0%B1%D0%B0" title="Википедија:Вики средба">
+                  викисредби
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9D%D0%B0%D1%87%D0%B5%D0%BB%D0%B0_%D0%B8_%D0%BD%D0%B0%D0%BF%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%B8%D1%98%D0%B0" title="Википедија:Начела и напатствија">
+                  начела и напатствија
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%95%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Категорија:Енциклопедија">
+                  категориски индекс
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B0_%D1%81%D0%BE%D0%B4%D1%80%D0%B6%D0%B8%D0%BD%D0%B0" title="Портал:Избрана содржина">
+                  избрана содржина
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%98%D0%BD%D0%BA%D1%83%D0%B1%D0%B0%D1%82%D0%BE%D1%80" title="Википедија:Инкубатор">
+                  добри статии
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D0%B8%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8" title="Специјална:НовиСтраници">
+                  нови статии
+                 </a>
+                 <b>
+                  ·
+                 </b>
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D0%B8" title="Википедија:Потребни статии">
+                  потребни статии
+                 </a>
+                </p>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:PaleGoldenrod; border-bottom:1px solid #e9e8d6; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D0%B8" title="Портал:Список на портали">
+                Тематски портали
+               </a>
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div style="font-size:95%; padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <img alt="" data-file-height="128" data-file-width="128" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/30px-Nuvola_apps_edu_mathematics-p.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/45px-Nuvola_apps_edu_mathematics-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/60px-Nuvola_apps_edu_mathematics-p.svg.png 2x" width="30"/>
+               </div>
+               <p>
+                <b>
+                 Природни науки
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%98%D0%B0" title="Портал:Астрономија">
+                 астрономија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Биологија">
+                 биологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Геологија">
+                 геологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%95%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Екологија">
+                 екологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Информатика">
+                 информатика
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Математика">
+                 математика
+                </a>
+                <b>
+                 ·
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0" title="Портал:Логика">
+                 логика
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0" title="Портал:Медицина">
+                 медицина
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Портал:Физика">
+                 физика
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A5%D0%B5%D0%BC%D0%B8%D1%98%D0%B0" title="Портал:Хемија">
+                 хемија
+                </a>
+               </p>
+              </div>
+              <div style="font-size:95%; padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <img alt='"Општествени науки"' data-file-height="300" data-file-width="300" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/30px-Socrates_blue_version2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/45px-Socrates_blue_version2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Socrates_blue_version2.png/60px-Socrates_blue_version2.png 2x" width="30"/>
+               </div>
+               <p>
+                <b>
+                 Општествени науки
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Археологија">
+                 археологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%98%D0%B0" title="Портал:Економија">
+                 економија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0" title="Портал:Историја">
+                 историја
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Митологија">
+                 митологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Портал:Политика">
+                 политика
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%80%D0%B0%D0%B2%D0%BE" title="Портал:Право">
+                 право
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Психологија">
+                 психологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Социологија">
+                 социологија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%98%D0%B0" title="Портал:Философија">
+                 филозофија
+                </a>
+               </p>
+              </div>
+              <div style="font-size:95%; padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <img alt='"Географија"' data-file-height="312" data-file-width="321" decoding="async" height="29" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Terrestrial_globe.svg/30px-Terrestrial_globe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Terrestrial_globe.svg/45px-Terrestrial_globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Terrestrial_globe.svg/60px-Terrestrial_globe.svg.png 2x" width="30"/>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%98%D0%B0" title="Портал:Географија">
+                  Географија
+                 </a>
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Портал:Европа">
+                 Европа
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%88%D1%83%D0%B6%D0%BD%D0%B0_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Јужна Америка">
+                 Јужна Америка
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B7%D0%B8%D1%98%D0%B0" title="Портал:Азија">
+                 Азија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Африка">
+                 Африка
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Портал:Северна Америка">
+                 Северна Америка
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%BD%D1%82%D0%B0%D1%80%D0%BA%D1%82%D0%B8%D0%BA" title="Портал:Антарктик">
+                 Антарктик
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%B8%D1%98%D0%B0" title="Портал:Океанија">
+                 Океанија
+                </a>
+               </p>
+              </div>
+              <div style="font-size:95%; padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <img alt='"Технологија и применети науки"' data-file-height="128" data-file-width="128" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/30px-Nuvola_apps_kcmsystem.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/45px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/60px-Nuvola_apps_kcmsystem.svg.png 2x" width="30"/>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Технологија">
+                  Технологија
+                 </a>
+                 и применети науки
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%98%D0%B0" title="Категорија:Индустрија">
+                 индустрија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B5%D0%BC%D1%80%D0%B5%D0%B6%D1%98%D0%B5" title="Портал:Семрежје">
+                 семрежје
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Инженерство">
+                 инженерство
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%97%D0%B5%D0%BC%D1%98%D0%BE%D0%B4%D0%B5%D0%BB%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Земјоделство">
+                 земјоделство
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9E%D0%BF%D1%88%D1%82%D0%B5%D1%9A%D0%B5" title="Категорија:Општење">
+                 општење
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Портал:Образование">
+                 образование
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Транспорт">
+                 транспорт
+                </a>
+               </p>
+              </div>
+              <div style="font-size:95%; padding:0.4em 1em 0.3em;">
+               <div class="floatright">
+                <img alt='"Уметност и култура"' data-file-height="128" data-file-width="128" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/30px-Nuvola_apps_kcoloredit.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/45px-Nuvola_apps_kcoloredit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/60px-Nuvola_apps_kcoloredit.svg.png 2x" width="30"/>
+               </div>
+               <p>
+                <b>
+                 <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A3%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82" title="Портал:Уметност">
+                  Уметност
+                 </a>
+                 и култура
+                </b>
+                <br/>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Портал:Архитектура">
+                 архитектура
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9C%D0%BE%D0%B4%D0%B0" title="Портал:Мода">
+                 мода
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%88%D0%B0%D0%B7%D0%B8%D0%BA" title="Портал:Јазик">
+                 јазици
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE" title="Портал:Кулинарство">
+                 кулинарство
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9B%D0%B8%D0%BA%D0%BE%D0%B2%D0%BD%D0%B0_%D1%83%D0%BC%D0%B5%D1%82%D0%BD%D0%BE%D1%81%D1%82" title="Категорија:Ликовна уметност">
+                 ликовна уметност
+                </a>
+                <b>
+                 ·
+                </b>
+                <a class="mw-redirect" href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Портал:Литература">
+                 книжевност
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9C%D1%83%D0%B7%D0%B8%D0%BA%D0%B0" title="Категорија:Музика">
+                 музика
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Религија">
+                 религија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">
+                 спорт
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%B0%D1%82%D0%B0%D1%80" title="Портал:Театар">
+                 драмска уметност
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%B8%D1%98%D0%B0" title="Портал:Телевизија">
+                 телевизија
+                </a>
+                <b>
+                 ·
+                </b>
+                <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A4%D0%B8%D0%BB%D0%BC" title="Портал:Филм">
+                 филмска уметност
+                </a>
+               </p>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:PaleGoldenrod; border-bottom:1px solid #e9e8d6; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Други области
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding:0.4em 1em 0.3em;">
+               <ul>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%88%D0%BC%D0%B0" title="Википедија:Селска чешма">
+                   Селска чешма
+                  </a>
+                 </b>
+                 — централниот форум за дискусија на Википедија, место каде што можете да поставувате прашања и да давате коментари.
+                </li>
+                <li>
+                 <b>
+                  <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB" title="Википедија:Портал">
+                   Портал на заедницата
+                  </a>
+                 </b>
+                 — проекти, ресурси и активности за сите кои сакаат да се вклучат во проектот.
+                </li>
+                <li>
+                 <b>
+                  <a class="mw-redirect" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B2%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Википедија:Список на википедии">
+                   На други јазици
+                  </a>
+                 </b>
+                 —  Википедија е повеќејазичен проект. Освен на македонски, Википедија е достапна и на преку 300 други јазици.
+                </li>
+               </ul>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table width="100%">
+           <tbody>
+            <tr>
+             <th>
+              <div style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; background:PaleGoldenrod; border-bottom:1px solid #e9e8d6; padding:0.2em 0.5em; font-size:125%; font-weight:bold; text-align:left;">
+               Збратимени проекти
+              </div>
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding:0.4em 1em 0.3em;">
+               <p>
+                Википедија е проект на
+                <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%98%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Фондација Викимедија">
+                 фондацијата Викимедија
+                </a>
+                — непрофитна организација, која опфаќа и други проекти:
+               </p>
+               <table align="center" cellpadding="4" style="text-align:left; background-color: transparent;" width="100%">
+                <tbody>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://commons.wikimedia.org/wiki/Главна_страница?uselang=mk" rel="nofollow" title="Ризница">
+                     <img alt="Commons-logo.svg" data-file-height="1376" data-file-width="1024" decoding="async" height="42" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/47px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/62px-Commons-logo.svg.png 2x" width="31"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://commons.wikimedia.org/wiki/Главна_страница?uselang=mk">
+                      Ризница
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Складиште на слики, снимки и други мултимедијални содржини
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://en.wikinews.org/wiki/Main_Page?uselang=mk" rel="nofollow" title="Викивести">
+                     <img alt="Wikinews-logo-51px.png" data-file-height="30" data-file-width="51" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/6/60/Wikinews-logo-51px.png" width="51"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://en.wikinews.org/?uselang=mk">
+                      Викивести
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Вести со права за слободна употреба
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://mk.wiktionary.org/?uselang=mk" rel="nofollow" title="Викиречник">
+                     <img alt="Wiktionary-logo-51px.gif" data-file-height="35" data-file-width="51" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/b/bd/Wiktionary-logo-51px.gif" width="51"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://mk.wiktionary.org/?uselang=mk">
+                      Викиречник
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Речник и лексикон
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://en.wikiquote.org/?uselang=mk" rel="nofollow" title="Викицитат">
+                     <img alt="Wikiquote-logo-51px.png" data-file-height="41" data-file-width="51" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/4/46/Wikiquote-logo-51px.png" width="51"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://en.wikiquote.org/?uselang=mk">
+                      Викицитат
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Збирка на цитати
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://mk.wikibooks.org/?uselang=mk" rel="nofollow" title="Викикниги">
+                     <img alt="Wikibooks-logo-35px.png" data-file-height="35" data-file-width="35" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/7/7f/Wikibooks-logo-35px.png" width="35"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://mk.wikibooks.org/?uselang=mk">
+                      Викикниги
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Учебници и прирачници со права за слободна употреба
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://mk.wikisource.org/?uselang=mk" rel="nofollow" title="Викиизвор">
+                     <img alt="Wikisource-logo-35px.png" data-file-height="431" data-file-width="409" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/35px-Wikisource-logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/53px-Wikisource-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikisource-logo.png/70px-Wikisource-logo.png 2x" width="35"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://mk.wikisource.org/?uselang=mk">
+                      Викиизвор
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Библиотека на дела со права за слободна употреба
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://species.wikimedia.org/?uselang=mk" rel="nofollow" title="Викивидови">
+                     <img alt="Wikispecies-logo-35px.png" data-file-height="41" data-file-width="35" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/b/bf/Wikispecies-logo-35px.png" width="35"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://species.wikimedia.org/?uselang=mk">
+                      Викивидови
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Именик на видови
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://en.wikiversity.org?uselang=mk/" rel="nofollow" title="Викиуниверзитет">
+                     <img alt="Wikiversity-logo-41px.png" data-file-height="32" data-file-width="41" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/e/e3/Wikiversity-logo-41px.png" width="41"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://en.wikiversity.org/?uselang=mk">
+                      Викиуниверзитет
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Материјали и активности за учење со права за слободна употреба
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://meta.wikimedia.org/wiki/Главна_страница?uselang=mk" rel="nofollow" title="Мета-вики">
+                     <img alt="Wikimedia-logo-35px.png" data-file-height="36" data-file-width="35" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/d/d3/Wikimedia-logo-35px.png" width="35"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://meta.wikimedia.org/wiki/Главна_страница?uselang=mk">
+                      Мета-вики
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Усогласување на проектот „Викимедија“
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://www.wikidata.org/wiki/Wikidata:Главна_страница?uselang=mk" rel="nofollow" title="Википодатоци">
+                     <img alt="Wikidata-logo.svg" data-file-height="590" data-file-width="1050" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/41px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/62px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/82px-Wikidata-logo.svg.png 2x" width="41"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://www.wikidata.org/wiki/Wikidata:Главна_страница?uselang=mk">
+                      Википодатоци
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   База на слободни знаења
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center">
+                   <div class="noresize">
+                    <a class="plainlinks" href="http://en.wikivoyage.org/wiki/Main_Page?uselang=mk" rel="nofollow" title="Википатување">
+                     <img alt="Wikivoyage-logo.svg" data-file-height="193" data-file-width="193" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/41px-Wikivoyage-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/62px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/82px-Wikivoyage-logo.svg.png 2x" width="41"/>
+                    </a>
+                   </div>
+                  </td>
+                  <td>
+                   <b>
+                    <span class="plainlinks">
+                     <a class="external text" href="https://en.wikivoyage.org/wiki/Main_Page?uselang=mk">
+                      Википатување
+                     </a>
+                    </span>
+                   </b>
+                   <br/>
+                   Отворен туристички водич
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="plainlinks" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; text-align: center; width: 100%; margin-top: 10px; margin-bottom: 20px; background-color: #ffffff; border: 1px solid #ccc; font-size:100%">
+       <p>
+        <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0#top" title="Главна страница">
+         најгоре
+        </a>
+        <b>
+         ·
+        </b>
+        <a class="external text" href="https://mk.wikipedia.org/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=purge">
+         превчитај ја страницава
+        </a>
+        <b>
+         ·
+        </b>
+        <a class="external text" href="https://stats.wikimedia.org/EN/TablesWikipediaMK.htm">
+         статистики
+        </a>
+        <b>
+         ·
+        </b>
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9E%D0%B4%D0%BD%D0%BE%D1%81%D0%B8_%D1%81%D0%BE_%D1%98%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B0" title="Википедија:Односи со јавноста">
+         односи со јавноста
+        </a>
+        <b>
+         ·
+        </b>
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9E%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%B0_%D1%82%D0%B0%D0%B1%D0%BB%D0%B0_%D0%B7%D0%B0_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Википедија:Огласна табла за администратори">
+         пријавете неправилност
+        </a>
+        <b>
+         ·
+        </b>
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%88%D0%BC%D0%B0_(%D0%94%D1%80%D1%83%D0%B3%D0%B8_%D1%98%D0%B0%D0%B7%D0%B8%D1%86%D0%B8)" title="Википедија:Селска чешма (Други јазици)">
+         village pump
+        </a>
+        <a class="image" href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%82%D0%B5%D0%BA%D0%B0:English_language.svg" title="English">
+         <img alt="English" data-file-height="650" data-file-width="1300" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/22px-English_language.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/33px-English_language.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/44px-English_language.svg.png 2x" width="22"/>
+        </a>
+       </p>
+      </div>
+      <p>
+       <br/>
+      </p>
+      <!-- 
+NewPP limit report
+Parsed by mw1366
+Cached time: 20210930061244
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.246 seconds
+Real time usage: 0.323 seconds
+Preprocessor visited node count: 764/1000000
+Post‐expand include size: 42259/2097152 bytes
+Template argument size: 409/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5632/5000000 bytes
+Lua time usage: 0.009/10.000 seconds
+Lua memory usage: 851980/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  195.900      1 -total
+ 39.28%   76.946      1 Википедија:Избрана_статија/2021/40
+ 30.84%   60.414      9 Предлошка:Math
+  8.82%   17.288      9 Предлошка:Main_other
+  5.42%   10.611      1 Википедија:Избрана_слика/2021/септември
+  5.33%   10.449      1 Предлошка:Бп
+  3.38%    6.612      1 30_септември_(празници)
+  3.37%    6.603      1 30_септември_(починале)
+  2.89%    5.661      1 Предлошка:ДенПроменувач
+  2.81%    5.496     57 Предлошка:·
+-->
+      <!-- Saved in parser cache with key mkwiki:stable-pcache:idhash:1-0!canonical and timestamp 20210930061244 and revision id 4650269. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//mk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Преземено од „
+      <a dir="ltr" href="https://mk.wikipedia.org/w/index.php?title=Главна_страница&amp;oldid=4650269">
+       https://mk.wikipedia.org/w/index.php?title=Главна_страница&amp;oldid=4650269
+      </a>
+      “
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Прегледник
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Лични алатки
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Не сте најавени
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9C%D0%BE%D1%98%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80" title="Разговор за уредувањата од оваа IP-адреса [n]">
+         Разговор
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9C%D0%BE%D0%B8%D0%9F%D1%80%D0%B8%D0%B4%D0%BE%D0%BD%D0%B5%D1%81%D0%B8" title="Список на уредувања направени од оваа IP-адреса [y]">
+         Придонеси
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%98%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D0%B8%D1%87%D0%BA%D0%B0%D0%A1%D0%BC%D0%B5%D1%82%D0%BA%D0%B0&amp;returnto=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Ви препорачуваме да направите сметка и да се најавите, иако тоа не е задолжително">
+         Направи сметка
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9D%D0%B0%D1%98%D0%B0%D0%B2%D1%83%D0%B2%D0%B0%D1%9A%D0%B5&amp;returnto=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Ви препорачуваме да се најавите, иако тоа не е задолжително. [o]">
+         Најава
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Именски простори
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Преглед на содржинската страница [c]">
+          Главна страница
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80:%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="discussion" title="Разговор за содржинската страница [t]">
+          Разговор
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Менување на јазичната варијанта" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Варијанти
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        расклопено
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        склопено
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Посети
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">
+          Читај
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=edit" title="Оваа страница е заштитена. Можете да го видите изворниот код. [e]">
+          Преглед
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=history" title="Претходни верзии на оваа страница. [h]">
+          Историја
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Повеќе можности">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Повеќе
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        расклопено
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        склопено
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Пребарај
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Пребарајте по Википедија" title="Пребарај низ Википедија [f]" type="search"/>
+         <input name="title" type="hidden" value="Специјална:Барај"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Пребарување на текст низ странците" type="submit" value="Пребарај"/>
+         <input class="searchButton" id="searchButton" name="go" title="Оди на страница со бараниот наслов доколку постои" type="submit" value="Дај"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Главна страница">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Прегледник
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посети главна страница [z]">
+         Главна страница
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Што-е-Википедија?">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%BE%D0%B2%D0%B5%D0%B4">
+         Што е Википедија?
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-featuredcontent">
+        <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D0%B8">
+         Избрана содржина
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D1%98%D0%BD%D0%B0" title="Вчитај случајна страница [x]">
+         Случајна страница
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB" title="За проектот, што можете да направите, каде да најдете некои работи">
+         Портал
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-interaction-label" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" id="p-interaction" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-interaction-label">
+      <span>
+       технички
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-Тековни-настани">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A2%D0%B5%D0%BA%D0%BE%D0%B2%D0%BD%D0%B8_%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%BD%D0%B8">
+         Тековни настани
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A1%D0%BA%D0%BE%D1%80%D0%B5%D1%88%D0%BD%D0%B8%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8" title="Список на скорешни промени на викито. [r]">
+         Скорешни промени
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-pump">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%88%D0%BC%D0%B0">
+         Селска чешма
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Викисредби">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%92%D0%B8%D0%BA%D0%B8_%D1%81%D1%80%D0%B5%D0%B4%D0%B1%D0%B0">
+         Викисредби
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_mk.wikipedia.org&amp;uselang=mk" title="Поддржете нè">
+         Дарување
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Место каде што може да се информирате.">
+         Помош
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       алатник
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A8%D1%82%D0%BE%D0%92%D0%BE%D0%B4%D0%B8%D0%9E%D0%B2%D0%B4%D0%B5/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Список на сите викистраници што водат овде [j]">
+         Што води овде
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%D1%80%D0%B7%D0%B0%D0%BD%D0%B8%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" rel="nofollow" title="Скорешни промени на страници со врски на оваа страница [k]">
+         Поврзани промени
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%A1%D0%BB%D1%83%D0%B6%D0%B1%D0%B5%D0%BD%D0%B8%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8" title="Список на сите службени страници [q]">
+         Службени страници
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;oldid=4650269" title="Постојана врска до оваа верзија на страницата">
+         Постојана врска
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=info" title="Повеќе информации за страницата">
+         Информации за страницата
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9D%D0%B0%D0%B2%D0%BE%D0%B4&amp;page=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;id=4650269&amp;wpFormIdentifier=titleform" title="Информации како да ја наведете оваа страница">
+         Наведи ја страницава
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Врска до поврзаниот предмет во складиштето за податоци [g]">
+         Предмет на Википодатоци
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Печати/извези
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">
+         Направи книга
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%BD%D0%B0:DownloadAsPdf&amp;page=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;action=show-download-screen">
+         Преземи како PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;printable=yes" title="Верзија за печатење на оваа страница [p]">
+         Верзија за печатење
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       На други проекти
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Ризница
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         МедијаВики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Мета
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Повеќејазичен Викиизвор
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викивидови
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://mk.wikibooks.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk">
+         Викикниги
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Википодатоци
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Викиманија
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://mk.wikisource.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk">
+         Викиизвор
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://mk.wiktionary.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" hreflang="mk">
+         Викиречник
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       На други јазици
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-roa-rup mw-list-item">
+        <a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/" hreflang="rup" lang="rup" title="Aromanian">
+         Armãneashti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="азербејџански">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="белоруски">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/" hreflang="be-tarask" lang="be-tarask" title="Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="бугарски">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bs mw-list-item">
+        <a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/" hreflang="bs" lang="bs" title="босански">
+         Bosanski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="чешки">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="дански">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="германски">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-dsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://dsb.wikipedia.org/wiki/" hreflang="dsb" lang="dsb" title="долнолужички">
+         Dolnoserbski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="англиски">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="шпански">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="персиски">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="француски">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="корејски">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="ерменски">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hsb mw-list-item">
+        <a class="interlanguage-link-target" href="https://hsb.wikipedia.org/wiki/" hreflang="hsb" lang="hsb" title="горнолужички">
+         Hornjoserbsce
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="хрватски">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="италијански">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="хебрејски">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="грузиски">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="латински">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="малајски">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="холандски">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="јапонски">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="норвешки букмол">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc mw-list-item">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/" hreflang="oc" lang="oc" title="окситански">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="полски">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="португалски">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="романски">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="руски">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/" hreflang="sq" lang="sq" title="албански">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="словачки">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="словенечки">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cu mw-list-item">
+        <a class="interlanguage-link-target" href="https://cu.wikipedia.org/wiki/" hreflang="cu" lang="cu" title="црковнословенски">
+         Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-szl mw-list-item">
+        <a class="interlanguage-link-target" href="https://szl.wikipedia.org/wiki/" hreflang="szl" lang="szl" title="шлезиски">
+         Ślůnski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="српски">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="српскохрватски">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="фински">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="шведски">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="татарски">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="тајландски">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="турски">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="украински">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="виетнамски">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war mw-list-item">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/" hreflang="war" lang="war" title="варајски">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="кинески">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Последната промена на страницава е извршена на 24 септември 2021 г. во 20:42 ч.
+    </li>
+    <li id="footer-info-copyright">
+     Текстот е достапен под условите на лиценцата
+     <a href="//mk.wikipedia.org/wiki/Википедија:Текст_на_лиценцата_Creative_Commons_Наведи_извор-Сподели_под_исти_услови_3.0_Нелокализирана">
+      Криејтив комонс Наведи извор-Сподели под исти услови
+     </a>
+     .
+Може да важат и дополнителни услови.
+За повеќе информации, погледајте ги
+     <a href="//mk.wikipedia.org/wiki/Википедија:Услови_на_употреба">
+      Условите на употреба
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Заштита на личните податоци
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%97%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0" title="Википедија:За Википедија">
+      За Википедија
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9E%D0%B4%D1%80%D0%B5%D0%BA%D1%83%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BE%D0%B4_%D0%BE%D0%B4%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D1%81%D1%82" title="Википедија:Одрекување од одговорност">
+      Одрекување од одговорност
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//mk.m.wikipedia.org/w/index.php?title=%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&amp;mobileaction=toggle_view_mobile">
+      Мобилен изглед
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Програмери
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/mk.wikipedia.org">
+      Статистика
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Согласност за колачиња
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.246","walltime":"0.323","ppvisitednodes":{"value":764,"limit":1000000},"postexpandincludesize":{"value":42259,"limit":2097152},"templateargumentsize":{"value":409,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5632,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  195.900      1 -total"," 39.28%   76.946      1 Википедија:Избрана_статија/2021/40"," 30.84%   60.414      9 Предлошка:Math","  8.82%   17.288      9 Предлошка:Main_other","  5.42%   10.611      1 Википедија:Избрана_слика/2021/септември","  5.33%   10.449      1 Предлошка:Бп","  3.38%    6.612      1 30_септември_(празници)","  3.37%    6.603      1 30_септември_(починале)","  2.89%    5.661      1 Предлошка:ДенПроменувач","  2.81%    5.496     57 Предлошка:·"]},"scribunto":{"limitreport-timeusage":{"value":"0.009","limit":"10.000"},"limitreport-memusage":{"value":851980,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20210930061244","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043b\u0430\u0432\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","url":"https:\/\/mk.wikipedia.org\/wiki\/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u0423\u0447\u0435\u0441\u043d\u0438\u0446\u0438 \u043d\u0430 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0438\u043d\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0438"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434\u0430\u0446\u0438\u0458\u0430 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0458\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-04T10:04:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/M%C3%A9decins_Sans_Fronti%C3%A8res_-_Missions.svg","headline":"\u0433\u043b\u0430\u0432\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043d\u0430 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0438\u043d \u043f\u0440\u043e\u0435\u043a\u0442"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":522,"wgHostname":"mw1366"});});
+  </script>
+ </body>
+</html>
