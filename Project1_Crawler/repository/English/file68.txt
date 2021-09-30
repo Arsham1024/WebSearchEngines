@@ -1,0 +1,1966 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="gl">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedia, a enciclopedia libre
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","xaneiro","febreiro","marzo","abril","maio","xuño","xullo","agosto","setembro","outubro","novembro","decembro"],"wgRequestId":"eaf633ca-ceeb-4041-8ff9-7118c2cbc96e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Portada","wgTitle":"Portada","wgCurRevisionId":5691536,"wgRevisionId":5691536,"wgArticleId":62904,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Índice"],"wgPageContentLanguage":"gl","wgPageContentModel":"wikitext","wgRelevantPageName":"Portada","wgRelevantArticleId":62904,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"gl","pageLanguageDir":"ltr","pageVariantFallbacks":"gl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"galego","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.gadget.PortalClass":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.charinsert","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"gl"});
+});});
+  </script>
+  <link href="/w/load.php?lang=gl&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=gl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=gl&amp;modules=ext.gadget.PortalClass%2Ccharinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=gl&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/6/62/Gr%C3%A8bejougrisparade.jpg" property="og:image"/>
+  <meta content="Wikipedia, a enciclopedia libre" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//gl.m.wikipedia.org/wiki/Portada" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (gl)" type="application/opensearchdescription+xml"/>
+  <link href="//gl.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://gl.wikipedia.org/wiki/Portada" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Portada rootpage-Portada skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Portada
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Na Galipedia, a Wikipedia en galego.
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Saltar ata a navegación
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Saltar á procura
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="gl">
+     <div class="mw-parser-output">
+      <div id="portada_título">
+       <table style="width:100%; margin-bottom:2px; background:#f5faff;">
+        <tbody>
+         <tr>
+          <td class="fonslogo" style="background-repeat:no-repeat; background-position:-40px -25px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+           <table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent">
+            <tbody>
+             <tr>
+              <td style="height:3em; padding-left:155px">
+               <div style="font-size:185%;">
+                <a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">
+                 Benvid@
+                </a>
+                á
+                <a href="/wiki/Galipedia" title="Galipedia">
+                 Galipedia
+                </a>
+               </div>
+               <div style="margin-left:15px">
+                A
+                <a href="/wiki/Wikipedia:Introduci%C3%B3n" title="Wikipedia:Introdución">
+                 enciclopedia libre
+                </a>
+                que
+                <a href="/wiki/Axuda:Como_editar_unha_p%C3%A1xina" title="Axuda:Como editar unha páxina">
+                 calquera pode editar
+                </a>
+               </div>
+              </td>
+              <td style="padding:1em;text-align:right;line-height:1.3">
+               <a href="/wiki/M%C3%A9rcores" title="Mércores">
+                mércores
+               </a>
+               ,
+               <a href="/wiki/29_de_setembro" title="29 de setembro">
+                29 de setembro
+               </a>
+               de
+               <a href="/wiki/2021" title="2021">
+                2021
+               </a>
+               <br/>
+               <span class="plainlinks" style="font-size:80%;">
+                <a class="external text" href="https://gl.m.wikipedia.org">
+                 Versión para móbiles
+                </a>
+               </span>
+              </td>
+             </tr>
+             <tr>
+              <td colspan="2" style="text-align:center;">
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <div style="margin:0 0 0; text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:100%">
+            Nesta versión en
+            <a href="/wiki/Lingua_galega" title="Lingua galega">
+             galego
+            </a>
+            , que comezou o
+            <a href="/wiki/8_de_marzo" title="8 de marzo">
+             8 de marzo
+            </a>
+            de
+            <a href="/wiki/2003" title="2003">
+             2003
+            </a>
+            , xa temos
+            <b>
+             <a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">
+              176 585
+             </a>
+             artigos
+            </b>
+            .
+           </div>
+           <p style="margin: 2px 0 2px 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding: 0; text-align: center;">
+            <a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">
+             Benvida
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Categor%C3%ADa:Wikipedia:COMOs" title="Categoría:Wikipedia:COMOs">
+             COMOs
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Wikipedia:Preguntas_m%C3%A1is_frecuentes" title="Wikipedia:Preguntas máis frecuentes">
+             Preguntas frecuentes
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Wikipedia:Portal_da_comunidade" title="Wikipedia:Portal da comunidade">
+             Comunidade
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Wikipedia:Pol%C3%ADticas_e_normas" title="Wikipedia:Políticas e normas">
+             Políticas
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Wikipedia:Artigos_de_calidade" title="Wikipedia:Artigos de calidade">
+             Artigos de calidade
+            </a>
+            <img alt="Bullet black.png" data-file-height="16" data-file-width="16" decoding="async" height="7" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/7px-Bullet_black.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/11px-Bullet_black.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bullet_black.png/14px-Bullet_black.png 2x" width="7"/>
+            <a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">
+             Axuda
+            </a>
+           </p>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <table style="margin-top:10px; background:none">
+       <tbody>
+        <tr>
+         <td style="width:65%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+          <table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+           <tbody>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 id="sección-destacadoHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span class="mw-headline" id="Artigo_destacado">
+                  Artigo destacado
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div id="sección-destacado" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               <div id="artigo_destacado" title="Artigo destacado">
+                <div style="float:left;margin-right:0.9em">
+                 <div class="floatnone">
+                  <a class="image" href="/wiki/Ficheiro:Gr%C3%A8bejougrisparade.jpg">
+                   <img alt="Grèbejougrisparade.jpg" data-file-height="1090" data-file-width="876" decoding="async" height="249" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gr%C3%A8bejougrisparade.jpg/200px-Gr%C3%A8bejougrisparade.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gr%C3%A8bejougrisparade.jpg/300px-Gr%C3%A8bejougrisparade.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gr%C3%A8bejougrisparade.jpg/400px-Gr%C3%A8bejougrisparade.jpg 2x" width="200"/>
+                  </a>
+                 </div>
+                </div>
+                <p>
+                 O
+                 <b>
+                  <a href="/wiki/Mergull%C3%B3n_cincento" title="Mergullón cincento">
+                   mergullón cincento
+                  </a>
+                 </b>
+                 (
+                 <i>
+                  <b>
+                   Podiceps grisegena
+                  </b>
+                 </i>
+                 ) é unha ave acuática
+                 <a href="/wiki/Migraci%C3%B3n_das_aves" title="Migración das aves">
+                  migratoria
+                 </a>
+                 que se encontra en rexións temperadas do
+                 <a href="/wiki/Hemisferio_norte" title="Hemisferio norte">
+                  hemisferio norte
+                 </a>
+                 . En
+                 <a href="/wiki/Galicia" title="Galicia">
+                  Galicia
+                 </a>
+                 é un invernante raro. O seu hábitat de invernada está en gran medida restrinxido a augas calmas oceánicas más alá da zona onde as ondas chegan á costa, aínda que algúns exemplares poden invernar en grandes lagos. Os mergullóns prefiren como sitios de reprodución corpos de augas doces pouco profundas, como
+                 <a href="/wiki/Lago" title="Lago">
+                  lagos
+                 </a>
+                 ,
+                 <a href="/wiki/Pantano" title="Pantano">
+                  pantanos
+                 </a>
+                 ou
+                 <a href="/wiki/Lagoa" title="Lagoa">
+                  lagoas
+                 </a>
+                 con peixes.
+                </p>
+                <p>
+                 O mergullón cincento é unha ave gris escura anódina en inverno. Durante a estación reprodutora, adquire a súa distintiva plumaxe co pescozo vermello,
+                 <a href="/wiki/P%C3%ADleo_(ornitolox%C3%ADa)" title="Píleo (ornitoloxía)">
+                  píleo
+                 </a>
+                 negro e unha cara gris clara. Tamén realiza unha elaborada exhibición de cortexo e unha variedade de chamadas de apareamento altas. Unha vez que se emparellan, constrúen un niño feito de plantas acuáticas e situado sobre vexetación flotante nun lago ou pantano pouco profundo.
+                </p>
+                <p>
+                 Como todos os mergullóns, o mergullón cincento é un bo nadador e un mergullador especialmente veloz que reacciona ante o perigo mergullándose antes que voando. Ten os pés situados moi atrás no corpo, preto da cola, o que fai que en terra sexa torpe. Mergúllase para capturar peixes ou insectos que están sobre a vexetación; tamén traga as súas propias plumas, posiblemente para protexer o seu sistema dixestivo. O
+                 <a class="new" href="/w/index.php?title=Status_de_conservaci%C3%B3n&amp;action=edit&amp;redlink=1" title="Status de conservación (a páxina aínda non existe)">
+                  status de conservación
+                 </a>
+                 das súas dúas subespecies (
+                 <i>
+                  P. g. grisegena
+                 </i>
+                 de Europa e oesta de Asia, e a máis grande
+                 <i>
+                  P. g. holboelii
+                 </i>
+                 de Norteamérica e leste de
+                 <a href="/wiki/Siberia" title="Siberia">
+                  Siberia
+                 </a>
+                 ) é avaliado como de "
+                 <a href="/wiki/Especie_pouco_preocupante" title="Especie pouco preocupante">
+                  especie pouco preocupante
+                 </a>
+                 " e a poboación global é estable ou crecente.
+                </p>
+               </div>
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Artigo_destacado" title="Wikipedia:Artigo destacado">
+                   Outros artigos destacados
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Artigos_de_calidade" title="Wikipedia:Artigos de calidade">
+                   Artigos de calidade
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="700" data-file-width="700" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/38px-HSGalicia.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/57px-HSGalicia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HSGalicia.png/76px-HSGalicia.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 id="sección-sobregaliciaHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span class="mw-headline" id="Sobre_Galicia">
+                  Sobre Galicia
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div id="sección-sobregalicia" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               <div id="sobre_galicia" title="Sobre Galicia">
+                <div style="float:left;margin-right:0.9em">
+                 <table style="border-collapse:collapse;text-align:center;font-size:88%;line-height:1.25em;margin:auto;width:375px">
+                  <tbody>
+                   <tr style="vertical-align:top">
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Teresa_Portela.jpg">
+                       <img alt="Teresa Portela.jpg" data-file-height="1808" data-file-width="1428" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Teresa_Portela.jpg/75px-Teresa_Portela.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Teresa_Portela.jpg/113px-Teresa_Portela.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Teresa_Portela.jpg/150px-Teresa_Portela.jpg 2x" width="75"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Teresa_Portela" title="Teresa Portela">
+                       Teresa Portela
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Ana_Peleteiro_-_Triple_saut_Femmes_(48614905612).jpg">
+                       <img alt="Ana Peleteiro - Triple saut Femmes (48614905612).jpg" data-file-height="3402" data-file-width="2285" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg/64px-Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg/96px-Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg/127px-Ana_Peleteiro_-_Triple_saut_Femmes_%2848614905612%29.jpg 2x" width="64"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Ana_Peleteiro" title="Ana Peleteiro">
+                       Ana Peleteiro
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Rodrigo_Corrales_20170924.jpg">
+                       <img alt="Rodrigo Corrales 20170924.jpg" data-file-height="2846" data-file-width="1897" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rodrigo_Corrales_20170924.jpg/63px-Rodrigo_Corrales_20170924.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rodrigo_Corrales_20170924.jpg/95px-Rodrigo_Corrales_20170924.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rodrigo_Corrales_20170924.jpg/126px-Rodrigo_Corrales_20170924.jpg 2x" width="63"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Rodrigo_Corrales" title="Rodrigo Corrales">
+                       Rodrigo Corrales
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Rodrigo_Germade_Rio_2016.jpg">
+                       <img alt="Rodrigo Germade Rio 2016.jpg" data-file-height="1162" data-file-width="977" decoding="async" height="89" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rodrigo_Germade_Rio_2016.jpg/75px-Rodrigo_Germade_Rio_2016.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rodrigo_Germade_Rio_2016.jpg/113px-Rodrigo_Germade_Rio_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rodrigo_Germade_Rio_2016.jpg/150px-Rodrigo_Germade_Rio_2016.jpg 2x" width="75"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Rodrigo_Germade" title="Rodrigo Germade">
+                       Rodrigo Germade
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Adri%C3%A1n_Ben_2019_(cropped).jpg">
+                       <img alt="Adrián Ben 2019 (cropped).jpg" data-file-height="692" data-file-width="416" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adri%C3%A1n_Ben_2019_%28cropped%29.jpg/57px-Adri%C3%A1n_Ben_2019_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adri%C3%A1n_Ben_2019_%28cropped%29.jpg/86px-Adri%C3%A1n_Ben_2019_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adri%C3%A1n_Ben_2019_%28cropped%29.jpg/114px-Adri%C3%A1n_Ben_2019_%28cropped%29.jpg 2x" width="57"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Adri%C3%A1n_Ben" title="Adrián Ben">
+                       Adrián Ben
+                      </a>
+                     </div>
+                    </td>
+                   </tr>
+                   <tr style="vertical-align:top">
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg">
+                       <img alt="Alberto Abalde 6 Valencia Basket EuroLeague 20180201.jpg" data-file-height="4338" data-file-width="2333" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg/51px-Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg/77px-Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg/102px-Alberto_Abalde_6_Valencia_Basket_EuroLeague_20180201.jpg 2x" width="51"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Alberto_Abalde" title="Alberto Abalde">
+                       Alberto Abalde
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:(Tamara_Abalde)_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg">
+                       <img alt="(Tamara Abalde) Pedro Sánchez visita a la selección española femenina de baloncesto antes del Eurobasket 2019.jpg" data-file-height="515" data-file-width="386" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg/71px-%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg/107px-%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg/142px-%28Tamara_Abalde%29_Pedro_S%C3%A1nchez_visita_a_la_selecci%C3%B3n_espa%C3%B1ola_femenina_de_baloncesto_antes_del_Eurobasket_2019.jpg 2x" width="71"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Tamara_Abalde" title="Tamara Abalde">
+                       Tamara Abalde
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Raquel_Carrera.jpg">
+                       <img alt="Raquel Carrera.jpg" data-file-height="4696" data-file-width="3246" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Raquel_Carrera.jpg/66px-Raquel_Carrera.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Raquel_Carrera.jpg/99px-Raquel_Carrera.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Raquel_Carrera.jpg/131px-Raquel_Carrera.jpg 2x" width="66"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Raquel_Carrera" title="Raquel Carrera">
+                       Raquel Carrera
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Alicia_Fernandez_Fraga_20160415_(cropped).jpg">
+                       <img alt="Alicia Fernandez Fraga 20160415 (cropped).jpg" data-file-height="2470" data-file-width="1758" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg/67px-Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg/102px-Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg/135px-Alicia_Fernandez_Fraga_20160415_%28cropped%29.jpg 2x" width="67"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Alicia_Fern%C3%A1ndez_Fraga" title="Alicia Fernández Fraga">
+                       Alicia Fernández
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Carlos_Arevalo_(ESP).png">
+                       <img alt="Carlos Arevalo (ESP).png" data-file-height="778" data-file-width="722" decoding="async" height="81" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Carlos_Arevalo_%28ESP%29.png/75px-Carlos_Arevalo_%28ESP%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Carlos_Arevalo_%28ESP%29.png/113px-Carlos_Arevalo_%28ESP%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Carlos_Arevalo_%28ESP%29.png/150px-Carlos_Arevalo_%28ESP%29.png 2x" width="75"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Carlos_Ar%C3%A9valo_L%C3%B3pez" title="Carlos Arévalo López">
+                       Carlos Arévalo
+                      </a>
+                     </div>
+                    </td>
+                   </tr>
+                   <tr style="vertical-align:top">
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Francisco_Javier_Gomez_Tours2011.jpg">
+                       <img alt="Francisco Javier Gomez Tours2011.jpg" data-file-height="4800" data-file-width="3744" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Francisco_Javier_Gomez_Tours2011.jpg/74px-Francisco_Javier_Gomez_Tours2011.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Francisco_Javier_Gomez_Tours2011.jpg/111px-Francisco_Javier_Gomez_Tours2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Francisco_Javier_Gomez_Tours2011.jpg/148px-Francisco_Javier_Gomez_Tours2011.jpg 2x" width="74"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Javier_G%C3%B3mez_Noya" title="Javier Gómez Noya">
+                       Javier Gómez Noya
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Tamara_Echegoyen_(ESP).jpg">
+                       <img alt="Tamara Echegoyen (ESP).jpg" data-file-height="745" data-file-width="706" decoding="async" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tamara_Echegoyen_%28ESP%29.jpg/75px-Tamara_Echegoyen_%28ESP%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tamara_Echegoyen_%28ESP%29.jpg/113px-Tamara_Echegoyen_%28ESP%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tamara_Echegoyen_%28ESP%29.jpg/150px-Tamara_Echegoyen_%28ESP%29.jpg 2x" width="75"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/T%C3%A1mara_Echegoyen" title="Támara Echegoyen">
+                       Támara Echegoyen
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                     <div style="display:table-cell;vertical-align:middle;width:75px;height:95px;margin-left:auto;margin-right:auto">
+                      <a class="image" href="/wiki/Ficheiro:Iago_L%C3%B3pez_Marra.jpg">
+                       <img alt="Iago López Marra.jpg" data-file-height="1010" data-file-width="477" decoding="async" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iago_L%C3%B3pez_Marra.jpg/45px-Iago_L%C3%B3pez_Marra.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iago_L%C3%B3pez_Marra.jpg/67px-Iago_L%C3%B3pez_Marra.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iago_L%C3%B3pez_Marra.jpg/89px-Iago_L%C3%B3pez_Marra.jpg 2x" width="45"/>
+                      </a>
+                     </div>
+                     <div style="padding:1px">
+                      <a href="/wiki/Iago_L%C3%B3pez_Marra" title="Iago López Marra">
+                       Iago López
+                      </a>
+                     </div>
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                    </td>
+                    <td style="width:75px;text-align:center;:">
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </div>
+                <p>
+                 A
+                 <b>
+                  <a href="/wiki/Galegos_nos_Xogos_Ol%C3%ADmpicos_de_2020" title="Galegos nos Xogos Olímpicos de 2020">
+                   representación de Galicia
+                  </a>
+                  nos
+                  <a href="/wiki/Xogos_Ol%C3%ADmpicos_de_2020" title="Xogos Olímpicos de 2020">
+                   Xogos Olímpicos de Toquio 2020
+                  </a>
+                 </b>
+                 estivo composta por 21 deportistas integrados no
+                 <a href="/wiki/Espa%C3%B1a_nos_Xogos_Ol%C3%ADmpicos" title="España nos Xogos Olímpicos">
+                  equipo olímpico español
+                 </a>
+                 , 12 homes e 9 mulleres. Foi a representación máis numerosa da historia do deporte olímpico galego, e foron 7 deportistas máis dos que participaron nos
+                 <a href="/wiki/Galegos_nos_Xogos_Ol%C3%ADmpicos_de_2016" title="Galegos nos Xogos Olímpicos de 2016">
+                  Xogos Olímpicos de 2016
+                 </a>
+                 .
+                </p>
+                <p>
+                 Os resultados foron tamén os mellores do olimpismo galego, cunha colleita de seis medallas (superando as catro de
+                 <a href="/wiki/Xogos_Ol%C3%ADmpicos_de_2012" title="Xogos Olímpicos de 2012">
+                  Londres 2012
+                 </a>
+                 ) e nove
+                 <a href="/wiki/Diploma_ol%C3%ADmpico" title="Diploma olímpico">
+                  diplomas olímpicos
+                 </a>
+                 . Dos 21 deportistas galegos, só catro quedaron fóra dos oito primeiros nas súas respectivas modalidades. Destacou o caso do concello de
+                 <a href="/wiki/Cangas" title="Cangas">
+                  Cangas
+                 </a>
+                 , que enviou catro deportistas aos Xogos (
+                 <a href="/wiki/Rodrigo_Corrales" title="Rodrigo Corrales">
+                  Rodrigo Corrales
+                 </a>
+                 ,
+                 <a href="/wiki/Teresa_Portela" title="Teresa Portela">
+                  Teresa Portela
+                 </a>
+                 ,
+                 <a href="/wiki/Rodrigo_Germade" title="Rodrigo Germade">
+                  Rodrigo Germade
+                 </a>
+                 e
+                 <a href="/wiki/Iv%C3%A1n_Villar" title="Iván Villar">
+                  Iván Villar
+                 </a>
+                 ) e os catro regresaron con medalla.
+                </p>
+                <p>
+                 A maior participación de galegos nas olimpíadas antes de Toquio 2020 dérase tanto en
+                 <a href="/wiki/Xogos_Ol%C3%ADmpicos_de_1992" title="Xogos Olímpicos de 1992">
+                  Barcelona 92
+                 </a>
+                 como en
+                 <a href="/wiki/Xogos_Ol%C3%ADmpicos_de_2000" title="Xogos Olímpicos de 2000">
+                  Sydney 2000
+                 </a>
+                 con 17 deportistas en ambas convocatorias. En Toquio 2020 bateuse esa marca, con catro competidores máis que en Barcelona e Sydney, e con 7 máis dos que participaron nos anteriores xogos, en
+                 <a href="/wiki/Xogos_Ol%C3%ADmpicos_de_2016" title="Xogos Olímpicos de 2016">
+                  Río de Xaneiro 2016
+                 </a>
+                 . Daquela foran 14 os participantes, cunha colleita de 1 medalla.
+                </p>
+               </div>
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Sobre_Galicia" title="Wikipedia:Sobre Galicia">
+                   Outros artigos destacados sobre Galicia
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Setembro_na_cultura_popular_galega" title="Setembro na cultura popular galega">
+                   O mes de setembro na cultura popular galega
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Datum29.svg/38px-Datum29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Datum29.svg/57px-Datum29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Datum29.svg/76px-Datum29.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 id="sección-efeméridesHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span id="Tal_d.C3.ADa_coma_hoxe_no_ano...">
+                 </span>
+                 <span class="mw-headline" id="Tal_día_coma_hoxe_no_ano...">
+                  Tal día coma hoxe no ano...
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div id="sección-efemérides" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               <div id="efemerides" title="Efemérides destacadas">
+                <div style="float:left; margin-right:1.5em;">
+                 <div class="floatleft">
+                  <a href="/wiki/Miguel_de_Cervantes_Saavedra" title="Miguel de Cervantes Saavedra">
+                   <img alt="Cervantes Jáuregui.jpg" data-file-height="1893" data-file-width="1443" decoding="async" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/120px-Cervantes_J%C3%A1uregui.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/180px-Cervantes_J%C3%A1uregui.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/240px-Cervantes_J%C3%A1uregui.jpg 2x" width="120"/>
+                  </a>
+                 </div>
+                </div>
+                <ul>
+                 <li>
+                  <a href="/wiki/1547" title="1547">
+                   1547
+                  </a>
+                  , nace
+                  <a class="mw-redirect" href="/wiki/Miguel_de_Cervantes_Saavedra" title="Miguel de Cervantes Saavedra">
+                   Miguel de Cervantes Saavedra
+                  </a>
+                  (na imaxe) en
+                  <a href="/wiki/Alcal%C3%A1_de_Henares" title="Alcalá de Henares">
+                   Alcalá de Henares
+                  </a>
+                  , escritor español autor da novela
+                  <i>
+                   <a href="/wiki/Don_Quixote_da_Mancha" title="Don Quixote da Mancha">
+                    El ingenioso hidalgo Don Quijote de la Mancha
+                   </a>
+                  </i>
+                  considerada como unha obra mestra da
+                  <a href="/wiki/Literatura" title="Literatura">
+                   literatura
+                  </a>
+                  universal.
+                 </li>
+                 <li>
+                  <a href="/wiki/1901" title="1901">
+                   1901
+                  </a>
+                  , nace
+                  <a href="/wiki/Enrico_Fermi" title="Enrico Fermi">
+                   Enrico Fermi
+                  </a>
+                  ,
+                  <a href="/wiki/F%C3%ADsica" title="Física">
+                   físico
+                  </a>
+                  italiano.
+                 </li>
+                 <li>
+                  <a href="/wiki/1939" title="1939">
+                   1939
+                  </a>
+                  ,
+                  <a href="/wiki/Polonia" title="Polonia">
+                   Polonia
+                  </a>
+                  é dividida entre a
+                  <a class="mw-redirect" href="/wiki/Alema%C3%B1a_Nazi" title="Alemaña Nazi">
+                   Alemaña Nazi
+                  </a>
+                  e a
+                  <a href="/wiki/Uni%C3%B3n_Sovi%C3%A9tica" title="Unión Soviética">
+                   Unión Soviética
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/1948" title="1948">
+                   1948
+                  </a>
+                  , nece
+                  <a href="/wiki/Theo_J%C3%B6rgensmann" title="Theo Jörgensmann">
+                   Theo Jörgensmann
+                  </a>
+                  , clarinetista alemán de
+                  <a href="/wiki/Jazz" title="Jazz">
+                   Jazz
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/1985" title="1985">
+                   1985
+                  </a>
+                  , nace
+                  <a class="mw-redirect" href="/wiki/Daniel_Pedrosa" title="Daniel Pedrosa">
+                   Daniel Pedrosa
+                  </a>
+                  ,
+                  <a href="/wiki/Motociclismo" title="Motociclismo">
+                   motociclista
+                  </a>
+                  español.
+                 </li>
+                 <li>
+                  <a href="/wiki/1997" title="1997">
+                   1997
+                  </a>
+                  , morre
+                  <a href="/wiki/Roy_Lichtenstein" title="Roy Lichtenstein">
+                   Roy Lichtenstein
+                  </a>
+                  , pintor
+                  <a class="mw-redirect" href="/wiki/Estados_Unidos" title="Estados Unidos">
+                   estadounidense
+                  </a>
+                  de
+                  <a class="mw-redirect" href="/wiki/Pop_art" title="Pop art">
+                   Pop art
+                  </a>
+                  , artista gráfico e escultor, coñecido polas súas interpretacións a gran escala da arte do
+                  <a class="mw-redirect" href="/wiki/C%C3%B3mic" title="Cómic">
+                   cómic
+                  </a>
+                  .
+                 </li>
+                </ul>
+                <b>
+                 Hoxe é o Día dos
+                 <a href="/wiki/Arcanxo" title="Arcanxo">
+                  Arcanxos
+                 </a>
+                 para o
+                 <a href="/wiki/Catolicismo" title="Catolicismo">
+                  Catolicismo
+                 </a>
+                 .
+                </b>
+               </div>
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/29_de_setembro" title="29 de setembro">
+                   Máis efemérides do día de hoxe
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Efem%C3%A9rides_destacadas" title="Wikipedia:Efemérides destacadas">
+                   Outras Efemérides destacadas
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="border:5px solid transparent;">
+         </td>
+         <td style="width:35%; border:1px solid #a7d7f9; background:none; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+          <table cellpadding="2" cellspacing="5" id="mp-right" style="width:100%; vertical-align:top; background:#f5faff; background:transparent; text-align: left;">
+           <tbody>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 id="sección-imaxedestacadaHead" style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span id="Imaxe_do_d.C3.ADa">
+                 </span>
+                 <span class="mw-headline" id="Imaxe_do_día">
+                  Imaxe do día
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div id="sección-imaxedestacada" style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               <table style="margin: 0 0 1em 1em; border:none; margin:auto; text-align: center;">
+                <tbody>
+                 <tr>
+                  <td align="center" style="padding:0;">
+                   <a class="image" href="/wiki/Ficheiro:Calcantita_z.jpg">
+                    <img alt="Calcantita z.jpg" data-file-height="884" data-file-width="1200" decoding="async" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Calcantita_z.jpg/350px-Calcantita_z.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Calcantita_z.jpg/525px-Calcantita_z.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Calcantita_z.jpg/700px-Calcantita_z.jpg 2x" width="350"/>
+                   </a>
+                  </td>
+                 </tr>
+                 <tr style="font-size:95%;">
+                  <td>
+                   <a href="/wiki/Calcantita" title="Calcantita">
+                    Calcantita
+                   </a>
+                   .
+                  </td>
+                 </tr>
+                 <tr style="font-size:95%;">
+                  <td>
+                   <b>
+                    Vexa o artigo
+                    <a href="/wiki/Sulfato" title="Sulfato">
+                     sulfato
+                    </a>
+                   </b>
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <div style="clear:both;">
+                 </div>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Imaxe_do_d%C3%ADa" title="Wikipedia:Imaxe do día">
+                   Outras imaxes destacadas
+                  </a>
+                  •
+                 </span>
+                 <a class="extiw" href="https://commons.wikimedia.org/wiki/Featured_pictures" title="commons:Featured pictures">
+                  Imaxes destacadas en Commons
+                 </a>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span id="Presentaci.C3.B3n">
+                 </span>
+                 <span class="mw-headline" id="Presentación">
+                  Presentación
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               <p>
+                A
+                <a href="/wiki/Wikipedia" title="Wikipedia">
+                 Wikipedia
+                </a>
+                é unha enciclopedia universal en liña
+                <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/gl" title="m:List of Wikipedias/gl">
+                 multilingüe
+                </a>
+                , colaborativa e gratuíta. O propósito da Wikipedia é fornecer un contido
+                <a href="/wiki/Wikipedia:Dereitos_de_autor%C3%ADa" title="Wikipedia:Dereitos de autoría">
+                 libre
+                </a>
+                ,
+                <a class="mw-redirect" href="/wiki/WP:PVN" title="WP:PVN">
+                 obxectivo
+                </a>
+                e
+                <a class="mw-redirect" href="/wiki/WP:V" title="WP:V">
+                 verificable
+                </a>
+                que todas as persoas poidan editar e mellorar.
+               </p>
+               O proxecto está baseado en
+               <a href="/wiki/Wikipedia:Cinco_piares" title="Wikipedia:Cinco piares">
+                cinco principios
+               </a>
+               básicos, todo o contido está dispoñible baixo a licenza
+               <span class="plainlinks">
+                <a class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt" rel="nofollow">
+                 Creative Commons BY-SA
+                </a>
+               </span>
+               e pode ser copiado e reutilizado baixo esta mesma licenza.
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Benvidos" title="Wikipedia:Benvidos">
+                   Benvida
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">
+                   Índice da Axuda
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="61" data-file-width="61" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span id="Participaci.C3.B3n">
+                 </span>
+                 <span class="mw-headline" id="Participación">
+                  Participación
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               Podes consultar a
+               <a href="/wiki/Wikipedia:Axuda" title="Wikipedia:Axuda">
+                Axuda
+               </a>
+               e a
+               <a href="/wiki/Wikipedia:Gu%C3%ADa" title="Wikipedia:Guía">
+                Guía
+               </a>
+               para obter máis información de como participar, nas que atoparás información de como
+               <a href="/wiki/Wikipedia:Como_comezar_a_colaborar" title="Wikipedia:Como comezar a colaborar">
+                comezar a colaborar
+               </a>
+               ,
+               <a href="/wiki/Wikipedia:Gu%C3%ADa" title="Wikipedia:Guía">
+                editar artigos
+               </a>
+               e
+               <a href="/wiki/Wikipedia:Pol%C3%ADtica_de_uso_de_imaxes" title="Wikipedia:Política de uso de imaxes">
+                usar imaxes libres
+               </a>
+               . En caso de dúbidas síntete libre de
+               <a href="/wiki/Wikipedia:A_Taberna_(axuda)" title="Wikipedia:A Taberna (axuda)">
+                preguntar
+               </a>
+               .
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Categor%C3%ADa:Wikipedia:COMOs" title="Categoría:Wikipedia:COMOs">
+                   COMOs
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Preguntas_m%C3%A1is_frecuentes" title="Wikipedia:Preguntas máis frecuentes">
+                   Preguntas máis frecuentes
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/350px-Blue-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/525px-Blue-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blue-bg_rounded.svg/700px-Blue-bg_rounded.svg.png 2x" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/38px-HSSamarbete.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/57px-HSSamarbete.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/HSSamarbete.svg/76px-HSSamarbete.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:2px;">
+                <h2 style="font-weight:bold; border-bottom:0; font-size:125%; padding:.15em .4em; margin-top: 0">
+                 <span class="mw-headline" id="Comunidade">
+                  Comunidade
+                 </span>
+                </h2>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td>
+              <div style="padding-left:10px; padding-bottom:1px; padding-top:0px;">
+               De acordo coas
+               <a href="/wiki/Especial:Estat%C3%ADsticas" title="Especial:Estatísticas">
+                nosas estatísticas
+               </a>
+               , temos un total de 119 679 contas de usuario rexistradas na Galipedia, e entre elas 260 estiveron activas durante o último mes. Todas as persoas que editan a Galipedia son voluntarias, integrando unha comunidade colaborativa e coordinando os esforzos por medio de
+               <a href="/wiki/Wikipedia:Wikiproxecto" title="Wikipedia:Wikiproxecto">
+                proxectos temáticos
+               </a>
+               e diversos
+               <a href="/wiki/Wikipedia:A_Taberna" title="Wikipedia:A Taberna">
+                espazos de conversa
+               </a>
+               .
+               <div align="right" style="font-size:85%;">
+                <i>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Portal_da_comunidade" title="Wikipedia:Portal da comunidade">
+                   Portal da comunidade
+                  </a>
+                  •
+                 </span>
+                 <span style="white-space:nowrap">
+                  <a href="/wiki/Wikipedia:Pol%C3%ADticas_e_normas" title="Wikipedia:Políticas e normas">
+                   Políticas e normas
+                  </a>
+                 </span>
+                </i>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; border-radius:10px; font-size:90%">
+       <tbody>
+        <tr>
+         <td>
+          <table style="width:100%; padding:0px; margin-top:0px; margin-bottom:0px; background:#F1FAFF; padding:0.5em 1em 0.5em 1em; text-align:center;">
+           <tbody>
+            <tr style="text-align:center; font-size:85%;" valign="bottom">
+             <td>
+              <div class="noresize">
+               <a href="https://meta.wikimedia.org/wiki/Portada/gl" title="Meta-Wiki">
+                <img alt="Meta-Wiki" data-file-height="900" data-file-width="900" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/80px-Wikimedia_Community_Logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://meta.wikimedia.org/wiki/Portada/gl" title="m:Portada/gl">
+                <b>
+                 Meta-Wiki
+                </b>
+               </a>
+               <br/>
+               Coordinación
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://commons.wikimedia.org/wiki/Portada_galega" title="Commons">
+                <img alt="Wikimedia Commons" data-file-height="1376" data-file-width="1024" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" width="35"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://commons.wikimedia.org/wiki/Portada_galega" title="commons:Portada galega">
+                <b>
+                 Commons
+                </b>
+               </a>
+               <br/>
+               Multimedia
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://gl.wiktionary.org/wiki/" title="Galizionario">
+                <img alt="Wiktionary" data-file-height="120" data-file-width="120" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/40px-Wiktionary-logo-gl.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/60px-Wiktionary-logo-gl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wiktionary-logo-gl.png/80px-Wiktionary-logo-gl.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://gl.wiktionary.org/wiki/" title="wikt:">
+                <b>
+                 Galizionario
+                </b>
+               </a>
+               <br/>
+               Dicionario
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://gl.wikibooks.org/wiki/" title="Galilibros">
+                <img alt="Wikibooks" data-file-height="300" data-file-width="300" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://gl.wikibooks.org/wiki/" title="b:">
+                <b>
+                 Galilibros
+                </b>
+               </a>
+               <br/>
+               Libros
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://gl.wikisource.org/wiki/" title="Galifontes">
+                <img alt="Wikisource" data-file-height="430" data-file-width="410" decoding="async" height="42" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/80px-Wikisource-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://gl.wikisource.org/wiki/" title="s:">
+                <b>
+                 Galifontes
+                </b>
+               </a>
+               <br/>
+               Documentos
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://gl.wikiquote.org/wiki/" title="Galicitas">
+                <img alt="Wikiquote" data-file-height="355" data-file-width="300" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/80px-Wikiquote-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://gl.wikiquote.org/wiki/" title="q:">
+                <b>
+                 Galicitas
+                </b>
+               </a>
+               <br/>
+               Citas
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://species.wikimedia.org/wiki/Portada_galega" title="Wikispecies">
+                <img alt="Wikispecies" data-file-height="1103" data-file-width="941" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/80px-Wikispecies-logo.svg.png 2x" width="40"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://species.wikimedia.org/wiki/Portada_galega" title="wikispecies:Portada galega">
+                <b>
+                 Wikispecies
+                </b>
+               </a>
+               <br/>
+               Especies
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a class="plainlinks" href="//wikinews.org/" rel="nofollow" title="Wikinews">
+                <img alt="Wikinews" data-file-height="415" data-file-width="759" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/65px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/98px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/130px-Wikinews-logo.svg.png 2x" width="65"/>
+               </a>
+              </div>
+              <p>
+               <span class="plainlinks noprint">
+                <a class="external text" href="https://wikinews.org/">
+                 <b>
+                  Wikinews
+                 </b>
+                </a>
+               </span>
+               <br/>
+               Novas
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a class="plainlinks" href="//wikiversity.org/" rel="nofollow" title="Wikiversity">
+                <img alt="Wikiversity" data-file-height="800" data-file-width="1000" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/50px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/75px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/100px-Wikiversity-logo.svg.png 2x" width="50"/>
+               </a>
+              </div>
+              <p>
+               <span class="plainlinks noprint">
+                <a class="external text" href="https://wikiversity.org/">
+                 <b>
+                  Wikiversity
+                 </b>
+                </a>
+               </span>
+               <br/>
+               Aprendizaxe
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a class="plainlinks" href="//wikivoyage.org/" rel="nofollow" title="Wikivoyage">
+                <img alt="Wikivoyage" data-file-height="193" data-file-width="193" decoding="async" height="43" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/43px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/65px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/86px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="43"/>
+               </a>
+              </div>
+              <p>
+               <span class="plainlinks noprint">
+                <a class="external text" href="https://wikivoyage.org/">
+                 <b>
+                  Wikivoyage
+                 </b>
+                </a>
+               </span>
+               <br/>
+               Viaxes
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://www.wikidata.org/wiki/" title="Wikidata">
+                <img alt="Wikidata" data-file-height="590" data-file-width="1050" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/65px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/98px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/130px-Wikidata-logo.svg.png 2x" width="65"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://www.wikidata.org/wiki/" title="d:">
+                <b>
+                 Wikidata
+                </b>
+               </a>
+               <br/>
+               Datos
+              </p>
+             </td>
+             <td>
+              <div class="noresize">
+               <a href="https://www.mediawiki.org/wiki/MediaWiki/gl" title="MediaWiki">
+                <img alt="MediaWiki" data-file-height="100" data-file-width="100" decoding="async" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/50px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/75px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/100px-MediaWiki-2020-icon.svg.png 2x" width="50"/>
+               </a>
+              </div>
+              <p>
+               <a class="extiw" href="https://www.mediawiki.org/wiki/MediaWiki/gl" title="mw:MediaWiki/gl">
+                <b>
+                 MediaWiki
+                </b>
+               </a>
+               <br/>
+               Desenvolvemento
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- 
+NewPP limit report
+Parsed by mw1359
+Cached time: 20210929103522
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.210 seconds
+Real time usage: 0.281 seconds
+Preprocessor visited node count: 560/1000000
+Post‐expand include size: 41187/2097152 bytes
+Template argument size: 14262/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6605/5000000 bytes
+Lua time usage: 0.017/10.000 seconds
+Lua memory usage: 891626/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.561      1 -total
+ 45.61%   66.852      7 Modelo:PortadaCadro
+ 30.02%   43.997      1 Modelo:PortadaIrmáns
+ 21.11%   30.932      1 Modelo:PortadaTítulo
+ 19.01%   27.860      2 Modelo:Substituír
+ 12.39%   18.154      1 Modelo:Imaxe_do_día
+  9.27%   13.592      1 Wikipedia:Sobre_Galicia/setembro_2021
+  6.85%   10.033      1 Modelo:Imaxe_conxunta
+  4.30%    6.306      1 Modelo:PortadaComunidade
+  2.49%    3.642      1 Modelo:InterwikiPortada
+-->
+      <!-- Saved in parser cache with key glwiki:pcache:idhash:62904-0!canonical and timestamp 20210929103522 and revision id 5691536. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//gl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Traído desde "
+      <a dir="ltr" href="https://gl.wikipedia.org/w/index.php?title=Portada&amp;oldid=5691536">
+       https://gl.wikipedia.org/w/index.php?title=Portada&amp;oldid=5691536
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">
+       Categoría
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Categor%C3%ADa:%C3%8Dndice" title="Categoría:Índice">
+         Índice
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menú de navegación
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Ferramentas persoais
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Non accedeu ao sistema
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Especial:A_mi%C3%B1a_conversa" title="Conversa acerca de edicións feitas desde este enderezo IP [n]">
+         Conversa
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Especial:As_mi%C3%B1as_contribuci%C3%B3ns" title="Unha lista das modificacións feitas desde este enderezo IP [y]">
+         Contribucións
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Especial:Crear_unha_conta&amp;returnto=Portada" title="É recomendable que cree unha conta e acceda ao sistema, se ben non é obrigatorio">
+         Crear unha conta
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Especial:Iniciar_sesi%C3%B3n&amp;returnto=Portada" title="É recomendable que se rexistre, se ben non é obrigatorio [o]">
+         Acceder ao sistema
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Espazos de nomes
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Portada" title="Ver o contido da páxina [c]">
+          Portada
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Conversa:Portada" rel="discussion" title="Conversa acerca do contido desta páxina [t]">
+          Conversa
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Variantes
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Vistas
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Portada">
+          Ler
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Portada&amp;action=edit" title="Esta páxina está protexida.
+Pode ver o código fonte. [e]">
+          Ver o código fonte
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Portada&amp;action=history" title="Versións anteriores desta páxina [h]">
+          Ver o historial
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Mais opções">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Máis
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Procura
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Procurar en Wikipedia" title="Procurar neste wiki [f]" type="search"/>
+         <input name="title" type="hidden" value="Especial:Procurar"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Procurar este texto nas páxinas" type="submit" value="Procurar"/>
+         <input class="searchButton" id="searchButton" name="go" title="Ir a unha páxina con este texto exacto, se existe" type="submit" value="Artigo"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Portada" title="Visitar a páxina principal">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navegación
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Portada" title="Visitar a páxina principal [z]">
+         Portada
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:Portal_da_comunidade" title="Información acerca do proxecto, do que pode facer e dos lugares onde atopar as cousas">
+         Portal da comunidade
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-A-Taberna">
+        <a href="/wiki/Wikipedia:A_Taberna">
+         A Taberna
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Wikipedia:Actualidade" title="Información acerca de acontecementos de actualidade">
+         Actualidade
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Especial:Cambios_recentes" title="A lista de modificacións recentes no wiki [r]">
+         Cambios recentes
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Artigos-de-calidade">
+        <a href="/wiki/Wikipedia:Artigos_de_calidade">
+         Artigos de calidade
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Especial:Ao_chou" title="Cargar unha páxina ao chou [x]">
+         Páxina aleatoria
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Wikipedia:Axuda" title="O lugar para informarse">
+         Axuda
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_gl.wikipedia.org&amp;uselang=gl" title="Apóienos">
+         Doazóns
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Ferramentas
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Especial:P%C3%A1xinas_que_ligan_con_esta/Portada" title="Lista de todas as páxinas do wiki que ligan cara a aquí [j]">
+         Páxinas que ligan con esta
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Especial:Cambios_relacionados/Portada" rel="nofollow" title="Cambios recentes nas páxinas ligadas desde esta [k]">
+         Cambios relacionados
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Especial:P%C3%A1xinas_especiais" title="Lista de todas as páxinas especiais [q]">
+         Páxinas especiais
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Portada&amp;oldid=5691536" title="Ligazón permanente a esta versión da páxina">
+         Ligazón permanente
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Portada&amp;action=info" title="Máis información sobre esta páxina">
+         Información da páxina
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Especial:Cita&amp;page=Portada&amp;id=5691536&amp;wpFormIdentifier=titleform" title="Información sobre como citar esta páxina">
+         Citar esta páxina
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Ligazón ao elemento conectado no repositorio de datos [g]">
+         Elemento de Wikidata
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Imprimir/exportar
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Portada">
+         Crear un libro
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Portada&amp;action=show-download-screen">
+         Descargar como PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Portada&amp;printable=yes" title="Versión para imprimir da páxina [p]">
+         Versión para imprimir
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Noutros proxectos
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Wikisource multilingue
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://gl.wikibooks.org/wiki/Portada" hreflang="gl">
+         Wikibooks
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikidata
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://gl.wikiquote.org/wiki/Portada" hreflang="gl">
+         Wikiquote
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://gl.wikisource.org/wiki/Portada" hreflang="gl">
+         Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://gl.wiktionary.org/wiki/Wiktionary:P%C3%A1xina_principal" hreflang="gl">
+         Galizionario
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Outras linguas
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-an mw-list-item">
+        <a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/" hreflang="an" lang="an" title="aragonés">
+         Aragonés
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="árabe">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast mw-list-item">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/" hreflang="ast" lang="ast" title="asturiano">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="catalán">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/" hreflang="ceb" lang="ceb" title="cebuano">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="checo">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="dinamarqués">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="alemán">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="grego">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="inglés">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="español">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="éuscaro">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ext mw-list-item">
+        <a class="interlanguage-link-target" href="https://ext.wikipedia.org/wiki/" hreflang="ext" lang="ext" title="Extremaduran">
+         Estremeñu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="persa">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="finés">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="francés">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="hebreo">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="húngaro">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="indonesio">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="italiano">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="xaponés">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="coreano">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="latín">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="neerlandés">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="noruegués nynorsk">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="noruegués bokmål">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-oc mw-list-item">
+        <a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/" hreflang="oc" lang="oc" title="occitano">
+         Occitan
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="polaco">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portugués">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="romanés">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="ruso">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="serbocroata">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="sueco">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="turco">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="ucraíno">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="vietnamita">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war mw-list-item">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/" hreflang="war" lang="war" title="waray-waray">
+         Winaray
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="chinés">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     A última edición desta páxina foi o 5 de febreiro de 2021 ás 15:40.
+    </li>
+    <li id="footer-info-copyright">
+     Todo o texto está dispoñible baixo a
+     <a href="//gl.wikipedia.org/wiki/Wikipedia:Texto_da_Licenza_Creative_Commons_Reco%C3%B1ecemento-CompartirIgual_3.0" rel="license">
+      licenza Creative Commons recoñecemento compartir igual 3.0
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/deed.gl" rel="license" style="display:none;">
+     </a>
+     ; pódense aplicar termos adicionais. Consulte os
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use/gl">
+      termos de uso
+     </a>
+     para obter máis información.
+     <br/>
+     Wikipedia® é unha marca rexistrada da
+     <a href="//www.wikimediafoundation.org/wiki/Portada_galega">
+      Wikimedia Foundation, Inc.
+     </a>
+     , unha organización sen fins lucrativos.
+     <br/>
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/gl" title="m:Privacy policy/gl">
+      Política de protección de datos
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">
+      Acerca de Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Advertencia_xeral" title="Wikipedia:Advertencia xeral">
+      Advertencias
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//gl.m.wikipedia.org/w/index.php?title=Portada&amp;mobileaction=toggle_view_mobile">
+      Vista móbil
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Desenvolvedores
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/gl.wikipedia.org">
+      Estatísticas
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Declaración de cookies
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.210","walltime":"0.281","ppvisitednodes":{"value":560,"limit":1000000},"postexpandincludesize":{"value":41187,"limit":2097152},"templateargumentsize":{"value":14262,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6605,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.561      1 -total"," 45.61%   66.852      7 Modelo:PortadaCadro"," 30.02%   43.997      1 Modelo:PortadaIrmáns"," 21.11%   30.932      1 Modelo:PortadaTítulo"," 19.01%   27.860      2 Modelo:Substituír"," 12.39%   18.154      1 Modelo:Imaxe_do_día","  9.27%   13.592      1 Wikipedia:Sobre_Galicia/setembro_2021","  6.85%   10.033      1 Modelo:Imaxe_conxunta","  4.30%    6.306      1 Modelo:PortadaComunidade","  2.49%    3.642      1 Modelo:InterwikiPortada"]},"scribunto":{"limitreport-timeusage":{"value":"0.017","limit":"10.000"},"limitreport-memusage":{"value":891626,"limit":52428800}},"cachereport":{"origin":"mw1359","timestamp":"20210929103522","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Portada","url":"https:\/\/gl.wikipedia.org\/wiki\/Portada","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contribuidores dos projetos da Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-09-26T14:58:50Z","dateModified":"2021-02-05T15:40:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/62\/Gr%C3%A8bejougrisparade.jpg","headline":"P\u00e1xina principal de Wikimedia"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1409"});});
+  </script>
+ </body>
+</html>

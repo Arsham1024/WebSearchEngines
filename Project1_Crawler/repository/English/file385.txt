@@ -1,0 +1,2095 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="is">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedia, frjálsa alfræðiritið
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmyt","wgMonthNames":["","janúar","febrúar","mars","apríl","maí","júní","júlí","ágúst","september","október","nóvember","desember"],"wgRequestId":"25c3785f-56a4-4e7e-ad8d-db2bdebc6e35","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Forsíða","wgTitle":"Forsíða","wgCurRevisionId":1698247,"wgRevisionId":1698247,"wgArticleId":4,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Snið:Forsíðusnið"],"wgPageContentLanguage":"is","wgPageContentModel":"wikitext","wgRelevantPageName":"Forsíða","wgRelevantArticleId":4,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"is","pageLanguageDir":"ltr","pageVariantFallbacks":"is"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"íslenska","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.graabot":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"is"});
+});});
+  </script>
+  <link href="/w/load.php?lang=is&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=is&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=is&amp;modules=ext.gadget.graabot&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=is&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amhara_young_lady.jpg/1200px-Amhara_young_lady.jpg" property="og:image"/>
+  <meta content="Wikipedia, frjálsa alfræðiritið" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//is.m.wikipedia.org/wiki/Fors%C3%AD%C3%B0a" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (is)" type="application/opensearchdescription+xml"/>
+  <link href="//is.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://is.wikipedia.org/wiki/Fors%C3%AD%C3%B0a" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Forsíða rootpage-Forsíða skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Forsíða
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Úr Wikipediu, frjálsa alfræðiritinu
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="is">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r1664180">
+       .mw-parser-output .main-header{border-bottom-color:transparent;margin-bottom:0.25em;margin-top:0;padding-bottom:0;padding-top:0}.mw-parser-output .main-plainlist>ul{list-style:none;margin:0;padding:0}.mw-parser-output .main-plainlist li{margin-bottom:0}.mw-parser-output .main-top-right .mw-ui-quiet:hover,.mw-parser-output .main-top-right .mw-ui-quiet:focus,.mw-parser-output .main-footer .mw-ui-quiet:hover,.mw-parser-output .main-footer .mw-ui-quiet:focus{color:#0645ad}.mw-parser-output .mw-headline-number{display:none}@media(min-width:720px){.mw-parser-output .main-wikimedia{padding-top:1rem;padding-left:1rem;padding-right:1rem}}@media(min-width:1000px){.mw-parser-output .forsida-grid{display:grid;grid-template-columns:3fr 2fr;grid-gap:0 14px}.mw-parser-output .main-wrapper{display:flex}.mw-parser-output .main-wrapper-column{margin:0 0.5rem}.mw-parser-output .main-wikimedia{padding-top:1rem;padding-left:1rem;padding-right:1rem}}@media(min-width:1000px){.mw-parser-output .main-wrapper-column{width:55%}.mw-parser-output .main-wrapper-column+.main-wrapper-column{width:45%}.mw-parser-output .main-wrapper-column{flex:inherit}}.mw-parser-output .main-box{background:#fff;border:solid #c8ccd1;border-width:1px 0;box-shadow:0 1px 1px rgba(0,0,0,0.15);margin:0 -1rem 1rem;padding:1rem}.mw-parser-output .main-box>p:last-child{margin-bottom:0}.mw-parser-output .main-box-image-only>.main-box-content{margin:0.5rem -1rem 0;text-align:center}.mw-parser-output .main-box-image-only>.main-box-content img{height:auto;max-width:100%}.mw-parser-output .main-box-imageCaption{text-align:center}.mw-parser-output .main-box-imageCaption>p{display:inline-block;margin-bottom:0;text-align:left}.mw-parser-output .main-box-section{color:#72777d;line-height:1.25;margin-top:-.125em}.mw-parser-output .main-box-header{margin-top:-.15em}.mw-parser-output .main-box-header a{color:inherit}.mw-parser-output .main-box-section+.main-box-header{margin-top:0}.mw-parser-output .main-box-header a:focus,.mw-parser-output .main-box:hover .main-box-header a,.mw-parser-output .main-box:hover .main-featuredLists-item>a{color:#0645ad}@media(max-width:719px){.mw-parser-output .main-box{margin-bottom:0;border-bottom:0}.mw-parser-output .main-box-responsive-image>.floatleft,.mw-parser-output .main-box-responsive-image>.floatright{float:none;margin-left:-1rem;margin-right:-1rem;text-align:center}.mw-parser-output .main-box-responsive-image>.floatleft>a,.mw-parser-output .main-box-responsive-image>.floatright>a{display:block}}@media(min-width:720px){.mw-parser-output .main-box{border-radius:2px;border-width:1px;margin-bottom:1rem;margin-left:0;margin-right:0}}@media(min-width:1000px){.mw-parser-output .main-box{margin-bottom:1rem;padding:1rem}.mw-parser-output .main-box-image-only>.main-box-content{margin-left:-1rem;margin-right:-1rem}}.mw-parser-output .main-box{padding-bottom:10px}.mw-parser-output .main-box-content{}.mw-parser-output .main-footer{border-top:1px solid #d6d6d6;margin-top:7px;padding-top:9px}
+      </style>
+      <style data-mw-deduplicate="TemplateStyles:r1657245">
+       .mw-parser-output .main-top{font-size:1rem;margin-top:1rem;padding-bottom:1.5rem}.mw-parser-output .main-top-left>p{font-size:0.875em;margin:0}.mw-parser-output .main-top-right{font-size:0.875em;margin-top:0.5em}.mw-parser-output .main-top-right>ul{line-height:12px;font-size:16px;margin-top:0.5rem;margin-right:14px}.mw-parser-output .main-top-right>ul li .mw-ui-button{padding:0px 8px;color:inherit}.mw-parser-output .main-top-right>ul li .mw-ui-button:hover{text-decoration:underline}.mw-parser-output .main-top-header{border-bottom:0;margin-bottom:5px;margin-top:0}.mw-parser-output .main-top-articleCount{margin-bottom:0}@media(min-width:720px){.mw-parser-output .main-top{background-color:#f8f9fa;border:1px solid #c8ccd1;border-radius:2px;box-shadow:0 1px 1px rgba(0,0,0,.15);margin-bottom:1rem;margin-top:0;padding:1rem;text-align:center}.mw-parser-output .main-top-right>ul{font-size:18px;list-style:none;display:flex;flex-wrap:wrap;justify-content:center}.mw-parser-output .main-top-articleCount{margin-bottom:0px;font-size:12px}}@media(min-width:1000px){.mw-parser-output .main-top{align-items:center;background-image:url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Wikipedia_logo_letters_banner.svg");background-position:right;background-repeat:no-repeat;display:flex;margin-bottom:1rem;margin-top:0;padding:0 1.5rem 0 0}.mw-parser-output .main-top-left{background-image:linear-gradient(to right,#f8f9fa 0%,#f8f9fa 70%,rgba(248,249,250,0)100%);flex:2;padding:2rem 0 2rem 1.5rem;text-align:left}.mw-parser-output .main-top-right{flex:3;margin-top:0;text-align:right}.mw-parser-output .main-top-right>ul{align-items:flex-end;margin:7px 0;justify-content:flex-end}.mw-parser-output .main-top-articleCount{font-size:14px;margin:0}}body.skin-modern .mw-parser-output .main-top-header{line-height:1.8rem;font-size:1.8rem}
+      </style>
+      <div class="main-top">
+       <div class="main-top-left">
+        <h1 class="main-top-header">
+         <span id="Velkomin_.C3.A1_Wikiped.C3.ADu">
+         </span>
+         <span class="mw-headline" id="Velkomin_á_Wikipedíu">
+          Velkomin á Wikipedíu
+         </span>
+        </h1>
+        Alfræðiritið sem
+        <b>
+         allir
+        </b>
+        geta unnið að í sameiningu
+       </div>
+       <div class="main-top-right main-plainlist">
+        <ul>
+         <li>
+          <a href="/wiki/Wikipedia:Kynning" title="Wikipedia:Kynning">
+           <span class="mw-ui-button mw-ui-quiet">
+            Hvernig skrifa ég grein?
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Hj%C3%A1lp:Efnisyfirlit" title="Hjálp:Efnisyfirlit">
+           <span class="mw-ui-button mw-ui-quiet">
+            Hjálp!
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="/wiki/Wikipedia:Potturinn" title="Wikipedia:Potturinn">
+           <span class="mw-ui-button mw-ui-quiet">
+            Almennt spjall
+           </span>
+          </a>
+         </li>
+        </ul>
+        <p class="main-top-articleCount">
+         Á hinni
+         <a href="/wiki/%C3%8Dslenska_Wikipedia" title="Íslenska Wikipedia">
+          íslensku Wikipedíu
+         </a>
+         eru nú
+         <b>
+          53.234
+         </b>
+         greinar.
+        </p>
+       </div>
+      </div>
+      <div class="main-wrapper">
+       <div class="main-wrapper-column">
+        <div class="main-box">
+         <h2 class="main-header main-box-header">
+          <span id="Grein_m.C3.A1na.C3.B0arins">
+          </span>
+          <span class="mw-headline" id="Grein_mánaðarins">
+           Grein mánaðarins
+          </span>
+         </h2>
+         <div class="main-box-content">
+          <div style="float:left; margin: 0px 15px 0 0; border: 1px solid #333333">
+           <a class="image" href="/wiki/Mynd:Amhara_young_lady.jpg">
+            <img alt="Amhara young lady.jpg" data-file-height="1532" data-file-width="2298" decoding="async" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amhara_young_lady.jpg/270px-Amhara_young_lady.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amhara_young_lady.jpg/405px-Amhara_young_lady.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amhara_young_lady.jpg/540px-Amhara_young_lady.jpg 2x" width="270"/>
+           </a>
+          </div>
+          <p>
+           <b>
+            <a href="/wiki/Amharar" title="Amharar">
+             Amharar
+            </a>
+           </b>
+           (amharíska:  አማራ,
+           <i>
+            amara
+           </i>
+           , ge'ez: አምሐራ) eru
+           <a href="/wiki/%C3%9Ej%C3%B3%C3%B0arbrot" title="Þjóðarbrot">
+            þjóðarbrot
+           </a>
+           í
+           <a href="/wiki/E%C3%BE%C3%AD%C3%B3p%C3%ADa" title="Eþíópía">
+            Eþíópíu
+           </a>
+           sem búa aðallega í
+           <a class="new" href="/w/index.php?title=Amhara_(h%C3%A9ra%C3%B0)&amp;action=edit&amp;redlink=1" title="Amhara (hérað) (síða er ekki enn til)">
+            Amhara-héraði
+           </a>
+           landsins og tala
+           <a href="/wiki/Amhar%C3%ADska" title="Amharíska">
+            amharísku
+           </a>
+           . Amharar eru um 20 milljónir talsins og eru um 20% Eþíópíumanna. Þeir voru taldir næststærsti þjóðflokkurinn innan landsins í manntali árið 2007 á eftir
+           <a href="/wiki/Or%C3%B3m%C3%B3ar" title="Orómóar">
+            Orómóum
+           </a>
+           .
+          </p>
+          <p>
+           Amharaþjóðin hefur sögulega byggt norðurhluta, miðhluta og vesturhluta Eþíópíu. Flestir Amharar eru bændur og raunar eru Amharar taldir meðal fyrstu landbúnaðarþjóða ríkisins. Talið er að þeir hafi hafið landbúnaðarsögu sína með rækt á
+           <a href="/wiki/Korn" title="Korn">
+            korni
+           </a>
+           í heimahéruðum sínum, meðal annars á
+           <a class="new" href="/w/index.php?title=Hvingresi&amp;action=edit&amp;redlink=1" title="Hvingresi (síða er ekki enn til)">
+            hvingresi
+           </a>
+           og
+           <a class="new" href="/w/index.php?title=N%C3%ADgerurtarfr%C3%A6&amp;action=edit&amp;redlink=1" title="Nígerurtarfræ (síða er ekki enn til)">
+            nígerurtarfræum
+           </a>
+           .
+          </p>
+          <p>
+           Flestir Amharar eru
+           <a href="/wiki/Kristni" title="Kristni">
+            kristnir
+           </a>
+           og
+           <a href="/wiki/E%C3%BE%C3%AD%C3%B3p%C3%ADska_r%C3%A9tttr%C3%BAna%C3%B0arkirkjan" title="Eþíópíska rétttrúnaðarkirkjan">
+            eþíópíska rétttrúnaðarkirkjan
+           </a>
+           gegnir mikilvægu hlutverki í menningu þeirra. Samkvæmt manntali ársins 2007 eru 82,5% íbúa Amharahéraðsins meðlimir í eþíópísku rétttrúnaðarkirkjunni; 17,2% eru
+           <a href="/wiki/%C3%8Dslam" title="Íslam">
+            múslimar
+           </a>
+           (aðallega í
+           <a class="new" href="/w/index.php?title=Wollo&amp;action=edit&amp;redlink=1" title="Wollo (síða er ekki enn til)">
+            Wollo-héraðinu
+           </a>
+           ), 0,2% voru
+           <a href="/wiki/M%C3%B3tm%C3%A6lendatr%C3%BA" title="Mótmælendatrú">
+            mótmælendur
+           </a>
+           og 0,5
+           <a href="/wiki/Gy%C3%B0ingd%C3%B3mur" title="Gyðingdómur">
+            gyðingar
+           </a>
+           .
+          </p>
+          <div align="right">
+           <small>
+            <i>
+             Fyrri mánuðir:
+             <a href="/wiki/Fianna_F%C3%A1il" title="Fianna Fáil">
+              Fianna Fáil
+             </a>
+             –
+             <a href="/wiki/Ungverjaland" title="Ungverjaland">
+              Ungverjaland
+             </a>
+             –
+             <a href="/wiki/Elizabeth_Cady_Stanton" title="Elizabeth Cady Stanton">
+              Elizabeth Cady Stanton
+             </a>
+             –
+             <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">
+              Harry S. Truman
+             </a>
+             –
+             <a href="/wiki/Svalur_og_Valur" title="Svalur og Valur">
+              Svalur og Valur
+             </a>
+            </i>
+           </small>
+          </div>
+         </div>
+         <div class="main-footer">
+          <a href="/wiki/Wikipedia:Grein_m%C3%A1na%C3%B0arins/2021" title="Wikipedia:Grein mánaðarins/2021">
+           Eldri greinar
+          </a>
+          –
+          <a class="new" href="/w/index.php?title=Wikipediaspjall:Grein_m%C3%A1na%C3%B0arins/10,_2021&amp;action=edit&amp;redlink=1" title="Wikipediaspjall:Grein mánaðarins/10, 2021 (síða er ekki enn til)">
+           Tilnefna
+          </a>
+          grein mánaðarins
+         </div>
+        </div>
+        <div class="main-box">
+         <h2 class="main-header main-box-header">
+          <span id=".C3.8D_fr.C3.A9ttum">
+          </span>
+          <span class="mw-headline" id="Í_fréttum">
+           Í fréttum
+          </span>
+         </h2>
+         <div class="main-box-content">
+          <div class="floatright">
+           <img alt="" data-file-height="3543" data-file-width="2362" decoding="async" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sigur%C3%B0ur_Ingi.jpg/200px-Sigur%C3%B0ur_Ingi.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sigur%C3%B0ur_Ingi.jpg/300px-Sigur%C3%B0ur_Ingi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sigur%C3%B0ur_Ingi.jpg/400px-Sigur%C3%B0ur_Ingi.jpg 2x" width="200"/>
+          </div>
+          <ul>
+           <li>
+            <a href="/wiki/26._september" title="26. september">
+             26. september
+            </a>
+            :
+            <b>
+             <a href="/wiki/Jafna%C3%B0armannaflokkurinn_(%C3%9E%C3%BDskaland)" title="Jafnaðarmannaflokkurinn (Þýskaland)">
+              Jafnaðarmannaflokkurinn
+             </a>
+            </b>
+            undir forystu
+            <a href="/wiki/Olaf_Scholz" title="Olaf Scholz">
+             Olafs Scholz
+            </a>
+            vinnur flest sæti í þingkosningum í
+            <a href="/wiki/%C3%9E%C3%BDskaland" title="Þýskaland">
+             Þýskalandi
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/25._september" title="25. september">
+             25. september
+            </a>
+            :
+            <a href="/wiki/R%C3%A1%C3%B0uneyti_Katr%C3%ADnar_Jakobsd%C3%B3ttur" title="Ráðuneyti Katrínar Jakobsdóttur">
+             Ríkisstjórn
+            </a>
+            <a href="/wiki/Vinstrihreyfingin_%E2%80%93_gr%C3%A6nt_frambo%C3%B0" title="Vinstrihreyfingin – grænt framboð">
+             Vinstri grænna
+            </a>
+            ,
+            <a href="/wiki/Sj%C3%A1lfst%C3%A6%C3%B0isflokkurinn" title="Sjálfstæðisflokkurinn">
+             Sjálfstæðisflokksins
+            </a>
+            og
+            <a href="/wiki/Frams%C3%B3knarflokkurinn" title="Framsóknarflokkurinn">
+             Framsóknarflokksins
+            </a>
+            heldur meirihluta sínum í
+            <b>
+             <a href="/wiki/Al%C3%BEingiskosningar_2021" title="Alþingiskosningar 2021">
+              Alþingiskosningum á Íslandi
+             </a>
+            </b>
+            . Framsóknarflokkurinn undir forystu
+            <a href="/wiki/Sigur%C3%B0ur_Ingi_J%C3%B3hannsson" title="Sigurður Ingi Jóhannsson">
+             Sigurðar Inga Jóhannssonar
+            </a>
+            (
+            <i>
+             sjá mynd
+            </i>
+            ) bætir við sig fimm þingmönnum.
+           </li>
+           <li>
+            <a href="/wiki/22._september" title="22. september">
+             22. september
+            </a>
+            : Miðgarðakirkja í
+            <b>
+             <a href="/wiki/Gr%C3%ADmsey" title="Grímsey">
+              Grímsey
+             </a>
+            </b>
+            brennur.
+           </li>
+           <li>
+            <a href="/wiki/20._september" title="20. september">
+             20. september
+            </a>
+            :
+            <b>
+             <a href="/wiki/Justin_Trudeau" title="Justin Trudeau">
+              Justin Trudeau
+             </a>
+            </b>
+            , forsætisráðherra
+            <a href="/wiki/Kanada" title="Kanada">
+             Kanada
+            </a>
+            , heldur flestum sætum á kanadíska þinginu eftir að hafa boðað til kosninga.
+           </li>
+           <li>
+            <a href="/wiki/19._september" title="19. september">
+             19. september
+            </a>
+            : Eldgos hefst í Cumbre Vieja á
+            <b>
+             <a href="/wiki/La_Palma" title="La Palma">
+              La Palma
+             </a>
+            </b>
+            á Kanaríeyjum. Um 5.000 íbúar í námunda við eldgosið yfirgefa heimili sín. Mörg hús verða hrauni að bráð.
+           </li>
+           <li>
+            <a href="/wiki/14._september" title="14. september">
+             14. september
+            </a>
+            : Íbúar
+            <a href="/wiki/Kaliforn%C3%ADa" title="Kalifornía">
+             Kaliforníu
+            </a>
+            kjósa á móti því að víkja
+            <a href="/wiki/Fylkisstj%C3%B3ri_(Bandar%C3%ADkin)" title="Fylkisstjóri (Bandaríkin)">
+             fylkisstjóranum
+            </a>
+            <b>
+             <a href="/wiki/Gavin_Newsom" title="Gavin Newsom">
+              Gavin Newsom
+             </a>
+            </b>
+            úr embætti.
+           </li>
+          </ul>
+          <p>
+           <b>
+            Yfirstandandi:
+           </b>
+           <a href="/wiki/Borgarastyrj%C3%B6ldin_%C3%AD_Jemen_(2015%E2%80%93)" title="Borgarastyrjöldin í Jemen (2015–)">
+            Borgarastyrjöldin í Jemen
+           </a>
+           •
+           <a href="/wiki/Eldgosi%C3%B0_vi%C3%B0_Fagradalsfjall_2021" title="Eldgosið við Fagradalsfjall 2021">
+            Eldgosið við Fagradalsfjall
+           </a>
+           •
+           <a href="/wiki/K%C3%B3r%C3%B3naveirufaraldurinn_2019-2021" title="Kórónaveirufaraldurinn 2019-2021">
+            Kórónaveirufaraldurinn
+           </a>
+           •
+           <a href="/wiki/S%C3%BDrlenska_borgarastyrj%C3%B6ldin" title="Sýrlenska borgarastyrjöldin">
+            Sýrlenska borgarastyrjöldin
+           </a>
+           <br/>
+          </p>
+          <b>
+           Nýleg andlát
+          </b>
+          :
+          <a href="/wiki/Abdelaziz_Bouteflika" title="Abdelaziz Bouteflika">
+           Abdelaziz Bouteflika
+          </a>
+          (17. september)  •
+          <a href="/wiki/Vilborg_Dagbjartsd%C3%B3ttir" title="Vilborg Dagbjartsdóttir">
+           Vilborg Dagbjartsdóttir
+          </a>
+          (16. september)  •
+          <a href="/wiki/%C3%81lfr%C3%BAn_Gunnlaugsd%C3%B3ttir" title="Álfrún Gunnlaugsdóttir">
+           Álfrún Gunnlaugsdóttir
+          </a>
+          (15. september)  •
+          <a href="/wiki/J%C3%B3n_Sigur%C3%B0sson_(f._1946)" title="Jón Sigurðsson (f. 1946)">
+           Jón Sigurðsson
+          </a>
+          (10. september)  •
+          <a href="/wiki/Jorge_Sampaio" title="Jorge Sampaio">
+           Jorge Sampaio
+          </a>
+          (10. september)  •
+          <a href="/wiki/Mikis_%C3%9Ee%C3%B3d%C3%B3rakis" title="Mikis Þeódórakis">
+           Mikis Þeódórakis
+          </a>
+          (2. september)
+         </div>
+         <div class="main-footer">
+          Sjá
+          <a href="/wiki/2021" title="2021">
+           aðra atburði ársins
+          </a>
+         </div>
+        </div>
+        <p>
+         <br/>
+        </p>
+       </div>
+       <div class="main-wrapper-column">
+        <div class="main-box">
+         <h2 class="main-header main-box-header">
+          <span id="Atbur.C3.B0ir_28._september">
+          </span>
+          <span class="mw-headline" id="Atburðir_28._september">
+           Atburðir 28. september
+          </span>
+         </h2>
+         <div class="main-box-content">
+          <ul>
+           <li>
+            <a href="/wiki/2010" title="2010">
+             2010
+            </a>
+            - Alþingi samþykkti að sækja
+            <a href="/wiki/Geir_H._Haarde" title="Geir H. Haarde">
+             Geir H. Haarde
+            </a>
+            fyrir
+            <a href="/wiki/Landsd%C3%B3mur" title="Landsdómur">
+             Landsdóm
+            </a>
+            á grundvelli laga um
+            <a class="new" href="/w/index.php?title=R%C3%A1%C3%B0herra%C3%A1byrg%C3%B0&amp;action=edit&amp;redlink=1" title="Ráðherraábyrgð (síða er ekki enn til)">
+             ráðherraábyrgð
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/2010" title="2010">
+             2010
+            </a>
+            - Óveður sem gekk yfir
+            <a class="new" href="/w/index.php?title=Oaxaca&amp;action=edit&amp;redlink=1" title="Oaxaca (síða er ekki enn til)">
+             Oaxaca
+            </a>
+            í Mexíkó olli sjö dauðsföllum.
+           </li>
+           <li>
+            <a href="/wiki/2011" title="2011">
+             2011
+            </a>
+            -
+            <a class="new" href="/w/index.php?title=KB-Hallen&amp;action=edit&amp;redlink=1" title="KB-Hallen (síða er ekki enn til)">
+             KB-Hallen
+            </a>
+            í Kaupmannahöfn eyðilagðist í bruna.
+           </li>
+           <li>
+            <a href="/wiki/2014" title="2014">
+             2014
+            </a>
+            -
+            <a class="new" href="/w/index.php?title=M%C3%B3tm%C3%A6lin_%C3%AD_Hong_Kong_2014&amp;action=edit&amp;redlink=1" title="Mótmælin í Hong Kong 2014 (síða er ekki enn til)">
+             Mótmælin í Hong Kong 2014
+            </a>
+            : Þúsundir mótmælenda tóku yfir skrifstofur stjórnar Hong Kong.
+           </li>
+           <li>
+            <a href="/wiki/2015" title="2015">
+             2015
+            </a>
+            -
+            <a href="/wiki/Geimfer%C3%B0astofnun_Bandar%C3%ADkjanna" title="Geimferðastofnun Bandaríkjanna">
+             Geimferðastofnun Bandaríkjanna
+            </a>
+            tilkynnti að fljótandi vatn hefði fundist á yfirborði
+            <a href="/wiki/Mars_(reikistjarna)" title="Mars (reikistjarna)">
+             Mars
+            </a>
+            .
+           </li>
+           <li>
+            <a href="/wiki/2015" title="2015">
+             2015
+            </a>
+            - Sérstakur
+            <a href="/wiki/Tunglmyrkvi" title="Tunglmyrkvi">
+             tunglmyrkvi
+            </a>
+            , kallaður
+            <a class="new" href="/w/index.php?title=Bl%C3%B3%C3%B0m%C3%A1ni&amp;action=edit&amp;redlink=1" title="Blóðmáni (síða er ekki enn til)">
+             blóðmáni
+            </a>
+            , sást víða.
+           </li>
+           <li>
+            <a href="/wiki/2016" title="2016">
+             2016
+            </a>
+            - Alþjóðleg rannsóknarnefnd komst að því að
+            <a class="new" href="/w/index.php?title=Malaysia_Airlines_flug_17&amp;action=edit&amp;redlink=1" title="Malaysia Airlines flug 17 (síða er ekki enn til)">
+             Malaysia Airlines flug 17
+            </a>
+            hafi verið skotið niður með rússneskri
+            <a class="new" href="/w/index.php?title=Buk-eldflaug&amp;action=edit&amp;redlink=1" title="Buk-eldflaug (síða er ekki enn til)">
+             Buk-eldflaug
+            </a>
+            skotið af uppreisnarmönnum í Úkraínu.
+           </li>
+           <li>
+            <a href="/wiki/2016" title="2016">
+             2016
+            </a>
+            -
+            <a href="/wiki/Koltv%C3%ADs%C3%BDringur" title="Koltvísýringur">
+             Koltvísýringur
+            </a>
+            í andrúmsloftinu mældist í fyrsta sinn meiri en 400 ppm.
+           </li>
+           <li>
+            <a href="/wiki/2018" title="2018">
+             2018
+            </a>
+            - Yfir 4000 manns fórust þegar
+            <a class="new" href="/w/index.php?title=Jar%C3%B0skj%C3%A1lftinn_og_fl%C3%B3%C3%B0bylgjan_%C3%A1_S%C3%BAlaves%C3%AD_2018&amp;action=edit&amp;redlink=1" title="Jarðskjálftinn og flóðbylgjan á Súlavesí 2018 (síða er ekki enn til)">
+             jarðskjálfti olli flóðbylgju
+            </a>
+            sem gekk á land á Súlavesí í Indónesíu.
+           </li>
+          </ul>
+         </div>
+         <div class="main-footer">
+          Sjá hvað fleira gerðist
+          <a href="/wiki/28._september" title="28. september">
+           28. september
+          </a>
+         </div>
+        </div>
+        <div class="main-box">
+         <h2 class="main-header main-box-header">
+          <span id="Vissir_.C3.BE.C3.BA...">
+          </span>
+          <span class="mw-headline" id="Vissir_þú...">
+           Vissir þú...
+          </span>
+         </h2>
+         <div class="main-box-content">
+          <div class="floatright">
+           <a class="image" href="/wiki/Mynd:James_IV_of_Scotland.jpg" title="Jakob 4. Skotakonungur">
+            <img alt="Jakob 4. Skotakonungur" data-file-height="690" data-file-width="540" decoding="async" height="256" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/James_IV_of_Scotland.jpg/200px-James_IV_of_Scotland.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/James_IV_of_Scotland.jpg/300px-James_IV_of_Scotland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/James_IV_of_Scotland.jpg/400px-James_IV_of_Scotland.jpg 2x" width="200"/>
+           </a>
+          </div>
+          <ul>
+           <li>
+            … að
+            <b>
+             <a href="/wiki/Arna_Sigr%C3%AD%C3%B0ur_Albertsd%C3%B3ttir" title="Arna Sigríður Albertsdóttir">
+              Arna Sigríður Albertsdóttir
+             </a>
+            </b>
+            varð í ár fyrsti Íslendingurinn til að taka þátt í handahjólreiðum á
+            <a href="/wiki/%C3%93lymp%C3%ADum%C3%B3t_fatla%C3%B0ra" title="Ólympíumót fatlaðra">
+             Ólympíuleikum fatlaðra
+            </a>
+            ?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að
+            <b>
+             <a href="/wiki/Sigur%C3%B0ur_J%C3%B3nasson" title="Sigurður Jónasson">
+              Sigurður Jónasson
+             </a>
+            </b>
+            (1886-1965), forstjóri, gaf íslenska ríkinu
+            <a href="/wiki/Bessasta%C3%B0ir" title="Bessastaðir">
+             Bessastaði
+            </a>
+            og
+            <a href="/wiki/Geysir" title="Geysir">
+             Geysi
+            </a>
+            ?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að tæplega helmingur íbúa
+            <a href="/wiki/Afganistan" title="Afganistan">
+             Afganistans
+            </a>
+            eru
+            <b>
+             <a href="/wiki/Past%C3%BAnar" title="Pastúnar">
+              Pastúnar
+             </a>
+            </b>
+            ?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að
+            <b>
+             <a href="/wiki/Jakob_4._Skotakonungur" title="Jakob 4. Skotakonungur">
+              Jakob 4. Skotakonungur
+             </a>
+            </b>
+            (
+            <i>
+             sjá mynd
+            </i>
+            ) var síðasti þjóðhöfðingi í Bretlandseyjum sem féll í bardaga?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að
+            <b>
+             <a href="/wiki/Lori_Lightfoot" title="Lori Lightfoot">
+              Lori Lightfoot
+             </a>
+            </b>
+            er fyrsta
+            <a href="/wiki/Svartir_Bandar%C3%ADkjamenn" title="Svartir Bandaríkjamenn">
+             bandaríska blökkukonan
+            </a>
+            og fyrsta
+            <a href="/wiki/Hinsegin" title="Hinsegin">
+             hinsegin
+            </a>
+            manneskjan sem hefur verið
+            <a href="/wiki/Borgarstj%C3%B3ri" title="Borgarstjóri">
+             borgarstjóri
+            </a>
+            <a href="/wiki/Chicago" title="Chicago">
+             Chicago
+            </a>
+            ?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að
+            <a href="/wiki/Ma%C3%B3ismi" title="Maóismi">
+             maóísku
+            </a>
+            hryðjuverkasamtökin
+            <b>
+             <a href="/wiki/Sk%C3%ADnandi_st%C3%ADgur" title="Skínandi stígur">
+              Skínandi stígur
+             </a>
+            </b>
+            í
+            <a href="/wiki/Per%C3%BA" title="Perú">
+             Perú
+            </a>
+            voru þekkt fyrir meiri þátttöku kvenna en vanalegt var hjá skæruliðahreyfingum í Rómönsku Ameríku?
+           </li>
+          </ul>
+          <ul>
+           <li>
+            … að
+            <b>
+             <a href="/wiki/%C3%9Eurrlendi" title="Þurrlendi">
+              þurrlendi
+             </a>
+            </b>
+            þekur 29,2% af yfirborði
+            <a href="/wiki/J%C3%B6r%C3%B0in" title="Jörðin">
+             Jarðar
+            </a>
+            ?
+           </li>
+          </ul>
+         </div>
+         <div class="main-footer">
+          Úr
+          <a href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDjustu_greinar" title="Kerfissíða:Nýjustu greinar">
+           nýjustu greinunum
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div style="clear:left; width: 100%; margin-bottom: 0.4em;">
+       <div style="padding: 0.8em;">
+        <span style="font-size: 1.1em; font-weight: bold; text-transform: uppercase; border-bottom: 0; padding-bottom: 0px;">
+         Efnisyfirlit
+        </span>
+       </div>
+       <div style="padding:0.8em">
+        <div id="left" style="float:left; width:48%; margin-right:1em;">
+         <div>
+          <div class="floatleft">
+           <img alt="örgjörvi" data-file-height="128" data-file-width="128" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Creative-Tail-rocket.svg/60px-Creative-Tail-rocket.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Creative-Tail-rocket.svg/90px-Creative-Tail-rocket.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Creative-Tail-rocket.svg/120px-Creative-Tail-rocket.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <b>
+          <a href="/wiki/Flokkur:T%C3%A6kni" title="Flokkur:Tækni">
+           Tækni
+          </a>
+          og
+          <a href="/wiki/Flokkur:Hagn%C3%BDtt_v%C3%ADsindi" title="Flokkur:Hagnýtt vísindi">
+           hagnýtt vísindi
+          </a>
+         </b>
+         <p>
+          <a href="/wiki/Flokkur:Fjarskiptat%C3%A6kni" title="Flokkur:Fjarskiptatækni">
+           Fjarskiptatækni
+          </a>
+          •
+          <a href="/wiki/Flokkur:I%C3%B0na%C3%B0ur" title="Flokkur:Iðnaður">
+           Iðnaður
+          </a>
+          •
+          <a href="/wiki/Flokkur:Interneti%C3%B0" title="Flokkur:Internetið">
+           Internetið
+          </a>
+          •
+          <a href="/wiki/Flokkur:Landb%C3%BAna%C3%B0ur" title="Flokkur:Landbúnaður">
+           Landbúnaður
+          </a>
+          •
+          <a href="/wiki/Flokkur:Lyfjafr%C3%A6%C3%B0i" title="Flokkur:Lyfjafræði">
+           Lyfjafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Rafeindafr%C3%A6%C3%B0i" title="Flokkur:Rafeindafræði">
+           Rafeindafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Rafmagn" title="Flokkur:Rafmagn">
+           Rafmagn
+          </a>
+          •
+          <a href="/wiki/Flokkur:Samg%C3%B6ngur" title="Flokkur:Samgöngur">
+           Samgöngur
+          </a>
+          •
+          <a href="/wiki/Flokkur:Stj%C3%B3rnun" title="Flokkur:Stjórnun">
+           Stjórnun
+          </a>
+          •
+          <a href="/wiki/Flokkur:Uppl%C3%BDsingat%C3%A6kni" title="Flokkur:Upplýsingatækni">
+           Upplýsingatækni
+          </a>
+          •
+          <a href="/wiki/Flokkur:Verkfr%C3%A6%C3%B0i" title="Flokkur:Verkfræði">
+           Verkfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:V%C3%A9lfr%C3%A6%C3%B0i" title="Flokkur:Vélfræði">
+           Vélfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:%C3%9Ejarkafr%C3%A6%C3%B0i" title="Flokkur:Þjarkafræði">
+           Þjarkafræði
+          </a>
+         </p>
+         <div>
+          <div class="floatleft">
+           <img alt="litapalletta" data-file-height="512" data-file-width="512" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Creative-Tail-Objects-paper-plane.svg/60px-Creative-Tail-Objects-paper-plane.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Creative-Tail-Objects-paper-plane.svg/90px-Creative-Tail-Objects-paper-plane.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Creative-Tail-Objects-paper-plane.svg/120px-Creative-Tail-Objects-paper-plane.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <b>
+          <a href="/wiki/Flokkur:Menning" title="Flokkur:Menning">
+           Menning
+          </a>
+         </b>
+         <p>
+          <a href="/wiki/Flokkur:Af%C3%BEreying" title="Flokkur:Afþreying">
+           Afþreying
+          </a>
+          •
+          <a href="/wiki/Flokkur:B%C3%B3kmenntir" title="Flokkur:Bókmenntir">
+           Bókmenntir
+          </a>
+          •
+          <a href="/wiki/Flokkur:Byggingarlist" title="Flokkur:Byggingarlist">
+           Byggingarlist
+          </a>
+          •
+          <a href="/wiki/Flokkur:Dulspeki" title="Flokkur:Dulspeki">
+           Dulspeki
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fer%C3%B0amennska" title="Flokkur:Ferðamennska">
+           Ferðamennska
+          </a>
+          •
+          <a href="/wiki/Flokkur:Gar%C3%B0yrkja" title="Flokkur:Garðyrkja">
+           Garðyrkja
+          </a>
+          •
+          <a href="/wiki/Flokkur:Go%C3%B0afr%C3%A6%C3%B0i" title="Flokkur:Goðafræði">
+           Goðafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Heilsa" title="Flokkur:Heilsa">
+           Heilsa
+          </a>
+          •
+          <a href="/wiki/Flokkur:%C3%8D%C3%BEr%C3%B3ttir" title="Flokkur:Íþróttir">
+           Íþróttir
+          </a>
+          •
+          <a href="/wiki/Flokkur:Kvikmyndir" title="Flokkur:Kvikmyndir">
+           Kvikmyndir
+          </a>
+          •
+          <a href="/wiki/Flokkur:Kynl%C3%ADf" title="Flokkur:Kynlíf">
+           Kynlíf
+          </a>
+          •
+          <a href="/wiki/Flokkur:Leikir" title="Flokkur:Leikir">
+           Leikir
+          </a>
+          •
+          <a href="/wiki/Flokkur:List" title="Flokkur:List">
+           List
+          </a>
+          •
+          <a href="/wiki/Flokkur:Matur_og_drykkir" title="Flokkur:Matur og drykkir">
+           Matur og drykkir
+          </a>
+          •
+          <a href="/wiki/Flokkur:Myndlist" title="Flokkur:Myndlist">
+           Myndlist
+          </a>
+          •
+          <a href="/wiki/Flokkur:T%C3%B3nlist" title="Flokkur:Tónlist">
+           Tónlist
+          </a>
+          •
+          <a href="/wiki/Flokkur:Tr%C3%BAarbr%C3%B6g%C3%B0" title="Flokkur:Trúarbrögð">
+           Trúarbrögð
+          </a>
+         </p>
+         <div>
+          <div class="floatleft">
+           <img alt="fígura og blá talblaðra" data-file-height="128" data-file-width="128" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Creative-Tail-People-speaker.svg/60px-Creative-Tail-People-speaker.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Creative-Tail-People-speaker.svg/90px-Creative-Tail-People-speaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Creative-Tail-People-speaker.svg/120px-Creative-Tail-People-speaker.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <b>
+          <a href="/wiki/Flokkur:Stj%C3%B3rnm%C3%A1l" title="Flokkur:Stjórnmál">
+           Stjórnmál
+          </a>
+          og
+          <a href="/wiki/Flokkur:Samf%C3%A9lagi%C3%B0" title="Flokkur:Samfélagið">
+           samfélagið
+          </a>
+         </b>
+         <p>
+          <a href="/wiki/Flokkur:Atvinna" title="Flokkur:Atvinna">
+           Atvinna
+          </a>
+          •
+          <a href="/wiki/Flokkur:Borgarsamf%C3%A9l%C3%B6g" title="Flokkur:Borgarsamfélög">
+           Borgarsamfélög
+          </a>
+          •
+          <a href="/wiki/Flokkur:F%C3%A9lagasamt%C3%B6k" title="Flokkur:Félagasamtök">
+           Félagasamtök
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fj%C3%B6lmi%C3%B0lar" title="Flokkur:Fjölmiðlar">
+           Fjölmiðlar
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fj%C3%B6lskylda" title="Flokkur:Fjölskylda">
+           Fjölskylda
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fyrirt%C3%A6ki" title="Flokkur:Fyrirtæki">
+           Fyrirtæki
+          </a>
+          •
+          <a href="/wiki/Flokkur:Herna%C3%B0ur" title="Flokkur:Hernaður">
+           Hernaður
+          </a>
+          •
+          <a href="/wiki/Flokkur:L%C3%B6gfr%C3%A6%C3%B0i" title="Flokkur:Lögfræði">
+           Lögfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Mannr%C3%A9ttindi" title="Flokkur:Mannréttindi">
+           Mannréttindi
+          </a>
+          •
+          <a href="/wiki/Flokkur:Umhverfi%C3%B0" title="Flokkur:Umhverfið">
+           Umhverfið
+          </a>
+          •
+          <a href="/wiki/Flokkur:Verslun" title="Flokkur:Verslun">
+           Verslun
+          </a>
+         </p>
+        </div>
+        <div id="right" style="float:right; width:48%;">
+         <div>
+          <div class="floatleft">
+           <img alt="rótin af x" data-file-height="128" data-file-width="128" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Creative-Tail-microscope.svg/60px-Creative-Tail-microscope.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Creative-Tail-microscope.svg/90px-Creative-Tail-microscope.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Creative-Tail-microscope.svg/120px-Creative-Tail-microscope.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <p>
+          <b>
+           <a href="/wiki/Flokkur:N%C3%A1tt%C3%BAruv%C3%ADsindi" title="Flokkur:Náttúruvísindi">
+            Náttúruvísindi
+           </a>
+           og
+           <a href="/wiki/Flokkur:St%C3%A6r%C3%B0fr%C3%A6%C3%B0i" title="Flokkur:Stærðfræði">
+            stærðfræði
+           </a>
+          </b>
+          <br/>
+          <a href="/wiki/Flokkur:D%C3%BDrafr%C3%A6%C3%B0i" title="Flokkur:Dýrafræði">
+           Dýrafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:E%C3%B0lisfr%C3%A6%C3%B0i" title="Flokkur:Eðlisfræði">
+           Eðlisfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Efnafr%C3%A6%C3%B0i" title="Flokkur:Efnafræði">
+           Efnafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Grasafr%C3%A6%C3%B0i" title="Flokkur:Grasafræði">
+           Grasafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Jar%C3%B0fr%C3%A6%C3%B0i" title="Flokkur:Jarðfræði">
+           Jarðfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Landafr%C3%A6%C3%B0i" title="Flokkur:Landafræði">
+           Landafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:L%C3%ADffr%C3%A6%C3%B0i" title="Flokkur:Líffræði">
+           Líffræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:N%C3%A1tt%C3%BAran" title="Flokkur:Náttúran">
+           Náttúran
+          </a>
+          •
+          <a href="/wiki/Flokkur:Stj%C3%B6rnufr%C3%A6%C3%B0i" title="Flokkur:Stjörnufræði">
+           Stjörnufræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:St%C3%A6r%C3%B0fr%C3%A6%C3%B0i" title="Flokkur:Stærðfræði">
+           Stærðfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Vistfr%C3%A6%C3%B0i" title="Flokkur:Vistfræði">
+           Vistfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:V%C3%ADsindaleg_flokkun" title="Flokkur:Vísindaleg flokkun">
+           Vísindaleg flokkun
+          </a>
+          •
+          <a href="/wiki/Flokkur:V%C3%ADsindi" title="Flokkur:Vísindi">
+           Vísindi
+          </a>
+         </p>
+         <div>
+          <div class="floatleft">
+           <img alt="tvær fígúrur" data-file-height="512" data-file-width="512" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Creative-Tail-Objects-mirror.svg/60px-Creative-Tail-Objects-mirror.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Creative-Tail-Objects-mirror.svg/90px-Creative-Tail-Objects-mirror.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Creative-Tail-Objects-mirror.svg/120px-Creative-Tail-Objects-mirror.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <b>
+          <a href="/wiki/Flokkur:Ma%C3%B0urinn" title="Flokkur:Maðurinn">
+           Mann-
+          </a>
+          og
+          <a href="/wiki/Flokkur:F%C3%A9lagsv%C3%ADsindi" title="Flokkur:Félagsvísindi">
+           félagsvísindi
+          </a>
+         </b>
+         <p>
+          <a href="/wiki/Flokkur:F%C3%A9lagsfr%C3%A6%C3%B0i" title="Flokkur:Félagsfræði">
+           Félagsfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fornfr%C3%A6%C3%B0i" title="Flokkur:Fornfræði">
+           Fornfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Fornleifafr%C3%A6%C3%B0i" title="Flokkur:Fornleifafræði">
+           Fornleifafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Hagfr%C3%A6%C3%B0i" title="Flokkur:Hagfræði">
+           Hagfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Heimspeki" title="Flokkur:Heimspeki">
+           Heimspeki
+          </a>
+          •
+          <a href="/wiki/Flokkur:Mannfr%C3%A6%C3%B0i" title="Flokkur:Mannfræði">
+           Mannfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:M%C3%A1lfr%C3%A6%C3%B0i" title="Flokkur:Málfræði">
+           Málfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:M%C3%A1lv%C3%ADsindi" title="Flokkur:Málvísindi">
+           Málvísindi
+          </a>
+          •
+          <a href="/wiki/Flokkur:Menntun" title="Flokkur:Menntun">
+           Menntun
+          </a>
+          •
+          <a href="/wiki/Flokkur:Saga" title="Flokkur:Saga">
+           Saga
+          </a>
+          •
+          <a href="/wiki/Flokkur:S%C3%A1lfr%C3%A6%C3%B0i" title="Flokkur:Sálfræði">
+           Sálfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Tungum%C3%A1l" title="Flokkur:Tungumál">
+           Tungumál
+          </a>
+          •
+          <a href="/wiki/Flokkur:T%C3%B3nfr%C3%A6%C3%B0i" title="Flokkur:Tónfræði">
+           Tónfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Uppeldisfr%C3%A6%C3%B0i" title="Flokkur:Uppeldisfræði">
+           Uppeldisfræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Vi%C3%B0skiptafr%C3%A6%C3%B0i" title="Flokkur:Viðskiptafræði">
+           Viðskiptafræði
+          </a>
+          •
+          <a href="/wiki/Flokkur:Vitsmunav%C3%ADsindi" title="Flokkur:Vitsmunavísindi">
+           Vitsmunavísindi
+          </a>
+         </p>
+         <div>
+          <div class="floatleft">
+           <img alt="Púsl með merki Wikipediu" data-file-height="512" data-file-width="512" decoding="async" height="60" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Creative-Tail-Objects-sign-left.svg/60px-Creative-Tail-Objects-sign-left.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Creative-Tail-Objects-sign-left.svg/90px-Creative-Tail-Objects-sign-left.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Creative-Tail-Objects-sign-left.svg/120px-Creative-Tail-Objects-sign-left.svg.png 2x" width="60"/>
+          </div>
+         </div>
+         <p>
+          <b>
+           Ýmislegt
+          </b>
+          <br/>
+          <a href="/wiki/Flokkur:Listar" title="Flokkur:Listar">
+           Listar
+          </a>
+          •
+          <a href="/wiki/Wikipedia:G%C3%A6%C3%B0agreinar" title="Wikipedia:Gæðagreinar">
+           Gæðagreinar
+          </a>
+          •
+          <a href="/wiki/Wikipedia:%C3%9Arvalsgreinar" title="Wikipedia:Úrvalsgreinar">
+           Úrvalsgreinar
+          </a>
+          •
+          <a href="/wiki/Flokkur:Grunnflokkar" title="Flokkur:Grunnflokkar">
+           Efnisflokkatré
+          </a>
+          •
+          <a href="/wiki/Wikipedia:Fl%C3%BDtiv%C3%ADsir" title="Wikipedia:Flýtivísir">
+           Flýtivísir
+          </a>
+          •
+          <a href="/wiki/Kerfiss%C3%AD%C3%B0a:Handah%C3%B3fsvalin_s%C3%AD%C3%B0a" title="Kerfissíða:Handahófsvalin síða">
+           Handahófsvalin síða
+          </a>
+          •
+          <a href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDjustu_greinar" title="Kerfissíða:Nýjustu greinar">
+           Nýjustu greinar
+          </a>
+          •
+          <a href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDlegar_breytingar" title="Kerfissíða:Nýlegar breytingar">
+           Nýlegar breytingar
+          </a>
+          •
+          <a href="/wiki/Kerfiss%C3%AD%C3%B0a:Eftirs%C3%B3ttar_s%C3%AD%C3%B0ur" title="Kerfissíða:Eftirsóttar síður">
+           Eftirsóttar síður
+          </a>
+         </p>
+        </div>
+        <p>
+         <br clear="all"/>
+        </p>
+       </div>
+       <div class="main-box plainlinks">
+        <h2 class="main-header main-box-header" style="text-align:center">
+         <span class="mw-headline" id="Systurverkefni">
+          Systurverkefni
+         </span>
+        </h2>
+        <table align="center" cellpadding="2" class="plainlinks" style="text-align:left" width="85%">
+         <tbody>
+          <tr>
+           <td>
+            <div class="noresize">
+             <a href="https://is.wiktionary.org/wiki/Fors%C3%AD%C3%B0a" title="Wikiorðabók">
+              <img alt="vefsíða Wikiorðabókar" data-file-height="155" data-file-width="135" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wiktionary-logo-is.png/35px-Wiktionary-logo-is.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wiktionary-logo-is.png/53px-Wiktionary-logo-is.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wiktionary-logo-is.png/70px-Wiktionary-logo-is.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://is.wiktionary.org/wiki/Fors%C3%AD%C3%B0a" title="wikt:Forsíða">
+             <b>
+              Wikiorðabók
+             </b>
+            </a>
+            <br/>
+            Orðabók og samheitaorðabók
+           </td>
+           <td>
+            <div class="noresize">
+             <a href="https://is.wikibooks.org/wiki/Fors%C3%AD%C3%B0a" title="Wikibækur">
+              <img alt="vefsíða Wikibóka" data-file-height="300" data-file-width="300" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://is.wikibooks.org/wiki/Fors%C3%AD%C3%B0a" title="b:Forsíða">
+             <b>
+              Wikibækur
+             </b>
+            </a>
+            <br/>
+            Frjálsar kennslu- og handbækur
+           </td>
+           <td>
+            <div class="noresize">
+             <a href="https://is.wikiquote.org/wiki/Fors%C3%AD%C3%B0a" title="Wikivitnun">
+              <img alt="vefsíða Wikitilvitnunar" data-file-height="355" data-file-width="300" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://is.wikiquote.org/wiki/Fors%C3%AD%C3%B0a" title="q:Forsíða">
+             <b>
+              Wikivitnun
+             </b>
+            </a>
+            <br/>
+            Safn tilvitnana
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <div class="noresize">
+             <a href="https://is.wikisource.org/wiki/Fors%C3%AD%C3%B0a" title="Wikiheimild">
+              <img alt="vefsíða Wikiheimildar" data-file-height="430" data-file-width="410" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://is.wikisource.org/wiki/Fors%C3%AD%C3%B0a" title="s:Forsíða">
+             <b>
+              Wikiheimild
+             </b>
+            </a>
+            <br/>
+            Frjálsar grunnheimildir
+           </td>
+           <td>
+            <div class="noresize">
+             <a href="https://species.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="Wikilífverur">
+              <img alt="vefsíða Wikilífvera" data-file-height="1103" data-file-width="941" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://species.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="wikispecies:Forsíða (íslenska)">
+             <b>
+              Wikilífverur
+             </b>
+            </a>
+            <br/>
+            Safn tegunda lífvera
+           </td>
+           <td>
+            <div class="noresize">
+             <a href="https://meta.wikimedia.org/wiki/incubator:Wn/is/Fors%C3%AD%C3%B0a" title="Wikfréttir">
+              <img alt="vefsíða Wikifrétta" data-file-height="415" data-file-width="800" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/35px-Wikinews-logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/53px-Wikinews-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/70px-Wikinews-logo.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://meta.wikimedia.org/wiki/incubator:Wn/is/Fors%C3%AD%C3%B0a" title="m:incubator:Wn/is/Forsíða">
+             <b>
+              Wikifréttir
+             </b>
+            </a>
+            <br/>
+            Frjálst fréttaefni
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <div class="noresize">
+             <a href="https://commons.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="Commons">
+              <img alt="vefsíða Commons" data-file-height="1376" data-file-width="1024" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://commons.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="commons:Forsíða (íslenska)">
+             <b>
+              Commons
+             </b>
+            </a>
+            <br/>
+            Samnýtt margmiðlunarsafn
+           </td>
+           <td>
+            <div class="noresize">
+             <a href="https://meta.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="Meta-Wiki">
+              <img alt="vefsíða Wikimedia" data-file-height="1024" data-file-width="1024" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://meta.wikimedia.org/wiki/Fors%C3%AD%C3%B0a_(%C3%ADslenska)" title="m:Forsíða (íslenska)">
+             <b>
+              Meta-Wiki
+             </b>
+            </a>
+            <br/>
+            Samvinna milli allra verkefna
+           </td>
+           <td>
+            <div class="noresize">
+             <a class="plainlinks" href="http://www.wikiversity.org" rel="nofollow" title="Wikiháskóli">
+              <img alt="vefsíða Wikiháskóla" data-file-height="800" data-file-width="1000" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/35px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/53px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/70px-Wikiversity-logo.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="external text" href="https://www.wikiversity.org">
+             <b>
+              Wikiháskóli
+             </b>
+            </a>
+            <br/>
+            Frjálst kennsluefni og verkefni
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <div class="noresize">
+             <a href="https://www.wikidata.org/wiki/Wikidata:Fors%C3%AD%C3%B0a/is" title="Wikidata">
+              <img alt="vefsíða Wikidata" data-file-height="744" data-file-width="1052" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/35px-Wikidata-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/53px-Wikidata-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/70px-Wikidata-logo-en.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:Fors%C3%AD%C3%B0a/is" title="wikidata:Wikidata:Forsíða/is">
+             <b>
+              Wikidata
+             </b>
+            </a>
+            <br/>
+            Samnýttur þekkingagrunnur
+           </td>
+           <td>
+            <div class="noresize">
+             <a class="plainlinks" href="http://www.wikivoyage.org" rel="nofollow" title="Wikivoyage">
+              <img alt="vefsíða Wikivoyage" data-file-height="193" data-file-width="193" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="external text" href="https://www.wikivoyage.org">
+             <b>
+              Wikivoyage
+             </b>
+            </a>
+            <br/>
+            Ferðaleiðarvísar
+           </td>
+           <td>
+            <div class="noresize">
+             <a class="plainlinks" href="http://www.wikivoyage.org" rel="nofollow" title="Wikivoyage">
+              <img alt="vefsíða Wikivoyage" data-file-height="102" data-file-width="135" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" width="35"/>
+             </a>
+            </div>
+           </td>
+           <td>
+            <a class="external text" href="https://mediawiki.org">
+             <b>
+              Mediawiki
+             </b>
+            </a>
+            <br/>
+            Þróun wikihugbúnaðarins
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20210928134758
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.179 seconds
+Real time usage: 0.228 seconds
+Preprocessor visited node count: 148/1000000
+Post‐expand include size: 13200/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 12054/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   87.796      1 -total
+ 37.78%   33.170      1 Snið:Systurverkefni
+ 29.98%   26.321      1 Snið:Forsíða/Haus
+  7.24%    6.360      1 Snið:Forsíða/Efnisyfirlit
+  3.95%    3.465      1 Wikipedia:Í_fréttum...
+  3.91%    3.434      1 28._september
+  3.83%    3.361      1 Wikipedia:Grein_mánaðarins/09,_2021
+  3.62%    3.179      1 Wikipedia:Vissir_þú...
+  3.46%    3.042      1 Snið:Grein_mánaðarins/Tilnefningar
+  3.37%    2.963      1 Snið:Forsíða/Tungumálatenglar
+-->
+      <!-- Saved in parser cache with key iswiki:pcache:idhash:4-0!canonical and timestamp 20210928134758 and revision id 1698247. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//is.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Sótt frá „
+      <a dir="ltr" href="https://is.wikipedia.org/w/index.php?title=Forsíða&amp;oldid=1698247">
+       https://is.wikipedia.org/w/index.php?title=Forsíða&amp;oldid=1698247
+      </a>
+      “
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Kerfiss%C3%AD%C3%B0a:Flokkar" title="Kerfissíða:Flokkar">
+       Flokkur
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Flokkur:Sni%C3%B0:Fors%C3%AD%C3%B0usni%C3%B0" title="Flokkur:Snið:Forsíðusnið">
+         Snið:Forsíðusnið
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Leiðsagnarval
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Tenglar
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Ekki skráð/ur inn
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Kerfiss%C3%AD%C3%B0a:Spjallas%C3%AD%C3%B0a_m%C3%ADn" title="Spjallsíðan fyrir þetta vistfang [n]">
+         Spjall
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Kerfiss%C3%AD%C3%B0a:Framl%C3%B6g_m%C3%ADn" title="Listi yfir breytingar sem hafa verið gerðar frá þessu vistfangi [y]">
+         Framlög
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Kerfiss%C3%AD%C3%B0a:B%C3%BAa_til_a%C3%B0gang&amp;returnto=Fors%C3%AD%C3%B0a" title="Þú ert hvattur/hvött til að búa til aðgang og skrá þig inn, en það er ekki skylda.">
+         Stofna aðgang
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Kerfiss%C3%AD%C3%B0a:Innskr%C3%A1&amp;returnto=Fors%C3%AD%C3%B0a" title="Þú ert hvattur/hvött til að innskrá þig, það er hinsvegar ekki skylda. [o]">
+         Skrá inn
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Nafnrými
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Fors%C3%AD%C3%B0a" title="Sýna síðuna [c]">
+          Forsíða
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Spjall:Fors%C3%AD%C3%B0a" rel="discussion" title="Spallsíða þessarar síðu [t]">
+          Spjall
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Útgáfur
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Sýn
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Fors%C3%AD%C3%B0a">
+          Lesa
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Fors%C3%AD%C3%B0a&amp;action=edit" title="Síða þessi er vernduð. Þú getur þó skoðað frumkóða hennar. [e]">
+          Skoða efni
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Fors%C3%AD%C3%B0a&amp;action=history" title="Eldri útgáfur af síðunni. [h]">
+          Breytingaskrá
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Meira
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Leit
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Leita á Wikipedia" title="Leit á þessari Wiki [f]" type="search"/>
+         <input name="title" type="hidden" value="Kerfissíða:Leit"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Leita á síðunum eftir þessum texta" type="submit" value="Leita"/>
+         <input class="searchButton" id="searchButton" name="go" title="Fara á síðu með þessu nafni ef hún er til" type="submit" value="Áfram"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Fors%C3%AD%C3%B0a" title="Forsíða">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Flakk
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage">
+        <a accesskey="z" href="/wiki/Fors%C3%AD%C3%B0a" title="Forsíða Wikipedia [z]">
+         Forsíða
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Úrvalsefni">
+        <a href="/wiki/G%C3%A1tt:%C3%9Arvalsefni">
+         Úrvalsefni
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Efnisflokkar">
+        <a href="/wiki/Flokkur:Efnisflokkar">
+         Efnisflokkar
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Kerfiss%C3%AD%C3%B0a:Handah%C3%B3fsvalin_s%C3%AD%C3%B0a" title="Handahófsvalin síða [x]">
+         Handahófsvalin síða
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Hj%C3%A1lp:Efnisyfirlit" title="Efnisyfirlit yfir hjálparsíður.">
+         Hjálp
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-verkefnið-label" class="mw-portlet mw-portlet-verkefnið vector-menu vector-menu-portal portal" id="p-verkefnið" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-verkefnið-label">
+      <span>
+       Verkefnið
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDlegar_breytingar" title="Listi yfir nýlegar breytingar. [r]">
+         Nýlegar breytingar
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-newpages">
+        <a href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDjustu_greinar">
+         Nýjustu greinar
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:Samf%C3%A9lagsg%C3%A1tt" title="Um verkefnið, hvernig er hægt að hjálpa og hvar á að byrja">
+         Samfélagsgátt
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Potturinn">
+        <a href="/wiki/Wikipedia:Potturinn">
+         Potturinn
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_is.wikipedia.org&amp;uselang=is" title="Fjárframlagssíða">
+         Fjárframlög
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Verkfæri
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Kerfiss%C3%AD%C3%B0a:S%C3%AD%C3%B0ur_sem_tengjast_hinga%C3%B0/Fors%C3%AD%C3%B0a" title="Listi yfir síður sem tengjast í þessa [j]">
+         Hvað tengist hingað
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Kerfiss%C3%AD%C3%B0a:N%C3%BDlegar_breytingar_tengdar/Fors%C3%AD%C3%B0a" rel="nofollow" title="Nýlegar breytingar á ítengdum síðum [k]">
+         Skyldar breytingar
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:Hlaða_inn_skrá" title="Hlaða inn skrám [u]">
+         Hlaða inn skrá
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Kerfiss%C3%AD%C3%B0a:Kerfiss%C3%AD%C3%B0ur" title="Listi yfir kerfissíður [q]">
+         Kerfissíður
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Fors%C3%AD%C3%B0a&amp;oldid=1698247" title="Varanlegur tengill">
+         Varanlegur tengill
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Fors%C3%AD%C3%B0a&amp;action=info" title="Frekari upplýsingar um þessa síðu">
+         Síðuupplýsingar
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Kerfiss%C3%AD%C3%B0a:CiteThisPage&amp;page=Fors%C3%AD%C3%B0a&amp;id=1698247&amp;wpFormIdentifier=titleform" title="Upplýsingar um hvernig á að vitna í þessa síðu">
+         Vitna í þessa síðu
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Tengill á tengdan hlut í gagnagrunni [g]">
+         Wikidata hlutur
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Prenta/sækja
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Kerfiss%C3%AD%C3%B0a:Book&amp;bookcmd=book_creator&amp;referer=Fors%C3%AD%C3%B0a">
+         Búa til bók
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Kerfiss%C3%AD%C3%B0a:DownloadAsPdf&amp;page=Fors%C3%AD%C3%B0a&amp;action=show-download-screen">
+         Sækja PDF-skrá
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Fors%C3%AD%C3%B0a&amp;printable=yes" title="Prentanleg útgáfa af þessari síðu [p]">
+         Prentvæn útgáfa
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Í öðrum verkefnum
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://is.wikibooks.org/wiki/Fors%C3%AD%C3%B0a" hreflang="is">
+         Wikibooks
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wikidata
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://is.wikiquote.org/wiki/Wikivitnun:Fors%C3%AD%C3%B0a" hreflang="is">
+         Wikiquote
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://is.wikisource.org/wiki/Fors%C3%AD%C3%B0a" hreflang="is">
+         Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://is.wiktionary.org/wiki/Wikior%C3%B0ab%C3%B3k:Fors%C3%AD%C3%B0a" hreflang="is">
+         Wiktionary
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Á öðrum tungumálum
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="arabíska">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="búlgarska">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="katalónska">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce mw-list-item">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/" hreflang="ce" lang="ce" title="tsjetsjenska">
+         Нохчийн
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/" hreflang="ceb" lang="ceb" title="kebúanó">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="tékkneska">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="danska">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="þýska">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="enska">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="spænska">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="eistneska">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="finnska">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fo mw-list-item">
+        <a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/" hreflang="fo" lang="fo" title="færeyska">
+         Føroyskt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="franska">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ga mw-list-item">
+        <a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/" hreflang="ga" lang="ga" title="írska">
+         Gaeilge
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="hebreska">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="króatíska">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="ungverska">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="indónesíska">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="ítalska">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="japanska">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kl mw-list-item">
+        <a class="interlanguage-link-target" href="https://kl.wikipedia.org/wiki/" hreflang="kl" lang="kl" title="grænlenska">
+         Kalaallisut
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="kóreska">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="latína">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lmo mw-list-item">
+        <a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/" hreflang="lmo" lang="lmo" title="Lombard">
+         Lombard
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="hollenska">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="nýnorska">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="norskt bókmál">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="pólska">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portúgalska">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="rúmenska">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="rússneska">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sco mw-list-item">
+        <a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/" hreflang="sco" lang="sco" title="skoska">
+         Scots
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-se mw-list-item">
+        <a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/" hreflang="se" lang="se" title="norðursamíska">
+         Davvisámegiella
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="slóvakíska">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="slóvenska">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="serbneska">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="sænska">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-te mw-list-item">
+        <a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/" hreflang="te" lang="te" title="telúgú">
+         తెలుగు
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="tyrkneska">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="úkraínska">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="víetnamska">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="kínverska">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Þessari síðu var síðast breytt 2. janúar 2021, klukkan 00:52.
+    </li>
+    <li id="footer-info-copyright">
+     Textinn er gefinn út samkvæmt
+     <a href="//is.wikipedia.org/wiki/Wikipedia:H%C3%B6fundar%C3%A9ttur">
+      Creative Commons Tilvísun-DeilaEins leyfi
+     </a>
+     .
+Sjá nánar í
+     <a href="//wikimediafoundation.org/wiki/Terms_of_use">
+      notkunarskilmálum
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Meðferð persónuupplýsinga
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:Um_verkefni%C3%B0" title="Wikipedia:Um verkefnið">
+      Um Wikipediu
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Almennur_fyrirvari" title="Wikipedia:Almennur fyrirvari">
+      Fyrirvarar
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//is.m.wikipedia.org/w/index.php?title=Fors%C3%AD%C3%B0a&amp;mobileaction=toggle_view_mobile">
+      Farsímaútgáfa
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Forritarar
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/is.wikipedia.org">
+      Tölfræði
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Yfirlýsing vegna vefkakna
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.179","walltime":"0.228","ppvisitednodes":{"value":148,"limit":1000000},"postexpandincludesize":{"value":13200,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12054,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   87.796      1 -total"," 37.78%   33.170      1 Snið:Systurverkefni"," 29.98%   26.321      1 Snið:Forsíða/Haus","  7.24%    6.360      1 Snið:Forsíða/Efnisyfirlit","  3.95%    3.465      1 Wikipedia:Í_fréttum...","  3.91%    3.434      1 28._september","  3.83%    3.361      1 Wikipedia:Grein_mánaðarins/09,_2021","  3.62%    3.179      1 Wikipedia:Vissir_þú...","  3.46%    3.042      1 Snið:Grein_mánaðarins/Tilnefningar","  3.37%    2.963      1 Snið:Forsíða/Tungumálatenglar"]},"cachereport":{"origin":"mw1319","timestamp":"20210928134758","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Fors\u00ed\u00f0a","url":"https:\/\/is.wikipedia.org\/wiki\/Fors%C3%AD%C3%B0a","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-26T11:15:54Z","dateModified":"2021-01-02T00:52:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Amhara_young_lady.jpg","headline":"fors\u00ed\u00f0a Wikimedia verkefna"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":289,"wgHostname":"mw1452"});});
+  </script>
+ </body>
+</html>

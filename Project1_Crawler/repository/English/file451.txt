@@ -1,0 +1,3126 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="myv">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Википедиясь
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Якшамков","Даволков","Эйзюрков","Чадыков","Панжиков","Аштемков","Медьков","Умарьков","Таштамков","Ожоков","Сундерьков","Ацамков"],"wgRequestId":"0cfa2ea9-8227-440c-beb3-6a4cff3c909f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Прявтлопа","wgTitle":"Прявтлопа","wgCurRevisionId":123866,"wgRevisionId":123866,"wgArticleId":240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"myv","wgPageContentModel":"wikitext","wgRelevantPageName":"Прявтлопа","wgRelevantArticleId":240,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"myv","pageLanguageDir":"ltr","pageVariantFallbacks":"myv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"эрзянь","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready",
+"mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.referenceTooltips","ext.gadget.edittop","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"myv"});
+});});
+  </script>
+  <link href="/w/load.php?lang=myv&amp;modules=ext.inputBox.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=myv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=myv&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg/1200px-%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg" property="og:image"/>
+  <meta content="Википедиясь" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//myv.m.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=edit" rel="alternate" title="Витнемс-петнемс" type="application/x-wiki"/>
+  <link href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=edit" rel="edit" title="Витнемс-петнемс"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Википедиясь (myv)" type="application/opensearchdescription+xml"/>
+  <link href="//myv.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://myv.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Прявтлопа rootpage-Прявтлопа skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Прявтлопа
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Википедиясто материал - аорев содамкундосто
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Перейти к навигации
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Перейти к поиску
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="myv">
+     <div class="mw-parser-output">
+      <table style="width:100%; margin-bottom:2px;">
+       <tbody>
+        <tr>
+         <td class="globegris" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+          <table style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;">
+           <tbody>
+            <tr>
+             <td style="height:3em;padding-left:150px">
+              <div class="floatleft">
+               <img alt="Erzya Flag.svg" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Erzya_Flag.svg/75px-Erzya_Flag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Erzya_Flag.svg/113px-Erzya_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Erzya_Flag.svg/150px-Erzya_Flag.svg.png 2x" width="75"/>
+              </div>
+              <span style="font-size:185%;">
+               Паро мельсэ совадо
+               <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C" title="Википедиясь">
+                Википедияс
+               </a>
+               ,
+              </span>
+              <br/>
+              <span>
+               <i>
+                олячинь аорев содамкундос, конань маштови витнемс-петнемс эрьвантень
+               </i>
+              </span>
+             </td>
+             <td style="padding:1em;text-align:right;line-height:1.3">
+              <a href="/wiki/2021_%D0%B8%D0%B5" title="2021 ие">
+               2021 ие
+              </a>
+              ,
+              <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2" title="Таштамков">
+               Таштамковонь
+              </a>
+              28 чи, Вастаньчи, 11:32
+              <a class="new" href="/w/index.php?title=UTC&amp;action=edit&amp;redlink=1" title="UTC (истямо лопа арась)">
+               UTC
+              </a>
+              <br/>
+              Википедиясо
+              <b>
+               <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Башка тевень:Статистика">
+                6581
+               </a>
+              </b>
+              <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%92%D0%B5%D1%81%D0%B5%D0%9B%D0%BE%D0%BF%D0%B0%D1%82" title="Башка тевень:ВесеЛопат">
+               лопат
+              </a>
+              .
+              <br/>
+              <span class="plainlinks" style="font-size:90%;">
+               <a class="external text" href="https://myv.m.wikipedia.org">
+                Мобильной версия
+               </a>
+               ,
+               <a class="external text" href="https://myv.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=purge">
+                Одкстомтомс
+               </a>
+              </span>
+             </td>
+            </tr>
+            <tr>
+             <td colspan="2" style="text-align:center;">
+              <table cellpadding="5" cellspacing="0" style="border:0px; background:none;" width="100%">
+               <tbody>
+                <tr>
+                 <td style="font-size: 10px; width: 50%; text-align:center;">
+                  Do not speak Erzya? Check the
+                  <b>
+                   <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9F%D0%BE%D1%81%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%BD%D0%B5" title="Википедиясь:Посольстватне">
+                    Embassy page
+                   </a>
+                  </b>
+                  of our Wikipedia.
+                 </td>
+                 <td style="font-size: 10px; width: 50%; text-align:center;">
+                  Не владеете эрзянским языком? Заходите в
+                  <b>
+                   <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9F%D0%BE%D1%81%D0%BE%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%D1%82%D0%BD%D0%B5" title="Википедиясь:Посольстватне">
+                    посольство
+                   </a>
+                  </b>
+                  нашей Википедии.
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="margin-top:10px; background:none;">
+       <tbody>
+        <tr>
+         <td style="width:65%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+          <table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+           <tbody>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/38px-HS_Liste.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/57px-HS_Liste.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/HS_Liste.svg/76px-HS_Liste.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 Нурька тексттнэ
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Нурька тексттнэ">
+                <table style="background-color:transparent">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <b>
+                     <big>
+                      <a href="/wiki/%D0%99%D0%BE%D0%B2%D0%BB%D0%B0%D0%BD%D1%8C_%D0%9E%D0%BB%D0%BE" title="Йовлань Оло">
+                       Йовлань Оло
+                      </a>
+                     </big>
+                    </b>
+                   </td>
+                  </tr>
+                  <tr style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+                   <td>
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Jovlanj_Olonj_kevrungozo.jpg">
+                      <img alt="Jovlanj Olonj kevrungozo.jpg" data-file-height="4000" data-file-width="3000" decoding="async" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jovlanj_Olonj_kevrungozo.jpg/110px-Jovlanj_Olonj_kevrungozo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jovlanj_Olonj_kevrungozo.jpg/165px-Jovlanj_Olonj_kevrungozo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jovlanj_Olonj_kevrungozo.jpg/220px-Jovlanj_Olonj_kevrungozo.jpg 2x" width="110"/>
+                     </a>
+                    </div>
+                    <b>
+                     Йóвлань Оло
+                    </b>
+                    —
+                    <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                     эрзянь
+                    </a>
+                    содавикс Ине морыця-седиця,
+                    <a href="/wiki/%C2%AB%D0%A2%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%C2%BB_%D0%BC%D0%BE%D1%80%D0%B0%D0%BC%D0%BE-%D1%81%D0%B5%D0%B4%D1%8F%D0%BC%D0%BE_%D0%BA%D1%83%D0%B6%D0%BE" title="«Торама» морамо-седямо кужо">
+                     «Торама» морамо-седямо кужонть
+                    </a>
+                    пурныцязо-ветицязо.
+                    <br/>
+                    <b>
+                     <a href="/wiki/%D0%99%D0%BE%D0%B2%D0%BB%D0%B0%D0%BD%D1%8C_%D0%9E%D0%BB%D0%BE" title="Йовлань Оло">
+                      Ловнодо седе тов…
+                     </a>
+                    </b>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+                <hr/>
+                <table style="background-color:transparent">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <b>
+                     <big>
+                      <a href="/wiki/%D0%A6%D0%B8%D0%BF%D0%B8%D1%80%D1%8C%D0%BA%D0%B0%D0%B9" title="Ципирькай">
+                       Ципирькай
+                      </a>
+                     </big>
+                    </b>
+                   </td>
+                  </tr>
+                  <tr style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+                   <td>
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Amaranthus_tricolor_(in_a_flowerbed)_01.jpg">
+                      <img alt="Amaranthus tricolor (in a flowerbed) 01.jpg" data-file-height="2112" data-file-width="2816" decoding="async" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg/110px-Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg/165px-Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg/220px-Amaranthus_tricolor_%28in_a_flowerbed%29_01.jpg 2x" width="110"/>
+                     </a>
+                    </div>
+                    <b>
+                     Ципирькай
+                    </b>
+                    — вейкеиень
+                    <a href="/wiki/%D0%A2%D0%B8%D0%BA%D1%88%D0%B5" title="Тикше">
+                     тикше
+                    </a>
+                    вишка цеця марто, пурназь вейсэ.
+                    <br/>
+                    <b>
+                     <a href="/wiki/%D0%A6%D0%B8%D0%BF%D0%B8%D1%80%D1%8C%D0%BA%D0%B0%D0%B9" title="Ципирькай">
+                      Ловнодо седе тов…
+                     </a>
+                    </b>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+                <hr/>
+                <table style="background-color:transparent">
+                 <tbody>
+                  <tr>
+                   <td>
+                    <b>
+                     <big>
+                      <a class="mw-redirect" href="/wiki/%D0%9D%D1%83%D0%BC%D0%BE%D0%BB%D0%BE" title="Нумоло">
+                       Нумоло
+                      </a>
+                     </big>
+                    </b>
+                   </td>
+                  </tr>
+                  <tr style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+                   <td>
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Lepus_capensis_arabicus.jpg">
+                      <img alt="Lepus capensis arabicus.jpg" data-file-height="1439" data-file-width="2162" decoding="async" height="73" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lepus_capensis_arabicus.jpg/110px-Lepus_capensis_arabicus.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lepus_capensis_arabicus.jpg/165px-Lepus_capensis_arabicus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lepus_capensis_arabicus.jpg/220px-Lepus_capensis_arabicus.jpg 2x" width="110"/>
+                     </a>
+                    </div>
+                    <b>
+                     Ну́молот
+                    </b>
+                    — те идем
+                    <a href="/wiki/%D0%A0%D0%B0%D0%BA%D1%88%D0%B0%D1%82" title="Ракшат">
+                     ракша
+                    </a>
+                    .
+                    <br/>
+                    <b>
+                     <a class="mw-redirect" href="/wiki/%D0%9D%D1%83%D0%BC%D0%BE%D0%BB%D0%BE" title="Нумоло">
+                      Ловнодо седе тов…
+                     </a>
+                    </b>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9D%D1%83%D1%80%D1%8C%D0%BA%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%82%D0%BD%D1%8D" title="ЛопаПарцун:Нурька тексттнэ">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/38px-PL_Wiki_InM_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/57px-PL_Wiki_InM_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/PL_Wiki_InM_ikona.svg/76px-PL_Wiki_InM_ikona.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 Чинь артовкс
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Чинь артовкс">
+                <div class="center">
+                 <table class="wikitable" style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: 400px; text-align: center; margin-left:auto; margin-right:auto;">
+                  <tbody>
+                   <tr>
+                    <th>
+                     <i>
+                      <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%A7%D0%B8%D0%BD%D1%8C_%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81" title="Википедиясь:Чинь артовкс">
+                       Чинь артовкс
+                      </a>
+                     </i>
+                    </th>
+                   </tr>
+                   <tr>
+                    <td class="toccolours" style="padding:0;">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg">
+                      <img alt="Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg" data-file-height="3766" data-file-width="5536" decoding="async" height="272" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/400px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/600px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg/800px-Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg 2x" width="400"/>
+                     </a>
+                    </td>
+                   </tr>
+                   <tr>
+                    <td style="font-size:95%;">
+                     Шоколадонь торт почодозь
+                     <a class="extiw" href="https://en.wikipedia.org/wiki/Cocoa_solids" title="en:Cocoa solids">
+                      какаосо
+                     </a>
+                     мазылгавтозь шоколадонь соуссо.
+                     <p>
+                      <br/>
+                     </p>
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 <p>
+                  <br/>
+                 </p>
+                </div>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%A7%D0%B8%D0%BD%D1%8C_%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81" title="ЛопаПарцун:Чинь артовкс">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HSCinema.svg/38px-HSCinema.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HSCinema.svg/57px-HSCinema.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HSCinema.svg/76px-HSCinema.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 Чинь мультимедиа
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Чинь мультимедиа">
+                <div class="center">
+                 <table class="wikitable" style="margin: 0 0 0.5em 0.5em; float: {{{float}}}; width: 400px; text-align: center; margin-left:auto; margin-right:auto;">
+                  <tbody>
+                   <tr>
+                    <th>
+                     <i>
+                      <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%A7%D0%B8%D0%BD%D1%8C_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0" title="Википедиясь:Чинь мультимедиа">
+                       Чинь мультимедиа
+                      </a>
+                     </i>
+                    </th>
+                   </tr>
+                   <tr>
+                    <td class="toccolours" style="padding:0;">
+                     <div class="PopUpMediaTransform" id="mwe_player_0" style="width:400px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/854px--%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="57.791" data-startoffset="0" data-mwtitle="Шевченківський_парк.webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM-видео среднего качества (480p)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1022992" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.480p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9-видео среднего качества (480p)" data-shorttitle="VP9 480P" data-transcodekey="480p.vp9.webm" data-width="854" data-height="480" data-bandwidth="1270096" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM-видео HD-качества (720p)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="1756616" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.720p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9-видео HD-качества (720p)" data-shorttitle="VP9 720P" data-transcodekey="720p.vp9.webm" data-width="1280" data-height="720" data-bandwidth="2542144" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM-видео в Full HD (1080p)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="3949072" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.1080p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9-видео в Full HD (1080p)" data-shorttitle="VP9 1080P" data-transcodekey="1080p.vp9.webm" data-width="1920" data-height="1080" data-bandwidth="5096416" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.1440p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="UHD VP9 (1440P)" data-shorttitle="VP9 1440P" data-transcodekey="1440p.vp9.webm" data-width="2560" data-height="1440" data-bandwidth="10184288" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.2160p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9-видео в разрешении 4K UHD (2160p)" data-shorttitle="VP9 2160P" data-transcodekey="2160p.vp9.webm" data-width="3840" data-height="2160" data-bandwidth="20357912" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm" type="video/webm; codecs=&amp;quot;vp8&amp;quot;" data-title="Оригинал WebM файла, 3840 × 2160 (88,56 Мб/с)" data-shorttitle="WebM лисьмапря" data-width="3840" data-height="2160" data-bandwidth="88558562" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.120p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9 низкого качества (120p)" data-shorttitle="VP9 120P" data-transcodekey="120p.vp9.webm" data-width="214" data-height="120" data-bandwidth="119232" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM-видео низкого качества (160p)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="124768" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.180p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="VP9 низкого качества (160p)" data-shorttitle="VP9 180P" data-transcodekey="180p.vp9.webm" data-width="320" data-height="180" data-bandwidth="199256" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Низкое WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="257208" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.240p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Низкое VP9 (240P)" data-shorttitle="VP9 240P" data-transcodekey="240p.vp9.webm" data-width="426" data-height="240" data-bandwidth="318592" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Потоковое WebM-видео (360p)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="509928" data-framerate="29.97"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.360p.vp9.webm" type="video/webm; codecs=&amp;quot;vp9, opus&amp;quot;" data-title="Потоковое WebM VP9-видео (360p)" data-shorttitle="VP9 360P" data-transcodekey="360p.vp9.webm" data-width="640" data-height="360" data-bandwidth="635024" data-framerate="29.97"/&gt;&lt;/video&gt;&lt;/div&gt;'>
+                      <img alt="Артовкс:Шевченківський парк.webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm/400px--%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm.jpg" style="width:400px;height:225px"/>
+                      <a href="//upload.wikimedia.org/wikipedia/commons/3/39/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.webm" target="new" title="Седямо медия">
+                       <span class="play-btn-large">
+                        <span class="mw-tmh-playtext">
+                         Седямо медия
+                        </span>
+                       </span>
+                      </a>
+                     </div>
+                    </td>
+                   </tr>
+                   <tr>
+                    <td style="font-size:95%;">
+                     Аэрофотокувось
+                     <a class="extiw" href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_(%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD)" title="uk:Шевченківський парк (Херсон)">
+                      Шевченко вирьпусмось
+                     </a>
+                     <a class="extiw" href="https://en.wikipedia.org/wiki/Kherson" title="en:Kherson">
+                      Херсонсо
+                     </a>
+                     ,
+                     <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">
+                      Украинасо
+                     </a>
+                     .
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </div>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%A7%D0%B8%D0%BD%D1%8C_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0" title="ЛопаПарцун:Чинь мультимедиа">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/38px-HSBook.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/57px-HSBook.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HSBook.svg/76px-HSBook.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 Потмокс
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Потмокс">
+                <table cellpadding="5" cellspacing="0" style="border:0px; background:none;" width="100%">
+                 <tbody>
+                  <tr valign="top">
+                   <td align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA; background:transparent;" width="50%">
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Nuvola_apps_kuser.svg">
+                      <img alt="Nuvola apps kuser.svg" data-file-height="128" data-file-width="128" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nuvola_apps_kuser.svg/40px-Nuvola_apps_kuser.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nuvola_apps_kuser.svg/60px-Nuvola_apps_kuser.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nuvola_apps_kuser.svg/80px-Nuvola_apps_kuser.svg.png 2x" width="40"/>
+                     </a>
+                    </div>
+                    <b>
+                     <a href="/wiki/%D0%9B%D0%BE%D0%BC%D0%B0%D0%BD%D1%8C" title="Ломань">
+                      Ломань
+                     </a>
+                     ,
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%BE%D0%BC%D0%B0%D1%8E%D1%82%D0%BA%D0%BE" title="Категория:Ломаютко">
+                      Ломаютко
+                     </a>
+                     ды ломаньэрямонь содамопаргось
+                    </b>
+                    <br/>
+                    <p>
+                     <a class="new" href="/w/index.php?title=%D0%92%D0%B0%D0%B6%D0%BE%D0%B4%D0%B5%D0%BC%D0%B0_%D1%82%D0%B5%D0%B2&amp;action=edit&amp;redlink=1" title="Важодема тев (истямо лопа арась)">
+                      Важодема тев
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A8%D1%83%D0%BC%D0%B1%D1%80%D0%B0%D1%87%D0%B8" title="Категория:Шумбрачи">
+                      Шумбрачи
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%AD%D1%80%D1%8F%D0%BC%D0%BE_%D0%BF%D0%B8%D0%BD%D0%B3%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Эрямо пингесь (истямо лопа арась)">
+                      Эрямо пингесь
+                     </a>
+                     •
+                     <a class="mw-redirect" href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Лингвистика">
+                      Келень содамось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%A8%D1%83%D0%BC%D0%B1%D1%80%D0%B0%D1%87%D0%B8%D0%BD%D1%8C_%D0%BC%D0%B0%D0%BA%D1%81%D0%BE%D0%BC%D0%B0%D1%81%D1%8C" title="Шумбрачинь максомась">
+                      Шумбрачинь максомась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%98%D0%BD%D0%B5_%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D1%8C" title="Ине ломанть">
+                      Ине ломанть
+                     </a>
+                     •
+                     <a href="/wiki/%D0%AF%D1%80%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%B5%D0%BB%D1%8C" title="Ярсамопель">
+                      Ярсамопель
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82_%D0%B2%D0%B5%D1%82%D1%8F%D0%BC%D0%BE%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Прявт ветямось (истямо лопа арась)">
+                      Прявт ветямось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Психология">
+                      Психологиясь
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Социология">
+                      Социологиясь
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D1%80%D1%8F%D0%BC%D0%BE_%D0%BA%D0%BE%D0%B9%D1%82%D0%BD%D0%B5%D0%BD%D1%8C_%D1%81%D0%BE%D0%B4%D0%B0%D0%BC%D0%BE" title="Категория:Эрямо койтнень содамо">
+                      Эрямо койтнень содамось (философиясь)
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AF%D1%80%D0%BC%D0%B0%D0%BA%D1%82" title="Категория:Ярмакт">
+                      Ярмакт
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%90%D0%B7%D0%BE%D1%80%D1%87%D0%B8_%D1%81%D0%BE%D0%B4%D0%B0%D0%BC%D0%BE&amp;action=edit&amp;redlink=1" title="Азорчи содамо (истямо лопа арась)">
+                      Азорчи содамо
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%D0%BD%D1%82%D1%8C_%D0%BC%D0%B0%D0%B7%D1%8B%D1%87%D0%B8%D1%81%D1%8C" title="Культуранть мазычись">
+                      Культуранть мазычись
+                     </a>
+                    </p>
+                   </td>
+                   <td style="padding:6px;font-size:1px">
+                   </td>
+                   <td align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;" width="50%">
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Nuvola_apps_kcoloredit.svg">
+                      <img alt="Nuvola apps kcoloredit.svg" data-file-height="128" data-file-width="128" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/40px-Nuvola_apps_kcoloredit.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/60px-Nuvola_apps_kcoloredit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nuvola_apps_kcoloredit.svg/80px-Nuvola_apps_kcoloredit.svg.png 2x" width="40"/>
+                     </a>
+                    </div>
+                    <b>
+                     <a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%D1%81%D1%8C-%D0%BC%D0%B0%D0%B7%D1%8B%D1%87%D0%B8%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Культурась-мазычись (истямо лопа арась)">
+                      Культурась-мазычись
+                     </a>
+                     ,
+                     <a class="new" href="/w/index.php?title=%D0%A8%D0%BA%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%B5%D0%B2%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Шкинематевесь (истямо лопа арась)">
+                      искусствась
+                     </a>
+                     ды койтне-кирдатне
+                    </b>
+                    <br/>
+                    <p>
+                     <a class="new" href="/w/index.php?title=%D0%9A%D1%83%D0%B4%D0%BE%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BF%D0%B5%D0%B4%D0%B5%D0%BC%D0%B0_%D0%BA%D0%BE%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Кудонь кепедема коесь (истямо лопа арась)">
+                      Кудонь кепедема коесь
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%82%D0%BE%D0%BC%D0%B0" title="Категория:Артома">
+                      Артомась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%AD%D1%80%D1%8F%D0%BC%D0%BE_%D0%BB%D1%83%D0%B2%D0%BE%D0%BD%D1%82%D1%8C_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BD%D1%82%D1%8C)_%D0%BD%D0%B5%D0%B2%D1%82%D0%B5%D0%BC%D0%B0%D1%81%D1%8C" title="Эрямо лувонть (кинонть) невтемась">
+                      Эрямо лувонть (кинонть) невтемась
+                     </a>
+                     •
+                     <a class="mw-redirect" href="/wiki/%D0%9F%D0%B0%D0%B7%D0%BD%D1%8D%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BC%D0%B5%D0%BC%D0%B0%D1%81%D1%8C" title="Пазнэнь кемемась">
+                      Пазнэнь кемемась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Категория:Спорт">
+                      Спортось
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%A1%D1%91%D1%80%D0%BC%D0%B0%D0%B4%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D0%B2%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Сёрмадоматевесь (истямо лопа арась)">
+                      Сёрмадомась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%B9%D1%82%D1%8C_%D0%B4%D1%8B_%D0%BA%D0%B8%D1%80%D0%B4%D0%B0%D1%82" title="Категория:Койть ды кирдат">
+                      Койть ды кирдат
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%B4%D1%8F%D0%BC%D0%BE&amp;action=edit&amp;redlink=1" title="Категория:Седямо (истямо лопа арась)">
+                      Седямось
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%D1%81%D1%8C-%D1%8D%D1%80%D0%B8%D0%B9%D0%B0%D1%80%D1%82%D0%BE%D0%BC%D0%B0%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Мультипликациясь-эрийартомась (истямо лопа арась)">
+                      Мультипликациясь
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%B0%D1%82%D1%80&amp;action=edit&amp;redlink=1" title="Категория:Театр (истямо лопа арась)">
+                      Театрась
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%A4%D0%BE%D1%82%D0%BE%D0%BA%D1%83%D0%B2%D0%BE%D0%BD%D1%8C_%D1%82%D0%B5%D0%B5%D0%BC%D0%B0%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Фотокувонь теемась (истямо лопа арась)">
+                      Фотокувонь теемась
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%92%D0%B5%D1%87%D0%BA%D0%B5%D0%B2%D0%B8%D0%BA%D1%81_%D1%82%D0%B5%D0%B2%D0%B5%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Вечкевикс тевесь (истямо лопа арась)">
+                      Вечкевикс тевесь
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9F%D0%B5%D0%B5%D0%B4%D0%B5%D0%BC%D0%B0" title="Пеедема">
+                      Пеедемась
+                     </a>
+                    </p>
+                   </td>
+                  </tr>
+                  <tr valign="top">
+                   <td align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;" width="50%">
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Nuvola_apps_kalzium.png">
+                      <img alt="Nuvola apps kalzium.png" data-file-height="128" data-file-width="128" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/40px-Nuvola_apps_kalzium.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/60px-Nuvola_apps_kalzium.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nuvola_apps_kalzium.png/80px-Nuvola_apps_kalzium.png 2x" width="40"/>
+                     </a>
+                    </div>
+                    <b>
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%82%D1%8C%D0%BF%D0%B5%D0%BB%D1%8C%D0%BA%D1%81" title="Категория:Пертьпелькс">
+                      Пертьпелькс
+                     </a>
+                     , естественной тонатне-пертьпельксэнь содамочись
+                    </b>
+                    <br/>
+                    <p>
+                     <a class="new" href="/w/index.php?title=%D0%9B%D0%B8%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B0%D1%82%D0%BD%D0%B5%D0%BD%D1%8C_%D0%B4%D1%8B_%D1%82%D0%B5%D1%88%D1%82%D1%82%D0%BD%D0%B5%D0%BD%D1%8C_%D0%B2%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Лия модатнень ды тешттнень ваномась (истямо лопа арась)">
+                      Лия модатнень ды тешттнень ваномась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Биология">
+                      Биология
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:География">
+                      Географиясь
+                     </a>
+                     •
+                     <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Категория:Геология (истямо лопа арась)">
+                      Геология-модапотмонь содамось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Категория:Физика">
+                      Физика-уликспотмонь содамось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F" title="Категория:Химия">
+                      Химиясь
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Экология">
+                      Экология-модамасторонь ваньксчись
+                     </a>
+                    </p>
+                   </td>
+                   <td style="padding:6px;font-size:1px">
+                   </td>
+                   <td align="left" style="font-size:95%; border-bottom:1px dashed #AAAAAA;" width="50%">
+                    <div class="floatleft">
+                     <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Nuvola_apps_kcmsystem.png">
+                      <img alt="Nuvola apps kcmsystem.png" data-file-height="128" data-file-width="128" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nuvola_apps_kcmsystem.png/40px-Nuvola_apps_kcmsystem.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nuvola_apps_kcmsystem.png/60px-Nuvola_apps_kcmsystem.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nuvola_apps_kcmsystem.png/80px-Nuvola_apps_kcmsystem.png 2x" width="40"/>
+                     </a>
+                    </div>
+                    <b>
+                     <a class="new" href="/w/index.php?title=%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Техника (истямо лопа арась)">
+                      Техникась
+                     </a>
+                     ды ловома тонатне-содамочись
+                    </b>
+                    <br/>
+                    <p>
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Категория:Интернет">
+                      Интернетэсь-Уськесюлмавкс коцтось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%90%D1%80%D1%81%D0%B8_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%D1%81%D1%8C" title="Арси машинась">
+                      Арси машинась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B5%D0%BD%D0%B5%D0%BB%D0%B5%D0%B2_%D0%BB%D0%B8%D0%B2%D1%82%D1%8F%D0%BC%D0%BE" title="Категория:Менелев ливтямо">
+                      Менелев ливтямось
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Категория:Математика">
+                      Математикась
+                     </a>
+                     •
+                     <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%B4%D0%BE%D0%BC%D0%B0" title="Категория:Ардома">
+                      Ардомась
+                     </a>
+                    </p>
+                   </td>
+                  </tr>
+                 </tbody>
+                </table>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/articles" title="ЛопаПарцун:Прявтлопа/articles">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/38px-HSWikimedia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/57px-HSWikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/76px-HSWikimedia.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 1000 лопат
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-thousand" title="1000 лопат">
+                Ковонть прядомонтень
+                <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias_by_sample_of_articles/Neglected#myv_Эрзянь_(Erzjanj_Kelj)" title="meta:List of Wikipedias by sample of articles/Neglected">
+                 эряви
+                </a>
+                теемс эли вадрялгавтомс неть
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9B%D0%BE%D0%BF%D0%B0%D0%BD%D1%8C_%D0%BF%D0%BE%D1%82%D0%BC%D0%BE%D0%BA%D1%81,_%D0%BA%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%D1%82_%D1%8D%D1%80%D1%8F%D0%B2%D0%B8%D1%82%D1%8C_%D1%8D%D1%80%D1%8C%D0%B2%D0%B0_%D0%BA%D0%B5%D0%BB%D0%B5%D0%BD%D1%8C_%D0%BF%D0%B5%D0%BB%D1%8C%D0%BA%D1%81%D1%8D" title="Википедиясь:Лопань потмокс, конатат эрявить эрьва келень пельксэ">
+                 1000-нь эрявиксэвикс
+                </a>
+                лопатнень:
+                <div style="-moz-column-count: 2; -webkit-column-count: 2; -o-column-count: 2; -ms-column-count: 2; column-count: 2;">
+                 <ol>
+                  <li>
+                   <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Россия Мастор">
+                    Россия Мастор
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Африка Мастор">
+                    Африка Мастор
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%9E%D0%BC%D0%B1%D0%BE%D1%86%D0%B5_%D0%BC%D0%B8%D1%80%D1%8D%D0%BD%D1%8C_%D1%82%D0%BE%D1%80%D0%BF%D0%B8%D0%BD%D0%B3%D0%B5&amp;action=edit&amp;redlink=1" title="Омбоце мирэнь торпинге (истямо лопа арась)">
+                    Омбоце мирэнь торпинге
+                   </a>
+                   -
+                   <a class="extiw" href="https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="ru:Вторая мировая война">
+                    ru:Вторая мировая война
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/wiki/%D0%9C%D0%B5%D0%BD%D1%8C%D0%BA%D1%81" title="Менькс">
+                    Менькс
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%92%D0%B0%D1%81%D0%B5%D0%BD%D1%86%D0%B5_%D0%BC%D0%B8%D1%80%D1%8D%D0%BD%D1%8C_%D1%82%D0%BE%D1%80%D0%BF%D0%B8%D0%BD%D0%B3%D0%B5&amp;action=edit&amp;redlink=1" title="Васенце мирэнь торпинге (истямо лопа арась)">
+                    Васенце мирэнь торпинге
+                   </a>
+                   -
+                   <a class="extiw" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="ru:Первая мировая война">
+                    ru:Первая мировая война
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%98%D1%81%D0%BB%D0%B0%D0%BC&amp;action=edit&amp;redlink=1" title="Ислам (истямо лопа арась)">
+                    Ислам
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%93%D0%B8%D1%82%D0%BB%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="Адольф Гитлер (истямо лопа арась)">
+                    Адольф Гитлер
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D1%80%D1%81&amp;action=edit&amp;redlink=1" title="Марс (истямо лопа арась)">
+                    Марс
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4&amp;action=edit&amp;redlink=1" title="Мухаммед (истямо лопа арась)">
+                    Мухаммед
+                   </a>
+                  </li>
+                  <li>
+                   <a class="new" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8D%D0%BD%D1%8C_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Элементэнь периодической система (истямо лопа арась)">
+                    Элементэнь периодической система
+                   </a>
+                   -
+                   <a class="extiw" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2" title="ru:Периодическая система элементов">
+                    ru:Периодическая система элементов
+                   </a>
+                  </li>
+                 </ol>
+                </div>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9B%D0%BE%D0%BF%D0%B0%D0%BD%D1%8C_%D0%BF%D0%BE%D1%82%D0%BC%D0%BE%D0%BA%D1%81,_%D0%BA%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%D1%82_%D1%8D%D1%80%D1%8F%D0%B2%D0%B8%D1%82%D1%8C_%D1%8D%D1%80%D1%8C%D0%B2%D0%B0_%D0%BA%D0%B5%D0%BB%D0%B5%D0%BD%D1%8C_%D0%BF%D0%B5%D0%BB%D1%8C%D0%BA%D1%81%D1%8D" title="Википедиясь:Лопань потмокс, конатат эрявить эрьва келень пельксэ">
+                 1000 лопат
+                </a>
+                |
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/1000" title="ЛопаПарцун:Прявтлопа/1000">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="border:5px solid transparent;">
+         </td>
+         <td style="width:35%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+          <table cellpadding="2" cellspacing="5" id="mp-right" style="width:100%; vertical-align:top; background:#f5faff; background:transparent; text-align: left;">
+           <tbody>
+            <tr>
+             <td>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 Теемс лопа
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Теемс лопа">
+                <b>
+                 Теемс од лопань сёрмадовкс:
+                </b>
+                <div class="mw-inputbox-centered" style="background-color: ;">
+                 <form action="/w/index.php" class="createbox" method="get" name="createbox">
+                  <input name="action" type="hidden" value="edit"/>
+                  <input class="mw-inputbox-input mw-ui-input mw-ui-input-inline mw-inputbox-createbox" dir="ltr" name="title" placeholder="" required="" size="40"/>
+                  <br/>
+                  <input class="mw-ui-button mw-ui-progressive" name="create" type="submit" value="Теемс лопа"/>
+                 </form>
+                </div>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/new" title="ЛопаПарцун:Прявтлопа/new">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+              <div style="text-align:left; position:relative; left:4px; top:2px; margin:0;">
+               <p>
+                <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+               </p>
+               <div style="position:absolute; left:5px; top:-6px;">
+                <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Datum28.svg/38px-Datum28.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Datum28.svg/57px-Datum28.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Datum28.svg/76px-Datum28.svg.png 2x" width="38"/>
+               </div>
+               <div style="position:absolute; left:40px; top:-5px;">
+                <div style="font-weight:bold; border-bottom:none; font-size:130%; padding:.15em .4em;">
+                 <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81" title="Википедиясь:Ковкерькс">
+                  Вики-ковкерькс
+                 </a>
+                 :
+                 <i>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2" title="Таштамков">
+                   Таштамков
+                  </a>
+                 </i>
+                </div>
+               </div>
+              </div>
+              <div style="padding-left:10px; padding-bottom:5px; padding-top:2px; font-size:95%">
+               <div id="mf-image" title="Вики-календарь">
+                <h2>
+                 <span id=".D0.9F.D0.BE.D0.BA.D1.88.D1.87.D0.B8.D1.82.D1.8C">
+                 </span>
+                 <span class="mw-headline" id="Покшчить">
+                  Покшчить
+                 </span>
+                 <span class="mw-editsection">
+                  <span class="mw-editsection-bracket">
+                   [
+                  </span>
+                  <a href="/w/index.php?title=%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81/09&amp;action=edit&amp;section=T-1" title="Витнемс-петнемс «» секциянть-пельксэнть">
+                   витнемс-петнемс лисьмапрянзо
+                  </a>
+                  <span class="mw-editsection-bracket">
+                   ]
+                  </span>
+                 </span>
+                </h2>
+                <h2>
+                 <span id=".D0.9C.D0.B5.D0.B7.D0.B5_.D1.83.D0.BB.D1.8C.D0.BD.D0.B5.D1.81.D1.8C">
+                 </span>
+                 <span class="mw-headline" id="Мезе_ульнесь">
+                  Мезе ульнесь
+                 </span>
+                 <span class="mw-editsection">
+                  <span class="mw-editsection-bracket">
+                   [
+                  </span>
+                  <a href="/w/index.php?title=%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81/09&amp;action=edit&amp;section=T-2" title="Витнемс-петнемс «» секциянть-пельксэнть">
+                   витнемс-петнемс лисьмапрянзо
+                  </a>
+                  <span class="mw-editsection-bracket">
+                   ]
+                  </span>
+                 </span>
+                </h2>
+                <h2>
+                 <span id=".D0.A7.D0.B0.D1.87.D1.81.D1.82.D1.8C">
+                 </span>
+                 <span class="mw-headline" id="Чачсть">
+                  Чачсть
+                 </span>
+                 <span class="mw-editsection">
+                  <span class="mw-editsection-bracket">
+                   [
+                  </span>
+                  <a href="/w/index.php?title=%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81/09&amp;action=edit&amp;section=T-3" title="Витнемс-петнемс «» секциянть-пельксэнть">
+                   витнемс-петнемс лисьмапрянзо
+                  </a>
+                  <span class="mw-editsection-bracket">
+                   ]
+                  </span>
+                 </span>
+                </h2>
+                <ul>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_1_%D1%87%D0%B8" title="Таштамковонь 1 чи">
+                   таштамковонь 1-це чистэ
+                  </a>
+                  <a href="/wiki/1832_%D0%B8%D0%B5" title="1832 ие">
+                   1832-це иень
+                  </a>
+                  <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Поль, Александр Николаевич">
+                   Александр Поль
+                  </a>
+                  — титулярной советник, археолог, сермадыця, вейсэньдеий, эсьтевеньтеий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_2_%D1%87%D0%B8" title="Таштамковонь 2 чи">
+                   таштамковонь 2-це чистэ
+                  </a>
+                  <a href="/wiki/1955_%D0%B8%D0%B5" title="1955 ие">
+                   1955-це иень
+                  </a>
+                  <a href="/wiki/%D0%94%D1%91%D0%BC%D0%B8%D0%BD,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Дёмин, Василий Иванович">
+                   Василий Дёмин
+                  </a>
+                  — неень шкань эрзянь сёрмадей, тонавтыця. Филологиянь наукань кандидат. Профессор.
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                   Эрзя
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_2_%D1%87%D0%B8" title="Таштамковонь 2 чи">
+                   таштамковонь 2-це чистэ
+                  </a>
+                  <a href="/wiki/1952_%D0%B8%D0%B5" title="1952 ие">
+                   1952-це иень
+                  </a>
+                  <a href="/wiki/%D0%9B%D0%BE%D1%82%D0%BC%D0%B0%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Лотман, Михаил Юрьевич">
+                   Михаил Лотман
+                  </a>
+                  — эстэнь литературань содыця ды политик. 2011 иестэ 2013 иес — Тарту ошонь пурнавксонь прявт.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_3_%D1%87%D0%B8" title="Таштамковонь 3 чи">
+                   таштамковонь 3-це чистэ
+                  </a>
+                  <a href="/wiki/1952_%D0%B8%D0%B5" title="1952 ие">
+                   1952-це иень
+                  </a>
+                  <a href="/wiki/%D0%92%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D0%B5,_%D0%98%D0%BD%D0%B5%D1%81%D0%B5" title="Вайдере, Инесе">
+                   Инесе Вайдере
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Латвия Мастор">
+                   латвиянь
+                  </a>
+                  вийкирдий ды экономист (Dr. oec), депутат.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_3_%D1%87%D0%B8" title="Таштамковонь 3 чи">
+                   таштамковонь 3-це чистэ
+                  </a>
+                  <a href="/wiki/1953_%D0%B8%D0%B5" title="1953 ие">
+                   1953-це иень
+                  </a>
+                  <a href="/wiki/%D0%93%D1%91%D1%80%D0%B1%D0%B5,_%D0%9D%D0%BE%D1%80%D0%B0" title="Гёрбе, Нора">
+                   Нора Гёрбе
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Мадьяронь Мастор">
+                   мадьяронь
+                  </a>
+                  поп-морыця ды налксиця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_4_%D1%87%D0%B8" title="Таштамковонь 4 чи">
+                   таштамковонь 4-це чистэ
+                  </a>
+                  <a href="/wiki/1909_%D0%B8%D0%B5" title="1909 ие">
+                   1909-це иень
+                  </a>
+                  <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%BA%D0%BA%D0%B0,_%D0%AE%D1%85%D0%B0%D0%BD%D0%B8" title="Конкка, Юхани">
+                   Юхани Конкка
+                  </a>
+                  — финнэнь,
+                  <a class="new" href="/w/index.php?title=%D0%98%D0%BD%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%D0%BD%D1%8C&amp;action=edit&amp;redlink=1" title="Ингерманландиянь (истямо лопа арась)">
+                   ингерманландиянь
+                  </a>
+                  сёрмадей, ютавтыця, сценариень сёрмадей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_4_%D1%87%D0%B8" title="Таштамковонь 4 чи">
+                   таштамковонь 4-це чистэ
+                  </a>
+                  <a href="/wiki/1929_%D0%B8%D0%B5" title="1929 ие">
+                   1929-це иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%B0%D0%BD%D1%8F%D1%86,_%D0%9C%D0%B8%D1%80%D0%B0" title="Баняц, Мира">
+                   Мира Баняц
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Сербия Мастор">
+                   сербиянь
+                  </a>
+                  сехте содавикс актрисатнестэ вейкесь.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1871_%D0%B8%D0%B5" title="1871 ие">
+                   1871-це иень
+                  </a>
+                  <a href="/wiki/%D0%90%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85" title="Акель, Фридрих">
+                   Фридрих Акель
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%81%D1%82%D1%8D%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Эстэнь Мастор">
+                   эстэнь
+                  </a>
+                  вийкирдиень ветий, дипломат, лечиця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1896_%D0%B8%D0%B5" title="1896 ие">
+                   1896-це иень
+                  </a>
+                  <a href="/wiki/%D0%94%D0%BE%D0%B4%D0%B5%D1%80%D0%B5%D1%80,_%D0%A5%D0%B0%D0%B9%D0%BC%D0%B8%D1%82%D0%BE_%D1%84%D0%BE%D0%BD" title="Додерер, Хаймито фон">
+                   Хаймито фон Додерер
+                  </a>
+                  — австриянь сёрмадыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1957_%D0%B8%D0%B5" title="1957 ие">
+                   1957-це иень
+                  </a>
+                  <a href="/wiki/%D0%9B%D0%B0%D0%BC%D0%BF%D0%B5%D1%80%D1%82,_%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0" title="Ламперт, Моника">
+                   Моника Ламперт
+                  </a>
+                  — адвокат, вийкирдий-ветий, потмонь тевтнень министрась (
+                  <a href="/wiki/2002_%D0%B8%D0%B5" title="2002 ие">
+                   2002 иестэ
+                  </a>
+                  саезь
+                  <a href="/wiki/2007_%D0%B8%D0%B5" title="2007 ие">
+                   2007 иес
+                  </a>
+                  ), важодемань ды социальной политикань министрась (
+                  <a href="/wiki/2007_%D0%B8%D0%B5" title="2007 ие">
+                   2007 иестэ
+                  </a>
+                  <a href="/wiki/2008_%D0%B8%D0%B5" title="2008 ие">
+                   2008 иес
+                  </a>
+                  ).
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1976_%D0%B8%D0%B5" title="1976 ие">
+                   1976-це иень
+                  </a>
+                  <a href="/wiki/%D0%93%D1%83%D1%86%D1%83,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0" title="Гуцу, Татьяна Константиновна">
+                   Татьяна Гуцу
+                  </a>
+                  —
+                  <a class="new" href="/w/index.php?title=%D0%A1%D0%A1%D0%A1%D0%A0&amp;action=edit&amp;redlink=1" title="СССР (истямо лопа арась)">
+                   советэнь
+                  </a>
+                  ды
+                  <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">
+                   украинань
+                  </a>
+                  <a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B3%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Спортивной гимнастика (истямо лопа арась)">
+                   гимнаст
+                  </a>
+                  , кавксть Олимпийянь чемпион 1992 иестэ.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_6_%D1%87%D0%B8" title="Таштамковонь 6 чи">
+                   таштамковонь 6-це чистэ
+                  </a>
+                  <a href="/wiki/1910_%D0%B8%D0%B5" title="1910 ие">
+                   1910-це иень
+                  </a>
+                  <a href="/wiki/%D0%93%D0%B0%D0%B9%D0%BD%D0%B8_%D0%9F%D1%91%D1%82%D1%80" title="Гайни Пётр">
+                   Пётр Гайни
+                  </a>
+                  —
+                  <a class="mw-redirect" href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F" title="Эрзя">
+                   эрзянь
+                  </a>
+                  сёрмадей ды валморозей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_6_%D1%87%D0%B8" title="Таштамковонь 6 чи">
+                   таштамковонь 6-це чистэ
+                  </a>
+                  <a href="/wiki/1951_%D0%B8%D0%B5" title="1951 ие">
+                   1951-це иень
+                  </a>
+                  <a href="/wiki/%D0%99%D0%BE%D0%B2%D0%BB%D0%B0%D0%BD%D1%8C_%D0%9E%D0%BB%D0%BE" title="Йовлань Оло">
+                   Йовлань Оло
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                   эрзянь
+                  </a>
+                  содавикс Ине морыця-седиця,
+                  <a href="/wiki/%C2%AB%D0%A2%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%C2%BB_%D0%BC%D0%BE%D1%80%D0%B0%D0%BC%D0%BE-%D1%81%D0%B5%D0%B4%D1%8F%D0%BC%D0%BE_%D0%BA%D1%83%D0%B6%D0%BE" title="«Торама» морамо-седямо кужо">
+                   «Торама» морамо-седямо кужонть
+                  </a>
+                  пурныцязо-ветицязо.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_6_%D1%87%D0%B8" title="Таштамковонь 6 чи">
+                   таштамковонь 6-це чистэ
+                  </a>
+                  <a href="/wiki/1951_%D0%B8%D0%B5" title="1951 ие">
+                   1951-це иень
+                  </a>
+                  <a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD%D0%BE%D0%BD%D1%8C_%D0%9A%D0%B5%D1%80%D1%8F%D0%B7" title="Калаганонь Керяз">
+                   Калаганонь Керяз
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                   эрзянь
+                  </a>
+                  керсидей,
+                  <a href="/wiki/%D0%99%D0%BE%D0%B2%D0%BB%D0%B0%D0%BD%D1%8C_%D0%9E%D0%BB%D0%BE%D0%BD%D1%8C_%D0%BB%D0%B5%D0%BC%D1%81%D1%8D_%D0%AD%D1%82%D0%BD%D0%BE-%D0%BA%D1%83%D0%B4%D0%BE" title="Йовлань Олонь лемсэ Этно-кудо">
+                   Йовлань Олонь лемсэ Этно-кудонь
+                  </a>
+                  прявт.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_7_%D1%87%D0%B8" title="Таштамковонь 7 чи">
+                   таштамковонь 7-це чистэ
+                  </a>
+                  <a href="/wiki/1533_%D0%B8%D0%B5" title="1533 ие">
+                   1533-це иень
+                  </a>
+                  <a href="/wiki/I_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%D0%BD%D1%8C_%D0%B8%D0%BD%D1%8F%D0%B7%D0%BE%D1%80%D0%B0%D0%B2%D0%B0)" title="I Елизавета (Англиянь инязорава)">
+                   I Елизавета (Англиянь инязорава)
+                  </a>
+                  —
+                  <a class="new" href="/w/index.php?title=%D0%90%D0%BD%D0%B3%D0%BB%D0%B0%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Англань Мастор (истямо лопа арась)">
+                   Англань
+                  </a>
+                  ды
+                  <a href="/wiki/%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Ирландия Мастор">
+                   Ирландиянь
+                  </a>
+                  инязорава 1558-це иестэ сундерьковонь 17 чистэ, меельце Тюдоронь династиясто.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_7_%D1%87%D0%B8" title="Таштамковонь 7 чи">
+                   таштамковонь 7-це чистэ
+                  </a>
+                  <a href="/wiki/1934_%D0%B8%D0%B5" title="1934 ие">
+                   1934-це иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%B8%D1%82%D0%BE,_%D0%9B%D0%B0%D1%81%D0%BB%D0%BE" title="Бито, Ласло">
+                   Ласло Бито
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Мадьяронь Мастор">
+                   мадьяронь
+                  </a>
+                  лециця ды сёрмадыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_7_%D1%87%D0%B8" title="Таштамковонь 7 чи">
+                   таштамковонь 7-це чистэ
+                  </a>
+                  <a href="/wiki/1954_%D0%B8%D0%B5" title="1954 ие">
+                   1954-це иень
+                  </a>
+                  <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Волков, Владимир Дмитриевич">
+                   Владимир Волков
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8C" title="Мордовия Республикась">
+                   Мордовиянь
+                  </a>
+                  Прявт
+                  <a href="/wiki/2012_%D0%B8%D0%B5" title="2012 ие">
+                   2012 иестэ
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_8_%D1%87%D0%B8" title="Таштамковонь 8 чи">
+                   таштамковонь 8-це чистэ
+                  </a>
+                  <a href="/wiki/1954_%D0%B8%D0%B5" title="1954 ие">
+                   1954-це иень
+                  </a>
+                  <a href="/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D0%B9%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Петайкин, Александр Иванович">
+                   Александр Петайкин
+                  </a>
+                  —
+                  <a class="mw-redirect" href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F" title="Эрзя">
+                   эрзянь
+                  </a>
+                  сёрмадей, прозаньсёрмадей, Россиянь Сёрмадеень вейсэндявксос совиця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_9_%D1%87%D0%B8" title="Таштамковонь 9 чи">
+                   таштамковонь 9-це чистэ
+                  </a>
+                  <a href="/wiki/1828_%D0%B8%D0%B5" title="1828 ие">
+                   1828-це иень
+                  </a>
+                  <a href="/wiki/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9,_%D0%9B%D0%B5%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Толстой, Лев Николаевич">
+                   Лев Толстой
+                  </a>
+                  — вейке содавикстнэнь эйстэ
+                  <a class="new" href="/w/index.php?title=%D0%A0%D1%83%D0%B7%D0%BE%D0%BD%D1%8C_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Рузонь литературась (истямо лопа арась)">
+                   рузонь сёрмадей
+                  </a>
+                  ды
+                  <a class="new" href="/w/index.php?title=%D0%A0%D1%83%D0%B7%D0%BE%D0%BD%D1%8C_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Рузонь философиясь (истямо лопа арась)">
+                   арсиндей
+                  </a>
+                  , вейке покшто покш мирэнь сёрмадйтнеде.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_9_%D1%87%D0%B8" title="Таштамковонь 9 чи">
+                   таштамковонь 9-це чистэ
+                  </a>
+                  <a href="/wiki/1831_%D0%B8%D0%B5" title="1831 ие">
+                   1831-це иень
+                  </a>
+                  <a href="/wiki/%D0%98%D0%B6%D0%BE,_%D0%9C%D0%B8%D0%BA%D0%BB%D0%BE%D1%88" title="Ижо, Миклош">
+                   Миклош Ижо
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D1%82" title="Мадьярт">
+                   мадьяронь (венгрань)
+                  </a>
+                  кеврунгоньтеий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_10_%D1%87%D0%B8" title="Таштамковонь 10 чи">
+                   таштамковонь 10-це чистэ
+                  </a>
+                  <a href="/wiki/1885_%D0%B8%D0%B5" title="1885 ие">
+                   1885-це иень
+                  </a>
+                  <a href="/wiki/%D0%9A%D0%B5%D1%82%D1%82%D1%83%D0%BD%D0%B5%D0%BD,_%D0%9B%D0%B0%D1%83%D1%80%D0%B8_%D0%AD%D0%B9%D0%BD%D0%B0%D1%80%D0%B8" title="Кеттунен, Лаури Эйнари">
+                   Лаури Эйнари Кеттунен
+                  </a>
+                  – содавикс
+                  <a href="/wiki/%D0%A1%D1%83%D0%BE%D0%BC%D0%B8%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BB%D1%8C" title="Суоминь кель">
+                   суоминь келень
+                  </a>
+                  кортавкстнэнь ды Балтикань перька улиця финнэнь раськень кельтнень ванныця-содыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_10_%D1%87%D0%B8" title="Таштамковонь 10 чи">
+                   таштамковонь 10-це чистэ
+                  </a>
+                  <a href="/wiki/1885_%D0%B8%D0%B5" title="1885 ие">
+                   1885-це иень
+                  </a>
+                  <a href="/wiki/%D0%9F%D0%B5%D1%8F%D1%87%D0%B5%D0%B2%D0%B8%D1%87,_%D0%94%D0%BE%D1%80%D0%B0" title="Пеячевич, Дора">
+                   Дора Пеячевич
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Хорватия Мастор">
+                   хорватиянь
+                  </a>
+                  седийсёрмадей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_10_%D1%87%D0%B8" title="Таштамковонь 10 чи">
+                   таштамковонь 10-це чистэ
+                  </a>
+                  <a href="/wiki/1948_%D0%B8%D0%B5" title="1948 ие">
+                   1948-це иень
+                  </a>
+                  <a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%B8_%D0%93%D0%B0%D1%82%D0%BB%D0%B8%D1%84" title="Тони Гатлиф">
+                   Тони Гатлиф
+                  </a>
+                  — французонь режиссёр, сценарист, налксиця, седидей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1859_%D0%B8%D0%B5" title="1859 ие">
+                   1859-це иень
+                  </a>
+                  <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA,_%D0%92%D0%B5%D0%BD%D1%86%D0%B5%D1%81%D0%BB%D0%B0%D0%B2" title="Новак, Венцеслав">
+                   Венцеслав Новак
+                  </a>
+                  — хорватонь сёрмадей, куляньсёрмадей, ютавтыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1877_%D0%B8%D0%B5" title="1877 ие">
+                   1877-це иень
+                  </a>
+                  <a href="/wiki/%D0%A8%D0%B2%D0%B8%D0%BC%D0%BC%D0%B5%D1%80,_%D0%A0%D0%BE%D0%B7%D0%B8%D0%BA%D0%B0" title="Швиммер, Розика">
+                   Розика Швиммер
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D1%82" title="Мадьярт">
+                   мадьяронь
+                  </a>
+                  пацифистка, феминистка ды суфражистка.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1891_%D0%B8%D0%B5" title="1891 ие">
+                   1891-це иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%B0%D0%B6%D0%B1%D0%B5%D1%83%D0%BA-%D0%9C%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бажбеук-Меликов, Александр Александрович">
+                   Александр Бажбеук-Меликов
+                  </a>
+                  – советэнь шкань живописец, артыця ды колорист.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1967_%D0%B8%D0%B5" title="1967 ие">
+                   1967-це иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%BE%D1%80%D1%87%D0%B8%D0%BD,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Борчин, Валерий Викторович">
+                   Валерий Борчин
+                  </a>
+                  — россиянь спортсмен, шождаатлет (
+                  <a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BD%D1%8C_%D1%8F%D0%BA%D0%B0%D0%BC%D0%BE" title="Спортонь якамо">
+                   спортонь якамо
+                  </a>
+                  ).
+                  <a class="mw-redirect" href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F" title="Эрзя">
+                   Эрзя
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1967_%D0%B8%D0%B5" title="1967 ие">
+                   1967-це иень
+                  </a>
+                  <a href="/wiki/%D0%A1%D0%BE%D0%BD_%D0%94%D0%B6%D1%8D-%D0%B3%D0%B8" title="Сон Джэ-ги">
+                   Сон Джэ-ги
+                  </a>
+                  —
+                  <a class="new" href="/w/index.php?title=%D0%9B%D0%B5%D0%BC%D0%B1%D0%B5%D1%91%D0%BD%D0%BA%D1%81%D0%BE%D0%BD%D1%8C_%D0%9A%D0%BE%D1%80%D0%B5%D1%8F&amp;action=edit&amp;redlink=1" title="Лембеёнксонь Корея (истямо лопа арась)">
+                   Лембеёнксонь Кореянь
+                  </a>
+                  вейсендень олячинь кис тевветий, арсидий ды антифеменист.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_12_%D1%87%D0%B8" title="Таштамковонь 12 чи">
+                   таштамковонь 12-це чистэ
+                  </a>
+                  <a href="/wiki/1887_%D0%B8%D0%B5" title="1887 ие">
+                   1887-це иень
+                  </a>
+                  <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%B5%D0%BD%D0%B7%D0%B5%D0%BC%D0%B8%D0%BD%D0%BB%D0%B8,_%D0%AE%D1%81%D0%B8%D1%84_%D0%92%D0%B5%D0%B7%D0%B8%D1%80" title="Чеменземинли, Юсиф Везир">
+                   Юсиф Чеменземинли
+                  </a>
+                  — азербайджанонь сёрмадей, прозаик, публицист, драматург, историк, фольклорист ды политиканьветий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_13_%D1%87%D0%B8" title="Таштамковонь 13 чи">
+                   таштамковонь 13-це чистэ
+                  </a>
+                  <a href="/wiki/1927_%D0%B8%D0%B5" title="1927 ие">
+                   1927-це иень
+                  </a>
+                  <a href="/wiki/%D0%A0%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Ревизов, Николай Егорович">
+                   Николай Ревизов
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                   эрзянь
+                  </a>
+                  куляньсёрмадей, фотоартындей, валморозей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_14_%D1%87%D0%B8" title="Таштамковонь 14 чи">
+                   таштамковонь 14-це чистэ
+                  </a>
+                  <a href="/wiki/1920_%D0%B8%D0%B5" title="1920 ие">
+                   1920-це иень
+                  </a>
+                  <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%B6%D0%B0%D0%B9%D0%BA%D0%B8%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Полежайкин, Сергей Иванович">
+                   Сергей Полежайкин
+                  </a>
+                  — покш лейтенант Важодиця-Сокиця-Видиця Армиянть, Ине Ойнань улиця, Советэнь Союзонь Мараля (
+                  <a href="/wiki/%D0%A0%D1%83%D0%B7%D0%BE%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BB%D1%8C" title="Рузонь кель">
+                   руз.
+                  </a>
+                  <i>
+                   <span lang="ru">
+                    Герой Советского Союза
+                   </span>
+                  </i>
+                  ) (1945 ие).
+                  <a class="mw-redirect" href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F" title="Эрзя">
+                   Эрзя
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_14_%D1%87%D0%B8" title="Таштамковонь 14 чи">
+                   таштамковонь 14-це чистэ
+                  </a>
+                  <a href="/wiki/1965_%D0%B8%D0%B5" title="1965 ие">
+                   1965-це иень
+                  </a>
+                  <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Медведев, Дмитрий Анатольевич">
+                   Дмитрий Медведев
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Россия Мастор">
+                   Россия Масторонть
+                  </a>
+                  Правительствань Прявт.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_14_%D1%87%D0%B8" title="Таштамковонь 14 чи">
+                   таштамковонь 14-це чистэ
+                  </a>
+                  <a href="/wiki/1980_%D0%B8%D0%B5" title="1980 ие">
+                   1980-це иень
+                  </a>
+                  <a href="/wiki/%D0%90%D0%B9%D0%BE_(%D0%BC%D0%BE%D1%80%D1%8B%D1%86%D1%8F)" title="Айо (морыця)">
+                   Айо
+                  </a>
+                  — немецень морыця ды африкань чачоманго коряс седийдий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_15_%D1%87%D0%B8" title="Таштамковонь 15 чи">
+                   таштамковонь 15-це чистэ
+                  </a>
+                  <a href="/wiki/1923_%D0%B8%D0%B5" title="1923 ие">
+                   1923-це иень
+                  </a>
+                  <a href="/wiki/%D0%90%D1%85%D1%83%D0%BD%D0%B7%D1%8F%D0%BD%D0%BE%D0%B2,_%D0%A2%D0%B0%D0%B3%D0%B8%D1%80_%D0%98%D1%81%D0%BC%D0%B0%D0%B3%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Ахунзянов, Тагир Исмагилович">
+                   Тагир Ахунзянов
+                  </a>
+                  – советэнь шкань
+                  <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%82" title="Башкирт">
+                   башкирэнь
+                  </a>
+                  сермадей, куляньсёрмадей, вейсэньтевветий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_16_%D1%87%D0%B8" title="Таштамковонь 16 чи">
+                   таштамковонь 16 чистэ
+                  </a>
+                  <a href="/wiki/1825_%D0%B8%D0%B5" title="1825 ие">
+                   1825 иестэ
+                  </a>
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B0%D0%BA,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Маак, Ричард Карлович">
+                   Маак Ричард
+                  </a>
+                  — рузонь
+                  <a class="new" href="/w/index.php?title=%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D1%81%D1%82&amp;action=edit&amp;redlink=1" title="Натуралист (истямо лопа арась)">
+                   натуралист
+                  </a>
+                  ,
+                  <a class="new" href="/w/index.php?title=%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C&amp;action=edit&amp;redlink=1" title="Сибирь (истямо лопа арась)">
+                   Сибирень
+                  </a>
+                  ды
+                  <a class="new" href="/w/index.php?title=%D0%92%D0%B0%D1%81%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C_%D0%A7%D0%B8%D0%BB%D0%B8%D1%81%D0%B5%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" title="Васолонь Чилисема (истямо лопа арась)">
+                   Васолонь Чилисемань
+                  </a>
+                  ваныця-искувиця,
+                  <a class="new" href="/w/index.php?title=%D0%A2%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D1%8B%D1%86%D1%8F&amp;action=edit&amp;redlink=1" title="Тонавтыця (истямо лопа арась)">
+                   тонавтыця
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_18_%D1%87%D0%B8" title="Таштамковонь 18 чи">
+                   таштамковонь 18 чистэ
+                  </a>
+                  <a href="/wiki/1971_%D0%B8%D0%B5" title="1971 ие">
+                   1971 иестэ
+                  </a>
+                  <a class="mw-redirect" href="/wiki/%D0%90%D0%BD%D0%BD%D0%B0_%D0%9D%D0%B5%D1%82%D1%80%D0%B5%D0%B1%D0%BA%D0%BE" title="Анна Нетребко">
+                   Анна Нетребко
+                  </a>
+                  — россиянь
+                  <a class="new" href="/w/index.php?title=%D0%9C%D0%BE%D1%80%D1%8B%D1%86%D1%8F&amp;action=edit&amp;redlink=1" title="Морыця (истямо лопа арась)">
+                   морыця
+                  </a>
+                  (сопрано).
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_18_%D1%87%D0%B8" title="Таштамковонь 18 чи">
+                   таштамковонь 18 чистэ
+                  </a>
+                  <a href="/wiki/1945_%D0%B8%D0%B5" title="1945 ие">
+                   1945 иестэ
+                  </a>
+                  <a href="/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0,_%D0%9A%D0%B0%D1%82%D1%8F" title="Паскалева, Катя">
+                   Катя Паскалева
+                  </a>
+                  — болгаронь театрань ды кинонь актриса; РРБ-нь Заслуженной артист (1974).
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_18_%D1%87%D0%B8" title="Таштамковонь 18 чи">
+                   таштамковонь 18 чистэ
+                  </a>
+                  <a href="/wiki/1884_%D0%B8%D0%B5" title="1884 ие">
+                   1884 иень
+                  </a>
+                  <a href="/wiki/%D0%A8%D0%BB%D0%B0%D1%85%D1%82%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B3%D0%B8%D1%82" title="Шлахта, Маргит">
+                   Маргит Шлахта
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Мадьяронь Мастор">
+                   мадьяронь
+                  </a>
+                  вейсэньтев теиця. 1920 иестэ сон теевсь васенце авакс мадьяронь парламентсэ. 1923 иестэ сон тейсь Социальной лездамонь Сазоронь-Патянь институтось ды Католикэнь религиянь авань институтось.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_19_%D1%87%D0%B8" title="Таштамковонь 19 чи">
+                   таштамковонь 19 чистэ
+                  </a>
+                  <a href="/wiki/1933_%D0%B8%D0%B5" title="1933 ие">
+                   1933 иень
+                  </a>
+                  <a href="/wiki/%D0%A4%D0%B5%D0%BD%D1%8C%D0%B2%D0%B5%D1%88%D0%B8,_%D0%9C%D0%B0%D1%82%D0%B5" title="Феньвеши, Мате">
+                   Мате Феньвеши
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Мадьяронь Мастор">
+                   мадьяронь
+                  </a>
+                  , икеле,
+                  <a href="/wiki/%D0%9F%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BE%D1%81%D0%BA%D0%B0" title="Пильгеоска">
+                   пильгеосканьналкcий
+                  </a>
+                  ,
+                  <a class="new" href="/w/index.php?title=%D0%A7%D0%B0%D0%B2%D0%B8%D1%86%D1%8F_(%D0%BF%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BE%D1%81%D0%BA%D0%B0)&amp;action=edit&amp;redlink=1" title="Чавиця (пильгеоска) (истямо лопа арась)">
+                   чавиця
+                  </a>
+                  ,
+                  <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%BF%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BE%D1%81%D0%BA%D0%B0%D1%81%D0%BE_%D0%BF%D1%83%D1%80%D0%BD%D0%B0%D0%B2%D0%BA%D1%81&amp;action=edit&amp;redlink=1" title="Мадьяронь пильгеоскасо пурнавкс (истямо лопа арась)">
+                   раськень пурнавксонь
+                  </a>
+                  налксиця. Ульнесь кочказь
+                  <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%B4%D1%8C%D1%8F%D1%80%D0%BE%D0%BD%D1%8C_%D0%B8%D0%B5%D0%BD%D1%8C_%D0%BF%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BE%D1%81%D0%BA%D0%B0%D0%BD%D1%8C%D0%BD%D0%B0%D0%BB%D0%BA%D1%86%D0%B8%D0%B9&amp;action=edit&amp;redlink=1" title="Мадьяронь иень пильгеосканьналкций (истямо лопа арась)">
+                   иень пильгеосканьналкциекс Мадьяронь Масторсо
+                  </a>
+                  <a class="mw-redirect" href="/wiki/1963" title="1963">
+                   1963
+                  </a>
+                  иестэ.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_20_%D1%87%D0%B8" title="Таштамковонь 20 чи">
+                   таштамковонь 20 чистэ
+                  </a>
+                  <a href="/wiki/1903_%D0%B8%D0%B5" title="1903 ие">
+                   1903 иень
+                  </a>
+                  <a href="/wiki/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B0,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F" title="Арсеньева, Наталья">
+                   Наталья Арсеньева
+                  </a>
+                  —
+                  <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D0%B7%D0%B8%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8C" title="Белорузия Республикась">
+                   белорузонь
+                  </a>
+                  валморонь сёрмадей.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_21_%D1%87%D0%B8" title="Таштамковонь 21 чи">
+                   таштамковонь 21 чистэ
+                  </a>
+                  <a href="/wiki/1976_%D0%B8%D0%B5" title="1976 ие">
+                   1976 иень
+                  </a>
+                  <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%87%D1%83%D0%BA,_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Прокопчук, Елена Леонидовна">
+                   Елена Прокопчук
+                  </a>
+                  —
+                  <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Латвия Мастор">
+                   латвиянь
+                  </a>
+                  спортсмен, марафононь чийниця. Кавксть ульнесь
+                  <a class="new" href="/w/index.php?title=%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D0%BE%D0%BD%D1%8C_%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Нью-Йорконь марафон (истямо лопа арась)">
+                   Нью-Йорконь марафононь
+                  </a>
+                  изницякс ды
+                  <a class="new" href="/w/index.php?title=%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%8D%D0%BD%D1%8C_%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%BE%D1%81%D1%8C&amp;action=edit&amp;redlink=1" title="Парижэнь пельсмарафонось (истямо лопа арась)">
+                   Парижэнь пельсмарафононть
+                  </a>
+                  <a class="mw-redirect" href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BC%D0%BE" title="Колмо">
+                   колмоксть
+                  </a>
+                  изницякс.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_26_%D1%87%D0%B8" title="Таштамковонь 26 чи">
+                   таштамковонь 26 чистэ
+                  </a>
+                  <a href="/wiki/1880_%D0%B8%D0%B5" title="1880 ие">
+                   1880 иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%B5%D0%B7%D0%B7%D1%83%D0%B1%D0%BE%D0%B2%D0%B0,_%D0%A4%D1%91%D0%BA%D0%BB%D0%B0_%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Беззубова, Фёкла Игнатьевна">
+                   Сёка патя
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BB%D1%8C" title="Эрзянь кель">
+                   эрзянь
+                  </a>
+                  кельсэ содавикс ёвксонь морыця-лациця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_28_%D1%87%D0%B8" title="Таштамковонь 28 чи">
+                   таштамковонь 28 чистэ
+                  </a>
+                  <a href="/wiki/1783_%D0%B8%D0%B5" title="1783 ие">
+                   1783 иень
+                  </a>
+                  <a href="/wiki/%D0%94%D1%83%D1%80%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0" title="Дурова, Надежда Андреевна">
+                   Надежда Дурова
+                  </a>
+                  — рузонь  ава-
+                  <a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%81%D1%82&amp;action=edit&amp;redlink=1" title="Кавалерист (истямо лопа арась)">
+                   кавалерист
+                  </a>
+                  ,
+                  <a class="new" href="/w/index.php?title=%D0%9E%D1%84%D0%B8%D1%86%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="Офицер (истямо лопа арась)">
+                   офицер
+                  </a>
+                  <a class="new" href="/w/index.php?title=%D0%A0%D1%83%D0%B7%D0%BE%D0%BD%D1%8C_%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%8C_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Рузонь Императоронь армия (истямо лопа арась)">
+                   Рузонь Императоронь армиянть
+                  </a>
+                  ,
+                  <a class="new" href="/w/index.php?title=1812_%D0%B8%D0%B5%D0%BD%D1%8C_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%D0%BD%D1%8C_%D0%BE%D0%B9%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" title="1812 иень Отечествань ойна (истямо лопа арась)">
+                   1812 иень Отечествань  ойнань
+                  </a>
+                  улиця (содавиксэв кода
+                  <a href="/wiki/%D0%A0%D1%83%D0%B7%D0%BE%D0%BD%D1%8C_%D0%BA%D0%B5%D0%BB%D1%8C" title="Рузонь кель">
+                   руз.
+                  </a>
+                  <i>
+                   <span lang="ru">
+                    «кавалерист-девица»
+                   </span>
+                  </i>
+                  );
+                  <a class="new" href="/w/index.php?title=%D0%A1%D1%91%D1%80%D0%BC%D0%B0%D0%B4%D0%B5%D0%B9&amp;action=edit&amp;redlink=1" title="Сёрмадей (истямо лопа арась)">
+                   сёрмадей
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_30_%D1%87%D0%B8" title="Таштамковонь 30 чи">
+                   таштамковонь 30-це чистэ
+                  </a>
+                  <a href="/wiki/1919_%D0%B8%D0%B5" title="1919 ие">
+                   1919-це иестэ
+                  </a>
+                  <a href="/wiki/%D0%AD%D0%BC%D0%B8%D0%BD,_%D0%93%D0%B5%D0%B2%D0%BE%D1%80%D0%B3" title="Эмин, Геворг">
+                   Геворг Эмин
+                  </a>
+                  —
+                  <a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%82" title="Армянт">
+                   армянонь
+                  </a>
+                  ды советэнь шкань валморонь сёрмадыця.
+                 </li>
+                </ul>
+                <p>
+                 <i>
+                  Вн. истяжо:
+                  <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%B0%D1%87%D0%BE%D0%B7%D1%8C_%D1%82%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C" title="Категория:Чачозь таштамковонь">
+                   Категория:Чачозь таштамковонь
+                  </a>
+                 </i>
+                </p>
+                <h2>
+                 <span id=".D0.9A.D1.83.D0.BB.D0.BE.D1.81.D1.82.D1.8C">
+                 </span>
+                 <span class="mw-headline" id="Кулость">
+                  Кулость
+                 </span>
+                 <span class="mw-editsection">
+                  <span class="mw-editsection-bracket">
+                   [
+                  </span>
+                  <a href="/w/index.php?title=%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81/09&amp;action=edit&amp;section=T-4" title="Витнемс-петнемс «» секциянть-пельксэнть">
+                   витнемс-петнемс лисьмапрянзо
+                  </a>
+                  <span class="mw-editsection-bracket">
+                   ]
+                  </span>
+                 </span>
+                </h2>
+                <ul>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_2_%D1%87%D0%B8" title="Таштамковонь 2 чи">
+                   таштамковонь 2-це чистэ
+                  </a>
+                  <a href="/wiki/1968_%D0%B8%D0%B5" title="1968 ие">
+                   1968-це иень
+                  </a>
+                  <a href="/wiki/%D0%91%D0%B8%D0%BA%D0%B1%D0%B0%D0%B9,_%D0%91%D0%B0%D1%8F%D0%B7%D0%B8%D1%82" title="Бикбай, Баязит">
+                   Баязит Бикбай
+                  </a>
+                  –
+                  <a href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D1%82" title="Башкирт">
+                   башкирэнь
+                  </a>
+                  валморонь сёрмадыця, прозаик ды драматург, либреттист.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1836_%D0%B8%D0%B5" title="1836 ие">
+                   1836-це иень
+                  </a>
+                  <a href="/wiki/%D0%A0%D0%B0%D0%B9%D0%BC%D1%83%D0%BD%D0%B4,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4" title="Раймунд, Фердинанд">
+                   Фердинанд Раймунд
+                  </a>
+                  —
+                  <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Австрия Мастор">
+                   австриянь
+                  </a>
+                  актёр, театраань режиссёр ды драматург.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1849_%D0%B8%D0%B5" title="1849 ие">
+                   1849-це иень
+                  </a>
+                  <a href="/wiki/%D0%90%D0%BD%D1%82%D1%83%D0%BD_%D0%9D%D0%B5%D0%BC%D1%87%D0%B8%D1%87_%D0%93%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8" title="Антун Немчич Гостовински">
+                   Антун Немчич Гостовински
+                  </a>
+                  –
+                  <a href="/wiki/%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Хорватия Мастор">
+                   хорватиянь
+                  </a>
+                  сёрмадыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_5_%D1%87%D0%B8" title="Таштамковонь 5 чи">
+                   таштамковонь 5-це чистэ
+                  </a>
+                  <a href="/wiki/1991_%D0%B8%D0%B5" title="1991 ие">
+                   1991-це иень
+                  </a>
+                  <a href="/wiki/%D0%97%D0%B5%D0%B9%D0%B4,_%D0%A4%D0%B0%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D1%81%D0%B0" title="Зейд, Фахрониса">
+                   Фахрониса Зейд
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Турция Мастор">
+                   туркань
+                  </a>
+                  артыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_6_%D1%87%D0%B8" title="Таштамковонь 6 чи">
+                   таштамковонь 6-це чистэ
+                  </a>
+                  <a href="/wiki/1924_%D0%B8%D0%B5" title="1924 ие">
+                   1924-це иень
+                  </a>
+                  <a href="/wiki/%D0%93%D0%B5%D0%B9%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B0%D0%B9" title="Гейкель, Аксель Олай">
+                   Аксель Олай Гейкель
+                  </a>
+                  — финнэнь раськеньсодыдей ды аркеологось,
+                  <a class="new" href="/w/index.php?title=%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8%D0%BD%D1%8C_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82&amp;action=edit&amp;redlink=1" title="Хельсинкинь университ (истямо лопа арась)">
+                   Хельсинкинь университетэнь
+                  </a>
+                  <a class="new" href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80&amp;action=edit&amp;redlink=1" title="Профессор (истямо лопа арась)">
+                   профессорось
+                  </a>
+                  .
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_6_%D1%87%D0%B8" title="Таштамковонь 6 чи">
+                   таштамковонь 6-це чистэ
+                  </a>
+                  <a href="/wiki/1999_%D0%B8%D0%B5" title="1999 ие">
+                   1999-це иень
+                  </a>
+                  <a href="/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D1%8C%D0%B8,_%D0%A2%D0%B0%D0%BC%D0%B0%D1%88" title="Менделеньи, Тамаш">
+                   Тамаш Менделеньи
+                  </a>
+                  — венгрань фехтовальщик-саблист, 1960-це иень Олимпиянь налксематнесэ чемпион вейсэнь налксемасо.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_8_%D1%87%D0%B8" title="Таштамковонь 8 чи">
+                   таштамковонь 8-це чистэ
+                  </a>
+                  <a href="/wiki/1967_%D0%B8%D0%B5" title="1967 ие">
+                   1967-це иень
+                  </a>
+                  <a href="/wiki/%D0%A1%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D0%B5%D0%B2,_%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Скобелев, Елисей Васильевич">
+                   Елисей Скобелев
+                  </a>
+                  — рузонь ды эрзянь пакшань тонавтыця, тонадей, МАССР-нь заслуженной тонавтыця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_10_%D1%87%D0%B8" title="Таштамковонь 10 чи">
+                   таштамковонь 10-це чистэ
+                  </a>
+                  <a href="/wiki/2019_%D0%B8%D0%B5" title="2019 ие">
+                   2019-це иень
+                  </a>
+                  <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A0%D0%B0%D0%B7%D0%B8%D0%BD" title="Альберт Алексеевич Разин">
+                   Альберт Разин
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A3%D0%B4%D0%BC%D1%83%D1%80%D1%82%D1%82" title="Удмуртт">
+                   удмуртонь
+                  </a>
+                  <a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%B0" title="Тона">
+                   тонадей
+                  </a>
+                  ды вейсэндявксонь теиця.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_11_%D1%87%D0%B8" title="Таштамковонь 11 чи">
+                   таштамковонь 11-це чистэ
+                  </a>
+                  <a href="/wiki/1967_%D0%B8%D0%B5" title="1967 ие">
+                   1967-це иень
+                  </a>
+                  <a href="/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D1%88%D0%B5%D0%B5%D0%B2,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Кривошеев, Илья Петрович">
+                   Илька Морыця
+                  </a>
+                  —
+                  <a href="/wiki/%D0%AD%D1%80%D0%B7%D1%8F%D1%82" title="Эрзят">
+                   эрзянь
+                  </a>
+                  содавикс сёрмадей, валморонь ладсий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_13_%D1%87%D0%B8" title="Таштамковонь 13 чи">
+                   таштамковонь 13-це чистэ
+                  </a>
+                  <a href="/wiki/2012_%D0%B8%D0%B5" title="2012 ие">
+                   2912-це иень
+                  </a>
+                  <a href="/wiki/%D0%AD%D1%80%D1%8E%D1%80%D1%82,_%D0%94%D0%B8%D0%BB%D1%8C%D1%85%D0%B0%D0%BD" title="Эрюрт, Дильхан">
+                   Дильхан Эрюрт
+                  </a>
+                  —
+                  <a href="/wiki/%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Турция Мастор">
+                   турециянь
+                  </a>
+                  астрофизик.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_14_%D1%87%D0%B8" title="Таштамковонь 14 чи">
+                   таштамковонь 14-це чистэ
+                  </a>
+                  <a href="/wiki/1321_%D0%B8%D0%B5" title="1321 ие">
+                   1321-це иень
+                  </a>
+                  <a href="/wiki/%D0%94%D0%B0%D0%BD%D1%82%D0%B5_%D0%90%D0%BB%D0%B8%D0%B3%D1%8C%D0%B5%D1%80%D0%B8" title="Данте Алигьери">
+                   Данте Алигьери
+                  </a>
+                  —
+                  <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%9C%D0%B0%D1%81%D1%82%D0%BE%D1%80" title="Италия Мастор">
+                   итальянонь
+                  </a>
+                  валморонь сёрмадыця, арсиндей, вийветий.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_20_%D1%87%D0%B8" title="Таштамковонь 20 чи">
+                   таштамковонь 20 чистэ
+                  </a>
+                  <a href="/wiki/1905_%D0%B8%D0%B5" title="1905 ие">
+                   1905 иень
+                  </a>
+                  <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA,_%D0%92%D0%B5%D0%BD%D1%86%D0%B5%D1%81%D0%BB%D0%B0%D0%B2" title="Новак, Венцеслав">
+                   Венцеслав Новак
+                  </a>
+                  — хорватонь сермадей, журналист, переводчик.
+                 </li>
+                 <li>
+                  <a href="/wiki/%D0%A2%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C_21_%D1%87%D0%B8" title="Таштамковонь 21 чи">
+                   таштамковонь 21 чистэ
+                  </a>
+                  <a href="/wiki/1973_%D0%B8%D0%B5" title="1973 ие">
+                   1973 иень
+                  </a>
+                  <a class="mw-redirect" href="/wiki/%D0%9B%D0%B8%D0%B4%D0%B8%D1%8F_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0_%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0" title="Лидия Андреевна Русланова">
+                   Лидия Русланова
+                  </a>
+                  —  содавиксэв рузонь моронь морыця (контральто). Ундоксонзо ульнесть эрзянь.
+                 </li>
+                </ul>
+                <i>
+                 Вн. истяжо:
+                 <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D0%BB%D0%BE%D0%B7%D1%8C_%D1%82%D0%B0%D1%88%D1%82%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%BE%D0%BD%D1%8C" title="Категория:Кулозь таштамковонь">
+                  Категория:Кулозь таштамковонь
+                 </a>
+                </i>
+               </div>
+               <div align="right" style="font-size:95%;">
+                <a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D0%9F%D0%B0%D1%80%D1%86%D1%83%D0%BD:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0/%D0%9A%D0%BE%D0%B2%D0%BA%D0%B5%D1%80%D1%8C%D0%BA%D1%81/09" title="ЛопаПарцун:Прявтлопа/Ковкерькс/09">
+                 Витнемс-петнемс
+                </a>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table style="border:1px solid #a7d7f9; background:#f2f2ff; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+       <tbody>
+        <tr>
+         <td>
+          <div class="center">
+           <b>
+            Пелькстнэ, конат кирдить седе 100 000 сёрмадовкст:
+           </b>
+          </div>
+          <div class="center">
+           <a class="extiw" href="https://en.wikipedia.org/wiki/" title="en:">
+            Англань (English)
+           </a>
+           •
+           <a class="extiw" href="https://it.wikipedia.org/wiki/" title="it:">
+            Итальянонь (Italiano)
+           </a>
+           •
+           <a class="extiw" href="https://de.wikipedia.org/wiki/" title="de:">
+            Немецень (Deutsch)
+           </a>
+           •
+           <a class="extiw" href="https://nl.wikipedia.org/wiki/" title="nl:">
+            Нидерландонь (Nederlands)
+           </a>
+           •
+           <a class="extiw" href="https://pl.wikipedia.org/wiki/" title="pl:">
+            Польскоень (Polski)
+           </a>
+           •
+           <a class="extiw" href="https://ru.wikipedia.org/wiki/" title="ru:">
+            Рузонь (Русский)
+           </a>
+           •
+           <a class="extiw" href="https://tr.wikipedia.org/wiki/" title="tr:">
+            Тюрконь (Türkçe)
+           </a>
+           •
+           <a class="extiw" href="https://uk.wikipedia.org/wiki/" title="uk:">
+            Украинань (Українська)
+           </a>
+           •
+           <a class="extiw" href="https://fr.wikipedia.org/wiki/" title="fr:">
+            Французонь (Français)
+           </a>
+           •
+           <a class="extiw" href="https://sv.wikipedia.org/wiki/" title="sv:">
+            Шведэнь (Svenska)
+           </a>
+           •
+           <a class="extiw" href="https://ja.wikipedia.org/wiki/" title="ja:">
+            Япониянь (日本語)
+           </a>
+          </div>
+          <div class="center">
+           <b>
+            Пелькстнэ, конат кирдить 20 000 сёрмадовкст:
+           </b>
+          </div>
+          <div class="center">
+           <a class="extiw" href="https://bg.wikipedia.org/wiki/" title="bg:">
+            Болгаронь (Български)
+           </a>
+           •
+           <a class="extiw" href="https://da.wikipedia.org/wiki/" title="da:">
+            Датонь (Dansk)
+           </a>
+           •
+           <a class="extiw" href="https://he.wikipedia.org/wiki/" title="he:">
+            Ивритень (עברית)
+           </a>
+           •
+           <a class="extiw" href="https://es.wikipedia.org/wiki/" title="es:">
+            Испанянь (Español)
+           </a>
+           •
+           <a class="extiw" href="https://ca.wikipedia.org/wiki/" title="ca:">
+            Каталанонь (Català)
+           </a>
+           •
+           <a class="extiw" href="https://zh.wikipedia.org/wiki/" title="zh:">
+            Китаень (中文)
+           </a>
+           •
+           <a class="extiw" href="https://hu.wikipedia.org/wiki/" title="hu:">
+            Мадяронь (Magyar)
+           </a>
+           •
+           <a class="extiw" href="https://no.wikipedia.org/wiki/" title="no:">
+            Норвегиянь (Norsk)
+           </a>
+           •
+           <a class="extiw" href="https://pt.wikipedia.org/wiki/" title="pt:">
+            Португалень (Português)
+           </a>
+           •
+           <a class="extiw" href="https://fi.wikipedia.org/wiki/" title="fi:">
+            Суоминь (Suomi)
+           </a>
+           •
+           <a class="extiw" href="https://eo.wikipedia.org/wiki/" title="eo:">
+            Эсперантонь (Esperanto)
+           </a>
+          </div>
+          <div style="font-size:90%;">
+           <div class="center">
+            <b>
+             Яводо истя жо мель не пелькстнэнень:
+            </b>
+           </div>
+           <div class="center">
+            <a class="extiw" href="https://ab.wikipedia.org/wiki/" title="ab:">
+             Абхазонь (Аҧсуа)
+            </a>
+            •
+            <a class="extiw" href="https://av.wikipedia.org/wiki/" title="av:">
+             Аваронь (Авар)
+            </a>
+            •
+            <a class="extiw" href="https://az.wikipedia.org/wiki/" title="az:">
+             Азербайджанонь (Azərbaycan)
+            </a>
+            •
+            <a class="extiw" href="https://hy.wikipedia.org/wiki/" title="hy:">
+             Армянонь (Հայերեն)
+            </a>
+            •
+            <a class="extiw" href="https://ba.wikipedia.org/wiki/" title="ba:">
+             Башкирэнь (Башҡорт)
+            </a>
+            •
+            <a class="extiw" href="https://be.wikipedia.org/wiki/" title="be:">
+             Белорузонь (Беларуская)
+            </a>
+            •
+            <a class="extiw" href="https://cv.wikipedia.org/wiki/" title="cv:">
+             Ветькень (Чӑваш)
+            </a>
+            •
+            <a class="extiw" href="https://ka.wikipedia.org/wiki/" title="ka:">
+             Грузинэнь (ქართული)
+            </a>
+            •
+            <a class="extiw" href="https://yi.wikipedia.org/wiki/" title="yi:">
+             Идишень (ייִדיש)
+            </a>
+            •
+            <a class="extiw" href="https://kk.wikipedia.org/wiki/" title="kk:">
+             Казахонь (Қазақша)
+            </a>
+            •
+            <a class="extiw" href="https://ky.wikipedia.org/wiki/" title="ky:">
+             Киргизень (Kırgızca)
+            </a>
+            •
+            <a class="extiw" href="https://kv.wikipedia.org/wiki/" title="kv:">
+             Коминь (Коми)
+            </a>
+            •
+            <a class="extiw" href="https://lv.wikipedia.org/wiki/" title="lv:">
+             Латонь (Latviešu)
+            </a>
+            •
+            <a class="extiw" href="https://lt.wikipedia.org/wiki/" title="lt:">
+             Литонь (Lietuvių)
+            </a>
+            •
+            <a class="extiw" href="https://mhr.wikipedia.org/wiki/" title="mhr:">
+             Маринь (Олык Марий)
+            </a>
+            •
+            <a class="extiw" href="https://mo.wikipedia.org/wiki/" title="mo:">
+             Молдавань (Молдовеняскэ / Moldoveana)
+            </a>
+            •
+            <a class="extiw" href="https://mdf.wikipedia.org/wiki/" title="mdf:">
+             Мокшонь (Мокшень)
+            </a>
+            •
+            <a class="extiw" href="https://mn.wikipedia.org/wiki/" title="mn:">
+             Монголонь (Монгол)
+            </a>
+            •
+            <a class="extiw" href="https://os.wikipedia.org/wiki/" title="os:">
+             Осетинэнь (Иронау)
+            </a>
+            •
+            <a class="extiw" href="https://tg.wikipedia.org/wiki/" title="tg:">
+             Таджиксень (Тоҷикӣ)
+            </a>
+            •
+            <a class="extiw" href="https://tt.wikipedia.org/wiki/" title="tt:">
+             Печкасонь (Tatarça / Татарча)
+            </a>
+            •
+            <a class="extiw" href="https://tk.wikipedia.org/wiki/" title="tk:">
+             Туркменэнь (Türkmençe / Туркмен)
+            </a>
+            •
+            <a class="extiw" href="https://udm.wikipedia.org/wiki/" title="udm:">
+             Удмуртонь (Удмурт)
+            </a>
+            •
+            <a class="extiw" href="https://uz.wikipedia.org/wiki/" title="uz:">
+             Узбекень (O`zbek / Ўзбек)
+            </a>
+            •
+            <a class="extiw" href="https://ce.wikipedia.org/wiki/" title="ce:">
+             Чеченэнь (Нохчийн)
+            </a>
+            •
+            <a class="extiw" href="https://et.wikipedia.org/wiki/" title="et:">
+             Эстэнь (Eesti)
+            </a>
+            •
+            <a class="extiw" href="https://sah.wikipedia.org/wiki/" title="sah:">
+             Якутонь (Саха)
+            </a>
+           </div>
+          </div>
+          <div style="text-align:center">
+           <b>
+            <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias" title="meta:List of Wikipedias">
+             Весе келень пелькстнэ
+            </a>
+           </b>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="center">
+       <b>
+        Малавикс проекттнэ
+       </b>
+      </div>
+      <table style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;">
+       <tbody>
+        <tr>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wiktionary-logo-ru.png">
+           <img alt="" data-file-height="135" data-file-width="135" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/35px-Wiktionary-logo-ru.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/53px-Wiktionary-logo-ru.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wiktionary-logo-ru.png/70px-Wiktionary-logo-ru.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <a class="extiw" href="https://myv.wiktionary.org/wiki/ru:" title="wikt:ru:">
+           <b>
+            Викивалкс
+           </b>
+          </a>
+          <br/>
+          Валкс ды тезаурусось
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikibooks-logo.svg">
+           <img alt="" data-file-height="300" data-file-width="300" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <b>
+           <a class="extiw" href="https://myv.wikibooks.org/wiki/" title="b:">
+            Викитонавкс пелькс
+           </a>
+          </b>
+          <br/>
+          Тонавкст ды ветявкст
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikiquote-logo.svg">
+           <img alt="" data-file-height="355" data-file-width="300" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <a class="extiw" href="https://myv.wikiquote.org/wiki/" title="q:">
+           <b>
+            Викиёвтавкс
+           </b>
+          </a>
+          <br/>
+          Ёвтавксонь пурнавкс
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikisource-logo.svg">
+           <img alt="" data-file-height="430" data-file-width="410" decoding="async" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <b>
+           <a class="extiw" href="https://wikisource.org/wiki/%D0%9F%D1%80%D1%8F%D0%BA%D1%81%D0%BB%D0%BE%D0%BF%D0%B0" title="oldwikisource:Прякслопа">
+            Викикундо
+           </a>
+          </b>
+          <br/>
+          Ансяк вейксэ лопасо сёрмадовкст
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikispecies-logo.svg">
+           <img alt="" data-file-height="1103" data-file-width="941" decoding="async" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <a class="extiw" href="https://species.wikimedia.org/wiki/" title="wikispecies:">
+           <b>
+            Викилувтнэ
+           </b>
+          </a>
+          <br/>
+          Биологическойть видт
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikinews-logo.svg">
+           <img alt="" data-file-height="415" data-file-width="759" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/75px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/100px-Wikinews-logo.svg.png 2x" width="50"/>
+          </a>
+         </td>
+         <td>
+          <b>
+           <a class="extiw" href="https://ru.wikipedia.org/wiki/n:%D0%92%D0%B8%D0%BA%D0%B8%D0%BA%D1%83%D0%BB%D1%8F%D1%82" title="ru:n:Викикулят">
+            Викикулят
+           </a>
+          </b>
+          <br/>
+          Кулят
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Commons-logo.svg">
+           <img alt="" data-file-height="1376" data-file-width="1024" decoding="async" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <a class="extiw" href="https://commons.wikimedia.org/wiki/" title="commons:">
+           <b>
+            Викиутом
+           </b>
+          </a>
+          <br/>
+          Медиань пурнавкс
+         </td>
+         <td>
+          <a class="image" href="/wiki/%D0%90%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D1%81:Wikimedia-logo.svg">
+           <img alt="" data-file-height="1024" data-file-width="1024" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x" width="35"/>
+          </a>
+         </td>
+         <td>
+          <b>
+           <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+            Метавики
+           </a>
+          </b>
+          <br/>
+          Викись Викимедиань проектэнть
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+      </p>
+      <!-- 
+NewPP limit report
+Parsed by mw1350
+Cached time: 20210928113239
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.265 seconds
+Real time usage: 0.342 seconds
+Preprocessor visited node count: 411/1000000
+Post‐expand include size: 70063/2097152 bytes
+Template argument size: 29140/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 454/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  102.229      1 -total
+ 74.52%   76.183      7 ЛопаПарцун:Прявтлопа/section
+ 18.66%   19.074      1 ЛопаПарцун:Чинь_артовкс
+ 18.20%   18.601      1 ЛопаПарцун:Прявтлопа/Ковкерькс/09
+ 16.64%   17.008      1 ЛопаПарцун:Чинь_мультимедиа
+ 14.83%   15.156      1 ЛопаПарцун:Potd
+ 13.67%   13.979      1 ЛопаПарцун:Motd
+ 11.24%   11.492      2 ЛопаПарцун:Lang-ru
+  7.42%    7.584      1 ЛопаПарцун:Прявтлопа/Прякслопа_пандо
+  7.16%    7.321      1 ЛопаПарцун:Potd/2021-09-28
+-->
+      <!-- Saved in parser cache with key myvwiki:pcache:idhash:240-0!canonical and timestamp 20210928113238 and revision id 123866. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//myv.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Лисмапрясь "
+      <a dir="ltr" href="https://myv.wikipedia.org/w/index.php?title=Прявтлопа&amp;oldid=123866">
+       https://myv.wikipedia.org/w/index.php?title=Прявтлопа&amp;oldid=123866
+      </a>
+      "-сто
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Навигациянь меню
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Эсень кедьёнкст
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Эзить сова
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%9C%D0%BE%D0%BD%D1%8C%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D0%BC%D0%BE%D0%BC" title="Корхнемась тя IP адресста тиф петнематнень колга [n]">
+         Кортнемам
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%9C%D0%BE%D0%BD%D0%9C%D0%B5%D0%B7%D0%B5%D0%A2%D0%B5%D0%B8%D0%BD%D1%8C" title="Список правок, сделанных с этого IP-адреса [y]">
+         Путовкст
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A2%D0%B5%D0%B5%D0%BC%D1%81%D0%A8%D0%BA%D0%B0%D0%BC%D1%81%D0%A1%D0%BE%D0%B2%D0%B0%D0%BC%D0%BE%D0%A2%D0%B0%D1%80%D0%BA%D0%B0&amp;returnto=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Меревлинек тонеть совамо таркань шкамодо-совамодо, арась мелеть, иля">
+         Шкамс совамо тарка
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A2%D0%B5%D0%B8%D1%86%D1%8F%D0%A1%D0%BE%D0%B2%D0%B0%D0%BC%D0%BE&amp;returnto=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Совавтовлить эсь прят тезэнь, арась мелеть, иля. [o]">
+         Совамс
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Лемпотмот
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Ваномс потмо лопанзо [c]">
+          Прявтлопа
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D0%BC%D0%BE:%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" rel="discussion" title="Кортавтома пек паро лопадонть [t]">
+          Кортнема
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Вариантт
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Ваномкат
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0">
+          Ловномс
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-ve-edit">
+         <a accesskey="v" href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;veaction=edit" title="Витнемс-петнемс те лопанть [v]">
+          Витнемс-петнемс
+         </a>
+        </li>
+        <li class="collapsible mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=edit" title="Витнемс-петнемс те лопанть [e]">
+          Витнемс-петнемс лисьмапрянзо
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=history" title="Те лопанть ютазь версиянзо. [h]">
+          Ваномс юронзо-путовксонзо
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="Больше возможностей">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Седе ламо
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Вешнемс
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Вешнемс вана тестэ: Википедиясь" title="Вешнемс вана тестэ: Википедиясь [f]" type="search"/>
+         <input name="title" type="hidden" value="Башка_тевень:Вешнемс"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Лопатнестэ вешнемс истямо текст" type="submit" value="Вешнемс"/>
+         <input class="searchButton" id="searchButton" name="go" title="Истямо лем марто лопа улиндеряй, молемс сезэнь" type="submit" value="Адя"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Совамс прявтлопав">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Навигация
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Совамс прявтлопав [z]">
+         Прявтлопа
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%92%D0%B5%D0%B9%D1%81%D1%8D%D0%BD%D1%8C_%D0%B2%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0" title="Проектэнть эйстэ,  мейсэ лездамс, косто мезе муемс">
+         Велень-сядонь вальма
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%9C%D0%B5%D0%B7%D0%B5_%D0%BD%D0%B5%D0%B9_%D0%BC%D0%BE%D0%BB%D0%B8" title="Муинк совавикс информациянть неень событиятнесэ">
+         Мезе ней моли
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A7%D1%8B%D1%8F%D0%BA%D0%BE%D0%BD%D1%8C%D0%9F%D0%BE%D0%BB%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82" title="Викисэ мезе чияк полавтовсь-лиякстомтовсь. [r]">
+         Чиень полавтнемат-лиякстомтомат
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%9A%D0%BE%D0%B4%D0%B0%D0%BC%D0%BE%D0%9F%D0%BE%D0%BD%D0%B3%D1%81%D1%8C%D0%9B%D0%BE%D0%BF%D0%B0" title="Макста ловномс кодамо понгсь лопа [x]">
+         Кодамо понгсь лопа
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Превс путыть косо.">
+         Лезкс
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_myv.wikipedia.org&amp;uselang=myv" title="Макста миненек нежедематарка">
+         Лезксъярмаконь максома
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Кедьёнкст
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A2%D0%B5%D0%B7%D1%8D%D0%BD%D1%8C%D0%9A%D0%BE%D0%B4%D0%B0%D0%BC%D1%82%D0%A1%D1%8E%D0%BB%D0%BC%D0%B0%D0%B2%D0%BE%D0%BC%D0%B0%D0%9F%D0%B5%D1%82%D1%8C/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" title="Викинь весе лопатне, конат тезэнь сюлмазь [j]">
+         Мезе тезэнь сюлмави
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%9C%D0%B0%D0%BB%D0%B0%D0%B2%D0%B8%D0%BA%D1%81%D0%9F%D0%BE%D0%BB%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0" rel="nofollow" title="Чиень полавтнемат сеть лопатнесэ, конат сюлмазь те лопанть марто [k]">
+         Сюлмавозь лиякстоматне
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=myv" title="Тонгомс файлат [u]">
+         Тонгомс файла
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%91%D0%B0%D1%88%D0%BA%D0%B0%D0%A2%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C%D0%9B%D0%BE%D0%BF%D0%B0%D1%82" title="Башка тевень лопатне мельга-мельцек [q]">
+         Башка тевень лопат
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;oldid=123866" title="Свал шкань сюлмавома пе лопань те верзиянтень">
+         Свалшкас сюлмавомапе
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=info" title="Подробнее об этой странице">
+         Лопадо иформация
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;id=123866&amp;wpFormIdentifier=titleform" title="Те лопань цитировамодо информация">
+         Цитировамс те лопанть
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Сюлмазь датань утомсо тевс сюлмавома пене [g]">
+         Викиданные элементэсь
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Конёв лангс нолдамс/ливтемс
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:%D0%A1%D1%82%D0%B0%D0%B2%D0%BA%D1%81&amp;bookcmd=book_creator&amp;referer=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0">
+         Шкамс книга
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%88%D0%BA%D0%B0_%D1%82%D0%B5%D0%B2%D0%B5%D0%BD%D1%8C:DownloadAsPdf&amp;page=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;action=show-download-screen">
+         Таргамс тень PDF формасо
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;printable=yes" title="Лопанть конёв лангс нолдавома версиязо [p]">
+         Ливтевиця версия
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Лия проекттнэсэ
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викисклад
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         Медиавики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Мета-вики
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Многоязычная Викитека
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Викивиды
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Викиданные
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Викимания
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Лия кельсэ
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ady mw-list-item">
+        <a class="interlanguage-link-target" href="https://ady.wikipedia.org/wiki/" hreflang="ady" lang="ady" title="адыгейский">
+         Адыгабзэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="арабский">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-av mw-list-item">
+        <a class="interlanguage-link-target" href="https://av.wikipedia.org/wiki/" hreflang="av" lang="av" title="аварский">
+         Авар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb mw-list-item">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/" hreflang="azb" lang="azb" title="South Azerbaijani">
+         تۆرکجه
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/" hreflang="ba" lang="ba" title="башкирский">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="болгарский">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bxr mw-list-item">
+        <a class="interlanguage-link-target" href="https://bxr.wikipedia.org/wiki/" hreflang="bxr" lang="bxr" title="Russia Buriat">
+         Буряад
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="каталанский">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce mw-list-item">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/" hreflang="ce" lang="ce" title="чеченский">
+         Нохчийн
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="чешский">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv mw-list-item">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/" hreflang="cv" lang="cv" title="чувашский">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="датский">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="немецкий">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="английский">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="эсперанто">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="испанский">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="эстонский">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="баскский">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="персидский">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="финский">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fiu-vro mw-list-item">
+        <a class="interlanguage-link-target" href="https://fiu-vro.wikipedia.org/wiki/" hreflang="vro" lang="vro" title="võro">
+         Võro
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="французский">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="иврит">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="хорватский">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="венгерский">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="армянский">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="индонезийский">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-inh mw-list-item">
+        <a class="interlanguage-link-target" href="https://inh.wikipedia.org/wiki/" hreflang="inh" lang="inh" title="ингушский">
+         ГӀалгӀай
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="итальянский">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="японский">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kbd mw-list-item">
+        <a class="interlanguage-link-target" href="https://kbd.wikipedia.org/wiki/" hreflang="kbd" lang="kbd" title="кабардинский">
+         Адыгэбзэ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/" hreflang="kk" lang="kk" title="казахский">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="корейский">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-koi mw-list-item">
+        <a class="interlanguage-link-target" href="https://koi.wikipedia.org/wiki/" hreflang="koi" lang="koi" title="коми-пермяцкий">
+         Перем коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-krc mw-list-item">
+        <a class="interlanguage-link-target" href="https://krc.wikipedia.org/wiki/" hreflang="krc" lang="krc" title="карачаево-балкарский">
+         Къарачай-малкъар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kv mw-list-item">
+        <a class="interlanguage-link-target" href="https://kv.wikipedia.org/wiki/" hreflang="kv" lang="kv" title="коми">
+         Коми
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lbe mw-list-item">
+        <a class="interlanguage-link-target" href="https://lbe.wikipedia.org/wiki/" hreflang="lbe" lang="lbe" title="Lak">
+         Лакку
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lez mw-list-item">
+        <a class="interlanguage-link-target" href="https://lez.wikipedia.org/wiki/" hreflang="lez" lang="lez" title="лезгинский">
+         Лезги
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="литовский">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mdf mw-list-item">
+        <a class="interlanguage-link-target" href="https://mdf.wikipedia.org/wiki/" hreflang="mdf" lang="mdf" title="мокшанский">
+         Мокшень
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mhr mw-list-item">
+        <a class="interlanguage-link-target" href="https://mhr.wikipedia.org/wiki/" hreflang="mhr" lang="mhr" title="Eastern Mari">
+         Олык марий
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mrj mw-list-item">
+        <a class="interlanguage-link-target" href="https://mrj.wikipedia.org/wiki/" hreflang="mrj" lang="mrj" title="Western Mari">
+         Кырык мары
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="малайский">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="нидерландский">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="норвежский букмол">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-olo mw-list-item">
+        <a class="interlanguage-link-target" href="https://olo.wikipedia.org/wiki/" hreflang="olo" lang="olo" title="Livvi-Karelian">
+         Livvinkarjala
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-os mw-list-item">
+        <a class="interlanguage-link-target" href="https://os.wikipedia.org/wiki/" hreflang="os" lang="os" title="осетинский">
+         Ирон
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="польский">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="португальский">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="румынский">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="русский">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah mw-list-item">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/" hreflang="sah" lang="sah" title="саха">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-se mw-list-item">
+        <a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/" hreflang="se" lang="se" title="северносаамский">
+         Davvisámegiella
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="сербскохорватский">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="словацкий">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="сербский">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="шведский">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="турецкий">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="татарский">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tyv mw-list-item">
+        <a class="interlanguage-link-target" href="https://tyv.wikipedia.org/wiki/" hreflang="tyv" lang="tyv" title="тувинский">
+         Тыва дыл
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-udm mw-list-item">
+        <a class="interlanguage-link-target" href="https://udm.wikipedia.org/wiki/" hreflang="udm" lang="udm" title="удмуртский">
+         Удмурт
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="украинский">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vep mw-list-item">
+        <a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/" hreflang="vep" lang="vep" title="Veps">
+         Vepsän kel’
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="вьетнамский">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-xal mw-list-item">
+        <a class="interlanguage-link-target" href="https://xal.wikipedia.org/wiki/" hreflang="xal" lang="xal" title="калмыцкий">
+         Хальмг
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-yi mw-list-item">
+        <a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/" hreflang="yi" lang="yi" title="идиш">
+         ייִדיש
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="китайский">
+         中文
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/" hreflang="nan" lang="nan" title="Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Те лопась меельцеде витнезель-петнезель 4 Медьковонь 2020 чистэ, 19:35 чассто.
+    </li>
+    <li id="footer-info-copyright">
+     Текст доступен по
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ru">
+      лицензии Creative Commons Attribution-ShareAlike
+     </a>
+     , в отдельных случаях могут действовать дополнительные условия. Подробнее см.
+     <a href="https://foundation.wikimedia.org/wiki/Условия_использования">
+      Условия использования
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" title="m:Privacy policy/ru">
+      Салавачинь политикась
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%AD%D1%81%D1%82%D1%8D%D0%B4%D0%B5%D0%BD%D0%B7%D1%8D" title="Википедиясь:Эстэдензэ">
+      Википедиясь ланга
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C:%D0%92%D0%B8%D0%B4%D0%B5%D1%87%D0%B8%D0%BD%D1%8C_%D0%BF%D1%80%D1%8F%D0%BA%D1%81_%D0%BA%D0%BE%D1%80%D1%82%D0%BD%D0%B5%D0%BC%D0%B0" title="Википедиясь:Видечинь прякс кортнема">
+      Видечинь кортамотне
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//myv.m.wikipedia.org/w/index.php?title=%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0&amp;mobileaction=toggle_view_mobile">
+      Мобилень версия
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Кастыцят-келейгавтыцят
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/myv.wikipedia.org">
+      Статистикат
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Нумолонь кшитнеде ёвтамо
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.265","walltime":"0.342","ppvisitednodes":{"value":411,"limit":1000000},"postexpandincludesize":{"value":70063,"limit":2097152},"templateargumentsize":{"value":29140,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":454,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  102.229      1 -total"," 74.52%   76.183      7 ЛопаПарцун:Прявтлопа/section"," 18.66%   19.074      1 ЛопаПарцун:Чинь_артовкс"," 18.20%   18.601      1 ЛопаПарцун:Прявтлопа/Ковкерькс/09"," 16.64%   17.008      1 ЛопаПарцун:Чинь_мультимедиа"," 14.83%   15.156      1 ЛопаПарцун:Potd"," 13.67%   13.979      1 ЛопаПарцун:Motd"," 11.24%   11.492      2 ЛопаПарцун:Lang-ru","  7.42%    7.584      1 ЛопаПарцун:Прявтлопа/Прякслопа_пандо","  7.16%    7.321      1 ЛопаПарцун:Potd/2021-09-28"]},"cachereport":{"origin":"mw1350","timestamp":"20210928113239","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0440\u044f\u0432\u0442\u043b\u043e\u043f\u0430","url":"https:\/\/myv.wikipedia.org\/wiki\/%D0%9F%D1%80%D1%8F%D0%B2%D1%82%D0%BB%D0%BE%D0%BF%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-29T22:14:45Z","dateModified":"2020-07-04T19:35:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/ca\/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%9A%D0%B8%D0%BF%D0%B0%D1%80%D0%B8%D1%81%D1%8B.jpg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1354"});});
+  </script>
+ </body>
+</html>

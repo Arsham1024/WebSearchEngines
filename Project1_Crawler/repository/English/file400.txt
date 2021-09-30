@@ -1,0 +1,2649 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="kk">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Уикипедия
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ymd","wgMonthNames":["","қаңтар","ақпан","наурыз","сәуір","мамыр","маусым","шілде","тамыз","қыркүйек","қазан","қараша","желтоқсан"],"wgRequestId":"260aa953-1bf9-49c5-bc7d-02b15cf488ce","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Басты_бет","wgTitle":"Басты бет","wgCurRevisionId":2486916,"wgRevisionId":2486916,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with non-numeric formatnum arguments"],"wgPageContentLanguage":"kk","wgPageContentModel":"wikitext","wgRelevantPageName":"Басты_бет","wgRelevantArticleId":1,"wgUserVariant":"kk","wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"kk","pageLanguageDir":"ltr","pageVariantFallbacks":"kk-cyrl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"қазақша","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.AdvancedSiteNotices","ext.gadget.featured-articles-links","ext.gadget.ReferenceTooltips","ext.gadget.externalSearch","ext.gadget.edittop","ext.gadget.show-sysop-activity","ext.gadget.wikibugs","ext.gadget.QuestionForm","ext.gadget.Chat","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=kk&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=kk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=kk&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/1200px-Red_Ribbon.svg.png" property="og:image"/>
+  <meta content="Уикипедия" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//kk.m.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Уикипедия (kk)" type="application/opensearchdescription+xml"/>
+  <link href="//kk.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk" hreflang="kk" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-cyrl" hreflang="kk-Cyrl" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-latn" hreflang="kk-Latn" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-arab" hreflang="kk-Arab" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-kz" hreflang="kk-KZ" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-tr" hreflang="kk-TR" rel="alternate"/>
+  <link href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-cn" hreflang="kk-CN" rel="alternate"/>
+  <link href="/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" hreflang="x-default" rel="alternate"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://kk.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Басты_бет rootpage-Басты_бет skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Басты бет
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Уикипедия — ашық энциклопедиясынан алынған мәлімет
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="kk">
+     <div class="mw-parser-output">
+      <table cellpadding="0" cellspacing="0" style="text-align:center; border:0; margin-top:1.2em; margin-bottom:0.5ex; background-color:#fcfcfc; width:100%; clear:both;">
+       <tbody>
+        <tr>
+         <td class="globegris" colspan="2" style="border:1px solid #a7d7f9; background-color:#fcfcfc; background-repeat:no-repeat; background-position:-40px -14px; -webkit-border-top-left-radius:7px; -webkit-border-top-right-radius:7px; -moz-border-radius-topleft:7px; -moz-border-radius-topright:7px;box-shadow: 0px 0px 8px rgba(0,0,0,0.15);">
+          <table style="width:100%; margin-top:.7em; background:transparent; border:0px solid #ccc; margin-bottom: 8px;">
+           <tbody>
+            <tr>
+             <td style="width:70%; color:#000; text-align:center; background:transparent;">
+              <table style="width:100%; border:none; background:transparent;">
+               <tbody>
+                <tr>
+                 <td style="width:100%; text-align:center; white-space:nowrap; color:#000;">
+                  <div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">
+                   <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B" title="Уикипедия:Уикипедия туралы">
+                    Уикипедияға
+                   </a>
+                   <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D2%93%D0%B0_%D2%9B%D0%BE%D1%88_%D0%BA%D0%B5%D0%BB%D0%B4%D1%96%D2%A3%D1%96%D0%B7!" title="Уикипедия:Уикипедияға қош келдіңіз!">
+                    қош келдіңіз!
+                   </a>
+                  </div>
+                  <div style="top:+0.2em; font-size:95%;">
+                   Бұл
+                   <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0_%D1%88%D0%B5%D0%B1%D0%B5%D1%80%D1%85%D0%B0%D0%BD%D0%B0%D1%81%D1%8B" title="Уикипедия:Мақала шеберханасы">
+                    кез келген адам еркін өңдей алатын
+                   </a>
+                   <a href="/wiki/%D0%90%D1%88%D1%8B%D2%9B_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82" title="Ашық контент">
+                    ашық және тегін
+                   </a>
+                   <a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Энциклопедия">
+                    энциклопедия
+                   </a>
+                   .
+                  </div>
+                  <div id="articlecount" style="font-size:85%;">
+                   Қазір
+                   <a href="/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%88%D0%B0_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Қазақша Уикипедия">
+                    қазақ тілінде
+                   </a>
+                   <b>
+                    <a href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%A1%D0%B0%D0%BD%D0%B0%D2%9B" title="Арнайы:Санақ">
+                     229 083
+                    </a>
+                   </b>
+                   мақала бар. Қатысушылар саны:
+                   <b>
+                    <a href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D2%9A%D0%B0%D1%82%D1%8B%D1%81%D1%83%D1%88%D1%8B%D0%BB%D0%B0%D1%80" title="Арнайы:Қатысушылар">
+                     111 831
+                    </a>
+                   </b>
+                   .
+                  </div>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+             <td style="width:30%; font-size:95%; color:#000; text-align:left;">
+              <table style="width:100%; background:transparent;">
+               <tbody>
+                <tr>
+                 <td style="width:10%; font-size:95%;">
+                  <p>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD" title="Портал:Қазақстан">
+                    Қазақстан
+                   </a>
+                   <br/>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Портал:География">
+                    География
+                   </a>
+                   <br/>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B0%D1%80%D0%B8%D1%85" title="Портал:Тарих">
+                    Тарих
+                   </a>
+                   <br/>
+                  </p>
+                 </td>
+                 <td style="width:10%; font-size:95%;">
+                  <p>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D2%92%D1%8B%D0%BB%D1%8B%D0%BC" title="Портал:Ғылым">
+                    Ғылым
+                   </a>
+                   <br/>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D2%9A%D0%BE%D2%93%D0%B0%D0%BC" title="Портал:Қоғам">
+                    Қоғам
+                   </a>
+                   <br/>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D2%B1%D0%BB%D2%93%D0%B0%D0%BB%D0%B0%D1%80" title="Портал:Тұлғалар">
+                    Тұлғалар
+                   </a>
+                  </p>
+                 </td>
+                 <td style="width:10%; font-size:95%;">
+                  <p>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%BF%D0%BE%D1%80%D1%82" title="Портал:Спорт">
+                    Спорт
+                   </a>
+                   <br/>
+                   <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%94%D1%96%D0%BD" title="Портал:Дін">
+                    Дін
+                   </a>
+                   <br/>
+                   <b>
+                    <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A8%D0%BE%D0%BB%D1%83" title="Портал:Шолу">
+                     Басқа порталдар
+                    </a>
+                   </b>
+                  </p>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table cellpadding="0" cellspacing="0" style="text-align:center; border:0; margin-bottom:1ex; background-color:#fffaf5; width:100%; clear:both;">
+       <tbody>
+        <tr>
+         <td class="globegris" colspan="2" style="border:1px solid #a7d7f9; background-color:#fcfcfc; background-repeat:no-repeat; background-position:-40px -130px; -webkit-border-bottom-right-radius:7px; -webkit-border-bottom-left-radius:7px; -moz-border-radius-bottomright:7px; -moz-border-radius-bottomleft:7px;">
+          <table cellpadding="5" cellspacing="0" style="border-top:1px solid #ccc; text-align:center; background:transparent; width:98%; border:0;">
+           <tbody>
+            <tr>
+             <td style="width:10%">
+             </td>
+             <td>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0_%D1%88%D0%B5%D0%B1%D0%B5%D1%80%D1%85%D0%B0%D0%BD%D0%B0%D1%81%D1%8B" title="Уикипедия:Мақала шеберханасы">
+               <b>
+                Мақала бастау
+               </b>
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D0%BD%D1%8B%D1%81%D1%82%D1%8B%D1%80%D1%83" title="Уикипедия:Таныстыру">
+               Танысу
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B8%D1%96_%D2%9B%D0%BE%D0%B9%D1%8B%D0%BB%D0%B0%D1%82%D1%8B%D0%BD_%D1%81%D2%B1%D1%80%D0%B0%D2%9B%D1%82%D0%B0%D1%80" title="Уикипедия:Жиі қойылатын сұрақтар">
+               Сұрақтар
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D0%B0%D1%80" title="Уикипедия:Санаттар">
+               Санаттар
+              </a>
+             </td>
+             <td>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%95%D0%BB%D1%88%D1%96%D0%BB%D1%96%D0%BA" title="Уикипедия:Елшілік">
+               Embassy
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table cellpadding="0" cellspacing="0" style="margin-bottom:1.5ex;">
+       <tbody>
+        <tr>
+         <td style="width:54.6%;vertical-align:top;">
+          <div class="mainpagestyle">
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div id="mp-tfaHead" style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Таңдаулы мақала
+             </div>
+            </div>
+           </div>
+           <div id="mp-tfa" style="margin-top: 5px; padding: 17px 10px;">
+            <div id="mp-tfa">
+             <div class="floatright">
+              <a href="/wiki/%D0%90%D0%98%D0%92/%D0%96%D0%98%D0%A2%D0%A1" title="АИВ/ЖИТС">
+               <img alt="Red Ribbon.svg" data-file-height="1112" data-file-width="744" decoding="async" height="224" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/150px-Red_Ribbon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/225px-Red_Ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/300px-Red_Ribbon.svg.png 2x" width="150"/>
+              </a>
+             </div>
+             <p>
+              <b>
+               <a href="/wiki/%D0%90%D0%98%D0%92/%D0%96%D0%98%D0%A2%D0%A1" title="АИВ/ЖИТС">
+                АИВ/ЖИТС
+               </a>
+              </b>
+              —
+              <a href="/wiki/%D0%90%D0%98%D0%92" title="АИВ">
+               адамның иммунтапшылық вирусы
+              </a>
+              (АИВ) қоздырған
+              <a href="/wiki/%D0%98%D0%BD%D1%84%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Инфекция">
+               инфекцияның
+              </a>
+              организмге әсерінен дамитын, ауру белгілері ұзаққа байқалмайтын дертті жағдай. Ауру үдегенде адамның
+              <a href="/wiki/%D0%98%D0%BC%D0%BC%D1%83%D0%BD%D0%B4%D1%8B_%D0%B6%D2%AF%D0%B9%D0%B5" title="Иммунды жүйе">
+               иммунды жүйесі
+              </a>
+              әлсіреп,
+              <a href="/wiki/%D0%A2%D1%83%D0%B1%D0%B5%D1%80%D0%BA%D1%83%D0%BB%D0%B5%D0%B7" title="Туберкулез">
+               туберкулез
+              </a>
+              , оппортунис инфекциялар мен
+              <a href="/wiki/%D0%86%D1%81%D1%96%D0%BA" title="Ісік">
+               ісіктер
+              </a>
+              пайда болуы мүмкін. Бұл белгілерінің жиынтығын
+              <i>
+               жүре пайда болған иммунитет тапшылығы синдромы
+              </i>
+              (ЖИТС) деп атайды.
+             </p>
+             <p>
+              АИВ бірінші кезекте қорғаусыз секс (
+              <a href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B4%D1%8B_%D1%81%D0%B5%D0%BA%D1%81" title="Аналды секс">
+               анал
+              </a>
+              және
+              <a href="/wiki/%D0%9E%D1%80%D0%B0%D0%BB%D0%B4%D1%8B_%D1%81%D0%B5%D0%BA%D1%81" title="Оралды секс">
+               орал сексі
+              </a>
+              кезінде де
+              <a href="/wiki/%D2%9A%D0%B0%D0%BD" title="Қан">
+               қан
+              </a>
+              , былазық, шәует, қынап шырышы арқылы),
+              <a href="/wiki/%D0%93%D0%B5%D0%BC%D0%BE%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D1%83%D0%B7%D0%B8%D1%8F" title="Гемотрансфузия">
+               қан құю
+              </a>
+              , ине арқылы, сондай-ақ жүктілік, босану не емізу кезінде анадан балаға беріле алады. Вирус
+              <a href="/wiki/%D0%A1%D1%96%D0%BB%D0%B5%D0%BA%D0%B5%D0%B9" title="Сілекей">
+               сілекей
+              </a>
+              , тер, жас секілді дене сұйықтығы арқылы адамнан адамға берілмейді.
+             </p>
+             <p>
+              Алдын алу шаралары: қорғаулы секс, ине алмасу бастамасы (қолданылған инені жаңасына тегін алмастыру), жұқтырғандарды емдеу, жұқтыруға дейінгі және кейінгі профилактика және ерлерді
+              <a href="/wiki/%D0%A1%D2%AF%D0%BD%D0%B4%D0%B5%D1%82%D1%82%D0%B5%D1%83" title="Сүндеттеу">
+               сүндеттеу
+              </a>
+              . Антиретровирусты терапия ауру ағымын баяулатып, өмір сүрудің әдеттегі ұзақтығына әкелуі мүмкін.
+             </p>
+             <p>
+              <a href="/wiki/%D0%90%D0%98%D0%92/%D0%96%D0%98%D0%A2%D0%A1" title="АИВ/ЖИТС">
+               <i>
+                (толығырақ...)
+               </i>
+              </a>
+             </p>
+            </div>
+            <div style="font-size:85%; text-align:right; clear:both">
+             <i>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D1%80" title="Уикипедия:Таңдаулы мақалалар">
+               Таңдаулы мақалалар
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D2%93%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80" title="Уикипедия:Таңдаулы мақалаға үміткерлер">
+               Үміткерлер
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D2%93%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80/%D0%9C%D2%B1%D1%80%D0%B0%D2%93%D0%B0%D1%82" title="Уикипедия:Таңдаулы мақалаға үміткерлер/Мұрағат">
+               Мұрағат
+              </a>
+             </i>
+            </div>
+           </div>
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/38px-HS_VdQ.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/57px-HS_VdQ.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/76px-HS_VdQ.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div id="mp-tfgaHead" style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Жақсы мақала
+             </div>
+            </div>
+           </div>
+           <div id="mp-tfga" style="margin-top: 5px; padding: 17px 10px;">
+            <div id="mp-tfa">
+             <div class="floatright">
+              <a class="image" href="/wiki/%D0%A1%D1%83%D1%80%D0%B5%D1%82:%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0.jpg">
+               <img alt="Үйде жалғыз қалғанда.jpg" data-file-height="326" data-file-width="220" decoding="async" height="222" src="//upload.wikimedia.org/wikipedia/kk/thumb/3/3e/%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0.jpg/150px-%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0.jpg" srcset="//upload.wikimedia.org/wikipedia/kk/3/3e/%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0.jpg 1.5x" width="150"/>
+              </a>
+             </div>
+             <p>
+              <b>
+               <a href="/wiki/%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0" title="Үйде жалғыз қалғанда">
+                Үйде жалғыз қалғанда
+               </a>
+              </b>
+              (
+              <a href="/wiki/%D0%90%D2%93%D1%8B%D0%BB%D1%88%D1%8B%D0%BD_%D1%82%D1%96%D0%BB%D1%96" title="Ағылшын тілі">
+               ағылш.
+              </a>
+              <span lang="en">
+               <i>
+                Home Alone
+               </i>
+              </span>
+              ) — 1990 жылы Джон Хьюз жазған сценарий бойынша түсірілген
+              <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0_%D2%9A%D2%B1%D1%80%D0%B0%D0%BC%D0%B0_%D0%A8%D1%82%D0%B0%D1%82%D1%82%D0%B0%D1%80%D1%8B" title="Америка Құрама Штаттары">
+               америкалық
+              </a>
+              <a href="/wiki/%D0%96%D0%B0%D2%A3%D0%B0_%D0%B6%D1%8B%D0%BB" title="Жаңа жыл">
+               жаңа жылдық
+              </a>
+              <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Кинокомедия">
+               комедия
+              </a>
+              . Туынды режиссері – Крис Коламбус. Басты рөлді
+              <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BE%D0%BB%D0%B5%D0%B9_%D0%9A%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD" title="Маколей Калкин">
+               Маколей Калкин
+              </a>
+              сомдаған.
+             </p>
+             <p>
+              Сыншылар фильм жайлы аралас пікір білдірген. Фильм
+              <a href="/wiki/%D0%A1%D0%BE%D0%BB%D1%82%D2%AF%D1%81%D1%82%D1%96%D0%BA_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Солтүстік Америка">
+               Солтүстік Америкада
+              </a>
+              шығарылған жаңа жылдық комедиялар арасында ең мол касса жинаған. Сонымен қатар фильм АҚШ кинематографы тарихындағы ең мол касса жинғана комедия ретінде рекорд орнатқан. Бұл рекорд
+              <a href="/wiki/2011_%D0%B6%D1%8B%D0%BB" title="2011 жыл">
+               2011 жылы
+              </a>
+              «Бас жазу: II бөлім» кинофильмі шыққанға дейін ұсталып тұрған. Картина төрт сиквелден тұратын франшизаның негізі болды, олардың екеуі ғана бір-бірімен байланысы бар фильмдер. Алғашқы актерлық құрам тек «Үйде жалғыз қалғанда: Нью-Йоркте адасу» фильмінде сақталған. Ал қалған екі сиквел толықтай дербес фильм.
+             </p>
+             <p>
+              <i>
+               (
+               <a href="/wiki/%D2%AE%D0%B9%D0%B4%D0%B5_%D0%B6%D0%B0%D0%BB%D2%93%D1%8B%D0%B7_%D2%9B%D0%B0%D0%BB%D2%93%D0%B0%D0%BD%D0%B4%D0%B0" title="Үйде жалғыз қалғанда">
+                толығырақ ...
+               </a>
+               )
+              </i>
+             </p>
+            </div>
+            <div style="font-size:85%; text-align:right; clear:both">
+             <i>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B0%D2%9B%D1%81%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D1%80" title="Уикипедия:Жақсы мақалалар">
+               Жақсы мақалалар
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B0%D2%9B%D1%81%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D2%93%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80" title="Уикипедия:Жақсы мақалаға үміткерлер">
+               Үміткерлер (10)
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B0%D2%9B%D1%81%D1%8B_%D0%BC%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D2%93%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80/%D0%9C%D2%B1%D1%80%D0%B0%D2%93%D0%B0%D1%82" title="Уикипедия:Жақсы мақалаға үміткерлер/Мұрағат">
+               Мұрағат
+              </a>
+             </i>
+            </div>
+           </div>
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/4/46/Bluebg_rounded.png" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/38px-HSBild.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/57px-HSBild.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HSBild.svg/76px-HSBild.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div id="wp-tfpHead" style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Тәулік суреті
+             </div>
+            </div>
+           </div>
+           <div id="wp-tfp" style="margin-top: 5px; padding: 17px 10px;">
+            <div class="center">
+             <p style="display:inline-block;border: 1px solid #DDDDDD; box-shadow: 0px 0px 8px rgba(0,0,0,0.15);">
+              <a class="new" href="/w/index.php?title=%D2%AE%D0%BB%D0%B3%D1%96:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D1%81%D1%83%D1%80%D0%B5%D1%82/%D2%9A%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA_2021/22-24&amp;action=edit&amp;redlink=1" title="Үлгі:Таңдаулы сурет/Қыркүйек 2021/22-24 (мұндай бет жоқ)">
+               Үлгі:Таңдаулы сурет/Қыркүйек 2021/22-24
+              </a>
+             </p>
+            </div>
+            <div style="font-size:85%; text-align:right; clear:both">
+             <i>
+              <a href="/wiki/%D0%96%D0%BE%D0%B1%D0%B0:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D1%81%D1%83%D1%80%D0%B5%D1%82%D1%82%D0%B5%D1%80" title="Жоба:Таңдаулы суреттер">
+               Таңдаулы суреттер
+              </a>
+              |
+              <a class="new" href="/w/index.php?title=%D0%96%D0%BE%D0%B1%D0%B0:%D0%A2%D0%B0%D2%A3%D0%B4%D0%B0%D1%83%D0%BB%D1%8B_%D1%81%D1%83%D1%80%D0%B5%D1%82%D1%82%D0%B5%D1%80/%D2%9A%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA_2021&amp;action=edit&amp;redlink=1" title="Жоба:Таңдаулы суреттер/Қыркүйек 2021 (мұндай бет жоқ)">
+               Мұрағат
+              </a>
+             </i>
+            </div>
+           </div>
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; -moz-border-radius: 9.75px; -webkit-border-radius: 9.75px; border-radius: 9.75px; background: #C6DEFE;">
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Аптаның бірлескен жұмыстары
+             </div>
+            </div>
+           </div>
+           <div style="margin-top: 5px; padding: 17px 10px;">
+            Таңдалмаған. Оны сіз де жасай аласыз!
+            <div style="font-size:85%; text-align:right; clear:both">
+             <i>
+              <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%90%D0%BF%D1%82%D0%B0%D0%BD%D1%8B%D2%A3_%D0%B6%D2%B1%D0%BC%D1%8B%D1%81%D1%8B" title="Үлгі:Аптаның жұмысы">
+               Қарау
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BF%D1%82%D0%B0%D0%BD%D1%8B%D2%A3_%D0%B6%D2%B1%D0%BC%D1%8B%D1%81%D1%8B%D0%BD%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80" title="Уикипедия:Аптаның жұмысына үміткерлер">
+               Үміткерлер
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BF%D1%82%D0%B0%D0%BD%D1%8B%D2%A3_%D0%B6%D2%B1%D0%BC%D1%8B%D1%81%D1%8B%D0%BD%D0%B0_%D2%AF%D0%BC%D1%96%D1%82%D0%BA%D0%B5%D1%80%D0%BB%D0%B5%D1%80/%D0%9C%D2%B1%D1%80%D0%B0%D2%93%D0%B0%D1%82" title="Уикипедия:Аптаның жұмысына үміткерлер/Мұрағат">
+               Мұрағат
+              </a>
+             </i>
+             <br/>
+             <a href="/wiki/%D0%96%D0%BE%D0%B1%D0%B0:%D0%90%D0%BF%D1%82%D0%B0%D0%BD%D1%8B%D2%A3_%D0%B6%D2%B1%D0%BC%D1%8B%D1%81%D1%8B#Апта_реті_көрсетілген_күнтізбе" title="Жоба:Аптаның жұмысы">
+              Осы аптаның
+             </a>
+             бітуіне
+             <i>
+              <b>
+               3 күн
+              </b>
+             </i>
+             қалды. —
+             <span class="plainlinks" id="purgelink">
+              <a class="external text" href="https://kk.wikipedia.org/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=purge">
+               Бетті жаңалау
+              </a>
+             </span>
+            </div>
+           </div>
+          </div>
+         </td>
+         <td style="vertical-align:top;">
+          <div class="mainpagestyle">
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/350px-Green-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/525px-Green-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/700px-Green-bg_rounded.svg.png 2x" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/38px-PL_Wiki_CzyWiesz_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/57px-PL_Wiki_CzyWiesz_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/76px-PL_Wiki_CzyWiesz_ikona.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div id="mp-dykHead" style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Білгенге маржан
+             </div>
+            </div>
+           </div>
+           <div id="mp-dyk" style="margin-top: 5px; padding: 17px 10px;">
+            <div class="floatright">
+             <a class="image" href="/wiki/%D0%A1%D1%83%D1%80%D0%B5%D1%82:Tattimbet.jpg">
+              <img alt="Tattimbet.jpg" data-file-height="269" data-file-width="185" decoding="async" height="145" src="//upload.wikimedia.org/wikipedia/kk/thumb/0/0c/Tattimbet.jpg/100px-Tattimbet.jpg" srcset="//upload.wikimedia.org/wikipedia/kk/thumb/0/0c/Tattimbet.jpg/150px-Tattimbet.jpg 1.5x, //upload.wikimedia.org/wikipedia/kk/0/0c/Tattimbet.jpg 2x" width="100"/>
+             </a>
+            </div>
+            <ul>
+             <li>
+              <a href="/wiki/%D0%9E%D1%80%D1%8B%D1%81_%D3%99%D0%BB%D1%96%D0%BF%D0%B1%D0%B8%D1%96" title="Орыс әліпбиі">
+               Реформаға дейінгі орыс әліпбиінің
+              </a>
+              <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B5%D0%BC%D0%B0" title="Графема">
+               графемаларына
+              </a>
+              негізделген
+              <a href="/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B_%D3%99%D0%BB%D1%96%D0%BF%D0%B1%D0%B8%D1%96#Шоқындырушылардың_жазуы" title="Қазақ әліпбиі">
+               <b>
+                қазақ әліпбиін
+               </b>
+              </a>
+              жасаған
+              <a href="/wiki/%D0%AB%D0%B1%D1%8B%D1%80%D0%B0%D0%B9_%D0%90%D0%BB%D1%82%D1%8B%D0%BD%D1%81%D0%B0%D1%80%D0%B8%D0%BD" title="Ыбырай Алтынсарин">
+               ағартушының
+              </a>
+              әкесін
+              <a href="/wiki/%D0%9A%D0%B5%D0%BD%D0%B5%D1%81%D0%B0%D1%80%D1%8B_%D1%85%D0%B0%D0%BD" title="Кенесары хан">
+               қазақтың соңғы ханының
+              </a>
+              сарбаздары өлтірген.
+             </li>
+             <li>
+              <b>
+               <a href="/wiki/%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82" title="Сократ">
+                Ежелгі грек философтың
+               </a>
+              </b>
+              шәкірттері бір сұраққа жауап алуы үшін
+              <a href="/wiki/%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D1%82%D1%8B%D2%9B_%D1%81%D0%B0%D1%83%D0%B0%D0%BB_%D2%9B%D0%BE%D1%8E" title="Сократтық сауал қою">
+               бірнеше сұраққа жауап іздеуі керек болған
+              </a>
+              .
+             </li>
+             <li>
+              <a href="/wiki/%D0%A2%D3%99%D1%82%D1%82%D1%96%D0%BC%D0%B1%D0%B5%D1%82_%D2%9A%D0%B0%D0%B7%D0%B0%D0%BD%D2%93%D0%B0%D0%BF%D2%B1%D0%BB%D1%8B" title="Тәттімбет Қазанғапұлы">
+               <b>
+                Домбыра үніне жан бітірген күйшінің
+               </b>
+              </a>
+              (суретте)
+              <a href="/wiki/%D0%9D%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80" title="Наймандар">
+               найман
+              </a>
+              қызына ашуланып шығарған күйі шығармашылығындағы ең көрнекті, айшықты туындылардың біріне айналған.
+             </li>
+             <li>
+              <a href="/wiki/1916_%D0%B6%D1%8B%D0%BB%D2%93%D1%8B_%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D2%B1%D0%BB%D1%82-%D0%B0%D0%B7%D0%B0%D1%82%D1%82%D1%8B%D2%9B_%D0%BA%D3%A9%D1%82%D0%B5%D1%80%D1%96%D0%BB%D1%96%D1%81" title="1916 жылғы Қазақстандағы ұлт-азаттық көтеріліс">
+               Қазақстандағы ұлт-азаттық көтерілісті
+              </a>
+              <a href="/wiki/%D0%90%D0%BC%D0%B0%D0%BD%D0%BA%D0%B5%D0%BB%D0%B4%D1%96_%D2%AE%D0%B4%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D2%B1%D0%BB%D1%8B_%D0%98%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2" title="Аманкелді Үдербайұлы Иманов">
+               бастаған
+               <b>
+                қазақ батыры
+               </b>
+              </a>
+              <a href="/wiki/%D0%90%D0%BB%D0%B0%D1%88_%D0%9E%D1%80%D0%B4%D0%B0" title="Алаш Орда">
+               алашордашылар
+              </a>
+              қолынан қаза тапқан.
+             </li>
+             <li>
+              <b>
+               <a href="/wiki/%D0%90%D0%98%D0%92/%D0%96%D0%98%D0%A2%D0%A1" title="АИВ/ЖИТС">
+                Ұзаққа дейін емі жоқ деп саналған дерттен
+               </a>
+              </b>
+              үш адам толықтай айығып шыққан.
+             </li>
+             <li>
+              <a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0" title="Физика">
+               Физиканың
+              </a>
+              <b>
+               <a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD" title="Альберт Эйнштейн">
+                фундаментал теорияларын тұжырымдап кеткен ғалым
+               </a>
+              </b>
+              дәл
+              <a href="/wiki/%D0%9C%D3%99%D2%A3%D0%B3%D1%96%D0%BB%D1%96%D0%BA_%D2%9B%D0%B0%D0%B9%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D1%8B%D0%BC" title="Мәңгілік қайталаным">
+               Ницше секілді
+              </a>
+              ғалам тағдыры
+              <a href="/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%B4%D1%96%D0%BA_%D2%93%D0%B0%D0%BB%D0%B0%D0%BC_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%96" title="Циклдік ғалам моделі">
+               белгілі бір уақыттан кейін қайталанады
+              </a>
+              деп есептеген.
+             </li>
+             <li>
+              <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C" title="Беларусь">
+               Беларусьтен
+              </a>
+              шыққан
+              <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Светлана Александровна Алексиевич">
+               <b>
+                алғашқы Нобель иегері
+               </b>
+              </a>
+              —
+              <a href="/wiki/%D3%98%D0%B4%D0%B5%D0%B1%D0%B8%D0%B5%D1%82_%D1%81%D0%B0%D0%BB%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D1%81%D1%8B%D0%B9%D0%BB%D1%8B%D2%93%D1%8B" title="Әдебиет саласындағы Нобель сыйлығы">
+               әдебиет саласындағы Нобель сыйлығын
+              </a>
+              алған алғашқы
+              <a href="/wiki/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82" title="Журналист">
+               журналист
+              </a>
+              .
+              <div style="font-size:85%; text-align:right; clear:both">
+               <i>
+                <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82/%D0%91%D1%96%D0%BB%D0%B3%D0%B5%D0%BD%D0%B3%D0%B5_%D0%BC%D0%B0%D1%80%D0%B6%D0%B0%D0%BD" title="Үлгі:Басты бет/Білгенге маржан">
+                 Қарау
+                </a>
+                |
+                <a class="new" href="/w/index.php?title=%D0%96%D0%BE%D0%B1%D0%B0:%D0%91%D1%96%D0%BB%D0%B3%D0%B5%D0%BD%D0%B3%D0%B5_%D0%BC%D0%B0%D1%80%D0%B6%D0%B0%D0%BD/%D2%B0%D1%81%D1%8B%D0%BD%D1%8B%D1%81%D1%82%D0%B0%D1%80/2021&amp;action=edit&amp;redlink=1" title="Жоба:Білгенге маржан/Ұсыныстар/2021 (мұндай бет жоқ)">
+                 Ұсыныстар
+                </a>
+                |
+                <a href="/wiki/%D0%96%D0%BE%D0%B1%D0%B0:%D0%91%D1%96%D0%BB%D0%B3%D0%B5%D0%BD%D0%B3%D0%B5_%D0%BC%D0%B0%D1%80%D0%B6%D0%B0%D0%BD/%D0%9C%D2%B1%D1%80%D0%B0%D2%93%D0%B0%D1%82" title="Жоба:Білгенге маржан/Мұрағат">
+                 Мұрағат
+                </a>
+               </i>
+              </div>
+             </li>
+            </ul>
+           </div>
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/350px-Green-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/525px-Green-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/700px-Green-bg_rounded.svg.png 2x" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/38px-PL_Wiki_Aktualnosci_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/57px-PL_Wiki_Aktualnosci_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/76px-PL_Wiki_Aktualnosci_ikona.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Жаңалықтар
+             </div>
+            </div>
+           </div>
+           <div style="margin-top: 5px; padding: 17px 10px;">
+            <div id="mp-itn">
+             <div class="hlist" style="margin-left:0em;">
+              <dl>
+               <dt>
+                Өзекті тақырыптар
+               </dt>
+               <dd>
+                <b>
+                 <a href="/wiki/COVID-19_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D1%81%D1%8B" title="COVID-19 пандемиясы">
+                  COVID-19 пандемиясы‎
+                 </a>
+                </b>
+                (
+                <a href="/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D2%93%D1%8B_2020_%D0%B6%D1%8B%D0%BB%D2%93%D1%8B_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D1%81%D1%8B" title="Қазақстандағы 2020 жылғы коронавирус пандемиясы">
+                 Қазақстандағы пандемия
+                </a>
+                )
+               </dd>
+              </dl>
+             </div>
+             <div class="floatright">
+              <a href="/wiki/%D0%86%D0%86%D0%86_%D0%91%D0%B5%D0%BD%D0%B8%D0%B3%D0%BD%D0%BE_%D0%90%D0%BA%D0%B8%D0%BD%D0%BE." title="ІІІ Бенигно Акино.">
+               <img alt="Benigno Aquino III Official 2015.jpg" data-file-height="1125" data-file-width="782" decoding="async" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Benigno_Aquino_III_Official_2015.jpg/100px-Benigno_Aquino_III_Official_2015.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Benigno_Aquino_III_Official_2015.jpg/150px-Benigno_Aquino_III_Official_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Benigno_Aquino_III_Official_2015.jpg/200px-Benigno_Aquino_III_Official_2015.jpg 2x" width="100"/>
+              </a>
+             </div>
+             <ul>
+              <li>
+               <a href="/wiki/24_%D0%BC%D0%B0%D1%83%D1%81%D1%8B%D0%BC" title="24 маусым">
+                24 маусым
+               </a>
+               — Филиппиндердің бұрынғы президенті
+               <b>
+                <a href="/wiki/%D0%86%D0%86%D0%86_%D0%91%D0%B5%D0%BD%D0%B8%D0%B3%D0%BD%D0%BE_%D0%90%D0%BA%D0%B8%D0%BD%D0%BE" title="ІІІ Бенигно Акино">
+                 Бенигно Акино III
+                </a>
+               </b>
+               (
+               <i>
+                суретте
+               </i>
+               ) 61 жасында қайтыс болды.
+              </li>
+              <li>
+               <a href="/wiki/18_%D0%BD%D0%B0%D1%83%D1%80%D1%8B%D0%B7" title="18 наурыз">
+                18 наурыз
+               </a>
+               —
+               <a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" title="Танзания">
+                Танзания
+               </a>
+               президенті
+               <b>
+                <a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%9C%D0%B0%D0%B3%D1%83%D1%84%D1%83%D0%BB%D0%B8" title="Джон Магуфули">
+                 Джон Магуфули
+                </a>
+               </b>
+               қайтыс болды, оның орнына вице-президент
+               <b>
+                <a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%BC%D0%B8%D1%8F_%D0%A1%D1%83%D0%BB%D1%83%D1%85%D1%83&amp;action=edit&amp;redlink=1" title="Самия Сулуху (мұндай бет жоқ)">
+                 Самия Сулуху
+                </a>
+               </b>
+               келді, бұл қызметтегі бірінші әйел.
+              </li>
+              <li>
+               <a href="/wiki/1_%D0%BD%D0%B0%D1%83%D1%80%D1%8B%D0%B7" title="1 наурыз">
+                1 наурыз
+               </a>
+               — Теннисші
+               <b>
+                <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA_%D0%94%D0%B6%D0%BE%D0%BA%D0%BE%D0%B2%D0%B8%D1%87" title="Новак Джокович">
+                 Новак Джокович
+                </a>
+               </b>
+               <b>
+                <a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B5%D1%80" title="Роджер Федерер">
+                 Роджер Федерердің
+                </a>
+               </b>
+               әлемдік рейтингтің бірінші қатарындағы бірнеше аптадағы рекордынан асып түсті (311).
+              </li>
+              <li>
+               <a href="/wiki/18_%D0%B0%D2%9B%D0%BF%D0%B0%D0%BD" title="18 ақпан">
+                18 ақпан
+               </a>
+               —
+               <b>
+                <a href="/wiki/Perseverance" title="Perseverance">
+                 Perseverance
+                </a>
+               </b>
+               ровері
+               <a href="/wiki/%D0%9C%D0%B0%D1%80%D1%81" title="Марс">
+                Марсқа
+               </a>
+               қонды.
+              </li>
+              <li>
+               <a href="/wiki/13_%D0%B0%D2%9B%D0%BF%D0%B0%D0%BD" title="13 ақпан">
+                13 ақпан
+               </a>
+               —
+               <b>
+                <a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D1%80%D0%B8%D0%BE_%D0%94%D1%80%D0%B0%D0%B3%D0%B8&amp;action=edit&amp;redlink=1" title="Марио Драги (мұндай бет жоқ)">
+                 Марио Драги
+                </a>
+               </b>
+               <a class="new" href="/w/index.php?title=%D0%94%D0%B6%D0%B8%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5_%D0%9A%D0%BE%D0%BD%D1%82%D0%B5&amp;action=edit&amp;redlink=1" title="Джиузеппе Конте (мұндай бет жоқ)">
+                Джиузеппе Контенің
+               </a>
+               отставкасынан кейін елдегі
+               <b>
+                <a class="new" href="/w/index.php?title=%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%D0%B4%D0%B0_%D2%AF%D0%BA%D1%96%D0%BC%D0%B5%D1%82%D1%82%D1%96%D0%BA_%D0%B4%D0%B0%D2%93%D0%B4%D0%B0%D1%80%D1%8B%D1%81_(2021)&amp;action=edit&amp;redlink=1" title="Италияда үкіметтік дағдарыс (2021) (мұндай бет жоқ)">
+                 үкіметтік дағдарысты
+                </a>
+               </b>
+               аяқтап,
+               <b>
+                <a class="new" href="/w/index.php?title=%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D1%96&amp;action=edit&amp;redlink=1" title="Италия премьер-министрі (мұндай бет жоқ)">
+                 Италияның премьер-министрі
+                </a>
+               </b>
+               қызметіне кірісті.
+              </li>
+             </ul>
+            </div>
+            <div style="font-size:85%; text-align:right; clear:both">
+             <i>
+              <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82/%D0%96%D0%B0%D2%A3%D0%B0%D0%BB%D1%8B%D2%9B%D1%82%D0%B0%D1%80" title="Үлгі:Басты бет/Жаңалықтар">
+               Қарау
+              </a>
+             </i>
+            </div>
+           </div>
+           <div style="position: relative; z-index:0; text-align:left; top: 8px; left: 2px; height:25px; width:99.5%; left: 3px; background: #transparent;">
+            <img alt="" data-file-height="25" data-file-width="350" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/350px-Green-bg_rounded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/525px-Green-bg_rounded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Green-bg_rounded.svg/700px-Green-bg_rounded.svg.png 2x" width="350"/>
+            <div style="position: absolute; top: -6px; left: 5px;">
+             <img alt="" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Datum24.svg/38px-Datum24.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Datum24.svg/57px-Datum24.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Datum24.svg/76px-Datum24.svg.png 2x" width="38"/>
+            </div>
+            <div style="position: absolute; top: .5px; left: 42px;">
+             <div id="mp-otdHead" style="padding: .15em .5em; border: none; font-size: 125%; font-weight: bold;">
+              Бүгін —
+              <a href="/wiki/24_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="24 қыркүйек">
+               24 қыркүйек
+              </a>
+             </div>
+            </div>
+           </div>
+           <div id="mp-otd" style="margin-top: 5px; padding: 17px 10px;">
+            <div class="floatright">
+             <a class="image" href="/wiki/%D0%A1%D1%83%D1%80%D0%B5%D1%82:Honda-logo.svg" title="Honda">
+              <img alt="Honda" data-file-height="68" data-file-width="300" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Honda-logo.svg/100px-Honda-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Honda-logo.svg/150px-Honda-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Honda-logo.svg/200px-Honda-logo.svg.png 2x" width="100"/>
+             </a>
+            </div>
+            <ul>
+             <li>
+              <span class="nowrap" data-sort-value="Гвинея-Бисау">
+               <span class="flagicon">
+                <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F-%D0%91%D0%B8%D1%81%D0%B0%D1%83" title="Гвинея-Бисау">
+                 <img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/22px-Flag_of_Guinea-Bissau.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/33px-Flag_of_Guinea-Bissau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/44px-Flag_of_Guinea-Bissau.svg.png 2x" width="22"/>
+                </a>
+               </span>
+               <a href="/wiki/%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%8F-%D0%91%D0%B8%D1%81%D0%B0%D1%83" title="Гвинея-Бисау">
+                <span class="wrap">
+                 Гвинея-Бисау
+                </span>
+               </a>
+              </span>
+              , Республика күні
+             </li>
+             <li>
+              <span class="nowrap" data-sort-value="Камбоджа">
+               <span class="flagicon">
+                <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B0" title="Камбоджа">
+                 <img alt="" class="thumbborder" data-file-height="640" data-file-width="1000" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/22px-Flag_of_Cambodia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/33px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/44px-Flag_of_Cambodia.svg.png 2x" width="22"/>
+                </a>
+               </span>
+               <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B0" title="Камбоджа">
+                <span class="wrap">
+                 Камбоджа
+                </span>
+               </a>
+              </span>
+              , Конституция күні
+             </li>
+            </ul>
+            <h4>
+             <span id=".D0.9E.D2.9B.D0.B8.D2.93.D0.B0.D0.BB.D0.B0.D1.80">
+             </span>
+             <span class="mw-headline" id="Оқиғалар">
+              Оқиғалар
+             </span>
+            </h4>
+            <ul>
+             <li>
+              <a class="mw-redirect" href="/wiki/1948" title="1948">
+               1948
+              </a>
+              —
+              <a href="/wiki/Honda" title="Honda">
+               «Honda»
+              </a>
+              серіктестігі негізделді.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1960" title="1960">
+               1960
+              </a>
+              —
+              <a class="mw-redirect" href="/wiki/%D0%90%D2%9A%D0%A8" title="АҚШ">
+               АҚШ–та
+              </a>
+              алғашқы авиатасымалдаушы «Энтерпрайз» суға түсірілді.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1968" title="1968">
+               1968
+              </a>
+              —
+              <a class="new" href="/w/index.php?title=%D0%A1%D1%83%D0%B0%D0%B7%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4&amp;action=edit&amp;redlink=1" title="Суазиланд (мұндай бет жоқ)">
+               Суазиланд
+              </a>
+              мемлекеті
+              <a class="mw-redirect" href="/wiki/%D0%91%D2%B0%D2%B0" title="БҰҰ">
+               БҰҰ
+              </a>
+              құрамына қабылданды.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1970" title="1970">
+               1970
+              </a>
+              — «Луна-16» ғаламшараралық станциясы
+              <a href="/wiki/%D0%96%D0%B5%D1%80" title="Жер">
+               Жерге
+              </a>
+              <a href="/wiki/%D0%90%D0%B9_(%D1%81%D0%B5%D1%80%D1%96%D0%BA)" title="Ай (серік)">
+               ай
+              </a>
+              бетінің топырағын жеткізді
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1998" title="1998">
+               1998
+              </a>
+              — Лионда
+              <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">
+               Франция
+              </a>
+              алғаш рет адам қол ауыстыру операциясы жасалды
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1999" title="1999">
+               1999
+              </a>
+              — Бейкер-стритте Шерлок Холмсқа ескерткіш ашылды.
+             </li>
+            </ul>
+            <h4>
+             <span id=".D0.A2.D1.83.D2.93.D0.B0.D0.BD.D0.B4.D0.B0.D1.80">
+             </span>
+             <span class="mw-headline" id="Туғандар">
+              Туғандар
+             </span>
+            </h4>
+            <ul>
+             <li>
+              <a class="mw-redirect" href="/wiki/1821" title="1821">
+               1821
+              </a>
+              — Циприан Камиль Норвид (1883), поляк ақыны, суретшісі және мүсіншісі.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1895" title="1895">
+               1895
+              </a>
+              — Андре Фредерик Курнан (1988), француз текті американдық физиолог,
+              <a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Физиология">
+               физиология
+              </a>
+              және
+              <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0" title="Медицина">
+               медицинадан
+              </a>
+              <a class="mw-redirect" href="/wiki/1956" title="1956">
+               1956
+              </a>
+              жылғы
+              <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D1%81%D1%8B%D0%B9%D0%BB%D1%8B%D2%93%D1%8B" title="Нобель сыйлығы">
+               Нобель сыйлығының
+              </a>
+              лауреаты.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1898" title="1898">
+               1898
+              </a>
+              — Ховард Уолтер Флори (
+              <a class="extiw" href="https://en.wikipedia.org/wiki/Howard_Walter_Florey" title="en:Howard Walter Florey">
+               en:Howard Walter Florey
+              </a>
+              ) (1968),
+              <a class="mw-redirect" href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">
+               Австралия
+              </a>
+              патологы,
+              <a class="mw-redirect" href="/wiki/1945" title="1945">
+               1945
+              </a>
+              жылғы
+              <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D1%81%D1%8B%D0%B9%D0%BB%D1%8B%D2%93%D1%8B" title="Нобель сыйлығы">
+               Нобель сыйлығының
+              </a>
+              лауреаты.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1905" title="1905">
+               1905
+              </a>
+              — Северо Очоа (
+              <a class="extiw" href="https://en.wikipedia.org/wiki/Severo_Ochoa" title="en:Severo Ochoa">
+               en:Severo Ochoa
+              </a>
+              ) (1993),
+              <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">
+               Испания
+              </a>
+              және
+              <a class="mw-redirect" href="/wiki/%D0%90%D2%9A%D0%A8" title="АҚШ">
+               АҚШ
+              </a>
+              биохимигі, физиология және медицинадан
+              <a class="mw-redirect" href="/wiki/1959" title="1959">
+               1959
+              </a>
+              жылғы
+              <a href="/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C_%D1%81%D1%8B%D0%B9%D0%BB%D1%8B%D2%93%D1%8B" title="Нобель сыйлығы">
+               Нобель сыйлығының
+              </a>
+              лауреаты.
+             </li>
+            </ul>
+            <h4>
+             <span id=".D2.9A.D0.B0.D0.B9.D1.82.D1.8B.D1.81_.D0.B1.D0.BE.D0.BB.D2.93.D0.B0.D0.BD.D0.B4.D0.B0.D1.80">
+             </span>
+             <span class="mw-headline" id="Қайтыс_болғандар">
+              Қайтыс болғандар
+             </span>
+            </h4>
+            <ul>
+             <li>
+              <a class="mw-redirect" href="/wiki/1802" title="1802">
+               1802
+              </a>
+              — Александр Николаевич Радищев (1749), орыс жазушысы.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1945" title="1945">
+               1945
+              </a>
+              — Ханс Гейгер (
+              <a class="extiw" href="https://en.wikipedia.org/wiki/Johannes_%22Hans%22_Wilhelm_Geiger" title='en:Johannes "Hans" Wilhelm Geiger'>
+               en:Johannes "Hans" Wilhelm Geiger
+              </a>
+              ) (1882), неміс физигі.
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/1972" title="1972">
+               1972
+              </a>
+              — Адриан Фоккер (
+              <a class="extiw" href="https://en.wikipedia.org/wiki/Adriaan_Dani%C3%ABl_Fokker" title="en:Adriaan Daniël Fokker">
+               en:Adriaan Daniël Fokker
+              </a>
+              ) (1887), голланд физигі.
+             </li>
+            </ul>
+            <p>
+             Басқа күндер:
+             <a href="/wiki/23_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="23 қыркүйек">
+              23 қыркүйек
+             </a>
+             –
+             <b>
+              <a href="/wiki/24_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="24 қыркүйек">
+               24 қыркүйек
+              </a>
+             </b>
+             –
+             <a href="/wiki/25_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="25 қыркүйек">
+              25 қыркүйек
+             </a>
+            </p>
+            <div class="noprint" style="text-align: right;">
+             <i>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D2%AF%D0%B3%D1%96%D0%BD/24_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="Уикипедия:Бүгін/24 қыркүйек">
+               Қарау
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D2%AF%D0%B3%D1%96%D0%BD/25_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="Уикипедия:Бүгін/25 қыркүйек">
+               Келесі күн
+              </a>
+              |
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D2%AF%D0%B3%D1%96%D0%BD/%D2%9A%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="Уикипедия:Бүгін/Қыркүйек">
+               Мұрағат
+              </a>
+              |
+              <a href="/wiki/%D0%96%D1%8B%D0%BB_%D0%BA%D2%AF%D0%BD%D0%B4%D0%B5%D1%80%D1%96%D0%BD%D1%96%D2%A3_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96" title="Жыл күндерінің тізімі">
+               Жыл күндерінің тізімі
+              </a>
+             </i>
+            </div>
+            <div style="text-align: right;">
+             <small>
+              Қазір 7:58 pm
+              <a href="/wiki/%D0%96%D2%B1%D0%BC%D0%B0" title="Жұма">
+               Жұма
+              </a>
+              ,
+              <a href="/wiki/24_%D2%9B%D1%8B%D1%80%D0%BA%D2%AF%D0%B9%D0%B5%D0%BA" title="24 қыркүйек">
+               24 қыркүйек
+              </a>
+              ,
+              <a class="mw-redirect" href="/wiki/2021" title="2021">
+               2021
+              </a>
+              (
+              <a class="mw-redirect" href="/wiki/UTC%2B6" title="UTC+6">
+               UTC+6
+              </a>
+              ) –
+              <span class="plainlinks" id="purgelink">
+               <a class="external text" href="https://kk.wikipedia.org/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=purge">
+                Бетті жаңалау
+               </a>
+              </span>
+             </small>
+            </div>
+           </div>
+          </div>
+          <br clear="all"/>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="mbLilas" id="mb0">
+       <div>
+        <div class="mbButtonSel" id="mb0bt1">
+         <img alt="W-circle.svg" data-file-height="1500" data-file-width="1500" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/20px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/30px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/40px-W-circle.svg.png 2x" width="20"/>
+         Келіңіз, бізге қосылыңыз!
+        </div>
+        <div class="mbButton" id="mb0bt2">
+         <img alt="HS geo.svg" data-file-height="156" data-file-width="156" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/20px-HS_geo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/30px-HS_geo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/40px-HS_geo.svg.png 2x" width="20"/>
+         Басқа тілдердегі Уикипедия
+        </div>
+        <div class="mbButton" id="mb0bt3">
+         <img alt="Wikimedia-logo-circle.svg" data-file-height="700" data-file-width="700" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/20px-Wikimedia-logo-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/30px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/40px-Wikimedia-logo-circle.svg.png 2x" width="20"/>
+         Туыстас жобалар
+        </div>
+       </div>
+       <div class="mbContent">
+        <div class="mbOnglet" id="mb0og1" style="display:block;visibility:visible;">
+         <div style="float:left; width:40%">
+          <p>
+           <b>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Уикипедия">
+             Уикипедия
+            </a>
+           </b>
+           еркін өңдеуге, көшіруге және таратуға болатын көп тілді энциклопедия. Барлығы
+           <b>
+            <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%91%D2%AF%D0%B3%D1%96%D0%BD%D0%B3%D1%96_%D3%A9%D1%81%D1%96%D0%BC" title="Үлгі:Бүгінгі өсім">
+             111 831
+            </a>
+           </b>
+           ерікті қатысушы қазақ тілінде
+           <b>
+            <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%91%D2%AF%D0%B3%D1%96%D0%BD%D0%B3%D1%96_%D3%A9%D1%81%D1%96%D0%BC" title="Үлгі:Бүгінгі өсім">
+             229 083
+            </a>
+           </b>
+           мақала жазды және сол мақалаларды өңдеді.
+          </p>
+          <p>
+           Уикипедия сізді қоса алғанда баршаға ашық. Қазақша ашық және тегін білім қорын кеңейту үшін қауымдастыққа қосылып Уикипедияға үлесіңізді қосыңыз.
+          </p>
+          <p>
+           <b>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D1%81%D1%8B" title="Уикипедия:Уикипедия статистикасы">
+             Уикипедия статистикасы
+            </a>
+           </b>
+          </p>
+         </div>
+         <div style="float:right; width:28%">
+          <ul>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D3%A8%D2%A3%D0%B4%D0%B5%D1%83_%D2%9B%D2%B1%D1%80%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D1%8B_%D2%AF%D1%81%D1%82%D0%B5%D0%BB%D1%96" title="Уикипедия:Өңдеу құралдары үстелі">
+             Өңдеу құралдары үстелі
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D3%A8%D2%A3%D0%B4%D0%B5%D0%BC%D0%B5%D0%BD%D1%96%D2%A3_%D1%82%D2%AF%D0%B9%D1%96%D0%BD%D0%B4%D0%B5%D0%BC%D0%B5%D1%81%D1%96" title="Уикипедия:Өңдеменің түйіндемесі">
+             Өңдеменің түйіндемесі
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%96%D0%BB%D1%82%D0%B5%D0%BC%D0%B5%D0%BB%D0%B5%D1%80" title="Уикипедия:Сілтемелер">
+             Сілтемелер
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%83%D0%B8%D0%BA%D0%B8" title="Уикипедия:Интеруики">
+             Интеруики
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BA%D1%81%D0%B5%D1%80%D1%96%D0%BB%D0%BC%D0%B5%D0%BB%D0%B4%D1%96%D0%B3%D1%96" title="Уикипедия:Тексерілмелдігі">
+             Мақаланың тексерілмелдігі
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BD%D1%81%D0%B5%D0%BD%D1%81%D1%83%D1%81" title="Уикипедия:Консенсус">
+             Консенсус
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div style="float:right; width:28%">
+          <ul>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%93%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%82%D0%B5%D1%80" title="Уикипедия:Гаджеттер">
+             Гаджеттер
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B5%D0%B4%D0%B5%D0%BB_%D0%B6%D0%BE%D1%8E_%D1%81%D1%8B%D0%BD%D0%B1%D0%B0%D2%93%D0%B0%D0%BB%D0%B0%D1%80%D1%8B" title="Уикипедия:Жедел жою сынбағалары">
+             Жедел жою сынбағалары
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%8B%D1%80%D1%82%D2%9B%D1%8B_%D1%81%D1%96%D0%BB%D1%82%D0%B5%D0%BC%D0%B5%D0%BB%D0%B5%D1%80" title="Уикипедия:Сыртқы сілтемелер">
+             Сыртқы сілтемелер
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%AE%D0%B7%D0%B5%D1%80%D0%B1%D0%BE%D0%BA%D1%81%D1%82%D0%B0%D1%80" title="Уикипедия:Юзербокстар">
+             Юзербокстар
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%BE%D2%9B%D2%9B%D0%B0_%D1%88%D1%8B%D2%93%D0%B0%D1%80%D1%83" title="Уикипедия:Жоққа шығару">
+             Жоққа шығару
+            </a>
+           </li>
+           <li>
+            <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%AE%D0%BB%D0%B3%D1%96%D0%BB%D0%B5%D1%80" title="Уикипедия:Үлгілер">
+             Үлгілер
+            </a>
+           </li>
+          </ul>
+         </div>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <div align="center" id="mp_signup_button" style="margin-top:20px;">
+          <div class="plainlinks" style="width:25%">
+           <p>
+            <span class="plainlinks">
+             <a class="external text" href="https://kk.wikipedia.org/w/index.php?title=%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:Login/signup&amp;returnto=Уикипедия:Уикипедияға_қош_келдіңіз!">
+              <span class="mw-ui-button mw-ui-progressive" role="button" style="">
+               <b>
+                Тіркелу және үлескер болу
+               </b>
+              </span>
+             </a>
+            </span>
+            <br/>
+            <small>
+             Бұрыннан тіркелгенсіз бе? Онда
+             <b>
+              <a href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D2%9A%D0%B0%D1%82%D1%8B%D1%81%D1%83%D1%88%D1%8B_%D0%BA%D1%96%D1%80%D1%83%D1%96" title="Арнайы:Қатысушы кіруі">
+               кіріңіз
+              </a>
+             </b>
+             .
+            </small>
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class="mbOnglet" id="mb0og2" style="display:none;visibility:hidden;">
+         <table class="layout plainlinks" style="width:100%; margin:auto; text-align:left; background:transparent;">
+          <tbody>
+           <tr>
+            <td style="text-align:right; padding:4px;">
+             <b>
+              1 000 000-нан асқан бөлімдер:
+             </b>
+            </td>
+            <td style="width:75%; padding:4px;">
+             <a class="extiw" href="https://en.wikipedia.org/wiki/" title="en:">
+              Ағылшынша (English)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://sv.wikipedia.org/wiki/" title="sv:">
+              Шведше (svenska)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ceb.wikipedia.org/wiki/" title="ceb:">
+              Себуанша (Cebuano)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://de.wikipedia.org/wiki/" title="de:">
+              Немісше (Deutsch)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://nl.wikipedia.org/wiki/" title="nl:">
+              Нидерландша (Nederlands)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://fr.wikipedia.org/wiki/" title="fr:">
+              Французша (français)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ru.wikipedia.org/wiki/" title="ru:">
+              Орысша (русский)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://it.wikipedia.org/wiki/" title="it:">
+              Италиянша (italiano)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://es.wikipedia.org/wiki/" title="es:">
+              Испанша (español)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://war.wikipedia.org/wiki/" title="war:">
+              Варайша (Winaray)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://pl.wikipedia.org/wiki/" title="pl:">
+              Полякша (polski)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ja.wikipedia.org/wiki/" title="ja:">
+              Жапонша (日本語)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://vi.wikipedia.org/wiki/" title="vi:">
+              Вьетнамша (Tiếng Việt)
+             </a>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:right; padding:4px;">
+             <b>
+              500 000-нан асқан бөлімдер:
+             </b>
+            </td>
+            <td style="width:75%; padding:4px;">
+             <a class="extiw" href="https://pt.wikipedia.org/wiki/" title="pt:">
+              Португалша (português)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://zh.wikipedia.org/wiki/" title="zh:">
+              Қытайша (中文)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://uk.wikipedia.org/wiki/" title="uk:">
+              Украинша (українська)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ca.wikipedia.org/wiki/" title="ca:">
+              Каталанша (català)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://fa.wikipedia.org/wiki/" title="fa:">
+              Парсыша (فارسی)
+             </a>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:right; padding:4px;">
+             <b>
+              200 000-нан асқан бөлімдер:
+             </b>
+            </td>
+            <td style="width:75%; padding:4px;">
+             <a class="extiw" href="https://no.wikipedia.org/wiki/" title="no:">
+              Норвег (букмол) (norsk)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ar.wikipedia.org/wiki/" title="ar:">
+              Арабша (العربية)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://sh.wikipedia.org/wiki/" title="sh:">
+              Серб-хорватша (srpskohrvatski / српскохрватски)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://fi.wikipedia.org/wiki/" title="fi:">
+              Финше (suomi)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://hu.wikipedia.org/wiki/" title="hu:">
+              Мажарша (magyar)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://id.wikipedia.org/wiki/" title="id:">
+              Индонезше (Bahasa Indonesia)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ro.wikipedia.org/wiki/" title="ro:">
+              Румынша (română)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://cs.wikipedia.org/wiki/" title="cs:">
+              Чехше (čeština)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ko.wikipedia.org/wiki/" title="ko:">
+              Корейше (한국어)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://sr.wikipedia.org/wiki/" title="sr:">
+              Сербше (српски / srpski)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ms.wikipedia.org/wiki/" title="ms:">
+              Малайша (Bahasa Melayu)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://tr.wikipedia.org/wiki/" title="tr:">
+              Түрікше (Türkçe)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://eu.wikipedia.org/wiki/" title="eu:">
+              Баскша (euskara)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://eo.wikipedia.org/wiki/" title="eo:">
+              Эсперанто (Esperanto)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://min.wikipedia.org/wiki/" title="min:">
+              Минаканбауша (Minangkabau)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://bg.wikipedia.org/wiki/" title="bg:">
+              Болгарша (български)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://da.wikipedia.org/wiki/" title="da:">
+              Датша (dansk)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a href="/wiki/%D2%9A%D0%B0%D0%B7%D0%B0%D2%9B%D1%88%D0%B0_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Қазақша Уикипедия">
+              Қазақша (қазақша)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://sk.wikipedia.org/wiki/" title="sk:">
+              Словакша (slovenčina)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://hy.wikipedia.org/wiki/" title="hy:">
+              Армянша (հայերեն)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://zh-min-nan.wikipedia.org/wiki/" title="zh-min-nan:">
+              Южноминь (Bân-lâm-gú)
+             </a>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:right; padding:4px;">
+             <b>
+              <a href="/wiki/%D2%AE%D0%BB%D0%B3%D1%96:%D0%A2%D2%AF%D1%80%D0%BA%D1%96_%D1%82%D1%96%D0%BB%D0%B4%D0%B5%D1%80%D1%96%D0%BD%D0%B4%D0%B5%D0%B3%D1%96_%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D0%BB%D0%B0%D1%80_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D1%81%D1%8B" title="Үлгі:Түркі тілдеріндегі Уикипедиялар статистикасы">
+               Түркі тілдес бөлімдер
+              </a>
+              :
+             </b>
+            </td>
+            <td style="width:75%; padding:4px;">
+             <a class="extiw" href="https://az.wikipedia.org/wiki/" title="az:">
+              Әзірбайжанша (azərbaycanca)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ba.wikipedia.org/wiki/" title="ba:">
+              Башқұртша (башҡортса)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://kaa.wikipedia.org/wiki/" title="kaa:">
+              Қарақалпақша (Qaraqalpaqsha)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ky.wikipedia.org/wiki/" title="ky:">
+              Қырғызша (Кыргызча)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://crh.wikipedia.org/wiki/" title="crh:">
+              Қырым-татарша (qırımtatarca)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://uz.wikipedia.org/wiki/" title="uz:">
+              Өзбекше (oʻzbekcha/ўзбекча)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://sah.wikipedia.org/wiki/" title="sah:">
+              Сахаша (саха тыла)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://tt.wikipedia.org/wiki/" title="tt:">
+              Татарша (татарча/tatarça)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://tr.wikipedia.org/wiki/" title="tr:">
+              Түрікше (Türkçe)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://tk.wikipedia.org/wiki/" title="tk:">
+              Түрікменше (Türkmençe)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://ug.wikipedia.org/wiki/" title="ug:">
+              Ұйғырша (ئۇيغۇرچە / Uyghurche)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://cv.wikipedia.org/wiki/" title="cv:">
+              Чувашша (Чӑвашла)
+             </a>
+             <span style="white-space:nowrap; font-weight:bold;">
+              ·
+             </span>
+             <a class="extiw" href="https://tyv.wikipedia.org/wiki/" title="tyv:">
+              Тываша (тыва дыл)
+             </a>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:right; padding:4px;">
+            </td>
+            <td style="width:75%; text-align:right; padding:4px;">
+             <b>
+              <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D0%BB%D0%B0%D1%80_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D1%96" title="Уикипедия:Уикипедиялар тізімі">
+               Уикипедия бөлімдерінің толық тізімі...
+              </a>
+             </b>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+        <div class="mbOnglet" id="mb0og3" style="display:none;visibility:hidden;">
+         Уикипедия
+         <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0_%D2%9B%D0%BE%D1%80%D1%8B" title="Уикимедиа қоры">
+          Уикимедиа қорында
+         </a>
+         орналастырылған, комерциялық емес ұйымда тағы да басқа
+         <a class="extiw" href="https://foundation.wikimedia.org/wiki/Our_projects" title="wmf:Our projects">
+          жобалар
+         </a>
+         орналасқан:
+         <table class="layout plainlinks" style="width:90%; margin:auto; text-align:left; background:transparent;">
+          <tbody>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://commons.wikimedia.org/wiki/" title="commons:">
+              <img alt="commons:" data-file-height="1376" data-file-width="1024" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/36px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 2x" width="24"/>
+             </a>
+            </td>
+            <td style="width:33%; padding:4px;">
+             <b>
+              <a class="external text" href="https://commons.wikimedia.org/">
+               Ортаққор
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық файлдар қоры
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://www.mediawiki.org/wiki/" title="mw:">
+              <img alt="mw:" data-file-height="102" data-file-width="135" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/35px-Mediawiki-logo.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/53px-Mediawiki-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/70px-Mediawiki-logo.png 2x" width="35"/>
+             </a>
+            </td>
+            <td style="width:33%; padding:4px;">
+             <b>
+              <a class="external text" href="https://mediawiki.org/">
+               МедиаУики
+              </a>
+             </b>
+             <br/>
+             <small>
+              Уики бағдарламалық жасақтама
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://meta.wikimedia.org/wiki/" title="m:">
+              <img alt="m:" data-file-height="900" data-file-width="900" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/26px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/39px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/52px-Wikimedia_Community_Logo.svg.png 2x" width="26"/>
+             </a>
+            </td>
+            <td style="width:33%; padding:4px;">
+             <b>
+              <a class="external text" href="https://meta.wikimedia.org/">
+               Мета-Уики
+              </a>
+             </b>
+             <br/>
+             <small>
+              Уикимедиа жобаларын үйлестіру
+             </small>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wikibooks.org/wiki/" title="Уикикітап">
+              <img alt="Уикикітап" data-file-height="300" data-file-width="300" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/26px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/39px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/52px-Wikibooks-logo.svg.png 2x" width="26"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wikibooks.org/">
+               Уикикітап
+              </a>
+             </b>
+             <br/>
+             <small>
+              Оқулықтар және кітаптар
+             </small>
+            </td>
+            <td style="text-align:center; padding:3px;">
+             <a href="https://www.wikidata.org/wiki/" title="Уикидерек">
+              <img alt="Уикидерек" data-file-height="744" data-file-width="1052" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/40px-Wikidata-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/60px-Wikidata-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/80px-Wikidata-logo-en.svg.png 2x" width="40"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://www.wikidata.org/">
+               Уикидерек
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық білім базасы
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wikinews.org/wiki/" title="Уикихабар">
+              <img alt="Уикихабар" data-file-height="415" data-file-width="759" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" width="40"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wikinews.org/">
+               Уикихабар
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық жаңалықтар
+             </small>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wikiquote.org/wiki/" title="Уикидәйек">
+              <img alt="Уикидәйек" data-file-height="355" data-file-width="300" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/24px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/36px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/48px-Wikiquote-logo.svg.png 2x" width="24"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wikiquote.org/">
+               Уикидәйек
+              </a>
+             </b>
+             <br/>
+             <small>
+              Дәйексөз жиынтығы
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wikisource.org/wiki/" title="Уикиқайнар">
+              <img alt="Уикиқайнар" data-file-height="430" data-file-width="410" decoding="async" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/52px-Wikisource-logo.svg.png 2x" width="26"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://wikisource.org/wiki/Main_Page/Қазақша">
+               Уикиқайнар
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық құжатхана
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="//species.wikimedia.org/wiki/Басты_бет?uselang=kk" title="wikispecies:">
+              <img alt="wikispecies:" data-file-height="1103" data-file-width="941" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/26px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/39px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/52px-Wikispecies-logo.svg.png 2x" width="26"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://species.wikimedia.org/Басты_бет?uselang=kk">
+               Уикитүрлер
+              </a>
+             </b>
+             <br/>
+             <small>
+              Тірі организмдер тізімдемесі
+             </small>
+            </td>
+           </tr>
+           <tr>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wikiversity.org/wiki/" title="Уикисабақ">
+              <img alt="Уикисабақ" data-file-height="800" data-file-width="1000" decoding="async" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/28px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/42px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/56px-Wikiversity-logo.svg.png 2x" width="28"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wikiversity.org/">
+               Уикисабақ
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық университет
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://en.wikivoyage.org/wiki/" title="Уикисаяхат">
+              <img alt="Уикисаяхат" data-file-height="193" data-file-width="193" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/28px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/42px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/56px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="28"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wikivoyage.org/">
+               Уикисаяхат
+              </a>
+             </b>
+             <br/>
+             <small>
+              Ашық онлайн саяхатшы нұсқаулығы
+             </small>
+            </td>
+            <td style="text-align:center; padding:4px;">
+             <a href="https://kk.wiktionary.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" title="Уикисөздік">
+              <img alt="Уикисөздік" data-file-height="350" data-file-width="370" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wiktionary-logo-kk-without-text.svg/28px-Wiktionary-logo-kk-without-text.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wiktionary-logo-kk-without-text.svg/42px-Wiktionary-logo-kk-without-text.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Wiktionary-logo-kk-without-text.svg/56px-Wiktionary-logo-kk-without-text.svg.png 2x" width="28"/>
+             </a>
+            </td>
+            <td style="padding:4px;">
+             <b>
+              <a class="external text" href="https://kk.wiktionary.org/">
+               Уикисөздік
+              </a>
+             </b>
+             <br/>
+             <small>
+              Сөздік және сөзнама
+             </small>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+      <p>
+       <br/>
+      </p>
+      <!-- 
+NewPP limit report
+Parsed by mw1447
+Cached time: 20210924135821
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.226 seconds
+Real time usage: 0.311 seconds
+Preprocessor visited node count: 1426/1000000
+Post‐expand include size: 92898/2097152 bytes
+Template argument size: 35393/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 56/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  140.911      1 -total
+ 72.44%  102.075      7 Үлгі:Басты_бет_бөлімі
+ 22.63%   31.892      1 Үлгі:Tabs
+ 19.97%   28.134      1 Уикипедия:Бүгін/24_қыркүйек
+ 10.64%   14.991      1 Үлгі:Аптаның_жұмысы
+  9.50%   13.385      2 Үлгі:Байрақ
+  8.87%   12.502      1 Үлгі:GNB
+  8.49%   11.957      1 Үлгі:Басты_бет/Нұсқау
+  8.37%   11.798      1 Үлгі:Басты_бет/Ағымдағы_таңдаулы_суреттер
+  8.17%   11.515      1 Үлгі:Басты_бет/Уикипедия_тілдері
+-->
+      <!-- Saved in parser cache with key kkwiki:pcache:idhash:1-0!canonical!kk and timestamp 20210924135821 and revision id 2486916. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//kk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      «
+      <a dir="ltr" href="https://kk.wikipedia.org/w/index.php?title=Басты_бет&amp;oldid=2486916">
+       https://kk.wikipedia.org/w/index.php?title=Басты_бет&amp;oldid=2486916
+      </a>
+      » бетінен алынған
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%A1%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D0%B0%D1%80" title="Арнайы:Санаттар">
+       Санат
+      </a>
+      :
+      <ul>
+       <li>
+        <a class="new" href="/w/index.php?title=%D0%A1%D0%B0%D0%BD%D0%B0%D1%82:Pages_with_non-numeric_formatnum_arguments&amp;action=edit&amp;redlink=1" title="Санат:Pages with non-numeric formatnum arguments (мұндай бет жоқ)">
+         Pages with non-numeric formatnum arguments
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Бағыттау мәзірі
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Жеке құралдар
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Кірмегенсіз
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%A2%D0%B0%D0%BB%D2%9B%D1%8B%D0%BB%D0%B0%D1%83%D1%8B%D0%BC" title="Бұл IP мекенжай өңдемелерін талқылау [n]">
+         Талқылау
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D2%AE%D0%BB%D0%B5%D1%81%D1%96%D0%BC" title="Бұл IP мекенжаймен жасаған өңдемелер тізімі [y]">
+         Үлесім
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%96%D0%B0%D2%A3%D0%B0_%D1%82%D1%96%D1%80%D0%BA%D0%B5%D0%BB%D0%B3%D1%96&amp;returnto=%D0%91%D0%B0%D1%81%D1%82%D1%8B+%D0%B1%D0%B5%D1%82" title="Біз сізге есептік жазба бастауды және кіруді ұсынамыз,ол міндетті емес.">
+         Тіркелу
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D2%9A%D0%B0%D1%82%D1%8B%D1%81%D1%83%D1%88%D1%8B_%D0%BA%D1%96%D1%80%D1%83%D1%96&amp;returnto=%D0%91%D0%B0%D1%81%D1%82%D1%8B+%D0%B1%D0%B5%D1%82" title="Кіруіңізді ұсынамыз, ол міндетті емес. [o]">
+         Кіру
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Есім кеңістіктері
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" title="Мағлұмат бетін қарау [c]">
+          Басты бет
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/%D0%A2%D0%B0%D0%BB%D2%9B%D1%8B%D0%BB%D0%B0%D1%83:%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" rel="discussion" title="Мағлұмат бетті талқылау [t]">
+          Талқылау
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        kk
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-varlang-0">
+         <a accesskey="1" href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk" hreflang="kk" lang="kk" title="Кирилл жазуымен тілдесу [1]">
+          kk
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-1">
+         <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-cyrl" hreflang="kk-Cyrl" lang="kk-Cyrl">
+          Кирил
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-2">
+         <a accesskey="2" href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-latn" hreflang="kk-Latn" lang="kk-Latn" title="Латын жазуымен тілдесу [2]">
+          Latın
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-3">
+         <a accesskey="3" href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-arab" hreflang="kk-Arab" lang="kk-Arab" title="Араб жазумен тілдесу [3]">
+          توتە
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-4">
+         <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-kz" hreflang="kk-KZ" lang="kk-KZ">
+          kk-kz
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-5">
+         <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-tr" hreflang="kk-TR" lang="kk-TR">
+          kk-tr
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-6">
+         <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;variant=kk-cn" hreflang="kk-CN" lang="kk-CN">
+          kk-cn
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Көрініс
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82">
+          Оқу
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=edit" title="Бұл бет қорғалған. Қайнарын қарай аласыз. [e]">
+          Қайнарын қарау
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=history" title="Бұл беттін соңғы нұсқалары. [h]">
+          Өңделу тарихы
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Тағы
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Іздеу
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Уикипедия жобасынан іздеу" title="Уикипедия жобасында іздеу [f]" type="search"/>
+         <input name="title" type="hidden" value="Арнайы:Іздеу"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Осы мәтіні бар бетті іздеу" type="submit" value="Іздеу"/>
+         <input class="searchButton" id="searchButton" name="go" title="Егер дәл осы атауымен болса бетке өтіп кету" type="submit" value="Өту"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" title="Басты бетке">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Шарлау
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" title="Басты бетке [z]">
+         Басты бет
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D2%9A%D0%B0%D1%83%D1%8B%D0%BC_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B" title="Қазақша Уикипедия туралы: не істеуіңізге болатын, іздейтіңізді қайдан табуға болатын">
+         Қауым порталы
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%96%D1%83%D1%8B%D2%9B%D1%82%D0%B0%D2%93%D1%8B_%D3%A9%D0%B7%D0%B3%D0%B5%D1%80%D1%96%D1%81%D1%82%D0%B5%D1%80" title="Осы уикидегі жуықтағы өзгерістер тізімі. [r]">
+         Жуықтағы өзгерістер
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-newpages">
+        <a href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%96%D0%B0%D2%A3%D0%B0_%D0%B1%D0%B5%D1%82%D1%82%D0%B5%D1%80" title="Соңғы бір айдағы басталған беттер тізімі, есім кеңістігі бойынша сүзгілеп көре аласыз.">
+         Ең жаңа беттер
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%9A%D0%B5%D0%B7%D0%B4%D0%B5%D0%B9%D1%81%D0%BE%D2%9B" title="Кездейсоқ бетті жүктеу [x]">
+         Кездейсоқ бет
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-index">
+        <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B5%D0%B4%D0%B5%D0%BB_%D1%82%D1%96%D0%B7%D1%96%D0%BC%D0%B4%D0%B5%D1%83" title="Алғашқы екі әріпі бойынша іздеу">
+         А —  Я тізімдеуі
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BD%D1%8B%D2%9B%D1%82%D0%B0%D0%BC%D0%B0" title="Анықтама табу орны.">
+         Анықтама
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-forum">
+        <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Уикипедия қатысушыларының форумы.">
+         Форум
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-general-discussion">
+        <a accesskey="4" href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B0%D0%BB%D2%9B%D1%8B%D0%BB%D0%B0%D1%83_%D0%BB%D0%B5%D0%B3%D1%96" title="Flow жұмыс легінде жұмыс істейтін Уикипедияның негізгі талқылау беті [4]">
+         Талқылау легі
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-bug_in_article">
+        <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D2%9A%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D1%80_%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B_%D1%85%D0%B0%D0%B1%D0%B0%D1%80%D0%BB%D0%B0%D1%83" title="Бұл беттегі қатені хабарлау">
+         Қателер туралы хабарлау
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_kk.wikipedia.org&amp;uselang=kk" title="Демеу беріңіз">
+         Демеу беру
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Құралдар
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%9C%D1%8B%D0%BD%D0%B4%D0%B0_%D1%81%D1%96%D0%BB%D1%82%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B5%D1%80/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" title="Мұнда сілтейтін барлық бет тізімі [j]">
+         Мұнда сілтейтін беттер
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%A1%D1%96%D0%BB%D1%82%D0%B5%D0%BD%D0%B3%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B4%D1%96%D2%A3_%D3%A9%D0%B7%D0%B3%D0%B5%D1%80%D1%96%D1%81%D1%82%D0%B5%D1%80%D1%96/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" rel="nofollow" title="Мыннан сілтенген беттердің жуықтағы өзгерістері [k]">
+         Қатысты өзгерістер
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B_%D0%B1%D0%B5%D1%82%D1%82%D0%B5%D1%80" title="Барлық арнайы беттер тізімі [q]">
+         Арнайы беттер
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;oldid=2486916" title="Мына беттің осы нұсқасының тұрақты сілтемесі">
+         Тұрақты сілтеме
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=info" title="Бұл бет туралы көбірек мәлімет">
+         Мәлімет
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:CiteThisPage&amp;page=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;id=2486916&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+         Беттен дәйексөз алу
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Сілтеме дерек қойма данасымен байланысқан [g]">
+         Уикидерек данасы
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+      <span>
+       Баспа/экспорт
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="electron-print_pdf">
+        <a href="/w/index.php?title=%D0%90%D1%80%D0%BD%D0%B0%D0%B9%D1%8B:DownloadAsPdf&amp;page=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;action=show-download-screen">
+         PDF ретінде жүктеп алу
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="javascript:print();" rel="alternate" title="Бұл беттің басып шығарышқа арналған нұсқасы [p]">
+         Басып шығару
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Басқа жобаларда
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Ортаққор
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://kk.wikibooks.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" hreflang="kk">
+         Уикикітап
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Уикидерек
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://kk.wikiquote.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" hreflang="kk">
+         Уикидәйек
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://kk.wiktionary.org/wiki/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82" hreflang="kk">
+         Wiktionary
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Басқа тілдерде
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="араб тілі">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="әзірбайжан тілі">
+         Azərbaycanca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/" hreflang="ba" lang="ba" title="башқұрт тілі">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="болгар тілі">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="каталан тілі">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-crh mw-list-item">
+        <a class="interlanguage-link-target" href="https://crh.wikipedia.org/wiki/" hreflang="crh" lang="crh" title="Crimean Tatar">
+         Qırımtatarca
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="чех тілі">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cv mw-list-item">
+        <a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/" hreflang="cv" lang="cv" title="чуваш тілі">
+         Чӑвашла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="дат тілі">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="неміс тілі">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="грек тілі">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="ағылшын тілі">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="испан тілі">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="эстон тілі">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="парсы тілі">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="фин тілі">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="француз тілі">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="иврит тілі">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="хорват тілі">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="венгр тілі">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="армян тілі">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="индонезия тілі">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/" hreflang="it" lang="it" title="итальян тілі">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="жапон тілі">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="грузин тілі">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kaa mw-list-item">
+        <a class="interlanguage-link-target" href="https://kaa.wikipedia.org/wiki/" hreflang="kaa" lang="kaa" title="Kara-Kalpak">
+         Qaraqalpaqsha
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="корей тілі">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-krc mw-list-item">
+        <a class="interlanguage-link-target" href="https://krc.wikipedia.org/wiki/" hreflang="krc" lang="krc" title="қарашай-балқар тілі">
+         Къарачай-малкъар
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ky mw-list-item">
+        <a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/" hreflang="ky" lang="ky" title="қырғыз тілі">
+         Кыргызча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="малай тілі">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="нидерланд тілі">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="норвегиялық букмол тілі">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="поляк тілі">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="португал тілі">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="румын тілі">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="орыс тілі">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sah mw-list-item">
+        <a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/" hreflang="sah" lang="sah" title="саха тілі">
+         Саха тыла
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="словак тілі">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="словен тілі">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="серб тілі">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="швед тілі">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="тай тілі">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tk mw-list-item">
+        <a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/" hreflang="tk" lang="tk" title="түрікмен тілі">
+         Türkmençe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="түрік тілі">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="татар тілі">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ug mw-list-item">
+        <a class="interlanguage-link-target" href="https://ug.wikipedia.org/wiki/" hreflang="ug" lang="ug" title="ұйғыр тілі">
+         ئۇيغۇرچە / Uyghurche
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="украин тілі">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz mw-list-item">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/" hreflang="uz" lang="uz" title="өзбек тілі">
+         Oʻzbekcha/ўзбекча
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="вьетнам тілі">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="қытай тілі">
+         中文
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Бұл беттің соңғы өзгертілген кезі: 2016 ж. қазанның 21, 20:19.
+    </li>
+    <li id="footer-info-copyright">
+     Мәтін
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike лицензиясы
+     </a>
+     аясында қолжетімді; 
+қосымша шарттар қолданылуы мүмкін. Бұл сайтты қолдану арқылы
+     <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+      Қолдану шарты
+     </a>
+     және
+     <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+      Құпиялық саясатымен
+     </a>
+     келісесіз. 
+Wikipedia®
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     коммерциялық емес ұйымының тіркелген сауда маркасы.
+     <br/>
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Құпиялық саясаты
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B" title="Уикипедия:Уикипедия туралы">
+      Уикипедия туралы
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%96%D0%B0%D1%83%D0%B0%D0%BF%D0%BA%D0%B5%D1%80%D1%88%D1%96%D0%BB%D1%96%D0%BA%D1%82%D0%B5%D0%BD_%D0%B1%D0%B0%D1%81_%D1%82%D0%B0%D1%80%D1%82%D1%83" title="Уикипедия:Жауапкершіліктен бас тарту">
+      Жауапкершіліктен бас тарту
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//kk.m.wikipedia.org/w/index.php?title=%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82&amp;mobileaction=toggle_view_mobile">
+      Мобайлды көрініс
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Жасақтаушылар
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/kk.wikipedia.org">
+      Statistics
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.226","walltime":"0.311","ppvisitednodes":{"value":1426,"limit":1000000},"postexpandincludesize":{"value":92898,"limit":2097152},"templateargumentsize":{"value":35393,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":56,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  140.911      1 -total"," 72.44%  102.075      7 Үлгі:Басты_бет_бөлімі"," 22.63%   31.892      1 Үлгі:Tabs"," 19.97%   28.134      1 Уикипедия:Бүгін/24_қыркүйек"," 10.64%   14.991      1 Үлгі:Аптаның_жұмысы","  9.50%   13.385      2 Үлгі:Байрақ","  8.87%   12.502      1 Үлгі:GNB","  8.49%   11.957      1 Үлгі:Басты_бет/Нұсқау","  8.37%   11.798      1 Үлгі:Басты_бет/Ағымдағы_таңдаулы_суреттер","  8.17%   11.515      1 Үлгі:Басты_бет/Уикипедия_тілдері"]},"cachereport":{"origin":"mw1447","timestamp":"20210924135821","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"\u0411\u0430\u0441\u0442\u044b \u0431\u0435\u0442","url":"https:\/\/kk.wikipedia.org\/wiki\/%D0%91%D0%B0%D1%81%D1%82%D1%8B_%D0%B1%D0%B5%D1%82","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-06-03T10:36:31Z","dateModified":"2016-10-21T14:19:51Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/Red_Ribbon.svg","headline":"\u0423\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430 \u0436\u043e\u0431\u0430\u0441\u044b\u043d\u044b\u04a3 \u0431\u0430\u0441\u0442\u044b \u0431\u0435\u0442\u0456"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1384"});});
+  </script>
+ </body>
+</html>

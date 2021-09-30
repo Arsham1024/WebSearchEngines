@@ -1,0 +1,3391 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="it">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wikipedia, l'enciclopedia libera
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],"wgRequestId":"58b1ce27-121b-47f8-9f82-4f12a4e93461","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Pagina_principale","wgTitle":"Pagina principale","wgCurRevisionId":122948985,"wgRevisionId":122948985,"wgArticleId":521472,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pagina principale"],"wgPageContentLanguage":"it","wgPageContentModel":"wikitext","wgRelevantPageName":"Pagina_principale","wgRelevantArticleId":521472,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":[
+"sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"it","pageLanguageDir":"ltr","pageVariantFallbacks":"it"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"italiano","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296","wgSiteNoticeId":"2.215"};RLSTATE={"ext.gadget.PDCStriker":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
+"ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.InterProject","ext.gadget.HiddenCat","ext.gadget.watchlist-notice","ext.gadget.OpenStreetMap","ext.gadget.ReferenceTooltips","ext.gadget.WikiMiniAtlas","ext.gadget.ExternalSearch","ext.gadget.Form-valutazione-enc","ext.gadget.NewSection","ext.gadget.RichiediRevisioneBozza","ext.gadget.SimilarTitles","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.dismissableSiteNotice"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"it"});
+});});
+  </script>
+  <link href="/w/load.php?lang=it&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=it&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=it&amp;modules=ext.gadget.PDCStriker&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=it&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.2" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/c/c4/Contrapunctus_1_BWV_1080.jpg" property="og:image"/>
+  <meta content="Wikipedia, l'enciclopedia libera" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//it.m.wikipedia.org/wiki/Pagina_principale" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (it)" type="application/opensearchdescription+xml"/>
+  <link href="//it.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://it.wikipedia.org/wiki/Pagina_principale" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pagina_principale rootpage-Pagina_principale skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+    <div id="mw-dismissablenotice-anonplace">
+    </div>
+    <script>
+     (function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Enascondi\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"it\" dir=\"ltr\"\u003E\u003Cdiv style=\"text-align:center;\" class=\"nomobile\"\u003E\u003Cspan class=\"plainlinks\" style=\"font-size:small\"\u003E\u003Ca href=\"https://cinquepermille.wikimedia.it\" rel=\"nofollow\"\u003E\u003Cimg alt=\"Wikimedia-logo.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png\" decoding=\"async\" width=\"35\" height=\"35\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x\" data-file-width=\"1024\" data-file-height=\"1024\" /\u003E\u003C/a\u003E \u003Cspan style=\"font-size:140%; vertical-align: middle;\"\u003ELibera la cultura. Dona il tuo 5\u0026#215;1000 a \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://cinquepermille.wikimedia.it\"\u003EWikimedia Italia\u003C/a\u003E. Scrivi 94039910156.\u003C/span\u003E \u003Ca href=\"https://cinquepermille.wikimedia.it\" rel=\"nofollow\"\u003E\u003Cimg alt=\"Wikimedia-logo.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png\" decoding=\"async\" width=\"35\" height=\"35\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x\" data-file-width=\"1024\" data-file-height=\"1024\" /\u003E\u003C/a\u003E\u003C/span\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());
+    </script>
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Pagina principale
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Da Wikipedia, l'enciclopedia libera.
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="it">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r119428025">
+       .mw-parser-output .main-page-responsive-columns{display:flex;flex-wrap:wrap;justify-content:space-between}.mw-parser-output .main-page-header>div{text-align:center;width:100%}.mw-parser-output .main-page-header-title{font-size:195%}.mw-parser-output .main-page-header-subheading{font-size:120%;padding:5px 2px 0}.mw-parser-output .main-page-header hr{background-color:#a7d7f9}.mw-parser-output .main-page-header .plainlinks{font-size:92%}.mw-parser-output .main-page-header-nav-links,.mw-parser-output .main-page-header>div:last-of-type span:first-of-type+span,.mw-parser-output .main-page-body>div:last-of-type .main-page-intro{display:none}.mw-parser-output .main-page-footer-title{font-size:120%}.mw-parser-output .main-page-footer-subheading{font-size:95%}.mw-parser-output .main-page-footer hr{background-color:#a7d7f9;margin:0 5%}.mw-parser-output .main-page-footer{border-top:1px solid #a7d7f9;text-align:center;margin-top:12px}@media all and (min-width:900px){.mw-parser-output .main-page-responsive-columns>div:first-of-type{flex:1.9 1}.mw-parser-output .main-page-responsive-columns>div:last-of-type{flex:1 1}.mw-parser-output .main-page-header{border:1px solid #a7d7f9;border-radius:10px;margin-bottom:10px;padding:1em 3em}.mw-parser-output .main-page-header-nav-links{display:inline}.mw-parser-output .main-page-header>div{text-align:left;width:auto}.mw-parser-output .main-page-header>div:last-of-type{align-self:center;text-align:right}.mw-parser-output .main-page-body>div{border:1px solid #a7d7f9;border-radius:10px;padding:15px}.mw-parser-output .main-page-body>div:first-of-type{margin-right:15px}.mw-parser-output .main-page-body>div:first-of-type .main-page-intro{display:none}.mw-parser-output .main-page-body>div:last-of-type{background-color:#f5faff}.mw-parser-output .main-page-body>div:last-of-type .main-page-intro{display:block}.mw-parser-output .main-page-footer{border:1px solid #a7d7f9;border-radius:10px;padding-bottom:2px}}
+      </style>
+      <div class="main-page-header main-page-responsive-columns">
+       <div>
+        <p>
+         <span class="main-page-header-title">
+          <a href="/wiki/Aiuto:Benvenuto" title="Aiuto:Benvenuto">
+           Benvenuti
+          </a>
+          su
+          <a href="/wiki/Wikipedia" title="Wikipedia">
+           Wikipedia
+          </a>
+         </span>
+         <br/>
+         <span class="main-page-header-subheading">
+          L'enciclopedia
+          <a href="/wiki/Wikipedia:Wikipedia_%C3%A8_libera" title="Wikipedia:Wikipedia è libera">
+           libera
+          </a>
+          e
+          <a href="/wiki/Wikipedia:Aiuta_Wikipedia" title="Wikipedia:Aiuta Wikipedia">
+           collaborativa
+          </a>
+         </span>
+        </p>
+        <hr/>
+        <p>
+         <span class="main-page-header-nav-links">
+          <a href="/wiki/Speciale:TutteLePagine" title="Clicca qui per sfogliare l'indice delle voci!">
+           <img alt="Clicca qui per sfogliare l'indice delle voci!" data-file-height="128" data-file-width="128" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crystal_Clear_app_xmag.svg/15px-Crystal_Clear_app_xmag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crystal_Clear_app_xmag.svg/23px-Crystal_Clear_app_xmag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Crystal_Clear_app_xmag.svg/30px-Crystal_Clear_app_xmag.svg.png 2x" width="15"/>
+          </a>
+          <a href="/wiki/Speciale:TutteLePagine" title="Speciale:TutteLePagine">
+           <span title="Clicca qui per sfogliare l'indice delle voci!">
+            <b>
+             Sfoglia l'indice
+            </b>
+           </span>
+          </a>
+          <a href="/wiki/Wikipedia:Sommario" title="Clicca qui per consultare il sommario dei vari argomenti!">
+           <img alt="Clicca qui per consultare il sommario dei vari argomenti!" data-file-height="48" data-file-width="48" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/1rightarrow.png/15px-1rightarrow.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/1rightarrow.png/23px-1rightarrow.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/1rightarrow.png/30px-1rightarrow.png 2x" width="15"/>
+          </a>
+          <a href="/wiki/Wikipedia:Sommario" title="Wikipedia:Sommario">
+           <span title="Clicca qui per consultare il sommario dei vari argomenti!">
+            <b>
+             Consulta il sommario
+            </b>
+           </span>
+          </a>
+          <a href="/wiki/Portale:Portali" title="Clicca qui per navigare tra i portali tematici!">
+           <img alt="Clicca qui per navigare tra i portali tematici!" data-file-height="128" data-file-width="128" decoding="async" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nuvola_apps_bookcase_simplified.svg/15px-Nuvola_apps_bookcase_simplified.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nuvola_apps_bookcase_simplified.svg/23px-Nuvola_apps_bookcase_simplified.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nuvola_apps_bookcase_simplified.svg/30px-Nuvola_apps_bookcase_simplified.svg.png 2x" width="15"/>
+          </a>
+          <a href="/wiki/Portale:Portali" title="Portale:Portali">
+           <span title="Clicca qui per navigare tra i portali tematici!">
+            <b>
+             Naviga tra i portali tematici
+            </b>
+           </span>
+          </a>
+         </span>
+        </p>
+       </div>
+       <div>
+        <p>
+         <b>
+          <a href="/wiki/Speciale:Statistiche" title="Speciale:Statistiche">
+           1 718 844
+          </a>
+         </b>
+         <a href="/wiki/Aiuto:Voce" title="Aiuto:Voce">
+          voci
+         </a>
+         in
+         <b>
+          <a href="/wiki/Lingua_italiana" title="Lingua italiana">
+           italiano
+          </a>
+         </b>
+        </p>
+        <p>
+         <span class="plainlinks nomobile">
+          <a class="external text" href="https://it.m.wikipedia.org?mobileaction=toggle_view_mobile">
+           Versione per dispositivi mobili
+          </a>
+         </span>
+         <span class="plainlinks">
+          <a class="external text" href="https://it.wikipedia.org?mobileaction=toggle_view_desktop">
+           Versione desktop
+          </a>
+         </span>
+        </p>
+       </div>
+      </div>
+      <div class="main-page-body main-page-responsive-columns">
+       <div>
+        <div class="main-page-intro">
+         <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+          <p>
+           <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+          </p>
+          <div style="position:absolute; left:5px; top:-6px;">
+           <img alt="Wikipedia" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+          </div>
+          <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+           <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+            Wikipedia
+           </div>
+          </div>
+         </div>
+         <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+          <p>
+           <b>
+            Wikipedia
+           </b>
+           è un'
+           <a href="/wiki/Enciclopedia" title="Enciclopedia">
+            enciclopedia
+           </a>
+           online,
+           <a href="/wiki/Wikipedia:Wikipedia_%C3%A8_libera" title="Wikipedia:Wikipedia è libera">
+            libera
+           </a>
+           e collaborativa.
+          </p>
+          <p>
+           Grazie al contributo di volontari da tutto il mondo, Wikipedia è disponibile
+           <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/it" title="m:List of Wikipedias/it">
+            in oltre 300 lingue
+           </a>
+           .
+           <a href="/wiki/Wikipedia:Wikipediani" title="Wikipedia:Wikipediani">
+            Chiunque
+           </a>
+           può contribuire alle
+           <a href="/wiki/Aiuto:Voce" title="Aiuto:Voce">
+            voci
+           </a>
+           esistenti o
+           <a href="/wiki/Aiuto:Come_scrivere_una_voce" title="Aiuto:Come scrivere una voce">
+            crearne di nuove
+           </a>
+           , affrontando sia gli argomenti tipici delle enciclopedie tradizionali sia quelli presenti in
+           <a href="/wiki/Almanacco" title="Almanacco">
+            almanacchi
+           </a>
+           , dizionari geografici e pubblicazioni specialistiche.
+          </p>
+          <p>
+           Tutti i contenuti di Wikipedia sono
+           <a href="/wiki/Wikipedia:Copyright" title="Wikipedia:Copyright">
+            protetti
+           </a>
+           da una
+           <a href="/wiki/Licenza_libera" title="Licenza libera">
+            licenza libera
+           </a>
+           , la
+           <a href="/wiki/Licenze_Creative_Commons" title="Licenze Creative Commons">
+            Creative Commons CC BY-SA
+           </a>
+           , che ne permette il riutilizzo per
+           <a href="/wiki/Contenuto_libero" title="Contenuto libero">
+            qualsiasi scopo
+           </a>
+           a condizione di
+           <a href="/wiki/Copyleft" title="Copyleft">
+            adottare la medesima licenza
+           </a>
+           .
+          </p>
+         </div>
+         <div class="nomobile">
+          <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+           <p>
+            <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+           </p>
+           <div style="position:absolute; left:5px; top:-6px;">
+            <img alt="Cosa posso fare?" data-file-height="228" data-file-width="228" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/38px-HSTools.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/57px-HSTools.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/76px-HSTools.svg.png 2x" width="38"/>
+           </div>
+           <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+            <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+             Cosa posso fare?
+            </div>
+           </div>
+          </div>
+          <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+           <ul>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi partecipare?
+              </b>
+             </span>
+             Leggi le
+             <a href="/wiki/Wikipedia:Cinque_pilastri" title="Wikipedia:Cinque pilastri">
+              regole fondamentali
+             </a>
+             e le altre
+             <a href="/wiki/Wikipedia:Raccomandazioni_e_linee_guida" title="Wikipedia:Raccomandazioni e linee guida">
+              linee guida
+             </a>
+             , e rispetta la
+             <i>
+              <a href="/wiki/Wikipedia:Wikiquette" title="Wikipedia:Wikiquette">
+               wikiquette
+              </a>
+             </i>
+             ; la
+             <a href="/wiki/Aiuto:Come_registrarsi" title="Aiuto:Come registrarsi">
+              registrazione
+             </a>
+             è consigliata ma
+             <i>
+              non obbligatoria
+             </i>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Serve aiuto?
+              </b>
+             </span>
+             Consulta le
+             <a href="/wiki/Aiuto:Aiuto" title="Aiuto:Aiuto">
+              istruzioni
+             </a>
+             e le
+             <a href="/wiki/Aiuto:FAQ" title="Aiuto:FAQ">
+              domande frequenti (FAQ)
+             </a>
+             o leggi
+             <a href="/wiki/Aiuto:Dove_fare_una_domanda" title="Aiuto:Dove fare una domanda">
+              dove fare una domanda
+             </a>
+             ; se ti sei appena registrato puoi richiedere l'assegnazione di un
+             <a href="/wiki/Progetto:Coordinamento/Accoglienza/Nuovi_arrivati" title="Progetto:Coordinamento/Accoglienza/Nuovi arrivati">
+              tutor
+             </a>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi provare?
+              </b>
+             </span>
+             Modifica
+             <a href="/wiki/Wikipedia:Pagina_delle_prove" title="Wikipedia:Pagina delle prove">
+              la pagina di prova
+             </a>
+             o segui il
+             <a href="/wiki/Aiuto:Tour_guidato" title="Aiuto:Tour guidato">
+              Tour guidato
+             </a>
+             per imparare
+             <a href="/wiki/Aiuto:Come_scrivere_una_voce" title="Aiuto:Come scrivere una voce">
+              come scrivere una voce
+             </a>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi fare una donazione?
+              </b>
+             </span>
+             Wikipedia è completamente gratuita e priva di pubblicità grazie alle donazioni degli utenti.
+             <span class="plainlinks">
+              <a class="external text" href="https://donate.wikimedia.org/w/index.php?title=Special:FundraiserLandingPage&amp;country=IT&amp;uselang=it&amp;utm_medium=sidebar&amp;utm_source=donate&amp;utm_campaign=C13_it.wikipedia.org">
+               Aiutaci a migliorarla e a mantenerla libera con una donazione
+              </a>
+             </span>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Cosa pensi di Wikipedia?
+              </b>
+             </span>
+             Scrivi
+             <a href="/wiki/Wikipedia:Pareri_su_Wikipedia" title="Wikipedia:Pareri su Wikipedia">
+              il tuo parere
+             </a>
+             .
+            </li>
+           </ul>
+          </div>
+          <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+           <p>
+            <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+           </p>
+           <div style="position:absolute; left:5px; top:-6px;">
+            <img alt="Chi fa Wikipedia?" data-file-height="61" data-file-width="61" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" width="38"/>
+           </div>
+           <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+            <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+             Chi fa Wikipedia?
+            </div>
+           </div>
+          </div>
+          <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+           <p>
+            La
+            <a href="/wiki/Portale:Comunit%C3%A0" title="Portale:Comunità">
+             comunità
+            </a>
+            di
+            <a href="/wiki/Wikipedia_in_italiano" title="Wikipedia in italiano">
+             Wikipedia in lingua italiana
+            </a>
+            è composta da 2 169 094 utenti registrati, dei quali 7 568 hanno contribuito con almeno una modifica nell'ultimo mese e 113 hanno
+            <a href="/wiki/Wikipedia:Amministratori" title="Wikipedia:Amministratori">
+             funzioni di servizio
+            </a>
+            . Gli utenti costituiscono una comunità collaborativa, in cui tutti i membri, grazie anche ai
+            <a href="/wiki/Portale:Progetti" title="Portale:Progetti">
+             progetti tematici
+            </a>
+            e ai rispettivi
+            <a href="/wiki/Wikipedia:Bar_tematici" title="Wikipedia:Bar tematici">
+             luoghi di discussione
+            </a>
+            ,
+            <a href="/wiki/Progetto:Coordinamento" title="Progetto:Coordinamento">
+             coordinano
+            </a>
+            i propri sforzi nella redazione delle voci.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Vetrina" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/38px-HSUtvald.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/57px-HSUtvald.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HSUtvald.svg/76px-HSUtvald.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Vetrina
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <div class="floatright">
+          <a class="image" href="/wiki/File:Le_Voyage_dans_la_lune.jpg">
+           <img alt="Le Voyage dans la lune.jpg" data-file-height="264" data-file-width="257" decoding="async" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Le_Voyage_dans_la_lune.jpg/136px-Le_Voyage_dans_la_lune.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Le_Voyage_dans_la_lune.jpg/204px-Le_Voyage_dans_la_lune.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/04/Le_Voyage_dans_la_lune.jpg 2x" width="136"/>
+          </a>
+         </div>
+         <p>
+          Il
+          <b>
+           cinema di fantascienza
+          </b>
+          (o
+          <b>
+           fantascientifico
+          </b>
+          ) è uno dei
+          <a class="mw-redirect" href="/wiki/Generi_cinematografici" title="Generi cinematografici">
+           generi cinematografici
+          </a>
+          più popolari. In esso, i temi tipici della
+          <a href="/wiki/Fantascienza" title="Fantascienza">
+           fantascienza
+          </a>
+          sono colonna portante per lo sviluppo della
+          <a class="mw-redirect" href="/wiki/Trama_(narrativa)" title="Trama (narrativa)">
+           trama
+          </a>
+          . Nei film di fantascienza, il
+          <a href="/wiki/Espediente_narrativo" title="Espediente narrativo">
+           meccanismo narrativo
+          </a>
+          viene innescato dalla presenza di elementi
+          <a href="/wiki/Scienza" title="Scienza">
+           scientifici
+          </a>
+          immaginari o ipotetici, come potrebbero essere ad esempio la formulazione di una nuova
+          <a href="/wiki/Teoria" title="Teoria">
+           teoria
+          </a>
+          <a href="/wiki/Matematica" title="Matematica">
+           matematica
+          </a>
+          , l'invenzione di apparecchiature
+          <a href="/wiki/Tecnologia" title="Tecnologia">
+           tecnologiche
+          </a>
+          innovative o la scoperta di nuovi e promettenti sviluppi nel campo della
+          <a class="mw-redirect" href="/wiki/Bioingegneria" title="Bioingegneria">
+           bioingegneria
+          </a>
+          . Solitamente questo genere di film viene ambientato in un contesto legato a una visione più o meno lontana del
+          <a href="/wiki/Futuro" title="Futuro">
+           futuro
+          </a>
+          , come quello dei
+          <a href="/wiki/Viaggio_interstellare" title="Viaggio interstellare">
+           viaggi interstellari
+          </a>
+          , quello del contatto con
+          <a href="/wiki/Extraterrestri_nella_fantascienza" title="Extraterrestri nella fantascienza">
+           entità extraterrestri
+          </a>
+          , quello dei
+          <a href="/wiki/Guerra_nucleare" title="Guerra nucleare">
+           conflitti nucleari
+          </a>
+          o delle catastrofi climatiche globali.
+         </p>
+         <p>
+          Benché il cinema di fantascienza sia stato riconosciuto come genere autonomo solo a partire dagli
+          <a href="/wiki/Anni_1950" title="Anni 1950">
+           anni cinquanta
+          </a>
+          , l'elemento del
+          <a href="/wiki/Fantastico" title="Fantastico">
+           fantastico
+          </a>
+          era ben presente fin dagli esordi della
+          <i>
+           <a class="mw-redirect" href="/wiki/Settima_arte" title="Settima arte">
+            settima arte
+           </a>
+          </i>
+          . Nel corso degli anni, il cinema fantascientifico ha saputo esplorare un'enorme rosa di soggetti e temi differenti, molti dei quali non avrebbero potuto essere rappresentati in altro modo. Una delle qualità che rende affascinante questo genere è la sua propensione a comunicare messaggi
+          <a href="/wiki/Filosofia" title="Filosofia">
+           filosofici
+          </a>
+          o
+          <a href="/wiki/Politica" title="Politica">
+           politici
+          </a>
+          con elegante sottigliezza: le opere di fantascienza sono state spesso utilizzate per affrontare delicati temi sociali e di attualità – come il
+          <a href="/wiki/Pacifismo" title="Pacifismo">
+           pacifismo
+          </a>
+          , la
+          <a href="/wiki/Guerra_fredda" title="Guerra fredda">
+           guerra fredda
+          </a>
+          , la
+          <a href="/wiki/Xenofobia" title="Xenofobia">
+           xenofobia
+          </a>
+          , le conseguenze dell'
+          <a href="/wiki/Inquinamento" title="Inquinamento">
+           inquinamento
+          </a>
+          – in periodi storici attraversati da crisi morali, pur senza rinunciare, nel contempo, a offrire intrattenimento per gli spettatori meno smaliziati. Le produzioni fantascientifiche hanno sempre figurato in prima linea per quanto riguarda l'aspetto più tecnico degli
+          <a href="/wiki/Effetti_speciali" title="Effetti speciali">
+           effetti speciali
+          </a>
+          e con il tempo le platee di appassionati si sono abituate alla rappresentazione realistica di
+          <a href="/wiki/Extraterrestre" title="Extraterrestre">
+           forme di vita aliene
+          </a>
+          , spettacolari battaglie spaziali, armi a energia e
+          <a href="/wiki/Pianeti_immaginari" title="Pianeti immaginari">
+           mondi surreali
+          </a>
+          , a conseguenza del sempre più rapido progredire delle tecnologie
+          <a href="/wiki/Animatronica" title="Animatronica">
+           animatronica
+          </a>
+          e
+          <a href="/wiki/Computer_grafica" title="Computer grafica">
+           computer grafica
+          </a>
+          .
+         </p>
+         <p>
+          Vi sono molti film di fantascienza memorabili e un numero ancora maggiore di opere mediocri, o che possono essere annoverate addirittura tra i peggiori esempi di produzione cinematografica di tutti i tempi. Sono occorsi molti decenni – e gli sforzi collettivi di innumerevoli
+          <a class="mw-redirect" href="/wiki/Cineasta" title="Cineasta">
+           cineasti
+          </a>
+          di talento – perché il cinema fantascientifico iniziasse a essere considerato una forma d'
+          <a href="/wiki/Arte" title="Arte">
+           arte
+          </a>
+          . All'interno della fantascienza e dei suoi confini si registra una notevole
+          <a href="/wiki/Contaminazione_(narrativa)" title="Contaminazione (narrativa)">
+           contaminazione
+          </a>
+          di generi, in particolare con il
+          <a href="/wiki/Cinema_dell%27orrore" title="Cinema dell'orrore">
+           cinema del terrore
+          </a>
+          .
+         </p>
+         <dl>
+          <dt>
+           <a class="mw-redirect" href="/wiki/Cinema_di_Fantascienza" title="Cinema di Fantascienza">
+            Leggi la voce
+           </a>
+           ·
+           <a href="/wiki/Wikipedia:Vetrina" title="Wikipedia:Vetrina">
+            Tutte le voci in vetrina
+           </a>
+          </dt>
+         </dl>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Voci di qualità" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/38px-HS_VdQ.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/57px-HS_VdQ.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/HS_VdQ.svg/76px-HS_VdQ.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Voci di qualità
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <div class="floatright">
+          <a class="image" href="/wiki/File:Derby_di_Roma_1979-1980.jpg">
+           <img alt="Derby di Roma 1979-1980.jpg" data-file-height="840" data-file-width="1280" decoding="async" height="98" src="//upload.wikimedia.org/wikipedia/it/thumb/c/c3/Derby_di_Roma_1979-1980.jpg/150px-Derby_di_Roma_1979-1980.jpg" srcset="//upload.wikimedia.org/wikipedia/it/thumb/c/c3/Derby_di_Roma_1979-1980.jpg/225px-Derby_di_Roma_1979-1980.jpg 1.5x, //upload.wikimedia.org/wikipedia/it/thumb/c/c3/Derby_di_Roma_1979-1980.jpg/300px-Derby_di_Roma_1979-1980.jpg 2x" width="150"/>
+          </a>
+         </div>
+         <p>
+          Il
+          <b>
+           derby di Roma
+          </b>
+          è la
+          <a href="/wiki/Derby_(calcio)" title="Derby (calcio)">
+           stracittadina
+          </a>
+          <a href="/wiki/Calcio_(sport)" title="Calcio (sport)">
+           calcistica
+          </a>
+          che mette di fronte le squadre di
+          <a href="/wiki/Societ%C3%A0_Sportiva_Lazio" title="Società Sportiva Lazio">
+           Lazio
+          </a>
+          e
+          <a href="/wiki/Associazione_Sportiva_Roma" title="Associazione Sportiva Roma">
+           Roma
+          </a>
+          , le due principali società della Capitale. La sfida, colloquialmente detta anche
+          <i>
+           <b>
+            derby della Capitale
+           </b>
+          </i>
+          ,
+          <i>
+           <b>
+            derby Capitolino
+           </b>
+          </i>
+          o
+          <i>
+           <b>
+            derby del Cupolone
+           </b>
+          </i>
+          , in riferimento alla
+          <a href="/wiki/Cupola_di_San_Pietro" title="Cupola di San Pietro">
+           cupola di San Pietro
+          </a>
+          , costituisce uno dei derby più accesi d'Italia e tra i più belli e caldi del Mondo, a causa della forte rivalità che intercorre tra le rispettive tifoserie. Il derby ha acquisito maggiore prestigio internazionale alla fine degli
+          <a href="/wiki/Anni_1990" title="Anni 1990">
+           anni novanta
+          </a>
+          , grazie all'ottimo andamento delle contendenti che in quegli anni disponevano di due formazioni altamente competitive e dalla metà degli
+          <a href="/wiki/Anni_2000" title="Anni 2000">
+           anni duemila
+          </a>
+          rimane una delle partite di calcio più seguite al mondo, tanto da essere trasmessa in oltre 170 nazioni di ogni continente.
+         </p>
+         <p>
+          La sfida tra le due squadre, rappresentò, almeno inizialmente, la contrapposizione di due classi sociali differenti: la Lazio fu fondata nel
+          <a href="/wiki/1900" title="1900">
+           1900
+          </a>
+          a Piazza della Libertà, in quello che sarebbe poi divenuto il
+          <a href="/wiki/Rioni_di_Roma" title="Rioni di Roma">
+           rione
+          </a>
+          <a href="/wiki/Prati_(rione_di_Roma)" title="Prati (rione di Roma)">
+           Prati
+          </a>
+          , dove abitavano gli impiegati del personale statale. La squadra, scelse come campo di gioco lo
+          <a href="/wiki/Stadio_della_Rondinella" title="Stadio della Rondinella">
+           Stadio della Rondinella
+          </a>
+          , situato ai
+          <a href="/wiki/Parioli" title="Parioli">
+           Parioli
+          </a>
+          , quartiere della medio-alta
+          <a href="/wiki/Borghesia" title="Borghesia">
+           borghesia
+          </a>
+          cittadina. La Roma, invece, nacque ventisette anni dopo dalla fusione di tre squadre, e giocava nel
+          <a href="/wiki/Proletariato" title="Proletariato">
+           popolare
+          </a>
+          <a href="/wiki/Rioni_di_Roma" title="Rioni di Roma">
+           rione
+          </a>
+          di
+          <a href="/wiki/Testaccio" title="Testaccio">
+           Testaccio
+          </a>
+          , nell'omonimo
+          <a href="/wiki/Campo_Testaccio" title="Campo Testaccio">
+           stadio
+          </a>
+          . Colori sociali e stemmi marcarono, fin da subito, la distinzione fra i due club: per i giallorossi i colori furono quelli della città di Roma con il simbolo della
+          <a class="mw-redirect" href="/wiki/Lupa_Capitolina" title="Lupa Capitolina">
+           Lupa Capitolina
+          </a>
+          . Di segno opposto la scelta della Lazio, che attinse i propri dalla bandiera della
+          <a href="/wiki/Grecia" title="Grecia">
+           Grecia
+          </a>
+          , patria dei primi giochi olimpici, scegliendo come stemma un'
+          <a href="/wiki/Aquila_(storia_romana)" title="Aquila (storia romana)">
+           aquila
+          </a>
+          , animale simbolo delle legioni romane dell'antico Impero.
+         </p>
+         <dl>
+          <dt>
+           <a href="/wiki/Derby_di_Roma" title="Derby di Roma">
+            Leggi la voce
+           </a>
+           ·
+           <a href="/wiki/Wikipedia:Voci_di_qualit%C3%A0" title="Wikipedia:Voci di qualità">
+            Tutte le voci di qualità
+           </a>
+          </dt>
+         </dl>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Lo sapevi che..." data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/38px-PL_Wiki_CzyWiesz_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/57px-PL_Wiki_CzyWiesz_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PL_Wiki_CzyWiesz_ikona.svg/76px-PL_Wiki_CzyWiesz_ikona.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Lo sapevi che...
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <div class="floatright">
+          <a class="image" href="/wiki/File:Porder.jpg">
+           <img alt="Porder.jpg" data-file-height="751" data-file-width="535" decoding="async" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Porder.jpg/100px-Porder.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Porder.jpg/149px-Porder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Porder.jpg/199px-Porder.jpg 2x" width="100"/>
+          </a>
+         </div>
+         <p>
+          Lo
+          <b>
+           svegliatore
+          </b>
+          (in
+          <a href="/wiki/Lingua_inglese" title="Lingua inglese">
+           lingua inglese
+          </a>
+          <i>
+           knocker-up
+          </i>
+          o
+          <i>
+           knocker-upper
+          </i>
+          ), talune volte detto anche bussatore, fu una professione nata e diffusa principalmente nel
+          <a href="/wiki/Regno_Unito" title="Regno Unito">
+           Regno Unito
+          </a>
+          e
+          <a href="/wiki/Irlanda" title="Irlanda">
+           Irlanda
+          </a>
+          , oltre che in altre parti d'
+          <a href="/wiki/Europa" title="Europa">
+           Europa
+          </a>
+          , durante il periodo della
+          <a href="/wiki/Rivoluzione_industriale" title="Rivoluzione industriale">
+           rivoluzione industriale
+          </a>
+          , quando gli
+          <a href="/wiki/Orologio" title="Orologio">
+           orologi
+          </a>
+          dotati di
+          <a href="/wiki/Sveglia" title="Sveglia">
+           sveglia
+          </a>
+          non erano né economici né particolarmente affidabili.
+         </p>
+         <p>
+          Il compito di uno svegliatore era quello di destare le persone addormentate al fine di permettere loro di giungere per tempo al lavoro.
+         </p>
+         <dl>
+          <dt>
+           <a href="/wiki/Svegliatore" title="Svegliatore">
+            Leggi la voce
+           </a>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/Wikipedia:Lo_sapevi_che/Valutazione" title="Wikipedia:Lo sapevi che/Valutazione">
+            Proponi un'altra voce
+           </a>
+          </dt>
+         </dl>
+         <div style="clear:both;">
+         </div>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Ricorrenze" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/38px-HSDagensdatum.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/57px-HSDagensdatum.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/HSDagensdatum.svg/76px-HSDagensdatum.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Ricorrenze
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <div style="float:right; margin-top:0.9em; margin-left:0.1em; margin-right:0.5em; text-align:center;">
+          <a class="image" href="/wiki/File:Monica_Bellucci,_Women%27s_World_Awards_2009_b.jpg">
+           <img alt="Monica Bellucci, Women's World Awards 2009 b.jpg" data-file-height="2418" data-file-width="1711" decoding="async" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg/100px-Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg/150px-Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg/200px-Monica_Bellucci%2C_Women%27s_World_Awards_2009_b.jpg 2x" width="100"/>
+          </a>
+          <br/>
+          <small>
+           <i>
+            Monica Bellucci
+           </i>
+          </small>
+         </div>
+         <p>
+          <b>
+           Nati il
+           <a href="/wiki/30_settembre" title="30 settembre">
+            30 settembre
+           </a>
+           ...
+          </b>
+          <br/>
+          <a href="/wiki/Truman_Capote" title="Truman Capote">
+           Truman Capote
+          </a>
+          (
+          <a href="/wiki/1924" title="1924">
+           1924
+          </a>
+          )
+          <br/>
+          <a href="/wiki/Elie_Wiesel" title="Elie Wiesel">
+           Elie Wiesel
+          </a>
+          (
+          <a href="/wiki/1928" title="1928">
+           1928
+          </a>
+          )
+          <br/>
+          <a href="/wiki/Monica_Bellucci" title="Monica Bellucci">
+           Monica Bellucci
+          </a>
+          (
+          <a href="/wiki/1964" title="1964">
+           1964
+          </a>
+          )
+         </p>
+         <p>
+          <b>
+           ... e morti
+          </b>
+          <br/>
+          <a href="/wiki/San_Girolamo" title="San Girolamo">
+           San Girolamo
+          </a>
+          (
+          <a href="/wiki/420" title="420">
+           420
+          </a>
+          )
+          <br/>
+          <a href="/wiki/Teresa_di_Lisieux" title="Teresa di Lisieux">
+           Teresa di Lisieux
+          </a>
+          (
+          <a href="/wiki/1897" title="1897">
+           1897
+          </a>
+          )
+          <br/>
+          <a href="/wiki/James_Dean" title="James Dean">
+           James Dean
+          </a>
+          (
+          <a href="/wiki/1955" title="1955">
+           1955
+          </a>
+          )
+         </p>
+         <p>
+          <b>
+           In questo giorno accadde...
+          </b>
+          <br/>
+          <a href="/wiki/1452" title="1452">
+           1452
+          </a>
+          –
+          <a href="/wiki/Johannes_Gutenberg" title="Johannes Gutenberg">
+           Johannes Gutenberg
+          </a>
+          realizza il
+          <a href="/wiki/Bibbia_di_Gutenberg" title="Bibbia di Gutenberg">
+           primo libro a stampa
+          </a>
+          .
+          <br/>
+          <a href="/wiki/1949" title="1949">
+           1949
+          </a>
+          – Termina il
+          <a href="/wiki/Ponte_aereo_per_Berlino" title="Ponte aereo per Berlino">
+           ponte aereo per Berlino
+          </a>
+          .
+          <br/>
+          <a href="/wiki/1954" title="1954">
+           1954
+          </a>
+          – Entra in servizio l'
+          <i>
+           <a href="/wiki/USS_Nautilus_(SSN-571)" title="USS Nautilus (SSN-571)">
+            USS Nautilus
+           </a>
+          </i>
+          , il primo
+          <a href="/wiki/Sottomarino" title="Sottomarino">
+           sottomarino
+          </a>
+          a
+          <a href="/wiki/Energia_nucleare" title="Energia nucleare">
+           propulsione nucleare
+          </a>
+          .
+          <br/>
+          <a href="/wiki/1966" title="1966">
+           1966
+          </a>
+          – Il
+          <a href="/wiki/Botswana" title="Botswana">
+           Botswana
+          </a>
+          dichiara l'indipendenza.
+          <br/>
+          <a href="/wiki/2002" title="2002">
+           2002
+          </a>
+          – Viene effettuato il primo
+          <a href="/wiki/Trapianto_di_fegato" title="Trapianto di fegato">
+           trapianto di fegato
+          </a>
+          su paziente
+          <a href="/wiki/Sieropositivit%C3%A0" title="Sieropositività">
+           sieropositivo
+          </a>
+          in
+          <a href="/wiki/Italia" title="Italia">
+           Italia
+          </a>
+          .
+         </p>
+         <p>
+          <b>
+           Ricorre oggi
+          </b>
+          : la
+          <a href="/wiki/Chiesa_cattolica" title="Chiesa cattolica">
+           Chiesa cattolica
+          </a>
+          celebra la
+          <a href="/wiki/Memoria_(liturgia)" title="Memoria (liturgia)">
+           memoria
+          </a>
+          dei santi
+          <a href="/wiki/Amato_di_Nusco" title="Amato di Nusco">
+           Amato di Nusco
+          </a>
+          , di
+          <a href="/wiki/Francesco_Borgia" title="Francesco Borgia">
+           Francesco Borgia
+          </a>
+          ,
+          <a href="/wiki/Gregorio_Illuminatore" title="Gregorio Illuminatore">
+           Gregorio Illuminatore
+          </a>
+          e
+          <a href="/wiki/Santa_Sofia_(Roma)" title="Santa Sofia (Roma)">
+           Sofia di Roma
+          </a>
+          .
+         </p>
+        </div>
+        <div class="nomobile">
+         <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+          <p>
+           <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+          </p>
+          <div style="position:absolute; left:5px; top:-6px;">
+           <img alt="Nelle altre lingue" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/38px-HS_geo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/57px-HS_geo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HS_geo.svg/76px-HS_geo.svg.png 2x" width="38"/>
+          </div>
+          <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+           <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+            Nelle altre lingue
+           </div>
+          </div>
+         </div>
+         <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+          <p>
+           Di seguito sono elencate le 10 versioni maggiori di Wikipedia e una selezione casuale di altre edizioni con un numero minore di voci:
+          </p>
+          <p>
+           <b>
+            Le 10 maggiori
+           </b>
+           <small>
+            (al 30 settembre 2021)
+           </small>
+           :
+           <a class="extiw" href="https://en.wikipedia.org/wiki/" title="en:">
+            English (
+            <i>
+             inglese
+            </i>
+            )
+           </a>
+           <small>
+            (6 384 932+)
+           </small>
+           ·
+           <a class="extiw" href="https://ceb.wikipedia.org/wiki/" title="ceb:">
+            Binisaya (
+            <i>
+             cebuano
+            </i>
+            )
+           </a>
+           <small>
+            (5 950 914+)
+           </small>
+           ·
+           <a class="extiw" href="https://sv.wikipedia.org/wiki/" title="sv:">
+            Svenska (
+            <i>
+             svedese
+            </i>
+            )
+           </a>
+           <small>
+            (2 910 831+)
+           </small>
+           ·
+           <a class="extiw" href="https://de.wikipedia.org/wiki/" title="de:">
+            Deutsch (
+            <i>
+             tedesco
+            </i>
+            )
+           </a>
+           <small>
+            (2 618 623+)
+           </small>
+           ·
+           <a class="extiw" href="https://fr.wikipedia.org/wiki/" title="fr:">
+            Français (
+            <i>
+             francese
+            </i>
+            )
+           </a>
+           <small>
+            (2 363 486+)
+           </small>
+           ·
+           <a class="extiw" href="https://nl.wikipedia.org/wiki/" title="nl:">
+            Nederlands (
+            <i>
+             olandese
+            </i>
+            )
+           </a>
+           <small>
+            (2 067 675+)
+           </small>
+           ·
+           <a class="extiw" href="https://ru.wikipedia.org/wiki/" title="ru:">
+            Русский (
+            <i>
+             russo
+            </i>
+            )
+           </a>
+           <small>
+            (1 757 479+)
+           </small>
+           ·
+           <b>
+            Italiano
+           </b>
+           <small>
+            (1 718 844)
+           </small>
+           ·
+           <a class="extiw" href="https://es.wikipedia.org/wiki/" title="es:">
+            Español (
+            <i>
+             spagnolo
+            </i>
+            )
+           </a>
+           <small>
+            (1 718 026+)
+           </small>
+           ·
+           <a class="extiw" href="https://pl.wikipedia.org/wiki/" title="pl:">
+            Polski (
+            <i>
+             polacco
+            </i>
+            )
+           </a>
+           <small>
+            (1 491 030+)
+           </small>
+          </p>
+          <p>
+           <b>
+            Dal mondo di Wikipedia
+           </b>
+           :
+           <a class="extiw" href="https://da.wikipedia.org/wiki/" title="da:">
+            Dansk (
+            <i>
+             danese
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://hr.wikipedia.org/wiki/" title="hr:">
+            Hrvatski (
+            <i>
+             croato
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://ceb.wikipedia.org/wiki/" title="ceb:">
+            Sinugboanong Binisaya (
+            <i>
+             cebuano
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://sq.wikipedia.org/wiki/" title="sq:">
+            Shqip (
+            <i>
+             albanese
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://be.wikipedia.org/wiki/" title="be:">
+            Беларуская (
+            <i>
+             bielorusso
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://zh-yue.wikipedia.org/wiki/" title="zh-yue:">
+            粵語 (
+            <i>
+             cantonese
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://uz.wikipedia.org/wiki/" title="uz:">
+            Ўзбек (
+            <i>
+             usbeco
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://co.wikipedia.org/wiki/" title="co:">
+            Corsu (
+            <i>
+             corso
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://sa.wikipedia.org/wiki/" title="sa:">
+            संस्कृतम् (
+            <i>
+             sanscrito
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://map-bms.wikipedia.org/wiki/" title="map-bms:">
+            Basa Banyumasan (
+            <i>
+             banyumasan
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://nov.wikipedia.org/wiki/" title="nov:">
+            Novial (
+            <i>
+             novial
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://si.wikipedia.org/wiki/" title="si:">
+            සිංහල (
+            <i>
+             singalese
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://ie.wikipedia.org/wiki/" title="ie:">
+            Interlingue (
+            <i>
+             interlingue
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://ext.wikipedia.org/wiki/" title="ext:">
+            Luenga estremeña (
+            <i>
+             estremadurano
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://ig.wikipedia.org/wiki/" title="ig:">
+            Asusu Igbo (
+            <i>
+             igbo
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://nv.wikipedia.org/wiki/" title="nv:">
+            Diné bizaad (
+            <i>
+             navajo
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://as.wikipedia.org/wiki/" title="as:">
+            অসমীয়া ভাষা আৰু লিপি (
+            <i>
+             assamese
+            </i>
+            )
+           </a>
+           ·
+           <a class="extiw" href="https://za.wikipedia.org/wiki/" title="za:">
+            Sawcuengh (
+            <i>
+             zhuang
+            </i>
+            )
+           </a>
+          </p>
+         </div>
+         <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+          <p>
+           <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+          </p>
+          <div style="position:absolute; left:5px; top:-6px;">
+           <img alt="Oltre Wikipedia" data-file-height="700" data-file-width="700" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/38px-Wikimedia-logo-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/57px-Wikimedia-logo-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wikimedia-logo-circle.svg/76px-Wikimedia-logo-circle.svg.png 2x" width="38"/>
+          </div>
+          <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+           <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+            Oltre Wikipedia
+           </div>
+          </div>
+         </div>
+         <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+          <p>
+           Wikipedia è gestita da
+           <a class="extiw" href="https://foundation.wikimedia.org/wiki/Pagina_Principale" title="wmf:Pagina Principale">
+            Wikimedia Foundation
+           </a>
+           ,
+           <a href="/wiki/Organizzazione_non_a_scopo_di_lucro" title="Organizzazione non a scopo di lucro">
+            organizzazione senza fini di lucro
+           </a>
+           che sostiene diversi altri progetti
+           <a href="/wiki/Wiki" title="Wiki">
+            wiki
+           </a>
+           dal
+           <a href="/wiki/Contenuto_libero" title="Contenuto libero">
+            contenuto libero
+           </a>
+           e
+           <a class="extiw" href="https://meta.wikimedia.org/wiki/Pagina_principale" title="m:Pagina principale">
+            multilingue
+           </a>
+           :
+          </p>
+          <style data-mw-deduplicate="TemplateStyles:r119427926">
+           .mw-parser-output .responsive-columns{display:flex;flex-wrap:wrap;justify-content:space-between;margin-bottom:-20px}.mw-parser-output .responsive-columns>div{flex:1 1;margin:0 20px 20px 0}
+          </style>
+          <div class="responsive-columns" style="">
+           <div>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://commons.wikimedia.org/wiki/Pagina_principale" title="Commons">
+                  <img alt="Commons-logo.svg" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://commons.wikimedia.org/wiki/Pagina_principale" title="commons:Pagina principale">
+                 <b>
+                  Commons
+                 </b>
+                </a>
+                <br/>
+                Risorse multimediali condivise
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikiquote.org/wiki/Pagina_principale" title="Wikiquote">
+                  <img alt="Wikiquote-logo.svg" data-file-height="355" data-file-width="300" decoding="async" height="36" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikiquote.org/wiki/Pagina_principale" title="q:Pagina principale">
+                 <b>
+                  Wikiquote
+                 </b>
+                </a>
+                <br/>
+                Raccolta di citazioni
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wiktionary.org/wiki/Pagina_principale" title="Wikizionario">
+                  <img alt="Wiktprintable without text.svg" data-file-height="350" data-file-width="370" decoding="async" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/30px-Wiktionary-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/45px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wiktionary.org/wiki/Pagina_principale" title="wikt:Pagina principale">
+                 <b>
+                  Wikizionario
+                 </b>
+                </a>
+                <br/>
+                Dizionario e lessico
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikinews.org/wiki/Pagina_principale" title="Wikinotizie">
+                  <img alt="Wikinews-logo.svg" data-file-height="415" data-file-width="759" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/30px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikinews.org/wiki/Pagina_principale" title="n:Pagina principale">
+                 <b>
+                  Wikinotizie
+                 </b>
+                </a>
+                <br/>
+                Notizie a contenuto aperto
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://species.wikimedia.org/wiki/Pagina_principale" title="Wikispecies">
+                  <img alt="Wikispecies-logo.svg" data-file-height="1103" data-file-width="941" decoding="async" height="35" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/30px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/45px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://species.wikimedia.org/wiki/Pagina_principale" title="wikispecies:Pagina principale">
+                 <b>
+                  Wikispecies
+                 </b>
+                </a>
+                <br/>
+                Catalogo delle specie
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://meta.wikimedia.org/wiki/Main_Page" title="Meta-Wiki">
+                  <img alt="Wikimedia Community Logo.svg" data-file-height="900" data-file-width="900" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/45px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://meta.wikimedia.org/wiki/Main_Page" title="m:Main Page">
+                 <b>
+                  Meta-Wiki
+                 </b>
+                </a>
+                <br/>
+                Progetto di coordinamento Wikimedia
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+           <div>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikibooks.org/wiki/Pagina_principale" title="Wikibooks">
+                  <img alt="Wikibooks-logo.svg" data-file-height="300" data-file-width="300" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/45px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikibooks.org/wiki/Pagina_principale" title="b:Pagina principale">
+                 <b>
+                  Wikibooks
+                 </b>
+                </a>
+                <br/>
+                Manuali e libri di testo liberi scritti ex novo
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikisource.org/wiki/Pagina_principale" title="Wikisource">
+                  <img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" decoding="async" height="31" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikisource.org/wiki/Pagina_principale" title="s:Pagina principale">
+                 <b>
+                  Wikisource
+                 </b>
+                </a>
+                <br/>
+                Biblioteca di opere già pubblicate
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikiversity.org/wiki/Pagina_principale" title="Wikiversità">
+                  <img alt="Wikiversity-logo.svg" data-file-height="800" data-file-width="1000" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikiversity.org/wiki/Pagina_principale" title="v:Pagina principale">
+                 <b>
+                  Wikiversità
+                 </b>
+                </a>
+                <br/>
+                Risorse e attività didattiche
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="Wikidata">
+                  <img alt="Wikidata-logo.svg" data-file-height="590" data-file-width="1050" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/32px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/48px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/64px-Wikidata-logo.svg.png 2x" width="32"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="d:Wikidata:Main Page">
+                 <b>
+                  Wikidata
+                 </b>
+                </a>
+                <br/>
+                Database di conoscenza libera
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <table cellpadding="2" cellspacing="2" style="height:40px; vertical-align:middle; background:none">
+             <tbody>
+              <tr>
+               <td align="center">
+                <div class="noresize">
+                 <a href="https://it.wikivoyage.org/wiki/Pagina_principale" title="Wikivoyage">
+                  <img alt="Wikivoyage-Logo-v3-icon.svg" data-file-height="193" data-file-width="193" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/30px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/45px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="30"/>
+                 </a>
+                </div>
+               </td>
+               <td style="padding-left:.5em">
+                <a class="extiw" href="https://it.wikivoyage.org/wiki/Pagina_principale" title="voy:Pagina principale">
+                 <b>
+                  Wikivoyage
+                 </b>
+                </a>
+                <br/>
+                Guida turistica mondiale
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div>
+        <div class="main-page-intro">
+         <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+          <p>
+           <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+          </p>
+          <div style="position:absolute; left:5px; top:-6px;">
+           <img alt="Wikipedia" data-file-height="1500" data-file-width="1500" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/38px-W-circle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/57px-W-circle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/W-circle.svg/76px-W-circle.svg.png 2x" width="38"/>
+          </div>
+          <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+           <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+            Wikipedia
+           </div>
+          </div>
+         </div>
+         <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+          <p>
+           <b>
+            Wikipedia
+           </b>
+           è un'
+           <a href="/wiki/Enciclopedia" title="Enciclopedia">
+            enciclopedia
+           </a>
+           online,
+           <a href="/wiki/Wikipedia:Wikipedia_%C3%A8_libera" title="Wikipedia:Wikipedia è libera">
+            libera
+           </a>
+           e collaborativa.
+          </p>
+          <p>
+           Grazie al contributo di volontari da tutto il mondo, Wikipedia è disponibile
+           <a class="extiw" href="https://meta.wikimedia.org/wiki/List_of_Wikipedias/it" title="m:List of Wikipedias/it">
+            in oltre 300 lingue
+           </a>
+           .
+           <a href="/wiki/Wikipedia:Wikipediani" title="Wikipedia:Wikipediani">
+            Chiunque
+           </a>
+           può contribuire alle
+           <a href="/wiki/Aiuto:Voce" title="Aiuto:Voce">
+            voci
+           </a>
+           esistenti o
+           <a href="/wiki/Aiuto:Come_scrivere_una_voce" title="Aiuto:Come scrivere una voce">
+            crearne di nuove
+           </a>
+           , affrontando sia gli argomenti tipici delle enciclopedie tradizionali sia quelli presenti in
+           <a href="/wiki/Almanacco" title="Almanacco">
+            almanacchi
+           </a>
+           , dizionari geografici e pubblicazioni specialistiche.
+          </p>
+          <p>
+           Tutti i contenuti di Wikipedia sono
+           <a href="/wiki/Wikipedia:Copyright" title="Wikipedia:Copyright">
+            protetti
+           </a>
+           da una
+           <a href="/wiki/Licenza_libera" title="Licenza libera">
+            licenza libera
+           </a>
+           , la
+           <a href="/wiki/Licenze_Creative_Commons" title="Licenze Creative Commons">
+            Creative Commons CC BY-SA
+           </a>
+           , che ne permette il riutilizzo per
+           <a href="/wiki/Contenuto_libero" title="Contenuto libero">
+            qualsiasi scopo
+           </a>
+           a condizione di
+           <a href="/wiki/Copyleft" title="Copyleft">
+            adottare la medesima licenza
+           </a>
+           .
+          </p>
+         </div>
+         <div class="nomobile">
+          <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+           <p>
+            <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+           </p>
+           <div style="position:absolute; left:5px; top:-6px;">
+            <img alt="Cosa posso fare?" data-file-height="228" data-file-width="228" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/38px-HSTools.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/57px-HSTools.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HSTools.svg/76px-HSTools.svg.png 2x" width="38"/>
+           </div>
+           <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+            <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+             Cosa posso fare?
+            </div>
+           </div>
+          </div>
+          <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+           <ul>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi partecipare?
+              </b>
+             </span>
+             Leggi le
+             <a href="/wiki/Wikipedia:Cinque_pilastri" title="Wikipedia:Cinque pilastri">
+              regole fondamentali
+             </a>
+             e le altre
+             <a href="/wiki/Wikipedia:Raccomandazioni_e_linee_guida" title="Wikipedia:Raccomandazioni e linee guida">
+              linee guida
+             </a>
+             , e rispetta la
+             <i>
+              <a href="/wiki/Wikipedia:Wikiquette" title="Wikipedia:Wikiquette">
+               wikiquette
+              </a>
+             </i>
+             ; la
+             <a href="/wiki/Aiuto:Come_registrarsi" title="Aiuto:Come registrarsi">
+              registrazione
+             </a>
+             è consigliata ma
+             <i>
+              non obbligatoria
+             </i>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Serve aiuto?
+              </b>
+             </span>
+             Consulta le
+             <a href="/wiki/Aiuto:Aiuto" title="Aiuto:Aiuto">
+              istruzioni
+             </a>
+             e le
+             <a href="/wiki/Aiuto:FAQ" title="Aiuto:FAQ">
+              domande frequenti (FAQ)
+             </a>
+             o leggi
+             <a href="/wiki/Aiuto:Dove_fare_una_domanda" title="Aiuto:Dove fare una domanda">
+              dove fare una domanda
+             </a>
+             ; se ti sei appena registrato puoi richiedere l'assegnazione di un
+             <a href="/wiki/Progetto:Coordinamento/Accoglienza/Nuovi_arrivati" title="Progetto:Coordinamento/Accoglienza/Nuovi arrivati">
+              tutor
+             </a>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi provare?
+              </b>
+             </span>
+             Modifica
+             <a href="/wiki/Wikipedia:Pagina_delle_prove" title="Wikipedia:Pagina delle prove">
+              la pagina di prova
+             </a>
+             o segui il
+             <a href="/wiki/Aiuto:Tour_guidato" title="Aiuto:Tour guidato">
+              Tour guidato
+             </a>
+             per imparare
+             <a href="/wiki/Aiuto:Come_scrivere_una_voce" title="Aiuto:Come scrivere una voce">
+              come scrivere una voce
+             </a>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Vuoi fare una donazione?
+              </b>
+             </span>
+             Wikipedia è completamente gratuita e priva di pubblicità grazie alle donazioni degli utenti.
+             <span class="plainlinks">
+              <a class="external text" href="https://donate.wikimedia.org/w/index.php?title=Special:FundraiserLandingPage&amp;country=IT&amp;uselang=it&amp;utm_medium=sidebar&amp;utm_source=donate&amp;utm_campaign=C13_it.wikipedia.org">
+               Aiutaci a migliorarla e a mantenerla libera con una donazione
+              </a>
+             </span>
+             .
+            </li>
+            <li>
+             <span style="cursor:help">
+              <b>
+               Cosa pensi di Wikipedia?
+              </b>
+             </span>
+             Scrivi
+             <a href="/wiki/Wikipedia:Pareri_su_Wikipedia" title="Wikipedia:Pareri su Wikipedia">
+              il tuo parere
+             </a>
+             .
+            </li>
+           </ul>
+          </div>
+          <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+           <p>
+            <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+           </p>
+           <div style="position:absolute; left:5px; top:-6px;">
+            <img alt="Chi fa Wikipedia?" data-file-height="61" data-file-width="61" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/38px-Text-x-generic_with_pencil-2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/57px-Text-x-generic_with_pencil-2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Text-x-generic_with_pencil-2.svg/76px-Text-x-generic_with_pencil-2.svg.png 2x" width="38"/>
+           </div>
+           <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+            <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+             Chi fa Wikipedia?
+            </div>
+           </div>
+          </div>
+          <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+           <p>
+            La
+            <a href="/wiki/Portale:Comunit%C3%A0" title="Portale:Comunità">
+             comunità
+            </a>
+            di
+            <a href="/wiki/Wikipedia_in_italiano" title="Wikipedia in italiano">
+             Wikipedia in lingua italiana
+            </a>
+            è composta da 2 169 094 utenti registrati, dei quali 7 568 hanno contribuito con almeno una modifica nell'ultimo mese e 113 hanno
+            <a href="/wiki/Wikipedia:Amministratori" title="Wikipedia:Amministratori">
+             funzioni di servizio
+            </a>
+            . Gli utenti costituiscono una comunità collaborativa, in cui tutti i membri, grazie anche ai
+            <a href="/wiki/Portale:Progetti" title="Portale:Progetti">
+             progetti tematici
+            </a>
+            e ai rispettivi
+            <a href="/wiki/Wikipedia:Bar_tematici" title="Wikipedia:Bar tematici">
+             luoghi di discussione
+            </a>
+            ,
+            <a href="/wiki/Progetto:Coordinamento" title="Progetto:Coordinamento">
+             coordinano
+            </a>
+            i propri sforzi nella redazione delle voci.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Novità da Wikipedia" data-file-height="38" data-file-width="38" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/38px-PL_Wiki_Aktualnosci_ikona.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/57px-PL_Wiki_Aktualnosci_ikona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PL_Wiki_Aktualnosci_ikona.svg/76px-PL_Wiki_Aktualnosci_ikona.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Novità da Wikipedia
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <p>
+          <b>
+           Voci nuove
+           <a href="/wiki/Wikipedia:Novit%C3%A0" title="Wikipedia:Novità">
+            in evidenza
+           </a>
+           :
+          </b>
+         </p>
+         <dl>
+          <dd>
+           <a href="/wiki/H%C3%B4tel_des_Postes_de_Metz" title="Hôtel des Postes de Metz">
+            Hôtel des Postes de Metz
+           </a>
+           <b>
+            ·
+           </b>
+           <i>
+            <a href="/wiki/Trampoline_(Kero_Kero_Bonito)" title="Trampoline (Kero Kero Bonito)">
+             Trampoline
+            </a>
+           </i>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/Battaglia_di_Lippa" title="Battaglia di Lippa">
+            Battaglia di Lippa
+           </a>
+          </dd>
+         </dl>
+         <p>
+          <b>
+           Voci sostanzialmente modificate
+           <a href="/wiki/Wikipedia:Novit%C3%A0" title="Wikipedia:Novità">
+            in evidenza
+           </a>
+           :
+          </b>
+         </p>
+         <dl>
+          <dd>
+           <a href="/wiki/Ducato_di_Polonia" title="Ducato di Polonia">
+            Ducato di Polonia
+           </a>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/James_Duckworth" title="James Duckworth">
+            James Duckworth
+           </a>
+           <b>
+            ·
+           </b>
+           <a href="/wiki/Cuoco_Svedese" title="Cuoco Svedese">
+            Cuoco Svedese
+           </a>
+          </dd>
+         </dl>
+         <p>
+          <i>
+           <b>
+            <a href="/wiki/Wikipedia:Wikipediano" title="Wikipedia:Wikipediano">
+             il Wikipediano
+            </a>
+           </b>
+          </i>
+          , notizie dalla comunità
+         </p>
+        </div>
+        <div class="nomobile">
+         <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+          <p>
+           <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+          </p>
+          <div style="position:absolute; left:5px; top:-6px;">
+           <img alt="Lavori in corso" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HSContribs.svg/38px-HSContribs.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HSContribs.svg/57px-HSContribs.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/HSContribs.svg/76px-HSContribs.svg.png 2x" width="38"/>
+          </div>
+          <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+           <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+            Lavori in corso
+           </div>
+          </div>
+         </div>
+         <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+          <table style="padding-left:5px; padding-bottom:5px;" width="100%">
+           <tbody>
+            <tr>
+             <td style="font-size:110%" width="100%">
+              <a href="/wiki/Wikipedia:Festival_della_qualit%C3%A0" title="Wikipedia:Festival della qualità">
+               <img alt="Emblem-qual.svg" data-file-height="48" data-file-width="48" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emblem-qual.svg/18px-Emblem-qual.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emblem-qual.svg/27px-Emblem-qual.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Emblem-qual.svg/36px-Emblem-qual.svg.png 2x" width="18"/>
+              </a>
+              <b>
+               <a href="/wiki/Wikipedia:Festival_della_qualit%C3%A0/Settembre_2021" title="Wikipedia:Festival della qualità/Settembre 2021">
+                Festival della qualità
+               </a>
+              </b>
+              di settembre.
+             </td>
+            </tr>
+            <tr>
+             <td style="padding-bottom:10px; margin-right: 1.2em" width="100%">
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <div style="text-align:left; position:relative; left:0px; top:2px; margin:0;">
+         <p>
+          <img alt="" data-file-height="25" data-file-width="250" decoding="async" height="25" src="//upload.wikimedia.org/wikipedia/commons/8/8c/Bluebg_rounded_croped.png" width="250"/>
+         </p>
+         <div style="position:absolute; left:5px; top:-6px;">
+          <img alt="Dagli altri progetti" data-file-height="156" data-file-width="156" decoding="async" height="38" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/38px-HSWikimedia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/57px-HSWikimedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/HSWikimedia.svg/76px-HSWikimedia.svg.png 2x" width="38"/>
+         </div>
+         <div class="finestrahome-titolo" style="position:absolute; left:40px; top:-2px;">
+          <div style="font-weight:bold; border-bottom:none; font-size:125%; padding:.15em .4em;">
+           Dagli altri progetti
+          </div>
+         </div>
+        </div>
+        <div style="padding-left:15px; padding-bottom:5px; padding-top:5px;">
+         <div style="font-size:110%; padding-top:12px">
+          <a href="/wiki/Wikipedia:Traduzione_della_settimana" title="Wikipedia:Traduzione della settimana">
+           <img alt="Wikimedia-logo-meta.svg" data-file-height="135" data-file-width="135" decoding="async" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimedia-logo-meta.svg/18px-Wikimedia-logo-meta.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimedia-logo-meta.svg/27px-Wikimedia-logo-meta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimedia-logo-meta.svg/36px-Wikimedia-logo-meta.svg.png 2x" width="18"/>
+          </a>
+          <b>
+           <a href="/wiki/Wikipedia:Traduzione_della_settimana" title="Wikipedia:Traduzione della settimana">
+            Traduzione della settimana
+           </a>
+          </b>
+          da
+          <a href="/wiki/Wikimedia_Meta-Wiki" title="Wikimedia Meta-Wiki">
+           Meta-Wiki
+          </a>
+         </div>
+         <div style="border-bottom: 1px solid #a7d7f9; padding-top:7px; padding-bottom:10px; margin-right: 1.2em">
+          <p>
+           Questa settimana la voce da tradurre è:
+          </p>
+          <ul>
+           <li>
+            <a class="extiw" href="https://www.wikidata.org/wiki/Q13365584" title="d:Q13365584">
+             Behavior-altering parasite
+            </a>
+           </li>
+          </ul>
+          <p>
+           (versione in italiano:
+           <a class="new" href="/w/index.php?title=Parassita_che_altera_il_comportamento&amp;action=edit&amp;redlink=1" title="Parassita che altera il comportamento (la pagina non esiste)">
+            Parassita che altera il comportamento
+           </a>
+           )
+          </p>
+         </div>
+         <div style="font-size:110%; padding-top:12px">
+          <a href="https://it.wikiquote.org/wiki/" title="q:">
+           <img alt="Wikiquote-logo.svg" data-file-height="355" data-file-width="300" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/18px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/36px-Wikiquote-logo.svg.png 2x" width="18"/>
+          </a>
+          <b>
+           <a class="extiw" href="https://it.wikiquote.org/wiki/Wikiquote:Archivio_delle_citazioni_del_giorno" title="q:Wikiquote:Archivio delle citazioni del giorno">
+            Citazione del giorno
+           </a>
+          </b>
+          da
+          <a href="/wiki/Wikiquote" title="Wikiquote">
+           Wikiquote
+          </a>
+         </div>
+         <div style="border-bottom: 1px solid #a7d7f9; padding-top:7px; padding-bottom:10px; margin-right: 1.2em">
+          <p>
+           <span style="font-size:120%; font-family:Times, Times New Roman, serif, Georgia; color:SlateBlue;">
+            <b>
+             “
+            </b>
+           </span>
+           Gli eventi contrari a ciò che dalla nostra utilità è richiesto, li sopporteremo di buon animo, se siamo consapevoli che abbiamo compiuto il nostro dovere, che la nostra potenza non poteva giungere a evitarli, e che noi siamo parte di tutta la natura, di cui seguiamo l'ordine.
+           <span style="font-size:120%; font-family:Times, Times New Roman, serif, Georgia; color:SlateBlue;">
+            <b>
+             „
+            </b>
+           </span>
+           <br/>
+           <b>
+            <a class="extiw" href="https://it.wikiquote.org/wiki/Ethica" title="q:Ethica">
+             Baruch Spinoza,
+             <i>
+              Ethica
+             </i>
+            </a>
+           </b>
+          </p>
+         </div>
+         <div style="font-size:110%; padding-top:12px">
+          <a href="https://commons.wikimedia.org/wiki/" title="commons:">
+           <img alt="Commons-logo.svg" data-file-height="1376" data-file-width="1024" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/27px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/36px-Commons-logo.svg.png 2x" width="18"/>
+          </a>
+          <b>
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Commons:Immagine_del_giorno" title="commons:Commons:Immagine del giorno">
+            Immagine del giorno
+           </a>
+          </b>
+          da
+          <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">
+           Commons
+          </a>
+         </div>
+         <div style="border-bottom: 1px solid #a7d7f9; padding-top:7px; padding-bottom:10px; margin-right: 1.2em">
+          <div style="margin-top:.6em; font-size:90%; text-align:center">
+           <div>
+            <p>
+             <span style="border:1px solid #a7d7f9; display:inline-block;">
+              <a class="image" href="/wiki/File:Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg">
+               <img alt="Wroclaw Most Mlynski w porannej mgle przed switem.jpg" data-file-height="2806" data-file-width="4548" decoding="async" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/260px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/390px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg/520px-Wroclaw_Most_Mlynski_w_porannej_mgle_przed_switem.jpg 2x" width="260"/>
+              </a>
+             </span>
+            </p>
+           </div>
+          </div>
+         </div>
+         <p>
+          <br/>
+         </p>
+         <div style="font-size:110%; padding-top:12px">
+          <a href="https://it.wikisource.org/wiki/" title="s:">
+           <img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/19px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/29px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png 2x" width="19"/>
+          </a>
+          <b>
+           <a class="extiw" href="https://it.wikisource.org/wiki/Wikisource:Rilettura_del_mese" title="s:Wikisource:Rilettura del mese">
+            Rilettura del mese
+           </a>
+          </b>
+          su
+          <a href="/wiki/Wikisource" title="Wikisource">
+           Wikisource
+          </a>
+         </div>
+         <div style="border-bottom: 1px solid #a7d7f9; padding-bottom:10px; margin-right: 1.2em">
+          <div style="margin-top:.6em; font-size:90%; text-align:center">
+           <div>
+            Settembre è il mese dei
+            <b>
+             <a class="extiw" href="https://it.wikisource.org/wiki/Wikisource:Rilettura_del_mese/Testi_brevi" title="s:Wikisource:Rilettura del mese/Testi brevi">
+              testi
+             </a>
+            </b>
+            <br/>
+            da meno di trenta pagine come ad esempio
+            <br/>
+            <p>
+             <i>
+              <b>
+               <a class="extiw" href="https://it.wikisource.org/wiki/Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra" title="s:Il probabile falsificatore della Quaestio de aqua et terra">
+                Il probabile falsificatore della Quaestio de aqua et terra
+               </a>
+              </b>
+             </i>
+            </p>
+            <span style="border:1px solid #a7d7f9; display:inline-block;">
+             <div class="center">
+              <div class="floatnone">
+               <a href="https://it.wikisource.org/wiki/Indice:Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu" title="s:Indice:Il probabile falsificatore della Quaestio de aqua et terra.djvu">
+                <img alt="Il probabile falsificatore della Quaestio de aqua et terra.djvu" class="thumbborder" data-file-height="1473" data-file-width="992" decoding="async" height="308" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu/page5-190px-Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu/page5-285px-Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu/page5-380px-Il_probabile_falsificatore_della_Quaestio_de_aqua_et_terra.djvu.jpg 2x" width="190"/>
+               </a>
+              </div>
+             </div>
+            </span>
+            <p>
+             A
+             <b>
+              <a class="extiw" href="https://it.wikisource.org/wiki/Wikisource:Rilettura_del_mese/Testi_brevi#Testi_solo_da_rileggere" title="s:Wikisource:Rilettura del mese/Testi brevi">
+               questa pagina
+              </a>
+             </b>
+             l'elenco completo di testi brevi.
+            </p>
+           </div>
+          </div>
+         </div>
+         <div style="font-size:110%; padding-top:12px">
+          <a href="https://it.wikivoyage.org/wiki/" title="voy:">
+           <img alt="Wikivoyage-Logo-v3-icon.svg" data-file-height="193" data-file-width="193" decoding="async" height="19" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/19px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/29px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="19"/>
+          </a>
+          <b>
+           <a class="extiw" href="https://it.wikivoyage.org/wiki/Wikivoyage:Destinazione_del_mese" title="voy:Wikivoyage:Destinazione del mese">
+            Destinazione del mese
+           </a>
+          </b>
+          su
+          <a href="/wiki/Wikivoyage" title="Wikivoyage">
+           Wikivoyage
+          </a>
+         </div>
+         <div style="padding-bottom:10px; margin-right: 1.2em">
+          <div style="margin-top:.6em; font-size:90%; text-align:center">
+           <p>
+            <i>
+             <b>
+              <a class="extiw" href="https://it.wikivoyage.org/wiki/Nur-Sultan" title="voy:Nur-Sultan">
+               Nur-Sultan
+              </a>
+             </b>
+            </i>
+           </p>
+           <div>
+            <p>
+             <span style="border:1px solid #a7d7f9; display:inline-block;">
+              <a href="https://it.wikivoyage.org/wiki/Nur-Sultan" title="voy:Nur-Sultan">
+               <img alt="Wv Nur-Sultan banner.jpg" data-file-height="1415" data-file-width="4248" decoding="async" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wv_Nur-Sultan_banner.jpg/260px-Wv_Nur-Sultan_banner.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wv_Nur-Sultan_banner.jpg/390px-Wv_Nur-Sultan_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wv_Nur-Sultan_banner.jpg/520px-Wv_Nur-Sultan_banner.jpg 2x" width="260"/>
+              </a>
+             </span>
+            </p>
+           </div>
+           <p>
+            Conosciuta fino al 2019 come Astana,
+            <a class="extiw" href="https://it.wikivoyage.org/wiki/Nur-Sultan" title="voy:Nur-Sultan">
+             Nur-Sultan
+            </a>
+            è la capitale del
+            <a class="extiw" href="https://it.wikivoyage.org/wiki/Kazakistan" title="voy:Kazakistan">
+             Kazakistan
+            </a>
+            . Principali attrazioni della città sono le architetture contemporanee firmate da grandi architetti, come la coppia di edifici dell'Accademia nazionale dell'Educazione e il Palazzo Shabyt.
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="main-page-footer">
+       <p>
+        <span class="main-page-footer-title">
+         <b>
+          <a href="/wiki/Wikipedia:Avvertenze_generali" title="Wikipedia:Avvertenze generali">
+           Wikipedia non dà garanzie sulla validità dei contenuti
+          </a>
+         </b>
+        </span>
+        <br/>
+        <span class="main-page-footer-subheading">
+         Il progetto è ospitato dalla
+         <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">
+          Wikimedia Foundation
+         </a>
+         , che non può essere ritenuta responsabile di eventuali errori contenuti in questo sito.
+         <br/>
+         Ogni contributore è responsabile dei propri inserimenti.
+        </span>
+       </p>
+       <hr/>
+       <p>
+        <a href="/wiki/Wikipedia:Sala_stampa" title="Wikipedia:Sala stampa">
+         Sala stampa
+        </a>
+        ·
+        <a href="/wiki/Wikipedia:Contatti" title="Wikipedia:Contatti">
+         Contatti
+        </a>
+        ·
+        <a href="/wiki/Aiuto:FAQ" title="Aiuto:FAQ">
+         <span style="cursor:help">
+          FAQ
+         </span>
+        </a>
+        ·
+        <a href="/wiki/Wikipedia:Copyright" title="Wikipedia:Copyright">
+         Copyright
+        </a>
+        ·
+        <a href="/wiki/Wikipedia:Wikipedia_sul_tuo_sito" title="Wikipedia:Wikipedia sul tuo sito">
+         Wikipedia sul tuo sito
+        </a>
+        ·
+        <a href="/wiki/Aiuto:Come_citare_Wikipedia" title="Aiuto:Come citare Wikipedia">
+         Citare Wikipedia
+        </a>
+        ·
+        <i>
+         <a href="/wiki/Wikipedia:Ambasciata" title="Wikipedia:Ambasciata">
+          Not Italian? it-0? Click here!
+         </a>
+        </i>
+       </p>
+      </div>
+      <div class="toccolours" id="interProject" style="display: none; clear: both; margin-top: 2em">
+       <p id="sisterProjects" style="background-color: #efefef; font-weight: bold; margin: 0">
+        <span>
+         Altri progetti
+        </span>
+       </p>
+       <ul title="Collegamenti verso gli altri progetti Wikimedia">
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikisource.org/wiki/Pagina_principale" title="s:Pagina principale">
+          Wikisource
+         </a>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikiquote.org/wiki/Pagina_principale" title="q:Pagina principale">
+          Wikiquote
+         </a>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikibooks.org/wiki/Pagina_principale" title="b:Pagina principale">
+          Wikibooks
+         </a>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikiversity.org/wiki/Pagina_principale" title="v:Pagina principale">
+          Wikiversità
+         </a>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikinews.org/wiki/Pagina_principale" title="n:Pagina principale">
+          Wikinotizie
+         </a>
+        </li>
+        <li class="" title="">
+         <span class="plainlinks" title="commons:Main Page">
+          <a class="external text" href="https://commons.wikimedia.org/wiki/Main_Page?uselang=it">
+           Wikimedia Commons
+          </a>
+         </span>
+        </li>
+        <li class="" title="">
+         <span class="plainlinks" title="wikispecies:Main Page">
+          <a class="external text" href="https://species.wikimedia.org/wiki/Main_Page?uselang=it">
+           Wikispecies
+          </a>
+         </span>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://it.wikivoyage.org/wiki/Pagina_principale" title="voy:Pagina principale">
+          Wikivoyage
+         </a>
+        </li>
+        <li class="" title="">
+         <a class="extiw" href="https://www.wikidata.org/wiki/Wikidata:Main_Page" title="wikidata:Wikidata:Main Page">
+          Wikidata
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1436
+Cached time: 20210930022129
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.461 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 1531/1000000
+Post‐expand include size: 102637/2097152 bytes
+Template argument size: 24632/2097152 bytes
+Highest expansion depth: 35/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8588/5000000 bytes
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1772865/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  400.036      1 -total
+ 70.71%  282.884     12 Template:FinestraHome7
+ 35.28%  141.132      1 Template:Pagina_principale/Altre_edizioni_e_progetti
+ 19.80%   79.213      1 Template:Interprogetto
+ 19.73%   78.935      1 Template:Pagina_principale/Lingue
+ 17.03%   68.112     10 Template:Dati_Wikipedie
+ 15.07%   60.279     10 Template:Dati_Wikipedie/dati
+ 14.48%   57.911      1 Template:Pagina_principale/Riconoscimenti_e_ricorrenze
+ 14.37%   57.475      1 Template:Pagina_principale/Progetti
+ 11.80%   47.202      1 Template:Pagina_principale/Dagli_altri_progetti
+-->
+      <!-- Saved in parser cache with key itwiki:pcache:idhash:521472-0!canonical and timestamp 20210930022128 and revision id 122948985. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//it.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Estratto da "
+      <a dir="ltr" href="https://it.wikipedia.org/w/index.php?title=Pagina_principale&amp;oldid=122948985">
+       https://it.wikipedia.org/w/index.php?title=Pagina_principale&amp;oldid=122948985
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Categoria:Categorie" title="Categoria:Categorie">
+       Categoria
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Categoria:Pagina_principale" title="Categoria:Pagina principale">
+         Pagina principale
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menu di navigazione
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Strumenti personali
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        <span>
+         Accesso non effettuato
+        </span>
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Speciale:MieDiscussioni" title="Discussioni sulle modifiche fatte da questo indirizzo IP [n]">
+         <span>
+          discussioni
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Speciale:MieiContributi" title="Un elenco delle modifiche fatte da questo indirizzo IP [y]">
+         <span>
+          contributi
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Speciale:CreaUtenza&amp;returnto=Pagina+principale" title="Si consiglia di registrarsi e di effettuare l'accesso, anche se non è obbligatorio">
+         <span>
+          registrati
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Speciale:Entra&amp;returnto=Pagina+principale" title="Si consiglia di effettuare l'accesso, anche se non è obbligatorio [o]">
+         <span>
+          entra
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Namespace
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Pagina_principale" title="Vedi la voce [c]">
+          <span>
+           Pagina principale
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Discussione:Pagina_principale" rel="discussion" title="Vedi le discussioni relative a questa pagina [t]">
+          <span>
+           Discussione
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Varianti
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Visite
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Pagina_principale">
+          <span>
+           Leggi
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Pagina_principale&amp;action=edit" title="Questa pagina è protetta, ma puoi vedere il suo codice sorgente [e]">
+          <span>
+           Visualizza wikitesto
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Pagina_principale&amp;action=history" title="Versioni precedenti di questa pagina [h]">
+          <span>
+           Cronologia
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Altro
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Ricerca
+        </label>
+       </h3>
+       <form action="/w/index.php" class="vector-search-box-form" id="searchform">
+        <div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Cerca in Wikipedia" title="Cerca in Wikipedia [f]" type="search"/>
+         <input name="title" type="hidden" value="Speciale:Ricerca"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Cerca il testo indicato nelle pagine" type="submit" value="Ricerca"/>
+         <input class="searchButton" id="searchButton" name="go" title="Vai a una pagina con il titolo indicato, se esiste" type="submit" value="Vai"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Pagina_principale" title="Visita la pagina principale">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navigazione
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Pagina_principale" title="Visita la pagina principale [z]">
+         <span>
+          Pagina principale
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Speciale:UltimeModifiche" title="Elenco delle ultime modifiche del sito [r]">
+         <span>
+          Ultime modifiche
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Speciale:PaginaCasuale" title="Mostra una pagina a caso [x]">
+         <span>
+          Una voce a caso
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-mobile-frontend-nearby-title">
+        <a href="/wiki/Speciale:NelleVicinanze">
+         <span>
+          Nelle vicinanze
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-vetrina">
+        <a href="/wiki/Wikipedia:Vetrina">
+         <span>
+          Vetrina
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Aiuto:Aiuto" title="Pagine di aiuto">
+         <span>
+          Aiuto
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Sportello-informazioni">
+        <a href="/wiki/Aiuto:Sportello_informazioni">
+         <span>
+          Sportello informazioni
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Comunità-label" class="mw-portlet mw-portlet-Comunità vector-menu vector-menu-portal portal" id="p-Comunità" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-Comunità-label">
+      <span>
+       Comunità
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Portale:Comunit%C3%A0" title="Descrizione del progetto, cosa puoi fare, dove trovare le cose">
+         <span>
+          Portale Comunità
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-villagepump">
+        <a href="/wiki/Wikipedia:Bar">
+         <span>
+          Bar
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-wikipediano">
+        <a href="/wiki/Wikipedia:Wikipediano">
+         <span>
+          Il Wikipediano
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_it.wikipedia.org&amp;uselang=it" title="Sostienici">
+         <span>
+          Fai una donazione
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contactpage">
+        <a href="/wiki/Wikipedia:Contatti">
+         <span>
+          Contatti
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Strumenti
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Speciale:PuntanoQui/Pagina_principale" title="Elenco di tutte le pagine che sono collegate a questa [j]">
+         <span>
+          Puntano qui
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Speciale:ModificheCorrelate/Pagina_principale" rel="nofollow" title="Elenco delle ultime modifiche alle pagine collegate a questa [k]">
+         <span>
+          Modifiche correlate
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Speciale:PagineSpeciali" title="Elenco di tutte le pagine speciali [q]">
+         <span>
+          Pagine speciali
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Pagina_principale&amp;oldid=122948985" title="Collegamento permanente a questa versione della pagina">
+         <span>
+          Link permanente
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Pagina_principale&amp;action=info" title="Ulteriori informazioni su questa pagina">
+         <span>
+          Informazioni pagina
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Speciale:Cita&amp;page=Pagina_principale&amp;id=122948985&amp;wpFormIdentifier=titleform" title="Informazioni su come citare questa pagina">
+         <span>
+          Cita questa voce
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Collegamento all'elemento connesso dell'archivio dati [g]">
+         <span>
+          Elemento Wikidata
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Stampa/esporta
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Speciale:Libro&amp;bookcmd=book_creator&amp;referer=Pagina+principale">
+         <span>
+          Crea un libro
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Speciale:DownloadAsPdf&amp;page=Pagina_principale&amp;action=show-download-screen">
+         <span>
+          Scarica come PDF
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Pagina_principale&amp;printable=yes" title="Versione stampabile di questa pagina [p]">
+         <span>
+          Versione stampabile
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       In altri progetti
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         <span>
+          Wikimedia Commons
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         <span>
+          MediaWiki
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         <span>
+          Meta-Wiki
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         <span>
+          Multilingual Wikisource
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         <span>
+          Wikispecies
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://it.wikibooks.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikibooks
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         <span>
+          Wikidata
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         <span>
+          Wikimania
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item">
+        <a href="https://it.wikinews.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikinotizie
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://it.wikiquote.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikiquote
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikisource mw-list-item">
+        <a href="https://it.wikisource.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikisource
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiversity mw-list-item">
+        <a href="https://it.wikiversity.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikiversità
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item">
+        <a href="https://it.wikivoyage.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikivoyage
+         </span>
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://it.wiktionary.org/wiki/Pagina_principale" hreflang="it">
+         <span>
+          Wikizionario
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       In altre lingue
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af mw-list-item">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/" hreflang="af" lang="af" title="afrikaans">
+         <span>
+          Afrikaans
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="arabo">
+         <span>
+          العربية
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arz mw-list-item">
+        <a class="interlanguage-link-target" href="https://arz.wikipedia.org/wiki/" hreflang="arz" lang="arz" title="arabo egiziano">
+         <span>
+          مصرى
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast mw-list-item">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/" hreflang="ast" lang="ast" title="asturiano">
+         <span>
+          Asturianu
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-az mw-list-item">
+        <a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/" hreflang="az" lang="az" title="azerbaigiano">
+         <span>
+          Azərbaycanca
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-azb mw-list-item">
+        <a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/" hreflang="azb" lang="azb" title="South Azerbaijani">
+         <span>
+          تۆرکجه
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/" hreflang="be" lang="be" title="bielorusso">
+         <span>
+          Беларуская
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/" hreflang="bg" lang="bg" title="bulgaro">
+         <span>
+          Български
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/" hreflang="bn" lang="bn" title="bengalese">
+         <span>
+          বাংলা
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="catalano">
+         <span>
+          Català
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ce mw-list-item">
+        <a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/" hreflang="ce" lang="ce" title="ceceno">
+         <span>
+          Нохчийн
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/" hreflang="ceb" lang="ceb" title="cebuano">
+         <span>
+          Cebuano
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="ceco">
+         <span>
+          Čeština
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cy mw-list-item">
+        <a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/" hreflang="cy" lang="cy" title="gallese">
+         <span>
+          Cymraeg
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="danese">
+         <span>
+          Dansk
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="tedesco">
+         <span>
+          Deutsch
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="greco">
+         <span>
+          Ελληνικά
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="inglese">
+         <span>
+          English
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="esperanto">
+         <span>
+          Esperanto
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="spagnolo">
+         <span>
+          Español
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="estone">
+         <span>
+          Eesti
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="basco">
+         <span>
+          Euskara
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="persiano">
+         <span>
+          فارسی
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="finlandese">
+         <span>
+          Suomi
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="francese">
+         <span>
+          Français
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/" hreflang="gl" lang="gl" title="galiziano">
+         <span>
+          Galego
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="ebraico">
+         <span>
+          עברית
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi mw-list-item">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/" hreflang="hi" lang="hi" title="hindi">
+         <span>
+          हिन्दी
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="croato">
+         <span>
+          Hrvatski
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/" hreflang="hu" lang="hu" title="ungherese">
+         <span>
+          Magyar
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="armeno">
+         <span>
+          Հայերեն
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/" hreflang="id" lang="id" title="indonesiano">
+         <span>
+          Bahasa Indonesia
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/" hreflang="ja" lang="ja" title="giapponese">
+         <span>
+          日本語
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="georgiano">
+         <span>
+          ქართული
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/" hreflang="kk" lang="kk" title="kazako">
+         <span>
+          Қазақша
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/" hreflang="ko" lang="ko" title="coreano">
+         <span>
+          한국어
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/" hreflang="la" lang="la" title="latino">
+         <span>
+          Latina
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/" hreflang="lt" lang="lt" title="lituano">
+         <span>
+          Lietuvių
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/" hreflang="lv" lang="lv" title="lettone">
+         <span>
+          Latviešu
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-min mw-list-item">
+        <a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/" hreflang="min" lang="min" title="menangkabau">
+         <span>
+          Minangkabau
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mk mw-list-item">
+        <a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/" hreflang="mk" lang="mk" title="macedone">
+         <span>
+          Македонски
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/" hreflang="ms" lang="ms" title="malese">
+         <span>
+          Bahasa Melayu
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-my mw-list-item">
+        <a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/" hreflang="my" lang="my" title="birmano">
+         <span>
+          မြန်မာဘာသာ
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/" hreflang="nl" lang="nl" title="olandese">
+         <span>
+          Nederlands
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="norvegese nynorsk">
+         <span>
+          Norsk nynorsk
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="norvegese bokmål">
+         <span>
+          Norsk bokmål
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="polacco">
+         <span>
+          Polski
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portoghese">
+         <span>
+          Português
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="rumeno">
+         <span>
+          Română
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="russo">
+         <span>
+          Русский
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/" hreflang="sh" lang="sh" title="serbo-croato">
+         <span>
+          Srpskohrvatski / српскохрватски
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/" hreflang="en-simple" lang="en-simple" title="Simple English">
+         <span>
+          Simple English
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/" hreflang="sk" lang="sk" title="slovacco">
+         <span>
+          Slovenčina
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/" hreflang="sl" lang="sl" title="sloveno">
+         <span>
+          Slovenščina
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/" hreflang="sr" lang="sr" title="serbo">
+         <span>
+          Српски / srpski
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="svedese">
+         <span>
+          Svenska
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta mw-list-item">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/" hreflang="ta" lang="ta" title="tamil">
+         <span>
+          தமிழ்
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tg mw-list-item">
+        <a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/" hreflang="tg" lang="tg" title="tagico">
+         <span>
+          Тоҷикӣ
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/" hreflang="th" lang="th" title="thai">
+         <span>
+          ไทย
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="turco">
+         <span>
+          Türkçe
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="tataro">
+         <span>
+          Татарча/tatarça
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/" hreflang="uk" lang="uk" title="ucraino">
+         <span>
+          Українська
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur mw-list-item">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/" hreflang="ur" lang="ur" title="urdu">
+         <span>
+          اردو
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uz mw-list-item">
+        <a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/" hreflang="uz" lang="uz" title="uzbeco">
+         <span>
+          Oʻzbekcha/ўзбекча
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="vietnamita">
+         <span>
+          Tiếng Việt
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vo mw-list-item">
+        <a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/" hreflang="vo" lang="vo" title="volapük">
+         <span>
+          Volapük
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-war mw-list-item">
+        <a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/" hreflang="war" lang="war" title="waray">
+         <span>
+          Winaray
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="cinese">
+         <span>
+          中文
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/" hreflang="nan" lang="nan" title="Chinese (Min Nan)">
+         <span>
+          Bân-lâm-gú
+         </span>
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/" hreflang="yue" lang="yue" title="Cantonese">
+         <span>
+          粵語
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Questa pagina è stata modificata per l'ultima volta l'11 set 2021 alle 20:26.
+    </li>
+    <li id="footer-info-copyright">
+     Il testo è disponibile secondo la
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.it">
+      licenza Creative Commons Attribuzione-Condividi allo stesso modo
+     </a>
+     ; possono applicarsi condizioni ulteriori. Vedi le
+     <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/it">
+      condizioni d'uso
+     </a>
+     per i dettagli.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://meta.wikimedia.org/wiki/Privacy_policy/it" title="m:Privacy policy/it">
+      Informativa sulla privacy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:Sala_stampa/Wikipedia" title="Wikipedia:Sala stampa/Wikipedia">
+      Informazioni su Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:Avvertenze_generali" title="Wikipedia:Avvertenze generali">
+      Avvertenze
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//it.m.wikipedia.org/w/index.php?title=Pagina_principale&amp;mobileaction=toggle_view_mobile">
+      Versione mobile
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Sviluppatori
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/it.wikipedia.org">
+      Statistiche
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Dichiarazione sui cookie
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.461","walltime":"0.611","ppvisitednodes":{"value":1531,"limit":1000000},"postexpandincludesize":{"value":102637,"limit":2097152},"templateargumentsize":{"value":24632,"limit":2097152},"expansiondepth":{"value":35,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8588,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  400.036      1 -total"," 70.71%  282.884     12 Template:FinestraHome7"," 35.28%  141.132      1 Template:Pagina_principale/Altre_edizioni_e_progetti"," 19.80%   79.213      1 Template:Interprogetto"," 19.73%   78.935      1 Template:Pagina_principale/Lingue"," 17.03%   68.112     10 Template:Dati_Wikipedie"," 15.07%   60.279     10 Template:Dati_Wikipedie/dati"," 14.48%   57.911      1 Template:Pagina_principale/Riconoscimenti_e_ricorrenze"," 14.37%   57.475      1 Template:Pagina_principale/Progetti"," 11.80%   47.202      1 Template:Pagina_principale/Dagli_altri_progetti"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1772865,"limit":52428800}},"cachereport":{"origin":"mw1436","timestamp":"20210930022129","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Pagina principale","url":"https:\/\/it.wikipedia.org\/wiki\/Pagina_principale","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributori ai progetti Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-20T20:27:54Z","dateModified":"2021-09-11T18:26:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/Contrapunctus_1_BWV_1080.jpg","headline":"pagina principale di un progetto Wikimedia"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1329"});});
+  </script>
+ </body>
+</html>

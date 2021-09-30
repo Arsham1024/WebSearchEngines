@@ -1,0 +1,1830 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="ku">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wîkîpediya
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","kanûna paşîn","sibat","adar","nîsan","gulan","hezîran","tîrmeh","tebax","îlon","çiriya pêşîn","çiriya paşîn","kanûna pêşîn"],"wgRequestId":"22040c32-2969-45b4-8135-10b7d7541a86","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Destpêk","wgTitle":"Destpêk","wgCurRevisionId":890551,"wgRevisionId":890551,"wgArticleId":18,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Rûpelên bi nexşeyan"],"wgPageContentLanguage":"ku","wgPageContentModel":"wikitext","wgRelevantPageName":"Destpêk","wgRelevantArticleId":18,"wgUserVariant":"ku","wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"ku","pageLanguageDir":"ltr","pageVariantFallbacks":"ku-latn"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"kurdî","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.kartographer.style":"ready","skins.vector.styles.legacy"
+:"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.kartographer.link","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.charinsert","ext.gadget.OpenStreetMap","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=ku&amp;modules=ext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=ku&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=ku&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=ku&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.37.0-wmf.23" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lanzarote_5_Luc_Viatour.jpg/1200px-Lanzarote_5_Luc_Viatour.jpg" property="og:image"/>
+  <meta content="Wîkîpediya" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//ku.m.wikipedia.org/wiki/Destp%C3%AAk" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wîkîpediya (ku)" type="application/opensearchdescription+xml"/>
+  <link href="//ku.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku" hreflang="ku" rel="alternate"/>
+  <link href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku-arab" hreflang="ku-Arab" rel="alternate"/>
+  <link href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku-latn" hreflang="ku-Latn" rel="alternate"/>
+  <link href="/wiki/Destp%C3%AAk" hreflang="x-default" rel="alternate"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://ku.wikipedia.org/wiki/Destp%C3%AAk" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Destpêk rootpage-Destpêk skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Destpêk
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Ji Wîkîpediya, ensîklopediya azad.
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="ku">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r886150">
+       @media(max-width:875px){body .mw-parser-output table,body .mw-parser-output tr,body .mw-parser-output td,body .mw-parser-output th,body .mw-parser-output tbody{display:block!important;width:100%!important;box-sizing:border-box}}
+      </style>
+      <table cellpadding="0" cellspacing="0" style="border:0; clear:both;">
+       <tbody>
+        <tr>
+         <td class="MainPageBG" colspan="3" style="padding:0em 1.5em 0em 1.5em; border:1px solid #B1CDEB; background-color:#E9F3FF;">
+          <div class="destpêk" style="background-color:transparent;">
+           <div class="wîkîlogo" style="display:flex; flex-direction:row; flex-wrap:wrap; align-items:center;">
+            <div style="font-size:107%; flex-grow:2; flex-basis:300px;">
+             <p>
+              <span style="font-size:145%; border:none;">
+               Hûn bi xêr hatin
+               <a href="/wiki/W%C3%AEk%C3%AEpediya" title="Wîkîpediya">
+                Wîkîpediyaya
+               </a>
+               <a class="mw-redirect" href="/wiki/Kurd%C3%AE" title="Kurdî">
+                kurdî
+               </a>
+               ,
+              </span>
+             </p>
+             <p>
+              <a href="/wiki/Ens%C3%AEkloped%C3%AE" title="Ensîklopedî">
+               ensîklopediya
+              </a>
+              azad.
+             </p>
+             <p>
+              Ji meha kanûna paşîn a sala 2004an ve
+              <b>
+               <a href="/wiki/Taybet:Stat%C3%AEst%C3%AEk" title="Taybet:Statîstîk">
+                50.138
+               </a>
+              </b>
+              gotarên bi kurdî hatine nivîsandin.
+             </p>
+            </div>
+            <div style="flex-basis: 350px;">
+             <div style="display:flex; justify-content:space-evenly;">
+              <div>
+               <img alt="P social sciences-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/18px-P_social_sciences-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/27px-P_social_sciences-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/36px-P_social_sciences-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Civak" title="Kategorî:Civak">
+                Civak
+               </a>
+               <br/>
+               <img alt="P art-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/18px-P_art-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/27px-P_art-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/P_art-lightblue.png/36px-P_art-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:%C3%87and" title="Kategorî:Çand">
+                Çand û Huner
+               </a>
+               <br/>
+               <img alt="P religion-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/P_religion-lightblue.png/18px-P_religion-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/P_religion-lightblue.png/27px-P_religion-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/P_religion-lightblue.png/36px-P_religion-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:D%C3%AEn" title="Kategorî:Dîn">
+                Dîn
+               </a>
+               <br/>
+              </div>
+              <div>
+               <img alt="P transport-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_transport-lightblue.png/18px-P_transport-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_transport-lightblue.png/27px-P_transport-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/P_transport-lightblue.png/36px-P_transport-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Teknoloj%C3%AE" title="Kategorî:Teknolojî">
+                Teknolojî
+               </a>
+               <br/>
+               <img alt="P sport-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/P_sport-lightblue.png/18px-P_sport-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/P_sport-lightblue.png/27px-P_sport-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/P_sport-lightblue.png/36px-P_sport-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Werzi%C5%9F" title="Kategorî:Werziş">
+                Werziş
+               </a>
+               <br/>
+               <img alt="P social sciences-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/18px-P_social_sciences-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/27px-P_social_sciences-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/P_social_sciences-lightblue.png/36px-P_social_sciences-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Zanist" title="Kategorî:Zanist">
+                Zanist
+               </a>
+              </div>
+              <div>
+               <img alt="P history-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/P_history-lightblue.png/18px-P_history-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/P_history-lightblue.png/27px-P_history-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/P_history-lightblue.png/36px-P_history-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:D%C3%AErok" title="Kategorî:Dîrok">
+                Dîrok
+               </a>
+               <br/>
+               <img alt="P countries-lightblue.png" data-file-height="68" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_countries-lightblue.png/18px-P_countries-lightblue.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_countries-lightblue.png/27px-P_countries-lightblue.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_countries-lightblue.png/36px-P_countries-lightblue.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Erdn%C3%AEgar%C3%AE" title="Kategorî:Erdnîgarî">
+                Erdnîgarî
+               </a>
+               <br/>
+               <img alt="P music.png" data-file-height="69" data-file-width="77" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/P_music.png/18px-P_music.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/P_music.png/27px-P_music.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/P_music.png/36px-P_music.png 2x" width="18"/>
+               <a href="/wiki/Kategor%C3%AE:Muz%C3%AEk" title="Kategorî:Muzîk">
+                Muzîk
+               </a>
+               <br/>
+              </div>
+             </div>
+            </div>
+            <div style="padding:4px 0px 4px 0px; float:left; margin-left:0px; width:100%; font-size:85%; text-align:left; border-top:2px solid #B1CDEB; color:grey">
+             <b>
+              <a class="mw-redirect" href="/wiki/W%C3%AEk%C3%AEpediya:Al%C3%AEkar%C3%AE" title="Wîkîpediya:Alîkarî">
+               <span style="color:grey">
+                Alîkarî
+               </span>
+              </a>
+             </b>
+             <span style="font-weight:bold;">
+              ·
+             </span>
+             <b>
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:%C3%87apemen%C3%AE" title="Wîkîpediya:Çapemenî">
+               <span style="color:grey">
+                Çapemenî
+               </span>
+              </a>
+             </b>
+             <span style="font-weight:bold;">
+              ·
+             </span>
+             <b>
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:D%C3%AEroka_W%C3%AEk%C3%AEpediyaya_kurd%C3%AE" title="Wîkîpediya:Dîroka Wîkîpediyaya kurdî">
+               <span style="color:grey">
+                Dîroka Wîkîpediyayê
+               </span>
+              </a>
+             </b>
+             <span style="font-weight:bold;">
+              ·
+             </span>
+             <b>
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:P%C3%AAwend%C3%AE" title="Wîkîpediya:Pêwendî">
+               <span style="color:grey">
+                Pêwendî
+               </span>
+              </a>
+             </b>
+             <span style="font-weight:bold;">
+              ·
+             </span>
+             <b>
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:Stat%C3%AEst%C3%AEk" title="Wîkîpediya:Statîstîk">
+               <span style="color:grey">
+                Statîstîk
+               </span>
+              </a>
+             </b>
+             <span style="font-weight:bold;">
+              ·
+             </span>
+             <b>
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:Ziman" title="Wîkîpediya:Ziman">
+               <span style="color:grey">
+                Zimanên din
+               </span>
+              </a>
+             </b>
+             <span style="float: right;">
+              Îro,
+              <a href="/wiki/22%C3%AA_%C3%AElon%C3%AA" title="22ê îlonê">
+               22ê îlona
+              </a>
+              <a href="/wiki/2021" title="2021">
+               2021an
+              </a>
+              e (
+              <a class="mw-redirect" href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">
+               <span style="color:grey">
+                UTC
+               </span>
+              </a>
+              )
+             </span>
+            </div>
+           </div>
+          </div>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="3" style="padding:0.5em">
+         </td>
+        </tr>
+        <tr>
+         <td class="MainPageBG" style="width:50%; border:1px solid #B1CDEB; background-color:#FFFFFF; vertical-align:top;">
+          <table cellspacing="5" style="vertical-align:top; background-color:#FFFFFF;" width="100%">
+           <tbody>
+            <tr>
+             <th class="wîkîlogo" style="border-top-right-radius:50px 40px; -moz-border-radius-topright:50px 40px; -webkit-border-top-right-radius:50px 40px; background-color:#CEDFF2; font-size:100%; border:1px solid #B1CDEB; text-align:left; padding-left:7px;">
+              <span style="text-align:left; position:relative; margin:0;">
+               <span style="position:absolute; left:0px; top:0px; padding-left:0em;">
+                <img alt="Emblem-star.svg" data-file-height="48" data-file-width="48" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/32px-Emblem-star.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/48px-Emblem-star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Emblem-star.svg/64px-Emblem-star.svg.png 2x" width="32"/>
+               </span>
+               <span style="font-size:100%; padding-left:3em; vertical-align:middle; white-space:nowrap;">
+                Nivîsara hefteyê
+               </span>
+              </span>
+              <span style="float:right;">
+               <img alt="Wikibar.png" data-file-height="22" data-file-width="63" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/3/33/Wikibar.png" width="75"/>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td id="mf-gotarahefteye" style="font-size:100%; padding:5px 5px 5px 5px" title="Gotara bijarte">
+              <div class="floatleft">
+               <a class="image" href="/wiki/W%C3%AAne:Taj_Mahal_in_March_2004.jpg" title="Tac Mehel">
+                <img alt="Tac Mehel" data-file-height="1681" data-file-width="2040" decoding="async" height="99" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/120px-Taj_Mahal_in_March_2004.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/180px-Taj_Mahal_in_March_2004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/240px-Taj_Mahal_in_March_2004.jpg 2x" width="120"/>
+               </a>
+              </div>
+              <p>
+               <b>
+                Hindistan
+               </b>
+               (
+               <a href="/wiki/Ziman%C3%AA_hind%C3%AE" title="Zimanê hindî">
+                hindî
+               </a>
+               : भारत गणराज्य Bhārat Gaṇarājya) welatek e li başûrê rojavayê
+               <a href="/wiki/Asya" title="Asya">
+                Asyayê
+               </a>
+               . Hindistan piştî Çînê, ji aliyê gelheya xwe ve duyem mezintirîn welatê cîhanê ye. Ew herwiha duyemîn welat e bi berfirehiya xwe ya zemînî ve. Li başûrê wê
+               <a href="/wiki/Okyan%C3%BBsa_Hind%C3%AE" title="Okyanûsa Hindî">
+                Okyanûsa Hindî
+               </a>
+               , li başûr rojava
+               <a href="/wiki/Deryaya_Ereb%C3%AE" title="Deryaya Erebî">
+                Deryaya Erebî
+               </a>
+               , li başûr rojhilat
+               <a href="/wiki/Kendava_Bengal%C3%AA" title="Kendava Bengalê">
+                Kendava Bengalê
+               </a>
+               , li bakur rojhilat
+               <a class="mw-disambig" href="/wiki/B%C3%BBtan" title="Bûtan">
+                Bûtan
+               </a>
+               ,
+               <a href="/wiki/%C3%87%C3%AEn" title="Çîn">
+                Çîn
+               </a>
+               û
+               <a href="/wiki/Nepal" title="Nepal">
+                Nepal
+               </a>
+               , li rojhilat
+               <a href="/wiki/Banglade%C5%9F" title="Bangladeş">
+                Bangladeş
+               </a>
+               û
+               <a href="/wiki/Myanmar" title="Myanmar">
+                Myanmar
+               </a>
+               hene, herwiha tixûbên wê li rojava bi
+               <a href="/wiki/Pakistan" title="Pakistan">
+                Pakistan
+               </a>
+               re hene.
+              </p>
+              <p>
+               Aboriya Hindistanê di cîhanê de
+               <small>
+                <b>
+                 (
+                 <a href="/wiki/Hindistan" title="Hindistan">
+                  bêhtir...
+                 </a>
+                 )
+                </b>
+               </small>
+              </p>
+              <div style="text-align:right; font-size:0.9em; line-height:1.4em">
+               <a href="/wiki/W%C3%AEk%C3%AEpediya:Gotara_heftey%C3%AA/2011" title="Wîkîpediya:Gotara hefteyê/2011">
+                <b>
+                 Arşîv
+                </b>
+               </a>
+               –
+               <a href="/wiki/%C5%9Eablon:GH/2011/37" title="Şablon:GH/2011/37">
+                <b>
+                 Gotara berê
+                </b>
+               </a>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th class="wîkîlogo" style="border-top-right-radius:50px 40px; -moz-border-radius-topright:50px 40px; -webkit-border-top-right-radius:50px 40px; background-color:#CEDFF2; font-size:100%; border:1px solid #B1CDEB; text-align:left; padding-left:7px;">
+              <span style="text-align:left; position:relative; margin:0;">
+               <span style="position:absolute; left:0px; top:0px; padding-left:0em;">
+                <img alt="Gnome-fs-blockdev.svg" data-file-height="60" data-file-width="60" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gnome-fs-blockdev.svg/32px-Gnome-fs-blockdev.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gnome-fs-blockdev.svg/48px-Gnome-fs-blockdev.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gnome-fs-blockdev.svg/64px-Gnome-fs-blockdev.svg.png 2x" width="32"/>
+               </span>
+               <span style="font-size:100%; padding-left:3em; vertical-align:middle; white-space:nowrap;">
+                Zaravayên kurdî
+               </span>
+              </span>
+              <span style="float:right;">
+               <img alt="Wikibar.png" data-file-height="22" data-file-width="63" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/3/33/Wikibar.png" width="75"/>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td style="font-size:100%; padding:5px 5px 3px 5px">
+              <table style="background-color: #FFFFFF;" width="100%">
+               <tbody>
+                <tr>
+                 <td style="width:45px;">
+                  <div class="floatleft">
+                   <a href="https://ckb.wikipedia.org/wiki/" title="Soranî">
+                    <img alt="Soranî" data-file-height="120" data-file-width="120" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nuvola_apps_kbluebox2.png/40px-Nuvola_apps_kbluebox2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nuvola_apps_kbluebox2.png/60px-Nuvola_apps_kbluebox2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nuvola_apps_kbluebox2.png/80px-Nuvola_apps_kbluebox2.png 2x" width="40"/>
+                   </a>
+                  </div>
+                 </td>
+                 <td>
+                  <div style="font-size:1.2em; padding-bottom:0.2em">
+                   <b>
+                    <a class="mw-redirect" href="/wiki/Kurdiya_navend%C3%AE" title="Kurdiya navendî">
+                     Kurdiya navendî
+                    </a>
+                    <span style="font-weight:bold;">
+                     ·
+                    </span>
+                    soranî
+                   </b>
+                  </div>
+                  <p>
+                   <b>
+                    Be xêr bên bo Wîkîpîdiya!
+                   </b>
+                  </p>
+                  <p>
+                   Wîkîpîdiya însaykllopîdiyayekî azade ke hemû kesêk detiwanêt destkarîy bikat. Witare soranîyekan le mangî 8î 2009ewe le mallperrî ciyawazî kurdîy nawîn û be elfubêy erebî billaw debinewe.
+                  </p>
+                  <p style="text-align:right; font-size:0.9em; line-height:1.4em">
+                   <a class="extiw" href="https://ckb.wikipedia.org/wiki/" title="ckb:">
+                    <span lang="fa" style="font-family:font-family:Tahoma, Droid Arabic Naskh, DejaVu Sans;font-size:1.2em;">
+                     (ویکیپیدیای کوردیی ناوەندی (سۆرانی
+                    </span>
+                   </a>
+                   –
+                   <b>
+                    <a class="mw-redirect" href="/wiki/Kategor%C3%AE:Gotara_bi_kurdiya_navend%C3%AE" title="Kategorî:Gotara bi kurdiya navendî">
+                     Kurdiya navendî (soranî be latînî)
+                    </a>
+                   </b>
+                  </p>
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  <div class="floatleft">
+                   <a href="https://incubator.wikimedia.org/wiki/Wp/sdh/%D8%AF%DB%95%D8%B3%D9%BE%DB%8E%DA%A9" title="Kurdí Xwarig">
+                    <img alt="Kurdí Xwarig" data-file-height="120" data-file-width="120" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Redbox.png/40px-Redbox.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Redbox.png/60px-Redbox.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Redbox.png/80px-Redbox.png 2x" width="40"/>
+                   </a>
+                  </div>
+                 </td>
+                 <td style="border-top: 1px dashed #D2D2E6;">
+                  <h4>
+                   <span id="Kurdiya_ba.C5.9F.C3.BBr.C3.AE_.28kirma.C5.9Fan.C3.AE.2C_kelhur.C3.AE.2C_feyl.C3.AE.2C_.C5.9F.C3.AAxbizin.C3.AE.29">
+                   </span>
+                   <span class="mw-headline" id="Kurdiya_başûrî_(kirmaşanî,_kelhurî,_feylî,_şêxbizinî)">
+                    <a class="mw-redirect" href="/wiki/Kelh%C3%BBr%C3%AE" title="Kelhûrî">
+                     Kurdiya başûrî
+                    </a>
+                    (kirmaşanî, kelhurî, feylî, şêxbizinî)
+                   </span>
+                  </h4>
+                  <p>
+                   <b>
+                    We xêr hatine Wîkîpêdiya!
+                   </b>
+                  </p>
+                  <p>
+                   <a class="mw-redirect" href="/wiki/W%C3%ADk%C3%ADp%C3%A9d%C3%ADya" title="Wíkípédíya">
+                    Wîkîpêdiya
+                   </a>
+                   zanistnameyg azas ke le nawya her kes tiwanêd we zanayî xwey tiya beşdarî biked. Îwenîş fermûne
+                   <a class="mw-redirect" href="/wiki/Al%C3%AEkar%C3%AE:T%C3%AAkeve" title="Alîkarî:Têkeve">
+                    îre
+                   </a>
+                   beşdarî biken.
+                  </p>
+                  <p style="text-align:right; font-size:0.9em; line-height:1.4em">
+                   <b>
+                    <a class="extiw" href="https://incubator.wikimedia.org/wiki/Wp/sdh/%D8%AF%DB%95%D8%B3%D9%BE%DB%8E%DA%A9" title="incubator:Wp/sdh/دەسپێک">
+                     incubator:Wp/sdh/دەسپێک
+                    </a>
+                    –
+                    <a href="/wiki/Kategor%C3%AE:Gotara_bi_kurdiya_ba%C5%9F%C3%BBr" title="Kategorî:Gotara bi kurdiya başûr">
+                     Wetar we zaraway kurdî xwarig
+                    </a>
+                   </b>
+                  </p>
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  <div class="floatleft">
+                   <a href="https://diq.wikipedia.org/wiki/" title="Dimilkî">
+                    <img alt="Dimilkî" data-file-height="120" data-file-width="120" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yellowbox.png/40px-Yellowbox.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yellowbox.png/60px-Yellowbox.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yellowbox.png/80px-Yellowbox.png 2x" width="40"/>
+                   </a>
+                  </div>
+                 </td>
+                 <td style="border-top: 1px dashed #D2D2E6;">
+                  <h4>
+                   <span id="Zazak.C3.AE_.C2.B7_kirmanck.C3.AE_.C2.B7_dimilk.C3.AE_.C2.B7_kirdk.C3.AE">
+                   </span>
+                   <span class="mw-headline" id="Zazakî_·_kirmanckî_·_dimilkî_·_kirdkî">
+                    <a href="/wiki/Zazak%C3%AE" title="Zazakî">
+                     Zazakî
+                    </a>
+                    <span style="font-weight:bold;">
+                     ·
+                    </span>
+                    kirmanckî
+                    <span style="font-weight:bold;">
+                     ·
+                    </span>
+                    dimilkî
+                    <span style="font-weight:bold;">
+                     ·
+                    </span>
+                    kirdkî
+                   </span>
+                  </h4>
+                  <p>
+                   <b>
+                    Şima xêr ameyî!
+                   </b>
+                  </p>
+                  <p>
+                   Îtîya de Wîkîpediya, ensîklopediya verên bi ziwanê kurdkî vecîyena. Ina ensîklopediya azadî her merdim bese keno nuşteyan binuso yan zî bivurno.
+                  </p>
+                  <p style="text-align:right; font-size:0.9em; line-height:1.4em">
+                   <b>
+                    <a class="extiw" href="https://diq.wikipedia.org/wiki/" title="diq:">
+                     Wîkîpediya Zazakîyê cîya zî esta
+                    </a>
+                   </b>
+                   –
+                   <b>
+                    <a href="/wiki/Kategor%C3%AE:Gotara_bi_zazak%C3%AE" title="Kategorî:Gotara bi zazakî">
+                     Şo pela kirmanckî
+                    </a>
+                   </b>
+                  </p>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+         <td style="padding:0.5em">
+         </td>
+         <td class="MainPageBG" style="width:50%; border:1px solid #B1CDEB; background-color:#FFFFFF; vertical-align:top;">
+          <table cellspacing="5" style="vertical-align:top; background-color:#FFFFFF;" width="100%">
+           <tbody>
+            <tr>
+             <th class="wîkîlogo" style="border-top-right-radius:50px 40px; -moz-border-radius-topright:50px 40px; -webkit-border-top-right-radius:50px 40px; background-color:#CEDFF2; font-size:100%; border:1px solid #B1CDEB; text-align:left; padding-left:7px;">
+              <span style="text-align:left; position:relative; margin:0;">
+               <span style="position:absolute; left:0px; top:0px; padding-left:0em;">
+                <img alt="Wikipedia-logo-v2.svg" data-file-height="94" data-file-width="103" decoding="async" height="29" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/32px-Wikipedia-logo-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/48px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/64px-Wikipedia-logo-v2.svg.png 2x" width="32"/>
+               </span>
+               <span style="font-size:100%; padding-left:3em; vertical-align:middle; white-space:nowrap;">
+                Danasîn
+               </span>
+              </span>
+              <span style="float:right;">
+               <img alt="Wikibar.png" data-file-height="22" data-file-width="63" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/3/33/Wikibar.png" width="75"/>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td style="font-size:100%; padding:5px 5px 5px 5px">
+              <a href="/wiki/W%C3%AEk%C3%AEpediya" title="Wîkîpediya">
+               Wîkîpediya
+              </a>
+              , ensîklopediyeke azad a bi zimanê
+              <a class="mw-redirect" href="/wiki/Kurd%C3%AE" title="Kurdî">
+               kurdî
+              </a>
+              ye. Ev projeya navneteweyî, derfeteke girîng a ji bo pêşdexistina zimanan e. Mirovên ku dixwazin zimanê kurdî pêşde biçe, dikarin di Wîkîpediyayê de alîkariya zimanê me bikin. Hûn jî dikarin
+              <a href="/wiki/Al%C3%AEkar%C3%AE:T%C3%AAketin" title="Alîkarî:Têketin">
+               li vir
+              </a>
+              tevlî me bibin. Keremkin bi beşên
+              <a class="mw-redirect" href="/wiki/W%C3%AEk%C3%AEpediya:Al%C3%AEkar%C3%AE" title="Wîkîpediya:Alîkarî">
+               alîkarî
+              </a>
+              û
+              <a class="mw-redirect" href="/wiki/W%C3%AEk%C3%AEpediya:5H" title="Wîkîpediya:5H">
+               pênc hîmên sereke
+              </a>
+              yên wîkîpediyayê fêr bibin ka
+              <a href="/wiki/W%C3%AEk%C3%AEpediya:Gotar" title="Wîkîpediya:Gotar">
+               gotar
+              </a>
+              çawa têne nivîsandin.
+              <div align="center" id="mp_signup_button" style="margin-top:20px;">
+               <p>
+                <span class="plainlinks">
+                 <a class="external text" href="https://ku.wikipedia.org/wiki/Taybet:Login/signup">
+                  <span class="mw-ui-button mw-ui-progressive" role="button">
+                   <span class="mw-ui-text">
+                    Hesabê nû çêke
+                   </span>
+                  </span>
+                 </a>
+                </span>
+                <br/>
+               </p>
+               <small>
+                Hesabekî te heye?
+                <b>
+                 <a href="/wiki/Taybet:UserLogin" title="Taybet:UserLogin">
+                  Têkeve
+                 </a>
+                </b>
+                .
+               </small>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th class="wîkîlogo" style="border-top-right-radius:50px 40px; -moz-border-radius-topright:50px 40px; -webkit-border-top-right-radius:50px 40px; background-color:#CEDFF2; font-size:100%; border:1px solid #B1CDEB; text-align:left; padding-left:7px;">
+              <span style="text-align:left; position:relative; margin:0;">
+               <span style="position:absolute; left:0px; top:0px; padding-left:0em;">
+                <img alt="Gnome-web-calendar.svg" data-file-height="48" data-file-width="48" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gnome-web-calendar.svg/32px-Gnome-web-calendar.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gnome-web-calendar.svg/48px-Gnome-web-calendar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gnome-web-calendar.svg/64px-Gnome-web-calendar.svg.png 2x" width="32"/>
+               </span>
+               <span style="font-size:100%; padding-left:3em; vertical-align:middle; white-space:nowrap;">
+                Di dîrokê de îro…
+               </span>
+              </span>
+              <span style="float:right;">
+               <img alt="Wikibar.png" data-file-height="22" data-file-width="63" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/3/33/Wikibar.png" width="75"/>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td id="mf-salname" style="font-size:100%; padding:5px 5px 5px 5px" title="Di dîrokê de îro…">
+              <p>
+               <b>
+                Bûyer
+               </b>
+              </p>
+              <div style="float:right;margin-left:0.5em">
+               <p>
+                <a class="image" href="/wiki/W%C3%AAne:Segolene_Royal_Arcueil_18_septembre_2010_6.jpg" title="Ségolène Royal">
+                 <img alt="Ségolène Royal" data-file-height="643" data-file-width="442" decoding="async" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Segolene_Royal_Arcueil_18_septembre_2010_6.jpg/90px-Segolene_Royal_Arcueil_18_septembre_2010_6.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Segolene_Royal_Arcueil_18_septembre_2010_6.jpg/135px-Segolene_Royal_Arcueil_18_septembre_2010_6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Segolene_Royal_Arcueil_18_septembre_2010_6.jpg/180px-Segolene_Royal_Arcueil_18_septembre_2010_6.jpg 2x" width="90"/>
+                </a>
+               </p>
+              </div>
+              <ul>
+               <li>
+                <a class="new" href="/w/index.php?title=1792&amp;action=edit&amp;redlink=1" title="1792 (rûpel hê tune)">
+                 1792
+                </a>
+                – Li
+                <a href="/wiki/Fransa" title="Fransa">
+                 Fransayê
+                </a>
+                komar hate îlankirin.
+               </li>
+               <li>
+                <a href="/wiki/1908" title="1908">
+                 1908
+                </a>
+                –
+                <a href="/wiki/Bulgaristan" title="Bulgaristan">
+                 Bulgaristan
+                </a>
+                serxwebûna xwe ya
+                <a href="/wiki/%C3%8Emperatoriya_Osman%C3%AE" title="Împeratoriya Osmanî">
+                 osmaniyan
+                </a>
+                ragihand.
+               </li>
+               <li>
+                <a href="/wiki/1957" title="1957">
+                 1957
+                </a>
+                – Li
+                <a href="/wiki/Ha%C3%AEt%C3%AE" title="Haîtî">
+                 Haîtiyê
+                </a>
+                François Duvalier wek serok hate hilbijartin.
+               </li>
+               <li>
+                <a href="/wiki/1960" title="1960">
+                 1960
+                </a>
+                –
+                <a href="/wiki/Mal%C3%AE" title="Malî">
+                 Komara Sûdanê
+                </a>
+                piştî ku
+                <a href="/wiki/Senegal" title="Senegal">
+                 Senegal
+                </a>
+                ji Federasyona Maliyê vekişiya navê xwe wek
+                <a href="/wiki/Mal%C3%AE" title="Malî">
+                 Malî
+                </a>
+                guherand.
+               </li>
+               <li>
+                <a href="/wiki/1965" title="1965">
+                 1965
+                </a>
+                – Piştî banga agirsbestê a
+                <a class="mw-disambig" href="/wiki/NY" title="NY">
+                 NYyê
+                </a>
+                Şerê Hind-Pakistanî a 1965an (wekî Herba Keşmîrê a Suyem jî tê zanîn) a di navbera
+                <a href="/wiki/Hindistan" title="Hindistan">
+                 Hindistan
+                </a>
+                û
+                <a href="/wiki/Pakistan" title="Pakistan">
+                 Pakistanê
+                </a>
+                de bi dawî bû.
+               </li>
+               <li>
+                <a href="/wiki/1975" title="1975">
+                 1975
+                </a>
+                – Sara Jane Moore hewl da ku serokê
+                <a class="mw-disambig" href="/wiki/Amer%C3%AEka" title="Amerîka">
+                 Amerîkayê
+                </a>
+                <a href="/wiki/Gerald_Ford" title="Gerald Ford">
+                 Gerald Ford
+                </a>
+                bikuje, lê ji alî Oliver Sipple ve hate astengkirin.
+               </li>
+               <li>
+                <a href="/wiki/1980" title="1980">
+                 1980
+                </a>
+                –
+                <a href="/wiki/Iraq" title="Iraq">
+                 Iraq
+                </a>
+                ,
+                <a href="/wiki/%C3%8Eran" title="Îran">
+                 Îranê
+                </a>
+                îşgal kir.
+               </li>
+              </ul>
+              <p>
+               <b>
+                Jidayîkbûn
+               </b>
+              </p>
+              <ul>
+               <li>
+                <a class="new" href="/w/index.php?title=1211&amp;action=edit&amp;redlink=1" title="1211 (rûpel hê tune)">
+                 1211
+                </a>
+                –
+                <a href="/wiki/%C3%8Ebn_Xelikan" title="Îbn Xelikan">
+                 Îbn Xelikan
+                </a>
+                , nivîskar, dîrokzan û alimê
+                <a href="/wiki/Kurd" title="Kurd">
+                 kurd
+                </a>
+               </li>
+               <li>
+                <a class="new" href="/w/index.php?title=1791&amp;action=edit&amp;redlink=1" title="1791 (rûpel hê tune)">
+                 1791
+                </a>
+                –
+                <a href="/wiki/Michael_Faraday" title="Michael Faraday">
+                 Michael Faraday
+                </a>
+                , kîmyager û fizîkzanê îngilîz
+               </li>
+               <li>
+                <a href="/wiki/1922" title="1922">
+                 1922
+                </a>
+                –
+                <a href="/wiki/Chen-Ning_Yang" title="Chen-Ning Yang">
+                 Chen-Ning Yang
+                </a>
+                , fîzîknasê çînî-amerîkî, xwediyê
+                <a href="/wiki/Xelata_Nobel%C3%AA" title="Xelata Nobelê">
+                 Xelata Nobelê
+                </a>
+               </li>
+               <li>
+                <a href="/wiki/1953" title="1953">
+                 1953
+                </a>
+                –
+                <a href="/wiki/S%C3%A9gol%C3%A8ne_Royal" title="Ségolène Royal">
+                 Ségolène Royal
+                </a>
+                , siyasetmedara fransî
+               </li>
+               <li>
+                <a href="/wiki/1958" title="1958">
+                 1958
+                </a>
+                –
+                <a href="/wiki/Andrea_Bocelli" title="Andrea Bocelli">
+                 Andrea Bocelli
+                </a>
+                , tenorê îtalî
+               </li>
+              </ul>
+              <p>
+               <b>
+                Mirin
+               </b>
+              </p>
+              <ul>
+               <li>
+                <a class="new" href="/w/index.php?title=1828&amp;action=edit&amp;redlink=1" title="1828 (rûpel hê tune)">
+                 1828
+                </a>
+                –
+                <a href="/wiki/Shaka_Zulu" title="Shaka Zulu">
+                 Shaka Zulu
+                </a>
+                , pêşengê zuluyan
+               </li>
+              </ul>
+              <div class="noprint" style="text-align:right; font-size:0.9em; line-height:1.4em">
+               <b>
+                <a href="/wiki/W%C3%AEk%C3%AEpediya:Di_d%C3%AErok%C3%AA_de_%C3%AEro/%C3%8Elon" title="Wîkîpediya:Di dîrokê de îro/Îlon">
+                 Arşîv
+                </a>
+               </b>
+               –
+               <b>
+                <a href="/wiki/22%C3%AA_%C3%AElon%C3%AA" title="22ê îlonê">
+                 Bêhtir…
+                </a>
+               </b>
+              </div>
+              <div style="text-align: right;">
+               <small>
+                Îro, 22ê îlona 2021an e (
+                <a class="mw-redirect" href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">
+                 UTC
+                </a>
+                ) –
+                <span class="plainlinks" id="purgelink">
+                 <a class="external text" href="https://ku.wikipedia.org/w/index.php?title=Destp%C3%AAk&amp;action=purge">
+                  nûkirin
+                 </a>
+                </span>
+               </small>
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <th class="wîkîlogo" style="border-top-right-radius:50px 40px; -moz-border-radius-topright:50px 40px; -webkit-border-top-right-radius:50px 40px; background-color:#CEDFF2; font-size:100%; border:1px solid #B1CDEB; text-align:left; padding-left:7px;">
+              <span style="text-align:left; position:relative; margin:0;">
+               <span style="position:absolute; left:0px; top:0px; padding-left:0em;">
+                <img alt="38254-new folder-13.svg" data-file-height="128" data-file-width="128" decoding="async" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/38254-new_folder-13.svg/32px-38254-new_folder-13.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/38254-new_folder-13.svg/48px-38254-new_folder-13.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/38254-new_folder-13.svg/64px-38254-new_folder-13.svg.png 2x" width="32"/>
+               </span>
+               <span style="font-size:100%; padding-left:3em; vertical-align:middle; white-space:nowrap;">
+                Wêneyê hefteyê
+               </span>
+              </span>
+              <span style="float:right;">
+               <img alt="Wikibar.png" data-file-height="22" data-file-width="63" decoding="async" height="26" src="//upload.wikimedia.org/wikipedia/commons/3/33/Wikibar.png" width="75"/>
+              </span>
+             </th>
+            </tr>
+            <tr>
+             <td id="mf-Wêneyehefteye" style="padding-top:0.8em;" title="Wêneyê hefteyê">
+              <table style="width:100%; text-align:center; background-color:transparent; border-collapse: collapse;">
+               <tbody>
+                <tr>
+                 <td style="padding:0 0 0 0;">
+                  <div class="center">
+                   <div class="floatnone">
+                    <a class="image" href="/wiki/W%C3%AAne:Lanzarote_5_Luc_Viatour.jpg" title="Sîtavk">
+                     <img alt="Sîtavk" data-file-height="2836" data-file-width="4272" decoding="async" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lanzarote_5_Luc_Viatour.jpg/320px-Lanzarote_5_Luc_Viatour.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lanzarote_5_Luc_Viatour.jpg/480px-Lanzarote_5_Luc_Viatour.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lanzarote_5_Luc_Viatour.jpg/640px-Lanzarote_5_Luc_Viatour.jpg 2x" width="320"/>
+                    </a>
+                   </div>
+                  </div>
+                  <div style="padding: 0.4em 0 0.1em 0">
+                   Sîtavka derbasgehekê ya li ser avê.
+                   <br/>
+                   <small>
+                    Wênesaz:
+                    <a class="extiw" href="https://commons.wikimedia.org/wiki/User:Lviatour" title="commons:User:Lviatour">
+                     Lviatour
+                    </a>
+                   </small>
+                  </div>
+                  <p>
+                   <a class="mw-kartographer-maplink" data-lat="29.160467" data-lon="-13.439264" data-mw="interface" data-overlays='["_63644d9801869dbe2f98b7fbcecd9b969b698520"]' data-style="osm-intl" data-zoom="7" href="/wiki/Taybet:Map/7/29.160467/-13.439264/ku">
+                    Li ser nexşeyê binêre
+                   </a>
+                  </p>
+                  <div style="text-align:right; font-size:0.9em; line-height:1.4em">
+                   <a class="new" href="/w/index.php?title=W%C3%AEk%C3%AEpediya:W%C3%AAney%C3%AA_heftey%C3%AA/2021&amp;action=edit&amp;redlink=1" title="Wîkîpediya:Wêneyê hefteyê/2021 (rûpel hê tune)">
+                    <b>
+                     Arşîv
+                    </b>
+                   </a>
+                   –
+                   <a href="/wiki/%C5%9Eablon:WH/2018/1" title="Şablon:WH/2018/1">
+                    <b>
+                     Wêneyê berê
+                    </b>
+                   </a>
+                   <br/>
+                   <a class="extiw" href="https://commons.wikimedia.org/wiki/Picture_of_the_day" title="commons:Picture of the day">
+                    Wêneyê rojê ji Commonsê
+                   </a>
+                  </div>
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="3" style="padding:0.5em">
+         </td>
+        </tr>
+        <tr>
+         <td class="MainPageBG" colspan="3" style="border:1px solid #ccc; background-color:#FAFAFF;">
+          <table cellspacing="3" class="plainlinks" style="vertical-align:top; background-color:transparent;" width="100%">
+           <tbody>
+            <tr>
+             <th class="wîkîlogo" style="background-color:#E0E0E0; font-size:100%; text-align:center;">
+              Malbata Wîkîmedyayê
+             </th>
+            </tr>
+            <tr>
+             <td>
+              <table align="center" cellpadding="2" style="color:#777; background:transparent;" width="90%">
+               <tbody>
+                <tr valign="top">
+                 <td>
+                  <a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki">
+                   <img alt="Meta-Wiki" data-file-height="900" data-file-width="900" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/20px-Wikimedia_Community_Logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://meta.wikimedia.org/wiki/" title="m:">
+                   <b>
+                    Meta-Wîkî
+                   </b>
+                  </a>
+                  – Koordînasyon
+                 </td>
+                 <td>
+                  <a href="https://commons.wikimedia.org/wiki/?uselang=ku-latn" title="Commons">
+                   <img alt="Commons" data-file-height="41" data-file-width="31" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commons-logo-31px.png/18px-Commons-logo-31px.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Commons-logo-31px.png/27px-Commons-logo-31px.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9d/Commons-logo-31px.png 2x" width="18"/>
+                  </a>
+                  <a class="external text" href="https://commons.wikimedia.org/wiki/?uselang=ku-latn">
+                   <b>
+                    Commons
+                   </b>
+                  </a>
+                  – Wêne û medyayên din
+                 </td>
+                 <td>
+                  <a href="https://ku.wiktionary.org/wiki/" title="Wîkîferheng">
+                   <img alt="Wîkîferheng" data-file-height="155" data-file-width="135" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wiktionary-logo-ku.png/20px-Wiktionary-logo-ku.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wiktionary-logo-ku.png/30px-Wiktionary-logo-ku.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wiktionary-logo-ku.png/40px-Wiktionary-logo-ku.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://ku.wiktionary.org/wiki/" title="wikt:">
+                   <b>
+                    Wîkîferheng
+                   </b>
+                  </a>
+                  – Ferheng
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  <a href="https://ku.wikibooks.org/wiki/" title="Wîkîpirtûk">
+                   <img alt="Wîkîpirtûk" data-file-height="300" data-file-width="300" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/20px-Wikibooks-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://ku.wikibooks.org/wiki/" title="b:">
+                   <b>
+                    Wîkîpirtûk
+                   </b>
+                  </a>
+                  – Pirtûk ji bo zanînê
+                 </td>
+                 <td>
+                  <a href="https://wikisource.org/wiki/Main_Page/Kurd%C3%AE" title="Wîkîçavkanî">
+                   <img alt="Wîkîçavkanî" data-file-height="430" data-file-width="410" decoding="async" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/20px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://wikisource.org/wiki/Main_Page/Kurd%C3%AE" title="oldwikisource:Main Page/Kurdî">
+                   <b>
+                    Wîkîçavkanî
+                   </b>
+                  </a>
+                  – Çavkaniya azad
+                 </td>
+                 <td>
+                  <a href="https://ku.wikiquote.org/wiki/" title="Wîkîgotin">
+                   <img alt="Wîkîgotin" data-file-height="355" data-file-width="300" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://ku.wikiquote.org/wiki/" title="q:">
+                   <b>
+                    Wîkîgotin
+                   </b>
+                  </a>
+                  – Gotinên kesan
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  <a href="https://species.wikimedia.org/wiki/" title="Wîkîcure">
+                   <img alt="Wîkîcure" data-file-height="1103" data-file-width="941" decoding="async" height="23" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/30px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://species.wikimedia.org/wiki/" title="species:">
+                   <b>
+                    Wîkîcure
+                   </b>
+                  </a>
+                  – Rêbernameya cureyan
+                 </td>
+                 <td>
+                  <a href="https://ku.wikinews.org/wiki/W%C3%AEk%C3%AEn%C3%BB%C3%A7e" title="Wîkînûçe">
+                   <img alt="Wîkînûçe" data-file-height="415" data-file-width="759" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/20px-Wikinews-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/30px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="extiw" href="https://ku.wikinews.org/wiki/W%C3%AEk%C3%AEn%C3%BB%C3%A7e" title="n:Wîkînûçe">
+                   <b>
+                    Wîkînûçe
+                   </b>
+                  </a>
+                  – Nûçe
+                 </td>
+                 <td>
+                  <a href="//www.wikiversity.org" title="Wîkîversîte">
+                   <img alt="Wîkîversîte" data-file-height="800" data-file-width="1000" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/20px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="external text" href="https://www.wikiversity.org">
+                   <b>
+                    Wîkîversîte
+                   </b>
+                  </a>
+                  – Platforma fêrbûnê
+                 </td>
+                </tr>
+                <tr>
+                 <td>
+                  <a href="https://www.wikidata.org/wiki/Wikidata:Destp%C3%AAk?uselang=ku-latn" title="Wîkîdane">
+                   <img alt="Wîkîdane" data-file-height="744" data-file-width="1052" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/20px-Wikidata-logo-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/30px-Wikidata-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wikidata-logo-en.svg/40px-Wikidata-logo-en.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="external text" href="https://www.wikidata.org/wiki/Wikidata:Destp%C3%AAk?uselang=ku-latn">
+                   <b>
+                    Wîkîdane
+                   </b>
+                  </a>
+                  – Bingeha zanîna azad
+                 </td>
+                 <td>
+                  <a href="//www.Wikivoyage.org" rel="nofollow" title="Wikivoyage">
+                   <img alt="Wikivoyage" data-file-height="193" data-file-width="193" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/20px-Wikivoyage-Logo-v3-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/30px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="external text" href="//www.Wikivoyage.org" rel="nofollow">
+                   <b>
+                    Wîkîgeşt
+                   </b>
+                  </a>
+                  – Rêbernameya geşt û guzarê
+                 </td>
+                 <td>
+                  <a href="//www.mediawiki.org?uselang=ku-latn" title="MediaWiki">
+                   <img alt="MediaWiki" data-file-height="100" data-file-width="100" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/20px-MediaWiki-2020-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/30px-MediaWiki-2020-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/40px-MediaWiki-2020-icon.svg.png 2x" width="20"/>
+                  </a>
+                  <a class="external text" href="https://www.mediawiki.org?uselang=ku-latn">
+                   <b>
+                    MedyaWîkî
+                   </b>
+                  </a>
+                  – Nermamrazên azad
+                 </td>
+                </tr>
+               </tbody>
+              </table>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="3" style="padding:0.5em">
+         </td>
+        </tr>
+        <tr>
+         <td class="MainPageBG" colspan="3" style="font-size:100%; background-color:#E9F3FF; border:1px solid #B1CDEB;">
+          <div class="center">
+           <img alt="Mail-reply-all.svg" data-file-height="48" data-file-width="48" decoding="async" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mail-reply-all.svg/30px-Mail-reply-all.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mail-reply-all.svg/45px-Mail-reply-all.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mail-reply-all.svg/60px-Mail-reply-all.svg.png 2x" width="30"/>
+           <a href="/wiki/W%C3%AEk%C3%AEpediya:R%C3%AAveber" title="Wîkîpediya:Rêveber">
+            Rêveberî
+           </a>
+           —
+           <a href="/wiki/W%C3%AEk%C3%AEpediya:D%C3%AEwan" title="Wîkîpediya:Dîwan">
+            Dîwan
+           </a>
+           —
+           <a href="/wiki/W%C3%AEk%C3%AEpediya:Kurd%C3%AEgeh" title="Wîkîpediya:Kurdîgeh">
+            Kurdîgeh
+           </a>
+           —
+           <a href="/wiki/W%C3%AEk%C3%AEpediya:%C5%9E%C3%AAwaz" title="Wîkîpediya:Şêwaz">
+            Şêwaz
+           </a>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <!-- 
+NewPP limit report
+Parsed by mw1309
+Cached time: 20210922015656
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.239 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 415/1000000
+Post‐expand include size: 17735/2097152 bytes
+Template argument size: 92/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 614/5000000 bytes
+Lua time usage: 0.007/10.000 seconds
+Lua memory usage: 700535/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  127.178      1 -total
+ 40.05%   50.937      1 Wîkîpediya:Di_dîrokê_de_îro/22ê_îlonê
+ 37.36%   47.510      1 Wîkîpediya:Di_dîrokê_de_îro/binnivîs
+ 33.79%   42.977      1 Şablon:Paşgir
+ 31.43%   39.972      1 Şablon:Str_rightc
+ 29.15%   37.072      1 Şablon:Str_sub_long
+ 17.91%   22.778      1 Şablon:WH-Dp/Pêvek
+ 14.74%   18.741      1 Şablon:WH-Dp/2018/2
+  9.59%   12.191      1 Wîkîpediya:Destpêk/Ser
+  8.65%   11.001      1 Şablon:Max
+-->
+      <!-- Saved in parser cache with key kuwiki:pcache:idhash:18-0!canonical!ku and timestamp 20210922015656 and revision id 890551. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//ku.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Ji "
+      <a dir="ltr" href="https://ku.wikipedia.org/w/index.php?title=Destpêk&amp;oldid=890551">
+       https://ku.wikipedia.org/w/index.php?title=Destpêk&amp;oldid=890551
+      </a>
+      " hatiye standin.
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Kategoriya veşartî:
+      <ul>
+       <li>
+        <a href="/wiki/Kategor%C3%AE:R%C3%BBpel%C3%AAn_bi_nex%C5%9Feyan" title="Kategorî:Rûpelên bi nexşeyan">
+         Rûpelên bi nexşeyan
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menûya navîgasyonê
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Amûrên kesane
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Têneketî
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Taybet:MyTalk" title="Discussion about edits from this IP address [n]">
+         Gotûbêj
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Taybet:MyContributions" title="Lîsteyeke guhartinên ji vê IP adresê [y]">
+         Beşdariyên min
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Taybet:CreateAccount&amp;returnto=Destp%C3%AAk" title="Em pêşniyar dikin ku tu ji xwe re hesabek çêbikî û bi wê hesabê têkevî, lêbelê ev ne mecbûrî ye.">
+         Hesabekî çêke
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Taybet:UserLogin&amp;returnto=Destp%C3%AAk" title="Têketina we dê baş be; lê belê, lê pêwîstî tune ye. [o]">
+         Têkeve
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Valahiya nav
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Destp%C3%AAk" title="Li rûpela naverokê binêre [c]">
+          Destpêk
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Got%C3%BBb%C3%AAj:Destp%C3%AAk" rel="discussion" title="Gotûbêj li ser rûpela naverokê [t]">
+          Gotûbêj
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Kurdî/کوردی
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-varlang-0">
+         <a href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku" hreflang="ku" lang="ku">
+          Kurdî/کوردی
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-1">
+         <a href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku-arab" hreflang="ku-Arab" lang="ku-Arab">
+          Tîpên erebî
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-varlang-2">
+         <a href="/w/index.php?title=Destp%C3%AAk&amp;variant=ku-latn" hreflang="ku-Latn" lang="ku-Latn">
+          Tîpên latînî
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span>
+        Dîtin
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Destp%C3%AAk">
+          Bixwîne
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-viewsource">
+         <a accesskey="e" href="/w/index.php?title=Destp%C3%AAk&amp;action=edit" title="Ev rûpel tê parastin.
+Tu dikarî tenê li çavkaniyê binêrî. [e]">
+          Çavkaniyê bibîne
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Destp%C3%AAk&amp;action=history" title="Guhertoyên berê yên vê rûpelê [h]">
+          Dîrokê bibîne
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        Bêhtir
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Lêgerîn
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Li ser Wîkîpediya bigere" title="Li Wîkîpediya bigere [f]" type="search"/>
+         <input name="title" type="hidden" value="Taybet:Lêgerîn"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Di nav rûpelan de li vê nivîsê bigere" type="submit" value="Lêgerîn"/>
+         <input class="searchButton" id="searchButton" name="go" title="Here rûpeleke tev bi vî navî, heke hebe" type="submit" value="Here"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Destp%C3%AAk" title="Here Destpêkê">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navîgasyon
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Destp%C3%AAk" title="Here Destpêkê [z]">
+         Destpêk · Sereta
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Portal:B%C3%BByer%C3%AAn_rojane" title="Der barê bûyerên dawî de agahiyên nûjen bibîne">
+         Bûyerên rojane
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Taybet:R%C3%BBpela_tesaduf%C3%AE" title="Rûpeleke ketober bar bike [x]">
+         Rûpeleke ketober
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-Beşdarî-label" class="mw-portlet mw-portlet-Beşdarî vector-menu vector-menu-portal portal" id="p-Beşdarî" role="navigation">
+     <h3 class="vector-menu-heading" id="p-Beşdarî-label">
+      <span>
+       Beşdarî
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/W%C3%AEk%C3%AEpediya:Portala_kom%C3%AA" title="Agahdarî li ser projeyê, tu dikarî çi bikî, tu dikarî tiştan li ku bibînî">
+         Portala komê
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Dîwana-Wîkîpediyayê">
+        <a href="/wiki/W%C3%AEk%C3%AEpediya:D%C3%AEwan">
+         Dîwana Wîkîpediyayê
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Taybet:Guhertin%C3%AAn_daw%C3%AE" title="Lîsteya guhartinên dawî di vê wîkiyê de [r]">
+         Guhartinên dawî
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ku.wikipedia.org&amp;uselang=ku" title="Piştgiriyê bide me">
+         Bexş bike
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/W%C3%AEk%C3%AEpediya:Al%C3%AEkar%C3%AE" title="Bersivên ji bo pirsên te.">
+         Alîkarî
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Qutiya amûran
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Taybet:Gir%C3%AAdan%C3%AAn_li_ser_vir/Destp%C3%AAk" title="Lîsteya hemû rûpelên ku pê ve girêdayî ne [j]">
+         Girêdanên li ser vê rûpelê
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Taybet:RecentChangesLinked/Destp%C3%AAk" rel="nofollow" title="Guhartinên dawî di rûpelên ku ji vê rûpelê ve hatine girêdan de [k]">
+         Guhartinên têkildar
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ku" title="Dosyeyan bar bike [u]">
+         Wêneyekî bar bike
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Taybet:SpecialPages" title="Lîsteya hemû rûpelên taybetî [q]">
+         Rûpelên taybet
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Destp%C3%AAk&amp;oldid=890551" title="Girêdanka daîmî yê ji bo vê revizyona rûpelê">
+         Girêdana daîmî
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Destp%C3%AAk&amp;action=info" title="Bêhtir agahî di derbarê vê rûpelê de">
+         Agahiyên rûpelê
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Taybet:CiteThisPage&amp;page=Destp%C3%AAk&amp;id=890551&amp;wpFormIdentifier=titleform" title="Agahdariya li ser qalkirina rûpelê">
+         Qalkirina rûpelê bibîne
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Girêdana ji hêmana eleqedar yê di embara daneyan de re [g]">
+         Hêmana Wîkîdane
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" id="p-electronpdfservice-sidebar-portlet-heading" role="navigation">
+     <h3 class="vector-menu-heading" id="p-electronpdfservice-sidebar-portlet-heading-label">
+      <span>
+       Çap bike/derxîne
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="electron-print_pdf">
+        <a href="/w/index.php?title=Taybet:DownloadAsPdf&amp;page=Destp%C3%AAk&amp;action=show-download-screen">
+         Wek PDF daxe
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="javascript:print();" rel="alternate" title="Guhertoya çapkirinê ya vê rûpelê [p]">
+         Guhertoya çapkirinê
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       Di projeyên din de
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-mediawiki mw-list-item">
+        <a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">
+         MediaWiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-meta mw-list-item">
+        <a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Meta-Wiki
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item">
+        <a href="https://wikisource.org/wiki/Main_Page" hreflang="en">
+         Multilingual Wikisource
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-species mw-list-item">
+        <a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">
+         Wikispecies
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item">
+        <a href="https://ku.wikibooks.org/wiki/Destp%C3%AAk" hreflang="ku">
+         Wîkîpirtûk
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikidata mw-list-item">
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">
+         Wîkîdane
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikimania mw-list-item">
+        <a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">
+         Wikimania
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://ku.wikiquote.org/wiki/Destp%C3%AAk" hreflang="ku">
+         Wîkîgotin
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wiktionary mw-list-item">
+        <a href="https://ku.wiktionary.org/wiki/Destp%C3%AAk" hreflang="ku">
+         Wîkîferheng
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Bi zimanên din
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/" hreflang="ar" lang="ar" title="erebî">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-arc mw-list-item">
+        <a class="interlanguage-link-target" href="https://arc.wikipedia.org/wiki/" hreflang="arc" lang="arc" title="Aramaic">
+         ܐܪܡܝܐ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/" hreflang="ca" lang="ca" title="katalanî">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ceb.wikipedia.org/wiki/" hreflang="ceb" lang="ceb" title="sebwanoyî">
+         Cebuano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/" hreflang="ckb" lang="ckb" title="soranî">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/" hreflang="cs" lang="cs" title="çekî">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/" hreflang="da" lang="da" title="danmarkî">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/" hreflang="de" lang="de" title="elmanî">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-diq mw-list-item">
+        <a class="interlanguage-link-target" href="https://diq.wikipedia.org/wiki/" hreflang="diq" lang="diq" title="Zazaki">
+         Zazaki
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/" hreflang="el" lang="el" title="yewnanî">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-en mw-list-item">
+        <a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/" hreflang="en" lang="en" title="îngilîzî">
+         English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/" hreflang="eo" lang="eo" title="esperantoyî">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/" hreflang="es" lang="es" title="spanî">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/" hreflang="et" lang="et" title="estonî">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/" hreflang="eu" lang="eu" title="baskî">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/" hreflang="fa" lang="fa" title="farisî">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/" hreflang="fi" lang="fi" title="fînî">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/" hreflang="fr" lang="fr" title="frensî">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/" hreflang="gl" lang="gl" title="galîsî">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-glk mw-list-item">
+        <a class="interlanguage-link-target" href="https://glk.wikipedia.org/wiki/" hreflang="glk" lang="glk" title="Gilaki">
+         گیلکی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/" hreflang="he" lang="he" title="îbranî">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/" hreflang="hr" lang="hr" title="xirwatî">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hy mw-list-item">
+        <a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/" hreflang="hy" lang="hy" title="ermenî">
+         Հայերեն
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ka mw-list-item">
+        <a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/" hreflang="ka" lang="ka" title="gurcî">
+         ქართული
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lrc mw-list-item">
+        <a class="interlanguage-link-target" href="https://lrc.wikipedia.org/wiki/" hreflang="lrc" lang="lrc" title="luriya bakur">
+         لۊری شومالی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mzn mw-list-item">
+        <a class="interlanguage-link-target" href="https://mzn.wikipedia.org/wiki/" hreflang="mzn" lang="mzn" title="mazenderanî">
+         مازِرونی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nn mw-list-item">
+        <a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/" hreflang="nn" lang="nn" title="norwecî (nynorsk)">
+         Norsk nynorsk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/" hreflang="nb" lang="nb" title="norwecî (bokmål)">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/" hreflang="pl" lang="pl" title="polonî">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ps mw-list-item">
+        <a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/" hreflang="ps" lang="ps" title="peştûyî">
+         پښتو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/" hreflang="pt" lang="pt" title="portugalî">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/" hreflang="ro" lang="ro" title="romanî">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-roa-rup mw-list-item">
+        <a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/" hreflang="rup" lang="rup" title="Aromanian">
+         Armãneashti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/" hreflang="ru" lang="ru" title="rusî">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/" hreflang="sv" lang="sv" title="swêdî">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/" hreflang="tr" lang="tr" title="tirkî">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/" hreflang="tt" lang="tt" title="teterî">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/" hreflang="vi" lang="vi" title="viyetnamî">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/" hreflang="wuu" lang="wuu" title="Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/" hreflang="zh" lang="zh" title="çînî">
+         中文
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-classical mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/" hreflang="lzh" lang="lzh" title="Classical Chinese">
+         文言
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/" hreflang="nan" lang="nan" title="Chinese (Min Nan)">
+         Bân-lâm-gú
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/" hreflang="yue" lang="yue" title="Cantonese">
+         粵語
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     Ev rûpel cara dawî 15 hezîran 2021, saet li 21:30an de hatiye guhartin.
+    </li>
+    <li id="footer-info-copyright">
+     Nivîsar di bin lîsansa
+     <a href="http://creativecommons.org/licenses/by-sa/3.0/">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     de derbasdar e;
+heke tiştên din werin xwestin dikarin lê bên zêdekirin.
+Ji bo hûragahiyan li
+     <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+      Mercên Bikaranînê
+     </a>
+     binêre.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Siyaseta veşarîtiyê
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/W%C3%AEk%C3%AEpediya:Derbar%C3%AA_W%C3%AEk%C3%AEpediyay%C3%AA_de" title="Wîkîpediya:Derbarê Wîkîpediyayê de">
+      Der barê Wîkîpediya de
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a class="mw-redirect" href="/wiki/W%C3%AEk%C3%AEpediya:Ferexetnameya_gi%C5%9Ft%C3%AE" title="Wîkîpediya:Ferexetnameya giştî">
+      Ferexetname
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//ku.m.wikipedia.org/w/index.php?title=Destp%C3%AAk&amp;mobileaction=toggle_view_mobile">
+      Xuyakirina mobîl
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Pêşdebir
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/ku.wikipedia.org">
+      Statîstîk
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Agahiya kûkiyê (cookie)
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.239","walltime":"0.346","ppvisitednodes":{"value":415,"limit":1000000},"postexpandincludesize":{"value":17735,"limit":2097152},"templateargumentsize":{"value":92,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":614,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  127.178      1 -total"," 40.05%   50.937      1 Wîkîpediya:Di_dîrokê_de_îro/22ê_îlonê"," 37.36%   47.510      1 Wîkîpediya:Di_dîrokê_de_îro/binnivîs"," 33.79%   42.977      1 Şablon:Paşgir"," 31.43%   39.972      1 Şablon:Str_rightc"," 29.15%   37.072      1 Şablon:Str_sub_long"," 17.91%   22.778      1 Şablon:WH-Dp/Pêvek"," 14.74%   18.741      1 Şablon:WH-Dp/2018/2","  9.59%   12.191      1 Wîkîpediya:Destpêk/Ser","  8.65%   11.001      1 Şablon:Max"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"10.000"},"limitreport-memusage":{"value":700535,"limit":52428800}},"cachereport":{"origin":"mw1309","timestamp":"20210922015656","ttl":3600,"transientcontent":true}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Destp\u00eak","url":"https:\/\/ku.wikipedia.org\/wiki\/Destp%C3%AAk","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-06-03T10:42:08Z","dateModified":"2021-06-15T21:30:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/Lanzarote_5_Luc_Viatour.jpg"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":179,"wgHostname":"mw1370"});});
+  </script>
+ </body>
+</html>

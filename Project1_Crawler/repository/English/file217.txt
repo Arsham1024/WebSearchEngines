@@ -1,0 +1,4158 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Nonprofit organization - Wikipedia
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"dfbed4b7-5fbf-4d40-894c-e1915c2e1206","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nonprofit_organization","wgTitle":"Nonprofit organization","wgCurRevisionId":1046593257,"wgRevisionId":1046593257,"wgArticleId":72487,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with dead external links","Articles with dead external links from August 2018","CS1: long volume value","CS1 errors: missing periodical","Articles with short description","Short description is different from Wikidata",
+"Articles needing additional references from February 2021","All articles needing additional references","Use dmy dates from July 2021","Use American English from July 2020","All Wikipedia articles written in American English","All articles with unsourced statements","Articles with unsourced statements from April 2021","Articles with limited geographic scope from July 2019","United States-centric","All articles lacking reliable references","Articles lacking reliable references from February 2021","Commons category link is on Wikidata","Articles with Curlie links","Articles with GND identifiers","Articles with BNF identifiers","Articles with LCCN identifiers","Articles with NDL identifiers","Articles with NARA identifiers","Non-profit organizations","Types of organization","Trade unions","Television terminology","Social economy"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Nonprofit_organization","wgRelevantArticleId":72487,"wgIsProbablyEditable":
+!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Non-profit_organization","wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Nonprofit_organization","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgCentralAuthMobileDomain":!1,"wgWikibaseItemId":"Q163740"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"ext.centralauth.centralautologin","ext.growthExperiments.SuggestedEditSession"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+  </script>
+  <link href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.38.0-wmf.1" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Nonprofit organization - Wikipedia" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//upload.wikimedia.org" rel="preconnect"/>
+  <link href="//en.m.wikipedia.org/wiki/Nonprofit_organization" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/index.php?title=Nonprofit_organization&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+  <link href="/w/index.php?title=Nonprofit_organization&amp;action=edit" rel="edit" title="Edit this page"/>
+  <link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+  <link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://en.wikipedia.org/wiki/Nonprofit_organization" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nonprofit_organization rootpage-Nonprofit_organization skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading" id="firstHeading">
+    Nonprofit organization
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     From Wikipedia, the free encyclopedia
+    </div>
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">
+      (Redirected from
+      <a class="mw-redirect" href="/w/index.php?title=Non-profit_organization&amp;redirect=no" title="Non-profit organization">
+       Non-profit organization
+      </a>
+      )
+     </span>
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Jump to navigation
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Jump to search
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="en">
+     <div class="mw-parser-output">
+      <style data-mw-deduplicate="TemplateStyles:r1033289096">
+       .mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}
+      </style>
+      <div class="hatnote navigation-not-searchable" role="note">
+       Not to be confused with
+       <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">
+        Non-governmental organization
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Governmental_organization" title="Governmental organization">
+        Governmental organization
+       </a>
+       , or
+       <a href="/wiki/Charitable_organization" title="Charitable organization">
+        Charitable organization
+       </a>
+       .
+      </div>
+      <link href="mw-data:TemplateStyles:r1033289096" rel="mw-deduplicated-inline-style"/>
+      <div class="hatnote navigation-not-searchable" role="note">
+       "Registered association" redirects here. For the legal status in Finland and Germany, see
+       <a href="/wiki/Registered_association_(Finland)" title="Registered association (Finland)">
+        Registered association (Finland)
+       </a>
+       and
+       <a href="/wiki/Registered_association_(Germany)" title="Registered association (Germany)">
+        Registered association (Germany)
+       </a>
+       .
+      </div>
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Organization operated for a collective benefit
+      </div>
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a class="image" href="/wiki/File:Question_book-new.svg">
+            <img alt="" data-file-height="399" data-file-width="512" decoding="async" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/>
+           </a>
+          </div>
+         </td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article
+           <b>
+            needs additional citations for
+            <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+             verification
+            </a>
+           </b>
+           .
+           <span class="hide-when-compact">
+            Please help
+            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nonprofit_organization&amp;action=edit">
+             improve this article
+            </a>
+            by
+            <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">
+             adding citations to reliable sources
+            </a>
+            . Unsourced material may be challenged and removed.
+            <br/>
+            <small>
+             <span class="plainlinks">
+              <i>
+               Find sources:
+              </i>
+              <a class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Nonprofit+organization%22" rel="nofollow">
+               "Nonprofit organization"
+              </a>
+              –
+              <a class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Nonprofit+organization%22+-wikipedia" rel="nofollow">
+               news
+              </a>
+              <b>
+               ·
+              </b>
+              <a class="external text" href="//www.google.com/search?&amp;q=%22Nonprofit+organization%22&amp;tbs=bkt:s&amp;tbm=bks" rel="nofollow">
+               newspapers
+              </a>
+              <b>
+               ·
+              </b>
+              <a class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Nonprofit+organization%22+-wikipedia" rel="nofollow">
+               books
+              </a>
+              <b>
+               ·
+              </b>
+              <a class="external text" href="//scholar.google.com/scholar?q=%22Nonprofit+organization%22" rel="nofollow">
+               scholar
+              </a>
+              <b>
+               ·
+              </b>
+              <a class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Nonprofit+organization%22&amp;acc=on&amp;wc=on" rel="nofollow">
+               JSTOR
+              </a>
+             </span>
+            </small>
+           </span>
+           <span class="date-container">
+            <i>
+             (
+             <span class="date">
+              February 2021
+             </span>
+             )
+            </i>
+           </span>
+           <span class="hide-when-compact">
+            <i>
+             (
+             <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+              Learn how and when to remove this template message
+             </a>
+             )
+            </i>
+           </span>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       A
+       <b>
+        nonprofit organization
+       </b>
+       (
+       <b>
+        NPO
+       </b>
+       ), also known as a
+       <b>
+        non-business entity
+       </b>
+       ,
+       <sup class="reference" id="cite_ref-ciconte_1-0">
+        <a href="#cite_note-ciconte-1">
+         [1]
+        </a>
+       </sup>
+       <b>
+        not-for-profit organization
+       </b>
+       ,
+       <sup class="reference" id="cite_ref-2">
+        <a href="#cite_note-2">
+         [2]
+        </a>
+       </sup>
+       or
+       <b>
+        nonprofit institution
+       </b>
+       ,
+       <sup class="reference" id="cite_ref-3">
+        <a href="#cite_note-3">
+         [3]
+        </a>
+       </sup>
+       is a legal entity organized and operated for a  collective, public or social benefit, in contrast with an entity that operates as a business aiming to generate a profit for its owners. A nonprofit is subject to the
+       <a href="/wiki/Contract_failure#Non-Distribution_Constraint" title="Contract failure">
+        non-distribution constraint
+       </a>
+       : any revenues that exceed expenses must be committed to the organization's purpose, not taken by private parties. A wide array of organizations are nonprofit, including most political organizations, schools, business associations, churches, social clubs, and consumer cooperatives. Nonprofit entities generally seek approval from governments to be
+       <a href="/wiki/Tax_exemption" title="Tax exemption">
+        tax-exempt
+       </a>
+       , and some may also qualify to receive tax-deductible contributions, but an entity may
+       <a href="/wiki/Incorporation_(business)" title="Incorporation (business)">
+        incorporate
+       </a>
+       as a nonprofit entity without securing tax-exempt status.
+      </p>
+      <p>
+       The key aspects of nonprofits are accountability, trustworthiness, honesty, and openness to every person who has invested time, money, and faith into the organization. Nonprofit organizations are accountable to the donors, founders, volunteers, program recipients, and the public community. For a nonprofit that seeks to finance its operations through donations, public confidence is a factor in the amount of money that a nonprofit organization is able to raise. The more nonprofits focus on their mission, the more public confidence they will have. This will result in more money for the organization.
+       <sup class="reference" id="cite_ref-ciconte_1-1">
+        <a href="#cite_note-ciconte-1">
+         [1]
+        </a>
+       </sup>
+       The activities a nonprofit is partaking in can help build the public's confidence in nonprofits, as well as how ethical the standards and practices are.
+      </p>
+      <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation">
+       <input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/>
+       <div class="toctitle" dir="ltr" lang="en">
+        <h2 id="mw-toc-heading">
+         Contents
+        </h2>
+        <span class="toctogglespan">
+         <label class="toctogglelabel" for="toctogglecheckbox">
+         </label>
+        </span>
+       </div>
+       <ul>
+        <li class="toclevel-1 tocsection-1">
+         <a href="#Statistics_in_the_United_States">
+          <span class="tocnumber">
+           1
+          </span>
+          <span class="toctext">
+           Statistics in the United States
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-2">
+         <a href="#Mechanism_of_money-raising">
+          <span class="tocnumber">
+           2
+          </span>
+          <span class="toctext">
+           Mechanism of money-raising
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-3">
+         <a href="#Nonprofit_vs._not-for-profit">
+          <span class="tocnumber">
+           3
+          </span>
+          <span class="toctext">
+           Nonprofit vs. not-for-profit
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-4">
+         <a href="#Management">
+          <span class="tocnumber">
+           4
+          </span>
+          <span class="toctext">
+           Management
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-5">
+         <a href="#Functions">
+          <span class="tocnumber">
+           5
+          </span>
+          <span class="toctext">
+           Functions
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-6">
+           <a href="#Formation_and_structure">
+            <span class="tocnumber">
+             5.1
+            </span>
+            <span class="toctext">
+             Formation and structure
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-7">
+           <a href="#Tax_exemption">
+            <span class="tocnumber">
+             5.2
+            </span>
+            <span class="toctext">
+             Tax exemption
+            </span>
+           </a>
+          </li>
+          <li class="toclevel-2 tocsection-8">
+           <a href="#Social_Welfare_nonprofits">
+            <span class="tocnumber">
+             5.3
+            </span>
+            <span class="toctext">
+             Social Welfare nonprofits
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-9">
+         <a href="#Problems">
+          <span class="tocnumber">
+           6
+          </span>
+          <span class="toctext">
+           Problems
+          </span>
+         </a>
+         <ul>
+          <li class="toclevel-2 tocsection-10">
+           <a href="#Founder's_syndrome">
+            <span class="tocnumber">
+             6.1
+            </span>
+            <span class="toctext">
+             Founder's syndrome
+            </span>
+           </a>
+           <ul>
+            <li class="toclevel-3 tocsection-11">
+             <a href="#Resource_mismanagement">
+              <span class="tocnumber">
+               6.1.1
+              </span>
+              <span class="toctext">
+               Resource mismanagement
+              </span>
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="toclevel-2 tocsection-12">
+           <a href="#Competition_for_talent">
+            <span class="tocnumber">
+             6.2
+            </span>
+            <span class="toctext">
+             Competition for talent
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="toclevel-1 tocsection-13">
+         <a href="#Online_presence">
+          <span class="tocnumber">
+           7
+          </span>
+          <span class="toctext">
+           Online presence
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-14">
+         <a href="#Alternative_names">
+          <span class="tocnumber">
+           8
+          </span>
+          <span class="toctext">
+           Alternative names
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-15">
+         <a href="#See_also">
+          <span class="tocnumber">
+           9
+          </span>
+          <span class="toctext">
+           See also
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-16">
+         <a href="#References">
+          <span class="tocnumber">
+           10
+          </span>
+          <span class="toctext">
+           References
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-17">
+         <a href="#Further_reading">
+          <span class="tocnumber">
+           11
+          </span>
+          <span class="toctext">
+           Further reading
+          </span>
+         </a>
+        </li>
+        <li class="toclevel-1 tocsection-18">
+         <a href="#External_links">
+          <span class="tocnumber">
+           12
+          </span>
+          <span class="toctext">
+           External links
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Statistics_in_the_United_States">
+        Statistics in the United States
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=1" title="Edit section: Statistics in the United States">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       According to the
+       <a href="/wiki/National_Center_for_Charitable_Statistics" title="National Center for Charitable Statistics">
+        National Center for Charitable Statistics
+       </a>
+       (NCCS), there are more than 1.5 million nonprofit organizations registered in the United States, including
+       <a href="/wiki/Charitable_organization" title="Charitable organization">
+        public charities
+       </a>
+       ,
+       <a href="/wiki/Private_foundation" title="Private foundation">
+        private foundations
+       </a>
+       , and other nonprofit organizations. Private charitable contributions increased for the fourth consecutive year in 2017 (since 2014), at an estimated $410.02 billion. Out of these contributions, religious organizations received 30.9%, education organizations received 14.3%, and human services organizations received 12.1%.
+       <sup class="reference" id="cite_ref-4">
+        <a href="#cite_note-4">
+         [4]
+        </a>
+       </sup>
+       Between September 2010 and September 2014, approximately 25.3% of Americans over the age of 16 volunteered for a nonprofit.
+       <sup class="reference" id="cite_ref-5">
+        <a href="#cite_note-5">
+         [5]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Mechanism_of_money-raising">
+        Mechanism of money-raising
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=2" title="Edit section: Mechanism of money-raising">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Nonprofits are not driven by generating profit, but they must bring in enough income to pursue their social goals. Nonprofits are able to raise money in different ways. This includes income from donations from individual donors or foundations; sponsorship from corporations; government funding; programs, services or merchandise sales; and investments.
+       <sup class="reference" id="cite_ref-6">
+        <a href="#cite_note-6">
+         [6]
+        </a>
+       </sup>
+       Each NPO is unique in which source of income works best for them. With an increase in NPO's within the last decade, organizations have adopted competitive advantages to create revenue for themselves to remain financially stable. Donations from private individuals or organizations can change each year and government grants have diminished. With changes in funding from year to year, many nonprofit organizations have been moving toward increasing the diversity of their funding sources. For example, many nonprofits that have relied on government grants have started fundraising efforts to appeal to individual donors.
+       <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+          <span title="This claim needs references to reliable sources. (April 2021)">
+           citation needed
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Nonprofit_vs._not-for-profit">
+        Nonprofit vs. not-for-profit
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=3" title="Edit section: Nonprofit vs. not-for-profit">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="Globe icon." data-file-height="290" data-file-width="350" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" width="48"/>
+          </div>
+         </td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           The examples and perspective in this article
+           <b>
+            deal primarily with the United States and do not represent a
+            <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">
+             worldwide view
+            </a>
+            of the subject
+           </b>
+           .
+           <span class="hide-when-compact">
+            You may
+            <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nonprofit_organization&amp;action=edit">
+             improve this article
+            </a>
+            , discuss the issue on the
+            <a href="/wiki/Talk:Nonprofit_organization" title="Talk:Nonprofit organization">
+             talk page
+            </a>
+            , or
+            <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">
+             create a new article
+            </a>
+            , as appropriate.
+           </span>
+           <span class="date-container">
+            <i>
+             (
+             <span class="date">
+              July 2019
+             </span>
+             )
+            </i>
+           </span>
+           <span class="hide-when-compact">
+            <i>
+             (
+             <a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">
+              Learn how and when to remove this template message
+             </a>
+             )
+            </i>
+           </span>
+          </div>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       Nonprofit and not-for-profit are terms that are used similarly, but do not mean the same thing. Both are organizations that do not make a profit, but may receive an income to sustain their missions. The income that nonprofit and not-for-profit organizations generate is used differently. Nonprofit organizations return any extra income to the organization. Not-for-profits use their excess money to pay their members who do work for them. Another difference between nonprofit organizations and not-for-profit organizations is their membership. Nonprofits have volunteers or employees who do not receive any money from the organization's fundraising efforts. They may earn a salary for their work that is independent from the money the organization has fundraised. Not-for-profit members have the opportunity to benefit from the organization's fundraising efforts.
+       <sup class="reference" id="cite_ref-:1_7-0">
+        <a href="#cite_note-:1-7">
+         [7]
+        </a>
+       </sup>
+       <sup class="noprint Inline-Template" style="white-space:nowrap;">
+        [
+        <i>
+         <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">
+          <span title="The material near this tag may rely on an unreliable source. (February 2021)">
+           unreliable source?
+          </span>
+         </a>
+        </i>
+        ]
+       </sup>
+      </p>
+      <p>
+       In the United States, both nonprofits and not-for-profits are tax-exempt under IRS publication 557. Although they are both tax-exempt, each organization faces different tax code requirements. A nonprofit is tax-exempt under
+       <a href="/wiki/501(c)(3)_organization" title="501(c)(3) organization">
+        501(c)(3)
+       </a>
+       requirements if it is either a religious, charitable, or educational based organization that does not influence state and federal legislation. Not-for-profits are tax-exempt under
+       <a class="mw-redirect" href="/wiki/501(c)(7)" title="501(c)(7)">
+        501(c)(7)
+       </a>
+       requirements if they are an organization for pleasure, recreation or another nonprofit purpose.
+       <sup class="reference" id="cite_ref-:1_7-1">
+        <a href="#cite_note-:1-7">
+         [7]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Nonprofits are either member-serving or community-serving. Member-serving nonprofit organizations create a benefit for the members of their organization and can include but are not limited to credit unions, sports clubs, and advocacy groups. Community-serving nonprofit organizations focus on providing services to the community either globally or locally. Community-serving nonprofits include organizations that deliver aid and development programs, medical research, education, and health services. It is possible for a nonprofit to be both member-serving and community-serving.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Management">
+        Management
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=4" title="Edit section: Management">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       A common misconception about nonprofits is that they are run completely by volunteers. Most nonprofits have staff that work for the company, possibly using volunteers to perform the nonprofit's services under the direction of the paid staff. Nonprofits must be careful to balance the salaries paid to staff against the money paid to provide services to the nonprofit's beneficiaries. Organizations whose salary expenses are too high relative to their program expenses may face regulatory scrutiny.
+       <sup class="reference" id="cite_ref-8">
+        <a href="#cite_note-8">
+         [8]
+        </a>
+       </sup>
+      </p>
+      <p>
+       A second misconception is that nonprofit organizations may not make a profit. Although the goal of nonprofits isn't specifically to maximize profits, they still have to operate as a fiscally responsible business. They must manage their income (both grants and donations and income from services) and expenses so as to remain a fiscally viable entity. Nonprofits have the responsibility of focusing on being professional, financially responsible, replacing self-interest and
+       <a href="/wiki/Profit_motive" title="Profit motive">
+        profit motive
+       </a>
+       with mission motive.
+       <sup class="reference" id="cite_ref-9">
+        <a href="#cite_note-9">
+         [9]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Though nonprofits are managed differently from for-profit businesses, they have felt pressure to be more businesslike. To combat private and public business growth in the public service industry, nonprofits have modeled their business management and mission, shifting their raison d’être to establish sustainability and growth.
+       <sup class="reference" id="cite_ref-10">
+        <a href="#cite_note-10">
+         [10]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Setting effective missions is a key for the successful management of nonprofit organizations.
+       <sup class="reference" id="cite_ref-:0_11-0">
+        <a href="#cite_note-:0-11">
+         [11]
+        </a>
+       </sup>
+       There are three important conditions for effective mission: opportunity, competence, and commitment.
+       <sup class="reference" id="cite_ref-:0_11-1">
+        <a href="#cite_note-:0-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <p>
+       One way of managing the sustainability of nonprofit organizations is to establish strong relations with donor groups.
+       <sup class="reference" id="cite_ref-:0_11-2">
+        <a href="#cite_note-:0-11">
+         [11]
+        </a>
+       </sup>
+       This requires a donor marketing strategy, something many nonprofits lack.
+       <sup class="reference" id="cite_ref-:0_11-3">
+        <a href="#cite_note-:0-11">
+         [11]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Functions">
+        Functions
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=5" title="Edit section: Functions">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       NPOs have a wide diversity of structures and purposes. For legal classification, there are, nevertheless, some elements of importance:
+      </p>
+      <ul>
+       <li>
+        Management provisions
+       </li>
+       <li>
+        Accountability and auditing provisions
+       </li>
+       <li>
+        Provisory for the amendment of the statutes or articles of incorporation
+       </li>
+       <li>
+        Provisions for the dissolution of the entity
+       </li>
+       <li>
+        Tax statuses of corporate and private donors
+       </li>
+       <li>
+        Tax status of the founders.
+       </li>
+      </ul>
+      <p>
+       Some of the above must be (in most jurisdictions in the
+       <a href="/wiki/United_States" title="United States">
+        USA
+       </a>
+       at least) expressed in the organization's charter of establishment or constitution. Others may be provided by the supervising authority at each particular jurisdiction.
+      </p>
+      <p>
+       While affiliations will not affect a legal status, they may be taken into consideration by legal proceedings as an indication of purpose. Most countries have laws that regulate the establishment and management of NPOs and that require compliance with
+       <a href="/wiki/Corporate_governance" title="Corporate governance">
+        corporate governance
+       </a>
+       regimes. Most larger organizations are required to publish their financial reports detailing their income and expenditure publicly.
+      </p>
+      <p>
+       In many aspects, they are similar to corporate
+       <a class="mw-redirect" href="/wiki/Business_entity" title="Business entity">
+        business entities
+       </a>
+       though there are often significant differences. Both not-for-profit and
+       <a class="mw-redirect" href="/wiki/For-profit" title="For-profit">
+        for-profit
+       </a>
+       corporate entities must have board members, steering-committee members, or trustees who owe the organization a
+       <a class="mw-redirect" href="/wiki/Fiduciary_duty" title="Fiduciary duty">
+        fiduciary duty
+       </a>
+       of loyalty and trust. A notable exception to this involves
+       <a href="/wiki/Church_(building)" title="Church (building)">
+        churches
+       </a>
+       , which are often not required to disclose finances to anyone, including church members.
+       <sup class="reference" id="cite_ref-12">
+        <a href="#cite_note-12">
+         [12]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Formation_and_structure">
+        Formation and structure
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=6" title="Edit section: Formation and structure">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the United States, nonprofit organizations are formed by filing bylaws or
+       <a href="/wiki/Articles_of_incorporation" title="Articles of incorporation">
+        articles of incorporation
+       </a>
+       or both in the state in which they expect to operate. The act of incorporation creates a legal entity enabling the organization to be treated as a distinct body (corporation) by law and to enter into business dealings, form contracts, and own property as individuals or for-profit corporations can.
+      </p>
+      <p>
+       Nonprofits can have members, but many do not. The nonprofit may also be a
+       <a href="/wiki/Trust_law" title="Trust law">
+        trust
+       </a>
+       or
+       <a href="/wiki/Voluntary_association" title="Voluntary association">
+        association
+       </a>
+       of members. The organization may be controlled by its members who elect the
+       <a href="/wiki/Board_of_directors" title="Board of directors">
+        board of directors
+       </a>
+       ,
+       <a class="mw-redirect" href="/wiki/Board_of_governors" title="Board of governors">
+        board of governors
+       </a>
+       or board of
+       <a href="/wiki/Trustee" title="Trustee">
+        trustees
+       </a>
+       . A nonprofit may have a delegate structure to allow for the representation of groups or corporations as members. Alternatively, it may be a non-membership organization and the board of directors may elect its own successors.
+      </p>
+      <p>
+       The two major types of nonprofit organization are membership and board-only. A membership organization elects the board and has regular meetings and the power to amend the bylaws. A board-only organization typically has a self-selected board and a membership whose powers are limited to those delegated to it by the board. A board-only organization's bylaws may even state that the organization does not have any membership, although the organization's literature may refer to its donors or service recipients as 'members'; examples of such organizations are
+       <a href="/wiki/FairVote" title="FairVote">
+        FairVote
+       </a>
+       <sup class="reference" id="cite_ref-13">
+        <a href="#cite_note-13">
+         [13]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-14">
+        <a href="#cite_note-14">
+         [14]
+        </a>
+       </sup>
+       and the
+       <a href="/wiki/National_Organization_for_the_Reform_of_Marijuana_Laws" title="National Organization for the Reform of Marijuana Laws">
+        National Organization for the Reform of Marijuana Laws
+       </a>
+       .
+       <sup class="reference" id="cite_ref-15">
+        <a href="#cite_note-15">
+         [15]
+        </a>
+       </sup>
+       The
+       <a href="/wiki/Model_Nonprofit_Corporation_Act" title="Model Nonprofit Corporation Act">
+        Model Nonprofit Corporation Act
+       </a>
+       imposes many complexities and requirements on membership decision-making.
+       <sup class="reference" id="cite_ref-16">
+        <a href="#cite_note-16">
+         [16]
+        </a>
+       </sup>
+       Accordingly, many organizations, such as the
+       <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">
+        Wikimedia Foundation
+       </a>
+       ,
+       <sup class="reference" id="cite_ref-17">
+        <a href="#cite_note-17">
+         [17]
+        </a>
+       </sup>
+       have formed board-only structures. The
+       <a href="/wiki/National_Association_of_Parliamentarians" title="National Association of Parliamentarians">
+        National Association of Parliamentarians
+       </a>
+       has generated concerns about the implications of this trend for the future of openness, accountability, and understanding of public concerns in nonprofit organizations. Specifically, they note that nonprofit organizations, unlike business corporations, are not subject to
+       <a href="/wiki/Market_discipline" title="Market discipline">
+        market discipline
+       </a>
+       for products and shareholder discipline of their capital; therefore, without membership control of major decisions such as the election of the board, there are few inherent safeguards against abuse.
+       <sup class="reference" id="cite_ref-18">
+        <a href="#cite_note-18">
+         [18]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-19">
+        <a href="#cite_note-19">
+         [19]
+        </a>
+       </sup>
+       A rebuttal to this might be that as nonprofit organizations grow and seek larger donations, the degree of scrutiny increases, including expectations of audited financial statements.
+       <sup class="reference" id="cite_ref-20">
+        <a href="#cite_note-20">
+         [20]
+        </a>
+       </sup>
+       A further rebuttal might be that NPOs are constrained, by their choice of legal structure, from financial benefit as far as distribution of profit to members and directors is concerned.
+      </p>
+      <h3>
+       <span class="mw-headline" id="Tax_exemption">
+        Tax exemption
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=7" title="Edit section: Tax exemption">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In many countries, nonprofits may apply for tax-exempt status, so that the organization itself may be exempt from income tax and other taxes. In the United States, to be exempt from federal income taxes, the organization must meet the requirements set forth in the
+       <a href="/wiki/Internal_Revenue_Code" title="Internal Revenue Code">
+        Internal Revenue Code
+       </a>
+       . Granting nonprofit status is done by the state, while granting tax-exempt designation (such as 501(c)(3)) is granted by the federal government via the IRS. This means that not all nonprofits are eligible to be tax-exempt.
+       <sup class="reference" id="cite_ref-21">
+        <a href="#cite_note-21">
+         [21]
+        </a>
+       </sup>
+       NPOs use the model of a
+       <a href="/wiki/Double_bottom_line" title="Double bottom line">
+        double bottom line
+       </a>
+       in that furthering their cause is more important than making a profit, though both are needed to ensure the organization's sustainability.
+       <sup class="reference" id="cite_ref-22">
+        <a href="#cite_note-22">
+         [22]
+        </a>
+       </sup>
+       <sup class="reference" id="cite_ref-23">
+        <a href="#cite_note-23">
+         [23]
+        </a>
+       </sup>
+       An advantage of non-profit organisations registered in the UK is that they benefit from some reliefs and exemptions. Charities and non-profits are exempt from Corporation Tax as well as the trustees being exempt from Income Tax.
+       <sup class="reference" id="cite_ref-24">
+        <a href="#cite_note-24">
+         [24]
+        </a>
+       </sup>
+      </p>
+      <h3>
+       <span class="mw-headline" id="Social_Welfare_nonprofits">
+        Social Welfare nonprofits
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=8" title="Edit section: Social Welfare nonprofits">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       In the U.S., "social welfare" nonprofits (IRS Section 501c4) are frequently used by politicians. Their use has resulted in controversies for politicians such as
+       <a href="/wiki/Kwame_Kilpatrick" title="Kwame Kilpatrick">
+        Kwame Kilpatrick
+       </a>
+       and
+       <a href="/wiki/Gretchen_Whitmer" title="Gretchen Whitmer">
+        Gretchen Whitmer
+       </a>
+       .
+       <sup class="reference" id="cite_ref-25">
+        <a href="#cite_note-25">
+         [25]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Problems">
+        Problems
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=9" title="Edit section: Problems">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <h3>
+       <span id="Founder.27s_syndrome">
+       </span>
+       <span class="mw-headline" id="Founder's_syndrome">
+        Founder's syndrome
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=10" title="Edit section: Founder's syndrome">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       <a href="/wiki/Founder%27s_syndrome" title="Founder's syndrome">
+        Founder's syndrome
+       </a>
+       is an issue organizations experience as they expand. Dynamic founders, who have a strong vision of how to operate the project, try to retain control of the organization, even as new employees or volunteers want to expand the project's scope or change policy.
+       <sup class="reference" id="cite_ref-26">
+        <a href="#cite_note-26">
+         [26]
+        </a>
+       </sup>
+      </p>
+      <h4>
+       <span class="mw-headline" id="Resource_mismanagement">
+        Resource mismanagement
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=11" title="Edit section: Resource mismanagement">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h4>
+      <p>
+       Resource mismanagement is a particular problem with NPOs because the employees are not accountable to anyone who has a direct stake in the organization. For example, an employee may start a new program without disclosing its complete liabilities. The employee may be rewarded for improving the NPO's reputation, making other employees happy, and attracting new donors. Liabilities promised on the full faith and credit of the organization but not recorded anywhere constitute
+       <a class="mw-redirect" href="/wiki/Accounting_fraud" title="Accounting fraud">
+        accounting fraud
+       </a>
+       . But even indirect liabilities negatively affect the financial sustainability of the NPO, and the NPO will have financial problems unless strict controls are instated.
+       <sup class="reference" id="cite_ref-27">
+        <a href="#cite_note-27">
+         [27]
+        </a>
+       </sup>
+       Some commenters have argued that the receipt of significant funding from large for-profit corporations can ultimately alter the NPO's functions.
+       <sup class="reference" id="cite_ref-28">
+        <a href="#cite_note-28">
+         [28]
+        </a>
+       </sup>
+       A frequent measure of an NPO's efficiency is its
+       <a href="/wiki/Expense_ratio#Nonprofit_organizations" title="Expense ratio">
+        expense ratio
+       </a>
+       (i.e. expenditures on things other than its programs, divided by its total expenditures).
+      </p>
+      <h3>
+       <span class="mw-headline" id="Competition_for_talent">
+        Competition for talent
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=12" title="Edit section: Competition for talent">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h3>
+      <p>
+       Competition for employees with the public and private sector is another problem that nonprofit organizations inevitably face, particularly for management positions. There are reports of major talent shortages in the nonprofit sector today regarding newly graduated workers,
+       <sup class="reference" id="cite_ref-29">
+        <a href="#cite_note-29">
+         [29]
+        </a>
+       </sup>
+       and NPOs have for too long relegated hiring to a secondary priority,
+       <sup class="reference" id="cite_ref-auto_30-0">
+        <a href="#cite_note-auto-30">
+         [30]
+        </a>
+       </sup>
+       which could be why they find themselves in the position many do. While many established NPOs are well-funded and comparative to their public sector competitors, many more are independent and must be creative with which incentives they use to attract and maintain vibrant personalities. The initial interest for many is the remuneration package, though many who have been questioned after leaving an NPO have reported that it was stressful work environments and implacable work that drove them away.
+       <sup class="reference" id="cite_ref-31">
+        <a href="#cite_note-31">
+         [31]
+        </a>
+       </sup>
+      </p>
+      <p>
+       Public- and private-sector employment have, for the most part, been able to offer more to their employees than most nonprofit agencies throughout history. Either in the form of higher wages, more comprehensive benefit packages, or less tedious work, the public and private sectors have enjoyed an advantage over NPOs in attracting employees. Traditionally, the NPO has attracted mission-driven individuals who want to assist their chosen cause. Compounding the issue is that some NPOs do not operate in a manner similar to most businesses, or only seasonally. This leads many young and driven employees to forego NPOs in favor of more stable employment. Today, however, nonprofit organizations are adopting methods used by their competitors and finding new means to retain their employees and attract the best of the newly minted workforce.
+       <sup class="reference" id="cite_ref-32">
+        <a href="#cite_note-32">
+         [32]
+        </a>
+       </sup>
+      </p>
+      <p>
+       It has been mentioned that most nonprofits will never be able to match the pay of the private sector
+       <sup class="reference" id="cite_ref-33">
+        <a href="#cite_note-33">
+         [33]
+        </a>
+       </sup>
+       and therefore should focus their attention on benefits packages, incentives and implementing pleasurable work environments. A good environment is ranked higher than salary and pressure of work.
+       <sup class="reference" id="cite_ref-auto_30-1">
+        <a href="#cite_note-auto-30">
+         [30]
+        </a>
+       </sup>
+       NPOs are encouraged to pay as much as they are able and offer a low-stress work environment that the employee can associate him or herself positively with. Other incentives that should be implemented are generous vacation allowances or flexible work hours.
+       <sup class="reference" id="cite_ref-34">
+        <a href="#cite_note-34">
+         [34]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="Online_presence">
+        Online presence
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=13" title="Edit section: Online presence">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Many NPOs often use the
+       <a href="/wiki/.org" title=".org">
+        .org
+       </a>
+       or
+       <a href="/wiki/.us" title=".us">
+        .us
+       </a>
+       (or the
+       <a href="/wiki/Country_code_top-level_domain" title="Country code top-level domain">
+        country code top-level domain
+       </a>
+       of their respective country) or
+       <a href="/wiki/.edu" title=".edu">
+        .edu
+       </a>
+       <a href="/wiki/Top-level_domain" title="Top-level domain">
+        top-level domain
+       </a>
+       (TLD) when selecting a
+       <a href="/wiki/Domain_name" title="Domain name">
+        domain name
+       </a>
+       to differentiate themselves from more commercial entities, which typically use the
+       <a href="/wiki/.com" title=".com">
+        .com
+       </a>
+       space.
+      </p>
+      <p>
+       In the traditional domain noted in
+       <style data-mw-deduplicate="TemplateStyles:r999302996">
+        .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}
+       </style>
+       <a class="mw-redirect" href="/wiki/RFC_(identifier)" title="RFC (identifier)">
+        RFC
+       </a>
+       <a class="external text" href="https://datatracker.ietf.org/doc/html/rfc1591" rel="nofollow">
+        1591
+       </a>
+       , .org is for 'organizations that didn't fit anywhere else' in the naming system, which implies that it is the proper category for non-commercial organizations if they are not governmental, educational, or one of the other types with a specific TLD. It is not designated specifically for charitable organizations or any specific organizational or tax-law status; however, it encompasses anything that is not classifiable as another category. Currently, no restrictions are enforced on registration of .com or .org, so one can find organizations of all sorts in either of these domains, as well as other top-level domains including newer, more specific ones which may apply to particular sorts of organization including
+       <a href="/wiki/.museum" title=".museum">
+        .museum
+       </a>
+       for museums and
+       <a href="/wiki/.coop" title=".coop">
+        .coop
+       </a>
+       for
+       <a href="/wiki/Cooperative" title="Cooperative">
+        cooperatives
+       </a>
+       . Organizations might also register by the appropriate country code top-level domain for their country.
+      </p>
+      <h2>
+       <span class="mw-headline" id="Alternative_names">
+        Alternative names
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=14" title="Edit section: Alternative names">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <p>
+       Instead of being defined by 'non' words, some organizations are suggesting new, positive-sounding terminology to describe the sector. The term 'civil society organization' (CSO) has been used by a growing number of organizations, including the
+       <i>
+        Center for the Study of Global Governance
+       </i>
+       .
+       <sup class="reference" id="cite_ref-35">
+        <a href="#cite_note-35">
+         [35]
+        </a>
+       </sup>
+       The term 'citizen sector organization' (CSO) has also been advocated to describe the sector – as one of citizens, for citizens – by organizations including
+       <a class="mw-redirect" href="/wiki/Ashoka:_Innovators_for_the_Public" title="Ashoka: Innovators for the Public">
+        Ashoka: Innovators for the Public
+       </a>
+       .
+       <sup class="reference" id="cite_ref-36">
+        <a href="#cite_note-36">
+         [36]
+        </a>
+       </sup>
+       Advocates argue that these terms describe the sector in its own terms, without relying on terminology used for the government or business sectors. However, use of terminology by a nonprofit of self-descriptive language that is not legally compliant risks confusing the public about nonprofit abilities, capabilities, and limitations.
+       <sup class="reference" id="cite_ref-37">
+        <a href="#cite_note-37">
+         [37]
+        </a>
+       </sup>
+      </p>
+      <p>
+       In some Spanish-language jurisdictions, nonprofit organizations are called "civil associations".
+       <sup class="reference" id="cite_ref-38">
+        <a href="#cite_note-38">
+         [38]
+        </a>
+       </sup>
+      </p>
+      <h2>
+       <span class="mw-headline" id="See_also">
+        See also
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=15" title="Edit section: See also">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <style data-mw-deduplicate="TemplateStyles:r998391716">
+       .mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}
+      </style>
+      <div class="div-col" style="column-width: 22em;">
+       <ul>
+        <li>
+         <a href="/wiki/Community_organization" title="Community organization">
+          Community organization
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Effective_altruism" title="Effective altruism">
+          Effective altruism
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Fundraising" title="Fundraising">
+          Fundraising
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Master_of_Nonprofit_Organizations" title="Master of Nonprofit Organizations">
+          Master of Nonprofit Organizations
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Mutual_organization" title="Mutual organization">
+          Mutual organization
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/Non-commercial" title="Non-commercial">
+          Non-commercial
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">
+          Non-governmental organization
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Nonprofit_organization_laws_by_jurisdiction" title="Nonprofit organization laws by jurisdiction">
+          Nonprofit organization laws by jurisdiction
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Non-profit_organizations_and_access_to_public_information" title="Non-profit organizations and access to public information">
+          Non-profit organizations and access to public information
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Non-profit_technology" title="Non-profit technology">
+          Non-profit technology
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Occupational_safety_and_health" title="Occupational safety and health">
+          Occupational safety and health
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Social_economy" title="Social economy">
+          Social economy
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Supporting_organization_(charity)" title="Supporting organization (charity)">
+          Supporting organization (charity)
+         </a>
+        </li>
+        <li>
+         <a class="mw-redirect" href="/wiki/United_States_non-profit_laws" title="United States non-profit laws">
+          United States non-profit laws
+         </a>
+        </li>
+        <li>
+         <a href="/wiki/Voluntary_sector" title="Voluntary sector">
+          Voluntary sector
+         </a>
+        </li>
+       </ul>
+      </div>
+      <h2>
+       <span class="mw-headline" id="References">
+        References
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=16" title="Edit section: References">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">
+       .mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+      </style>
+      <div class="reflist">
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references">
+         <li id="cite_note-ciconte-1">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-ciconte_1-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-ciconte_1-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation book cs1" id="CITEREFCiconteJacob2009">
+            Ciconte, Barbara L.; Jacob, Jeanne (2009).
+            <i>
+             Fundraising Basics: A Complete Guide
+            </i>
+            . Burlington, Massachusetts: Jones &amp; Bartlett Learning.
+            <a class="mw-redirect" href="/wiki/ISBN_(identifier)" title="ISBN (identifier)">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9780763746667" title="Special:BookSources/9780763746667">
+             <bdi>
+              9780763746667
+             </bdi>
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundraising+Basics%3A+A+Complete+Guide&amp;rft.place=Burlington%2C+Massachusetts&amp;rft.pub=Jones+%26+Bartlett+Learning&amp;rft.date=2009&amp;rft.isbn=9780763746667&amp;rft.aulast=Ciconte&amp;rft.aufirst=Barbara+L.&amp;rft.au=Jacob%2C+Jeanne&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-2">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-2">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="https://web.archive.org/web/20181107010422/https://www.collinsdictionary.com/dictionary/english/not-for-profit-organization" rel="nofollow">
+             "Definition of 'not-for-profit organization
+             <span class="cs1-kern-right">
+              '
+             </span>
+             "
+            </a>
+            .
+            <i>
+             www.collinsdictionary.com
+            </i>
+            . Archived from
+            <a class="external text" href="https://www.collinsdictionary.com/dictionary/english/not-for-profit-organization" rel="nofollow">
+             the original
+            </a>
+            on 7 November 2018
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              6 November
+             </span>
+             2018
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.collinsdictionary.com&amp;rft.atitle=Definition+of+%27not-for-profit+organization%27&amp;rft_id=https%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fnot-for-profit-organization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-3">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-3">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="https://web.archive.org/web/20131017035311/http://unstats.un.org/unsd/nationalaccount/docs/1993sna.pdf" rel="nofollow">
+             "System of National Accounts (UN)"
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            . Unstats.un.org. Archived from
+            <a class="external text" href="http://unstats.un.org/unsd/nationalaccount/docs/1993sna.pdf" rel="nofollow">
+             the original
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            on 17 October 2013
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              16 October
+             </span>
+             2013
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=System+of+National+Accounts+%28UN%29&amp;rft.pub=Unstats.un.org&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fnationalaccount%2Fdocs%2F1993sna.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-4">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-4">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFMcKeever2018">
+            McKeever, Brice S. (November 2018).
+            <a class="external text" href="https://nccs.urban.org/publication/nonprofit-sector-brief-2018#giving" rel="nofollow">
+             "The Nonprofit Sector in Brief 2018: Public Charities, Giving, and Volunteering"
+            </a>
+            . Urban Institute National Center for Charitable Statistics.
+            <a class="external text" href="https://web.archive.org/web/20210320102707/https://nccs.urban.org/publication/nonprofit-sector-brief-2018#giving" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              24 April
+             </span>
+             2020
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Nonprofit+Sector+in+Brief+2018%3A+Public+Charities%2C+Giving%2C+and+Volunteering&amp;rft.pub=Urban+Institute+National+Center+for+Charitable+Statistics&amp;rft.date=2018-11&amp;rft.aulast=McKeever&amp;rft.aufirst=Brice+S.&amp;rft_id=https%3A%2F%2Fnccs.urban.org%2Fpublication%2Fnonprofit-sector-brief-2018%23giving&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-5">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-5">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="https://web.archive.org/web/20171218131455/http://nccs.urban.org/data-statistics/quick-facts-about-nonprofits" rel="nofollow">
+             "Quick Facts About Nonprofits"
+            </a>
+            .
+            <i>
+             National Center for Charitable Statistics
+            </i>
+            . Urban Institute. Archived from
+            <a class="external text" href="http://nccs.urban.org/data-statistics/quick-facts-about-nonprofits" rel="nofollow">
+             the original
+            </a>
+            on 18 December 2017
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              12 December
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Center+for+Charitable+Statistics&amp;rft.atitle=Quick+Facts+About+Nonprofits&amp;rft_id=http%3A%2F%2Fnccs.urban.org%2Fdata-statistics%2Fquick-facts-about-nonprofits&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-6">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-6">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Sacristán López de los Mozos, I., Rodríguez Duarte, A., &amp; Rodríguez Ruiz, Ó. (2016). Resource dependence in non-profit organizations: is it harder to fundraise if you diversify your revenue structure?.
+           <i>
+            Voluntas: International Journal of Voluntary &amp; Nonprofit Organizations
+           </i>
+           , 27(6), 2641–2665.
+          </span>
+         </li>
+         <li id="cite_note-:1-7">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-:1_7-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:1_7-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           Burgess, M. (26 October 2017) What is the difference between nonprofit &amp; not for profit?. Retrieved from
+           <a class="external free" href="https://bizfluent.com/info-7991949-difference-between-nonprofit-not-profit.html" rel="nofollow">
+            https://bizfluent.com/info-7991949-difference-between-nonprofit-not-profit.html
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20171212193242/https://bizfluent.com/info-7991949-difference-between-nonprofit-not-profit.html" rel="nofollow">
+            Archived
+           </a>
+           12 December 2017 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+          </span>
+         </li>
+         <li id="cite_note-8">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-8">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Simkovich, D. (2017). How to Run a Non-Profit Organization. Retrieved from
+           <a class="external free" href="http://smallbusiness.chron.com/run-nonprofit-organization-4133.html" rel="nofollow">
+            http://smallbusiness.chron.com/run-nonprofit-organization-4133.html
+           </a>
+           <sup class="noprint Inline-Template">
+            <span style="white-space: nowrap;">
+             [
+             <i>
+              <a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">
+               <span title=" Dead link since August 2018">
+                dead link
+               </span>
+              </a>
+             </i>
+             ]
+            </span>
+           </sup>
+          </span>
+         </li>
+         <li id="cite_note-9">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-9">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Anheier, K. H. (2005).
+           <i>
+            Nonprofit Organizations: An Introduction.
+           </i>
+           New York, NY: Routledge.
+          </span>
+         </li>
+         <li id="cite_note-10">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-10">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFMcDonald2007">
+            McDonald, Robert E. (2007). "An Investigation of Innovation in Nonprofit Organizations: The Role of Organizational Mission".
+            <i>
+             Nonprofit and Voluntary Sector Quarterly
+            </i>
+            .
+            <b>
+             36
+            </b>
+            (2): 256–281.
+            <a class="mw-redirect" href="/wiki/Doi_(identifier)" title="Doi (identifier)">
+             doi
+            </a>
+            :
+            <a class="external text" href="https://doi.org/10.1177%2F0899764006295996" rel="nofollow">
+             10.1177/0899764006295996
+            </a>
+            .
+            <a class="mw-redirect" href="/wiki/S2CID_(identifier)" title="S2CID (identifier)">
+             S2CID
+            </a>
+            <a class="external text" href="https://api.semanticscholar.org/CorpusID:144378017" rel="nofollow">
+             144378017
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nonprofit+and+Voluntary+Sector+Quarterly&amp;rft.atitle=An+Investigation+of+Innovation+in+Nonprofit+Organizations%3A+The+Role+of+Organizational+Mission&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=256-281&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1177%2F0899764006295996&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A144378017%23id-name%3DS2CID&amp;rft.aulast=McDonald&amp;rft.aufirst=Robert+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-:0-11">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-:0_11-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_11-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_11-2">
+            <sup>
+             <i>
+              <b>
+               c
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-:0_11-3">
+            <sup>
+             <i>
+              <b>
+               d
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation book cs1" id="CITEREFDrucker2006">
+            Drucker, Peter (2006).
+            <span class="cs1-lock-registration" title="Free registration required">
+             <a class="external text" href="https://archive.org/details/managingnonprofi0000druc" rel="nofollow">
+              <i>
+               Managing the Non-profit Organization: Principles and Practices
+              </i>
+             </a>
+            </span>
+            . HarperBusiness.
+            <a class="mw-redirect" href="/wiki/ISBN_(identifier)" title="ISBN (identifier)">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/978-0060851149" title="Special:BookSources/978-0060851149">
+             <bdi>
+              978-0060851149
+             </bdi>
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Managing+the+Non-profit+Organization%3A+Principles+and+Practices&amp;rft.pub=HarperBusiness&amp;rft.date=2006&amp;rft.isbn=978-0060851149&amp;rft.aulast=Drucker&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmanagingnonprofi0000druc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-12">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-12">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFAnsberger2008">
+            Ansberger, Paul (2008).
+            <a class="external text" href="https://www.irs.gov/pub/irs-soi/tehistory.pdf" rel="nofollow">
+             "A History of the Tax-Exempt Sector: An SOI Perspective"
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            .
+            <i>
+             Statistics of Income Bulletin
+            </i>
+            . Winter 2008: 105–135.
+            <a class="external text" href="https://web.archive.org/web/20210320102703/https://www.irs.gov/pub/irs-soi/tehistory.pdf" rel="nofollow">
+             Archived
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              23 September
+             </span>
+             2020
+            </span>
+            – via IRS.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Statistics+of+Income+Bulletin&amp;rft.atitle=A+History+of+the+Tax-Exempt+Sector%3A+An+SOI+Perspective&amp;rft.volume=Winter+2008&amp;rft.pages=105-135&amp;rft.date=2008&amp;rft.aulast=Ansberger&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fwww.irs.gov%2Fpub%2Firs-soi%2Ftehistory.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-13">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-13">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.fairvote.org/?page=6" rel="nofollow">
+            FairVote – Board of Directors
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20081030044259/http://fairvote.org/?page=6" rel="nofollow">
+            Archived
+           </a>
+           30 October 2008 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-14">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-14">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://www.fairvote.org/?page=168" rel="nofollow">
+            FairVote – FAQs
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20081023121012/http://www.fairvote.org/?page=168" rel="nofollow">
+            Archived
+           </a>
+           23 October 2008 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-15">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-15">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="http://norml.org/index.cfm?Group_ID=3416" rel="nofollow">
+            NORML Board of Directors – NORML
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20081030033542/http://www.norml.org/index.cfm?Group_ID=3416" rel="nofollow">
+            Archived
+           </a>
+           30 October 2008 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-16">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-16">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation book cs1">
+            <a class="external text" href="https://books.google.com/books?id=I9zBptuV1-wC&amp;q=The+Model+Nonprofit+Corporation+Act+imposes+many+complexities+and+requirements+on+membership+decision-making&amp;pg=PA12" rel="nofollow">
+             <i>
+              How to Convert Taxes into Profits: Professional Guide for Non Profit Organizations
+             </i>
+            </a>
+            . International Business Publications. 20 March 2009. p. 12.
+            <a class="mw-redirect" href="/wiki/ISBN_(identifier)" title="ISBN (identifier)">
+             ISBN
+            </a>
+            <a href="/wiki/Special:BookSources/9781438722160" title="Special:BookSources/9781438722160">
+             <bdi>
+              9781438722160
+             </bdi>
+            </a>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 October
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+to+Convert+Taxes+into+Profits%3A+Professional+Guide+for+Non+Profit+Organizations&amp;rft.pages=12&amp;rft.pub=International+Business+Publications&amp;rft.date=2009-03-20&amp;rft.isbn=9781438722160&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DI9zBptuV1-wC%26q%3DThe%2BModel%2BNonprofit%2BCorporation%2BAct%2Bimposes%2Bmany%2Bcomplexities%2Band%2Brequirements%2Bon%2Bmembership%2Bdecision-making%26pg%3DPA12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-17">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-17">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="https://wikimediafoundation.org/wiki/Wikimedia_Foundation_bylaws#ARTICLE_III_-_MEMBERSHIP" rel="nofollow">
+             "Bylaws"
+            </a>
+            . Wikimedia Foundation. 14 July 2010.
+            <a class="external text" href="https://web.archive.org/web/20080123082936/http://wikimediafoundation.org/wiki/Wikimedia_Foundation_bylaws#ARTICLE_III_-_MEMBERSHIP" rel="nofollow">
+             Archived
+            </a>
+            from the original on 23 January 2008
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              31 July
+             </span>
+             2010
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bylaws&amp;rft.pub=Wikimedia+Foundation&amp;rft.date=2010-07-14&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FWikimedia_Foundation_bylaws%23ARTICLE_III_-_MEMBERSHIP&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-18">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-18">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFMalamut,_Michael_E.Blach,_Thomas_J.2008">
+            Malamut, Michael E. &amp; Blach, Thomas J. (2008). "ABA Code Revision Raises Concerns for Democracy and Parliamentary Law in Nonprofits". National Parliamentarian, Volume 69, No. 1.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=ABA+Code+Revision+Raises+Concerns+for+Democracy+and+Parliamentary+Law+in+Nonprofits&amp;rft.date=2008&amp;rft.au=Malamut%2C+Michael+E.&amp;rft.au=Blach%2C+Thomas+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+           <span class="cs1-hidden-error error citation-comment">
+            Cite journal requires
+            <code class="cs1-code">
+             |journal=
+            </code>
+            (
+            <a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">
+             help
+            </a>
+            )
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-19">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-19">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <i>
+            Charity on Trial: What You Need to Know Before You Give
+           </i>
+           / Doug White (2007)
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <a class="mw-redirect" href="/wiki/ISBN_(identifier)" title="ISBN (identifier)">
+            ISBN
+           </a>
+           <a href="/wiki/Special:BookSources/1-56980-301-3" title="Special:BookSources/1-56980-301-3">
+            1-56980-301-3
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-20">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-20">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <a class="external text" href="https://ssrn.com/abstract=727363" rel="nofollow">
+            SSRN-Voluntary Disclosure in Nonprofit Organizations: an Exploratory Study by Bruce Behn, Delwyn DeVries, Jing Lin
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20210320102706/https://papers.ssrn.com/sol3/papers.cfm?abstract_id=727363" rel="nofollow">
+            Archived
+           </a>
+           20 March 2021 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           .
+          </span>
+         </li>
+         <li id="cite_note-21">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-21">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="https://web.archive.org/web/20121016211718/http://www.irs.gov/Charities-%26-Non-Profits/Frequently-Asked-Questions-About-Applying-for-Tax-Exemption" rel="nofollow">
+             "Applying for Exemption – Difference Between Nonprofit and Tax-Exempt Status"
+            </a>
+            . Irs.gov. Archived from
+            <a class="external text" href="https://www.irs.gov/Charities-&amp;-Non-Profits/Frequently-Asked-Questions-About-Applying-for-Tax-Exemption" rel="nofollow">
+             the original
+            </a>
+            on 16 October 2012
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              18 October
+             </span>
+             2012
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Applying+for+Exemption+%E2%80%93+Difference+Between+Nonprofit+and+Tax-Exempt+Status&amp;rft.pub=Irs.gov&amp;rft_id=https%3A%2F%2Fwww.irs.gov%2FCharities-%26-Non-Profits%2FFrequently-Asked-Questions-About-Applying-for-Tax-Exemption&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-22">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-22">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           The Nonprofit Handbook: Everything You Need to Know to Start and Run Your Nonprofit Organization (Paperback), Gary M. Grobman, White Hat Communications, 2008.
+          </span>
+         </li>
+         <li id="cite_note-23">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-23">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1">
+            <a class="external text" href="http://oxforddictionaries.com/definition/english/not-for-profit?q=not-for-profit+" rel="nofollow">
+             "not-for-profit – definition of not-for-profit in English from the Oxford dictionary"
+            </a>
+            .
+            <a class="external text" href="https://web.archive.org/web/20210320102702/https://languages.oup.com/" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              14 May
+             </span>
+             2015
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=not-for-profit+%E2%80%93+definition+of+not-for-profit+in+English+from+the+Oxford+dictionary&amp;rft_id=http%3A%2F%2Foxforddictionaries.com%2Fdefinition%2Fenglish%2Fnot-for-profit%3Fq%3Dnot-for-profit%2B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-24">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-24">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFUK2020">
+            UK, Government (12 October 2020).
+            <a class="external text" href="https://www.gov.uk/charities-and-tax" rel="nofollow">
+             "Charities and tax"
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Charities+and+tax&amp;rft.date=2020-10-12&amp;rft.aulast=UK&amp;rft.aufirst=Government&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fcharities-and-tax&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-25">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-25">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation news cs1" id="CITEREFPaul_Egan2021">
+            Paul Egan (14 May 2021).
+            <a class="external text" href="https://www.freep.com/story/news/politics/elections/2021/05/14/whitmer-discloses-cost-florida-trip-how-paid/5097543001/" rel="nofollow">
+             "Gov. Whitmer discloses cost of trip to visit her father and how it was paid for"
+            </a>
+            .
+            <i>
+             <a href="/wiki/Detroit_Free_Press" title="Detroit Free Press">
+              Detroit Free Press
+             </a>
+            </i>
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              19 May
+             </span>
+             2021
+            </span>
+            .
+            <q>
+             incorporated in 2018 under Section 501c4 of the Internal Revenue Code, state records show. Such "social welfare" nonprofit funds are commonly used by state and local officeholders but have been the source of past controversies, notably for former Detroit Mayor Kwame Kilpatrick
+            </q>
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Detroit+Free+Press&amp;rft.atitle=Gov.+Whitmer+discloses+cost+of+trip+to+visit+her+father+and+how+it+was+paid+for&amp;rft.date=2021-05-14&amp;rft.au=Paul+Egan&amp;rft_id=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Fpolitics%2Felections%2F2021%2F05%2F14%2Fwhitmer-discloses-cost-florida-trip-how-paid%2F5097543001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-26">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-26">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFBlockRosenberg2002">
+            Block, Stephen R.; Rosenberg, Steven (Summer 2002). "Toward and Understanding of Founder's Syndrome".
+            <i>
+             Nonprofit Management &amp; Leadership
+            </i>
+            .
+            <b>
+             12
+            </b>
+            (4): 353.
+            <a class="mw-redirect" href="/wiki/Doi_(identifier)" title="Doi (identifier)">
+             doi
+            </a>
+            :
+            <a class="external text" href="https://doi.org/10.1002%2Fnml.12403" rel="nofollow">
+             10.1002/nml.12403
+            </a>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nonprofit+Management+%26+Leadership&amp;rft.atitle=Toward+and+Understanding+of+Founder%27s+Syndrome&amp;rft.ssn=summer&amp;rft.volume=12&amp;rft.issue=4&amp;rft.pages=353&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1002%2Fnml.12403&amp;rft.aulast=Block&amp;rft.aufirst=Stephen+R.&amp;rft.au=Rosenberg%2C+Steven&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-27">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-27">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation book cs1">
+            <a class="external text" href="https://web.archive.org/web/20110104103321/http://www.vscpa.com/content/Visitors/Nonprofit_Resources/Audit_Guide.aspx" rel="nofollow">
+             <i>
+              Audit Guide for Small Nonprofit Organizations
+             </i>
+            </a>
+            . Archived from
+            <a class="external text" href="http://www.vscpa.com/content/Visitors/Nonprofit_Resources/Audit_Guide.aspx" rel="nofollow">
+             the original
+            </a>
+            on 4 January 2011
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              21 July
+             </span>
+             2010
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Audit+Guide+for+Small+Nonprofit+Organizations&amp;rft_id=http%3A%2F%2Fwww.vscpa.com%2Fcontent%2FVisitors%2FNonprofit_Resources%2FAudit_Guide.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-28">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-28">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation news cs1" id="CITEREFEdwardsHulme2002">
+            Edwards, M.; Hulme, D., eds. (2002). "NGO Performance and Accountability: Introduction and Overview (Chapter 11)".
+            <i>
+             The Earthscan Reader on NGO Management
+            </i>
+            . UK: Earthscan Publications Ltd.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Earthscan+Reader+on+NGO+Management&amp;rft.atitle=NGO+Performance+and+Accountability%3A+Introduction+and+Overview+%28Chapter+11%29&amp;rft.date=2002&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-29">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-29">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation news cs1" id="CITEREFChertavian,_G.2013">
+            Chertavian, G. (March 2013).
+            <a class="external text" href="https://hbr.org/2013/03/nonprofits-need-to-compete-for" rel="nofollow">
+             "Nonprofits Need to Compete for Top Talent"
+            </a>
+            .
+            <i>
+             Harvard Business Review
+            </i>
+            .
+            <a class="external text" href="https://web.archive.org/web/20210320102715/https://hbr.org/2013/03/nonprofits-need-to-compete-for" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 December
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Harvard+Business+Review&amp;rft.atitle=Nonprofits+Need+to+Compete+for+Top+Talent&amp;rft.date=2013-03&amp;rft.au=Chertavian%2C+G.&amp;rft_id=https%3A%2F%2Fhbr.org%2F2013%2F03%2Fnonprofits-need-to-compete-for&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-auto-30">
+          <span class="mw-cite-backlink">
+           ^
+           <a href="#cite_ref-auto_30-0">
+            <sup>
+             <i>
+              <b>
+               a
+              </b>
+             </i>
+            </sup>
+           </a>
+           <a href="#cite_ref-auto_30-1">
+            <sup>
+             <i>
+              <b>
+               b
+              </b>
+             </i>
+            </sup>
+           </a>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFMaw2014">
+            Maw, Liz (9 July 2014).
+            <a class="external text" href="https://web.archive.org/web/20180807002149/https://ssir.org/articles/entry/winning_the_talent_game" rel="nofollow">
+             "Winning the Talent Game"
+            </a>
+            .
+            <i>
+             Stanford Social Innovation Review
+            </i>
+            . Archived from
+            <a class="external text" href="https://ssir.org/articles/entry/winning_the_talent_game" rel="nofollow">
+             the original
+            </a>
+            on 7 August 2018
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              6 August
+             </span>
+             2018
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Stanford+Social+Innovation+Review&amp;rft.atitle=Winning+the+Talent+Game&amp;rft.date=2014-07-09&amp;rft.aulast=Maw&amp;rft.aufirst=Liz&amp;rft_id=https%3A%2F%2Fssir.org%2Farticles%2Fentry%2Fwinning_the_talent_game&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-31">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-31">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFBecchettiCastriotaDepedri2014">
+            Becchetti, Leonardo; Castriota, Stefano; Depedri, Sara (1 August 2014).
+            <a class="external text" href="https://academic.oup.com/icc/article/23/4/1087/819911" rel="nofollow">
+             "Working in the for-profit versus not-for-profit sector: what difference does it make? An inquiry on preferences of voluntary and involuntary movers"
+            </a>
+            .
+            <i>
+             Industrial and Corporate Change
+            </i>
+            .
+            <b>
+             23
+            </b>
+            (4): 1087–1120.
+            <a class="mw-redirect" href="/wiki/Doi_(identifier)" title="Doi (identifier)">
+             doi
+            </a>
+            :
+            <span class="cs1-lock-free" title="Freely accessible">
+             <a class="external text" href="https://doi.org/10.1093%2Ficc%2Fdtt044" rel="nofollow">
+              10.1093/icc/dtt044
+             </a>
+            </span>
+            .
+            <a class="external text" href="https://web.archive.org/web/20210320102733/https://academic.oup.com/icc/article/23/4/1087/819911" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              28 March
+             </span>
+             2018
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+and+Corporate+Change&amp;rft.atitle=Working+in+the+for-profit+versus+not-for-profit+sector%3A+what+difference+does+it+make%3F+An+inquiry+on+preferences+of+voluntary+and+involuntary+movers&amp;rft.volume=23&amp;rft.issue=4&amp;rft.pages=1087-1120&amp;rft.date=2014-08-01&amp;rft_id=info%3Adoi%2F10.1093%2Ficc%2Fdtt044&amp;rft.aulast=Becchetti&amp;rft.aufirst=Leonardo&amp;rft.au=Castriota%2C+Stefano&amp;rft.au=Depedri%2C+Sara&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Ficc%2Farticle%2F23%2F4%2F1087%2F819911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-32">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-32">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFCohen2010">
+            Cohen, R. (21 June 2010).
+            <a class="external text" href="https://web.archive.org/web/20141211005101/https://nonprofitquarterly.org/management/5506-nonprofit-salaries-achieving-parity-with-the-private-sector.html" rel="nofollow">
+             "Nonprofit Salaries: Achieving Parity with the Private Sector"
+            </a>
+            .
+            <i>
+             Nonprofit Quarterly
+            </i>
+            . Archived from
+            <a class="external text" href="https://nonprofitquarterly.org/management/5506-nonprofit-salaries-achieving-parity-with-the-private-sector.html" rel="nofollow">
+             the original
+            </a>
+            on 11 December 2014
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 December
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nonprofit+Quarterly&amp;rft.atitle=Nonprofit+Salaries%3A+Achieving+Parity+with+the+Private+Sector&amp;rft.date=2010-06-21&amp;rft.aulast=Cohen&amp;rft.aufirst=R.&amp;rft_id=https%3A%2F%2Fnonprofitquarterly.org%2Fmanagement%2F5506-nonprofit-salaries-achieving-parity-with-the-private-sector.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-33">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-33">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFCoffman2002">
+            Coffman, S. (23 December 2002).
+            <a class="external text" href="http://www.bizjournals.com/columbus/stories/2002/12/23/focus4.html?page=all" rel="nofollow">
+             "Nonprofits Can Compete with Employee Benefits"
+            </a>
+            .
+            <i>
+             Columbus Business First
+            </i>
+            .
+            <a class="external text" href="https://web.archive.org/web/20210320102708/https://www.bizjournals.com/columbus/stories/2002/12/23/focus4.html?page=all" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              10 December
+             </span>
+             2014
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Columbus+Business+First&amp;rft.atitle=Nonprofits+Can+Compete+with+Employee+Benefits&amp;rft.date=2002-12-23&amp;rft.aulast=Coffman&amp;rft.aufirst=S.&amp;rft_id=http%3A%2F%2Fwww.bizjournals.com%2Fcolumbus%2Fstories%2F2002%2F12%2F23%2Ffocus4.html%3Fpage%3Dall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-34">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-34">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation web cs1" id="CITEREFFox2014">
+            Fox, T. (18 March 2014).
+            <a class="external text" href="https://www.washingtonpost.com/blogs/on-leadership/wp/2014/03/18/how-to-compete-with-the-private-sector-for-young-workers/" rel="nofollow">
+             "How to Compete with the Private Sector for Young Workers"
+            </a>
+            .
+            <i>
+             The Washington Post
+            </i>
+            .
+            <a class="external text" href="https://web.archive.org/web/20210320102730/https://www.washingtonpost.com/news/on-leadership/wp/2014/03/18/how-to-compete-with-the-private-sector-for-young-workers/" rel="nofollow">
+             Archived
+            </a>
+            from the original on 20 March 2021
+            <span class="reference-accessdate">
+             . Retrieved
+             <span class="nowrap">
+              6 September
+             </span>
+             2017
+            </span>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=How+to+Compete+with+the+Private+Sector+for+Young+Workers&amp;rft.date=2014-03-18&amp;rft.aulast=Fox&amp;rft.aufirst=T.&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fblogs%2Fon-leadership%2Fwp%2F2014%2F03%2F18%2Fhow-to-compete-with-the-private-sector-for-young-workers%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-35">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-35">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation book cs1" id="CITEREFGlasiusKaldorAnheier2005">
+            Glasius, Marlies; Kaldor, Mary; Anheier, Helmut, eds. (2005).
+            <a class="external text" href="https://web.archive.org/web/20070424172538/http://www.lse.ac.uk/Depts/global/yearbook06-7.htm" rel="nofollow">
+             <i>
+              Global Civil Society 2006/7
+             </i>
+            </a>
+            . Sage. Archived from
+            <a class="external text" href="http://www.lse.ac.uk/Depts/global/yearbook06-7.htm" rel="nofollow">
+             the original
+            </a>
+            on 24 April 2007.
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Global+Civil+Society+2006%2F7&amp;rft.pub=Sage&amp;rft.date=2005&amp;rft_id=http%3A%2F%2Fwww.lse.ac.uk%2FDepts%2Fglobal%2Fyearbook06-7.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+         <li id="cite_note-36">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-36">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Drayton, W:
+           <a class="external text" href="http://www.alliancemagazine.org/opinion/words-matter/" rel="nofollow">
+            "Words Matter"
+           </a>
+           <a class="external text" href="https://web.archive.org/web/20171107010444/http://www.alliancemagazine.org/opinion/words-matter/" rel="nofollow">
+            Archived
+           </a>
+           7 November 2017 at the
+           <a href="/wiki/Wayback_Machine" title="Wayback Machine">
+            Wayback Machine
+           </a>
+           . Alliance Magazine, Vol. 12/No.2, June 2007.
+          </span>
+         </li>
+         <li id="cite_note-37">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-37">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           Alvarado, Elliott I.: "Nonprofit or Not-for-profit – Which Are You?", page 6-7. Nonprofit World, Volume 18, Number 6, November/December 2000.
+          </span>
+         </li>
+         <li id="cite_note-38">
+          <span class="mw-cite-backlink">
+           <b>
+            <a href="#cite_ref-38">
+             ^
+            </a>
+           </b>
+          </span>
+          <span class="reference-text">
+           <link href="mw-data:TemplateStyles:r999302996" rel="mw-deduplicated-inline-style"/>
+           <cite class="citation journal cs1" id="CITEREFCampetellaGonzález_BombalRoitter1998">
+            Campetella, Andrea; González Bombal, Inés; Roitter, Mario (1998).
+            <a class="external text" href="http://ccss.jhu.edu/wp-content/uploads/downloads/2011/08/Argentina_CNP_WP33_1998.pdf" rel="nofollow">
+             "Defining the Nonprofit Sector: Argentina"
+            </a>
+            <span class="cs1-format">
+             (PDF)
+            </span>
+            .
+            <i>
+             Working Papers of the Johns Hopkins Comparative Nonprofit Sector Project
+            </i>
+            .
+            <b>
+             33
+            </b>
+            .
+           </cite>
+           <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Working+Papers+of+the+Johns+Hopkins+Comparative+Nonprofit+Sector+Project&amp;rft.atitle=Defining+the+Nonprofit+Sector%3A+Argentina&amp;rft.volume=33&amp;rft.date=1998&amp;rft.aulast=Campetella&amp;rft.aufirst=Andrea&amp;rft.au=Gonz%C3%A1lez+Bombal%2C+In%C3%A9s&amp;rft.au=Roitter%2C+Mario&amp;rft_id=http%3A%2F%2Fccss.jhu.edu%2Fwp-content%2Fuploads%2Fdownloads%2F2011%2F08%2FArgentina_CNP_WP33_1998.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANonprofit+organization">
+           </span>
+          </span>
+         </li>
+        </ol>
+       </div>
+      </div>
+      <h2>
+       <span class="mw-headline" id="Further_reading">
+        Further reading
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=17" title="Edit section: Further reading">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <ul>
+       <li>
+        Snyder, Gary R.,
+        <a class="external text" href="https://books.google.com/books?id=5OFFNw0a1dkC&amp;printsec=frontcover" rel="nofollow">
+         <i>
+          Nonprofits: On the Brink : How Nonprofits have lost their way and some essentials to bring them back
+         </i>
+        </a>
+        , 2006.
+       </li>
+       <li>
+        P. Hartigan, 2006,
+        <a class="external text" href="https://archive.today/20130105123646/http://www3.interscience.wiley.com/journal/118624146/abstract" rel="nofollow">
+         'It's about people, not profits'
+        </a>
+        ,
+        <i>
+         Business Strategy Review
+        </i>
+        , Winter 2006
+       </li>
+      </ul>
+      <h2>
+       <span class="mw-headline" id="External_links">
+        External links
+       </span>
+       <span class="mw-editsection">
+        <span class="mw-editsection-bracket">
+         [
+        </span>
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=edit&amp;section=18" title="Edit section: External links">
+         edit
+        </a>
+        <span class="mw-editsection-bracket">
+         ]
+        </span>
+       </span>
+      </h2>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/>
+         </td>
+         <td class="mbox-text plainlist">
+          Wikimedia Commons has media related to
+          <span style="font-weight: bold; font-style: italic;">
+           <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Non-profit_organizations" title="commons:Category:Non-profit organizations">
+            Non-profit organizations
+           </a>
+          </span>
+          .
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <img alt="" class="noviewer" data-file-height="355" data-file-width="300" decoding="async" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/>
+         </td>
+         <td class="mbox-text plainlist">
+          Wikiquote has quotations related to:
+          <i>
+           <b>
+            <a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Nonprofit_organization" title="q:Special:Search/Nonprofit organization">
+             Nonprofit organization
+            </a>
+           </b>
+          </i>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <ul>
+       <li>
+        <a class="external text" href="https://curlie.org/Society/Organizations/Nonprofit_Resources/" rel="nofollow">
+         Nonprofit Resources
+        </a>
+        at
+        <a class="mw-redirect" href="/wiki/Curlie" title="Curlie">
+         Curlie
+        </a>
+       </li>
+       <li>
+        <a class="external text" href="https://web.archive.org/web/20151107080628/http://www.issuelab.org/issues/profile/nonprofits_and_philanthropy" rel="nofollow">
+         Nonprofits &amp; Philanthropy Research at IssueLab
+        </a>
+       </li>
+      </ul>
+      <div aria-labelledby="Charitable_giving_and_practices" class="navbox" role="navigation" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <style data-mw-deduplicate="TemplateStyles:r992953826">
+            .mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}
+           </style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view">
+              <a href="/wiki/Template:Charity" title="Template:Charity">
+               <abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;" title="View this template">
+                v
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-talk">
+              <a href="/wiki/Template_talk:Charity" title="Template talk:Charity">
+               <abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;" title="Discuss this template">
+                t
+               </abbr>
+              </a>
+             </li>
+             <li class="nv-edit">
+              <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Charity&amp;action=edit">
+               <abbr style=";;background:none transparent;border:none;box-shadow:none;padding:0;;text-decoration:inherit;" title="Edit this template">
+                e
+               </abbr>
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div id="Charitable_giving_and_practices" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Charity_(practice)" title="Charity (practice)">
+             Charitable giving and practices
+            </a>
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Main topics
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Alms" title="Alms">
+               Alms
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Altruism" title="Altruism">
+               Altruism
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Donation" title="Donation">
+               Donation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Fundraising" title="Fundraising">
+               Fundraising
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Philanthropy" title="Philanthropy">
+               Philanthropy
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Volunteering" title="Volunteering">
+               Volunteering
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Types of
+           <a href="/wiki/Charitable_organization" title="Charitable organization">
+            charitable
+            <br/>
+            organizations
+           </a>
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Charitable_trust" title="Charitable trust">
+               Charitable trust / Registered charity
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Foundation_(nonprofit)" title="Foundation (nonprofit)">
+               Foundation
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/Private_foundation" title="Private foundation">
+                 Private
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="/wiki/Mutual-benefit_nonprofit_corporation" title="Mutual-benefit nonprofit corporation">
+               Mutual-benefit nonprofit corporation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">
+               Non-governmental organization
+              </a>
+             </li>
+             <li>
+              <a class="mw-selflink selflink">
+               Nonprofit organization
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Public-benefit_nonprofit_corporation" title="Public-benefit nonprofit corporation">
+               Public-benefit nonprofit corporation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Religious_corporation" title="Religious corporation">
+               Religious corporation
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Voluntary_association" title="Voluntary association">
+               Voluntary association
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Charity and religion
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/D%C4%81na" title="Dāna">
+               Dāna
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Tithe" title="Tithe">
+               Tithe
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Tzedakah" title="Tzedakah">
+               Tzedakah
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Sadaqah" title="Sadaqah">
+               Sadaqah
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Zakat" title="Zakat">
+               Zakat
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           <a class="mw-redirect" href="/wiki/Charity_evaluators" title="Charity evaluators">
+            Charity evaluators
+           </a>
+          </th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Animal_Charity_Evaluators" title="Animal Charity Evaluators">
+               Animal Charity Evaluators
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Charity_Navigator" title="Charity Navigator">
+               Charity Navigator
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/CharityWatch" title="CharityWatch">
+               CharityWatch
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/GiveWell" title="GiveWell">
+               GiveWell
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Giving_What_We_Can" title="Giving What We Can">
+               Giving What We Can
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/GreatNonprofits" title="GreatNonprofits">
+               GreatNonprofits
+              </a>
+             </li>
+             <li>
+              <a class="mw-redirect" href="/wiki/GuideStar" title="GuideStar">
+               GuideStar
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Further topics
+          </th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <a href="/wiki/Alternative_giving" title="Alternative giving">
+               Alternative giving
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ball_(dance_party)" title="Ball (dance party)">
+               Ball (dance party)
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Benefit_concert" title="Benefit concert">
+               Benefit concert
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Charity_fraud" title="Charity fraud">
+               Charity fraud
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Charity_shop" title="Charity shop">
+               Charity / thrift / op shop
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Click-to-donate_site" title="Click-to-donate site">
+               Click-to-donate site
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Drive_(charity)" title="Drive (charity)">
+               Drive
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Donor-advised_fund" title="Donor-advised fund">
+               Donor-advised fund
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Donor_intent" title="Donor intent">
+               Donor intent
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Earning_to_give" title="Earning to give">
+               Earning to give
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Effective_altruism" title="Effective altruism">
+               Effective altruism
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Ethics_of_philanthropy" title="Ethics of philanthropy">
+               Ethics of philanthropy
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/List_of_charitable_foundations" title="List of charitable foundations">
+               List of charitable foundations
+              </a>
+              <ul>
+               <li>
+                <a href="/wiki/List_of_wealthiest_charitable_foundations" title="List of wealthiest charitable foundations">
+                 wealthiest
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="/wiki/Master_of_Nonprofit_Organizations" title="Master of Nonprofit Organizations">
+               Master of Nonprofit Organizations
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Matching_funds" title="Matching funds">
+               Matching funds
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Telethon" title="Telethon">
+               Telethon
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Visiting_the_sick" title="Visiting the sick">
+               Visiting the sick
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Volunteer_grant" title="Volunteer grant">
+               Volunteer grant
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Wall_of_kindness" title="Wall of kindness">
+               Wall of kindness
+              </a>
+             </li>
+             <li>
+              <a href="/wiki/Warm-glow_giving" title="Warm-glow giving">
+               Warm-glow giving
+              </a>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q163740#identifiers&amp;#124;Edit_this_at_Wikidata" class="navbox authority-control" role="navigation" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th class="navbox-title" colspan="2" scope="col">
+           <div id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q163740#identifiers&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Help:Authority_control" title="Help:Authority control">
+             Authority control
+            </a>
+            <a href="https://www.wikidata.org/wiki/Q163740#identifiers" title="Edit this at Wikidata">
+             <img alt="Edit this at Wikidata" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/>
+            </a>
+           </div>
+          </th>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           General
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="uid">
+               <a class="external text" href="https://d-nb.info/gnd/4293729-2" rel="nofollow">
+                Integrated Authority File (Germany)
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           National libraries
+          </th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="uid">
+               <a class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119498393" rel="nofollow">
+                France
+               </a>
+               <a class="external text" href="https://data.bnf.fr/ark:/12148/cb119498393" rel="nofollow">
+                (data)
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="uid">
+               <a class="external text" href="https://id.loc.gov/authorities/subjects/sh85032985" rel="nofollow">
+                United States
+               </a>
+              </span>
+             </li>
+             <li>
+              <span class="uid">
+               <a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00577640" rel="nofollow">
+                Japan
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <th class="navbox-group" scope="row" style="width:1%">
+           Other
+          </th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <ul>
+             <li>
+              <span class="uid">
+               <a class="external text" href="https://catalog.archives.gov/id/10644512" rel="nofollow">
+                National Archives (US)
+               </a>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <!-- 
+NewPP limit report
+Parsed by mw1382
+Cached time: 20210926132618
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.688 seconds
+Real time usage: 0.846 seconds
+Preprocessor visited node count: 3183/1000000
+Post‐expand include size: 98741/2097152 bytes
+Template argument size: 4007/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 99574/5000000 bytes
+Lua time usage: 0.337/10.000 seconds
+Lua memory usage: 9162209/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+      <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  772.877      1 -total
+ 36.79%  284.310      1 Template:Reflist
+  9.73%   75.228      5 Template:Cite_book
+  9.04%   69.848      2 Template:Ambox
+  8.77%   67.783      1 Template:More_citations_needed
+  6.97%   53.908      1 Template:Commons_category
+  6.92%   53.461     12 Template:Cite_web
+  6.69%   51.740      2 Template:Sister_project
+  6.57%   50.762      1 Template:IETF_RFC
+  6.48%   50.073      2 Template:Catalog_lookup_link
+-->
+      <!-- Saved in parser cache with key enwiki:pcache:idhash:72487-0!canonical and timestamp 20210926132617 and revision id 1046593257. Serialized with JSON.
+ -->
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter">
+      Retrieved from "
+      <a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nonprofit_organization&amp;oldid=1046593257">
+       https://en.wikipedia.org/w/index.php?title=Nonprofit_organization&amp;oldid=1046593257
+      </a>
+      "
+     </div>
+    </div>
+    <div class="catlinks" data-mw="interface" id="catlinks">
+     <div class="mw-normal-catlinks" id="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">
+       Categories
+      </a>
+      :
+      <ul>
+       <li>
+        <a href="/wiki/Category:Non-profit_organizations" title="Category:Non-profit organizations">
+         Non-profit organizations
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Types_of_organization" title="Category:Types of organization">
+         Types of organization
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Trade_unions" title="Category:Trade unions">
+         Trade unions
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Television_terminology" title="Category:Television terminology">
+         Television terminology
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Social_economy" title="Category:Social economy">
+         Social economy
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">
+      Hidden categories:
+      <ul>
+       <li>
+        <a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">
+         Webarchive template wayback links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">
+         All articles with dead external links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_dead_external_links_from_August_2018" title="Category:Articles with dead external links from August 2018">
+         Articles with dead external links from August 2018
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">
+         CS1: long volume value
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">
+         CS1 errors: missing periodical
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">
+         Articles with short description
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">
+         Short description is different from Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_needing_additional_references_from_February_2021" title="Category:Articles needing additional references from February 2021">
+         Articles needing additional references from February 2021
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+         All articles needing additional references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_dmy_dates_from_July_2021" title="Category:Use dmy dates from July 2021">
+         Use dmy dates from July 2021
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Use_American_English_from_July_2020" title="Category:Use American English from July 2020">
+         Use American English from July 2020
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">
+         All Wikipedia articles written in American English
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+         All articles with unsourced statements
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2021" title="Category:Articles with unsourced statements from April 2021">
+         Articles with unsourced statements from April 2021
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_limited_geographic_scope_from_July_2019" title="Category:Articles with limited geographic scope from July 2019">
+         Articles with limited geographic scope from July 2019
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:United_States-centric" title="Category:United States-centric">
+         United States-centric
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">
+         All articles lacking reliable references
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_lacking_reliable_references_from_February_2021" title="Category:Articles lacking reliable references from February 2021">
+         Articles lacking reliable references from February 2021
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">
+         Commons category link is on Wikidata
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">
+         Articles with Curlie links
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">
+         Articles with GND identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">
+         Articles with BNF identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">
+         Articles with LCCN identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_NDL_identifiers" title="Category:Articles with NDL identifiers">
+         Articles with NDL identifiers
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Category:Articles_with_NARA_identifiers" title="Category:Articles with NARA identifiers">
+         Articles with NARA identifiers
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="mw-data-after-content">
+   <div class="read-more-container">
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Navigation menu
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-personal-label">
+      <span>
+       Personal tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        Not logged in
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">
+         Talk
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">
+         Contributions
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nonprofit+organization" title="You are encouraged to create an account and log in; however, it is not mandatory">
+         Create account
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nonprofit+organization" title="You're encouraged to log in; however, it's not mandatory. [o]">
+         Log in
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" id="p-namespaces" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-namespaces-label">
+       <span>
+        Namespaces
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-main">
+         <a accesskey="c" href="/wiki/Nonprofit_organization" title="View the content page [c]">
+          Article
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/wiki/Talk:Nonprofit_organization" rel="discussion" title="Discuss improvements to the content page [t]">
+          Talk
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="Change language variant" class="vector-menu-heading" id="p-variants-label">
+       <span>
+        Variants
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" id="p-views" role="navigation">
+      <h3 aria-label="" class="vector-menu-heading" id="p-views-label">
+       <span>
+        Views
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Nonprofit_organization">
+          Read
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=Nonprofit_organization&amp;action=edit" title="Edit this page [e]">
+          Edit
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Nonprofit_organization&amp;action=history" title="Past revisions of this page [h]">
+          View history
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" id="p-cactions" role="navigation" title="More options">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <h3 aria-label="" class="vector-menu-heading" id="p-cactions-label">
+       <span>
+        More
+       </span>
+       <span class="vector-menu-checkbox-expanded">
+        expanded
+       </span>
+       <span class="vector-menu-checkbox-collapsed">
+        collapsed
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Search
+        </label>
+       </h3>
+       <form action="/w/index.php" id="searchform">
+        <div data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" autocapitalize="sentences" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/>
+         <input name="title" type="hidden" value="Special:Search"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/>
+         <input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-navigation-label">
+      <span>
+       Navigation
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">
+         Main page
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contents">
+        <a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">
+         Contents
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-currentevents">
+        <a href="/wiki/Portal:Current_events" title="Articles related to current events">
+         Current events
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Special:Random" title="Visit a randomly selected article [x]">
+         Random article
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-aboutsite">
+        <a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">
+         About Wikipedia
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contactpage">
+        <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">
+         Contact us
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-sitesupport">
+        <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">
+         Donate
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-interaction-label" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" id="p-interaction" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-interaction-label">
+      <span>
+       Contribute
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+         Help
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-introduction">
+        <a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">
+         Learn to edit
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-portal">
+        <a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">
+         Community portal
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]">
+         Recent changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-upload">
+        <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">
+         Upload file
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-tb-label">
+      <span>
+       Tools
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Special:WhatLinksHere/Nonprofit_organization" title="List of all English Wikipedia pages containing links to this page [j]">
+         What links here
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Special:RecentChangesLinked/Nonprofit_organization" rel="nofollow" title="Recent changes in pages linked from this page [k]">
+         Related changes
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-upload">
+        <a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">
+         Upload file
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">
+         Special pages
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Nonprofit_organization&amp;oldid=1046593257" title="Permanent link to this revision of this page">
+         Permanent link
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Nonprofit_organization&amp;action=info" title="More information about this page">
+         Page information
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-cite">
+        <a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nonprofit_organization&amp;id=1046593257&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">
+         Cite this page
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-wikibase">
+        <a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q163740" title="Structured data on this page hosted by Wikidata [g]">
+         Wikidata item
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-coll-print_export-label">
+      <span>
+       Print/export
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Nonprofit_organization&amp;action=show-download-screen" title="Download this page as a PDF file">
+         Download as PDF
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Nonprofit_organization&amp;printable=yes" title="Printable version of this page [p]">
+         Printable version
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" id="p-wikibase-otherprojects" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+      <span>
+       In other projects
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item">
+        <a href="https://commons.wikimedia.org/wiki/Category:Non-profit_organizations" hreflang="en">
+         Wikimedia Commons
+        </a>
+       </li>
+       <li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item">
+        <a href="https://en.wikiquote.org/wiki/Nonprofit_organization" hreflang="en">
+         Wikiquote
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 aria-label="" class="vector-menu-heading" id="p-lang-label">
+      <span>
+       Languages
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af mw-list-item">
+        <a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Organisasie_sonder_winsoogmerk" hreflang="af" lang="af" title="Organisasie sonder winsoogmerk – Afrikaans">
+         Afrikaans
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ar mw-list-item">
+        <a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B8%D9%85%D8%A9_%D8%BA%D9%8A%D8%B1_%D8%B1%D8%A8%D8%AD%D9%8A%D8%A9" hreflang="ar" lang="ar" title="منظمة غير ربحية – Arabic">
+         العربية
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ast mw-list-item">
+        <a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Organizaci%C3%B3n_ensin_%C3%A1nimu_d%27arriquecimientu" hreflang="ast" lang="ast" title="Organización ensin ánimu d'arriquecimientu – Asturian">
+         Asturianu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bn mw-list-item">
+        <a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%9C%E0%A6%A8%E0%A6%95_%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A6%A0%E0%A6%A8" hreflang="bn" lang="bn" title="অলাভজনক সংগঠন – Bangla">
+         বাংলা
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ba mw-list-item">
+        <a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%86%D0%B8%D1%8F%D2%93%D0%B0_%D2%A1%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D2%93%D0%B0%D0%BD_%D0%BE%D0%B9%D0%BE%D1%88%D0%BC%D0%B0" hreflang="ba" lang="ba" title="Коммерцияға ҡарамаған ойошма – Bashkir">
+         Башҡортса
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be mw-list-item">
+        <a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D1%86%D1%8B%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Некамерцыйная арганізацыя – Belarusian">
+         Беларуская
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item">
+        <a class="interlanguage-link-target" href="https://be-tarask.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BA%D0%B0%D0%BC%D1%8D%D1%80%D1%86%D1%8B%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be-tarask" lang="be-tarask" title="Некамэрцыйная арганізацыя – Belarusian (Taraškievica orthography)">
+         Беларуская (тарашкевіца)
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-bg mw-list-item">
+        <a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81_%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0_%D1%86%D0%B5%D0%BB" hreflang="bg" lang="bg" title="Организация с нестопанска цел – Bulgarian">
+         Български
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ca mw-list-item">
+        <a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Organitzaci%C3%B3_sense_%C3%A0nim_de_lucre" hreflang="ca" lang="ca" title="Organització sense ànim de lucre – Catalan">
+         Català
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-cs mw-list-item">
+        <a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Neziskov%C3%A1_organizace" hreflang="cs" lang="cs" title="Nezisková organizace – Czech">
+         Čeština
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-da mw-list-item">
+        <a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Almennyttig_organisation" hreflang="da" lang="da" title="Almennyttig organisation – Danish">
+         Dansk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-de mw-list-item">
+        <a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Non-Profit-Organisation" hreflang="de" lang="de" title="Non-Profit-Organisation – German">
+         Deutsch
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-et mw-list-item">
+        <a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Mittetulundus%C3%BChendus" hreflang="et" lang="et" title="Mittetulundusühendus – Estonian">
+         Eesti
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-el mw-list-item">
+        <a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B7_%CE%BA%CE%B5%CF%81%CE%B4%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%B9%CE%BA%CE%AE_%CE%BF%CF%81%CE%B3%CE%AC%CE%BD%CF%89%CF%83%CE%B7" hreflang="el" lang="el" title="Μη κερδοσκοπική οργάνωση – Greek">
+         Ελληνικά
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-es mw-list-item">
+        <a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Organizaci%C3%B3n_sin_%C3%A1nimo_de_lucro" hreflang="es" lang="es" title="Organización sin ánimo de lucro – Spanish">
+         Español
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eo mw-list-item">
+        <a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ne-profitcela_organiza%C4%B5o" hreflang="eo" lang="eo" title="Ne-profitcela organizaĵo – Esperanto">
+         Esperanto
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-eu mw-list-item">
+        <a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Irabazteko_asmorik_gabeko_erakunde" hreflang="eu" lang="eu" title="Irabazteko asmorik gabeko erakunde – Basque">
+         Euskara
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fa mw-list-item">
+        <a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86_%D8%BA%DB%8C%D8%B1%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B9%DB%8C" hreflang="fa" lang="fa" title="سازمان غیرانتفاعی – Persian">
+         فارسی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fr mw-list-item">
+        <a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Organisme_sans_but_lucratif" hreflang="fr" lang="fr" title="Organisme sans but lucratif – French">
+         Français
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fy mw-list-item">
+        <a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Non-profit" hreflang="fy" lang="fy" title="Non-profit – Western Frisian">
+         Frysk
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-gl mw-list-item">
+        <a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Organizaci%C3%B3n_sen_%C3%A1nimo_de_lucro" hreflang="gl" lang="gl" title="Organización sen ánimo de lucro – Galician">
+         Galego
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-inh mw-list-item">
+        <a class="interlanguage-link-target" href="https://inh.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%86%D0%B5_%D0%B9%D0%BE%D0%B0%D1%86%D0%B0_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8" hreflang="inh" lang="inh" title="Коммерце йоаца организаци – Ingush">
+         ГӀалгӀай
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hak mw-list-item">
+        <a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/F%C3%AE-y%C3%A0ng-li_Ch%C3%BB-ch%E1%B9%B3t" hreflang="hak" lang="hak" title="Fî-yàng-li Chû-chṳt – Hakka Chinese">
+         客家語/Hak-kâ-ngî
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ko mw-list-item">
+        <a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B9%84%EC%98%81%EB%A6%AC_%EB%8B%A8%EC%B2%B4" hreflang="ko" lang="ko" title="비영리 단체 – Korean">
+         한국어
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hi mw-list-item">
+        <a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%AD_%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B7_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE" hreflang="hi" lang="hi" title="लाभ निरपेक्ष संस्था – Hindi">
+         हिन्दी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hr mw-list-item">
+        <a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Neprofitna_organizacija" hreflang="hr" lang="hr" title="Neprofitna organizacija – Croatian">
+         Hrvatski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-id mw-list-item">
+        <a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Organisasi_nirlaba" hreflang="id" lang="id" title="Organisasi nirlaba – Indonesian">
+         Bahasa Indonesia
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-it mw-list-item">
+        <a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Organizzazione_non_a_scopo_di_lucro" hreflang="it" lang="it" title="Organizzazione non a scopo di lucro – Italian">
+         Italiano
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-he mw-list-item">
+        <a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A1%D7%93_%D7%9C%D7%9C%D7%90_%D7%9B%D7%95%D7%95%D7%A0%D7%AA_%D7%A8%D7%95%D7%95%D7%97" hreflang="he" lang="he" title="מוסד ללא כוונת רווח – Hebrew">
+         עברית
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-kk mw-list-item">
+        <a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D0%B5%D0%BC%D0%B5%D1%81_%D2%B1%D0%B9%D1%8B%D0%BC" hreflang="kk" lang="kk" title="Коммерциялық емес ұйым – Kazakh">
+         Қазақша
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-la mw-list-item">
+        <a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Societas_non_lucrativa" hreflang="la" lang="la" title="Societas non lucrativa – Latin">
+         Latina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lv mw-list-item">
+        <a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Bezpe%C4%BC%C5%86as_organiz%C4%81cija" hreflang="lv" lang="lv" title="Bezpeļņas organizācija – Latvian">
+         Latviešu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-lt mw-list-item">
+        <a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Ne_pelno_organizacija" hreflang="lt" lang="lt" title="Ne pelno organizacija – Lithuanian">
+         Lietuvių
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-hu mw-list-item">
+        <a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Nonprofit_szervezet" hreflang="hu" lang="hu" title="Nonprofit szervezet – Hungarian">
+         Magyar
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ml mw-list-item">
+        <a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%A6%E0%B5%8D%E0%B4%A7_%E0%B4%B8%E0%B4%82%E0%B4%98%E0%B4%9F%E0%B4%A8%E0%B4%95%E0%B5%BE" hreflang="ml" lang="ml" title="സന്നദ്ധ സംഘടനകൾ – Malayalam">
+         മലയാളം
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-mr mw-list-item">
+        <a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BE-%E0%A4%A8%E0%A4%AB%E0%A4%BE_%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE" hreflang="mr" lang="mr" title="विना-नफा संस्था – Marathi">
+         मराठी
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ms mw-list-item">
+        <a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pertubuhan_bukan_untung" hreflang="ms" lang="ms" title="Pertubuhan bukan untung – Malay">
+         Bahasa Melayu
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-min mw-list-item">
+        <a class="interlanguage-link-target" href="https://min.wikipedia.org/wiki/Organisasi_nirlaba" hreflang="min" lang="min" title="Organisasi nirlaba – Minangkabau">
+         Minangkabau
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-nl mw-list-item">
+        <a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Non-profit" hreflang="nl" lang="nl" title="Non-profit – Dutch">
+         Nederlands
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ja mw-list-item">
+        <a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%96%B6%E5%88%A9%E5%9B%A3%E4%BD%93" hreflang="ja" lang="ja" title="非営利団体 – Japanese">
+         日本語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-no mw-list-item">
+        <a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ideell_organisasjon" hreflang="nb" lang="nb" title="Ideell organisasjon – Norwegian Bokmål">
+         Norsk bokmål
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pa mw-list-item">
+        <a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%88%E0%A8%B0-%E0%A8%B2%E0%A8%BE%E0%A8%AD%E0%A8%95%E0%A8%BE%E0%A8%B0%E0%A9%80_%E0%A8%B8%E0%A9%B0%E0%A8%B8%E0%A8%A5%E0%A8%BE" hreflang="pa" lang="pa" title="ਗੈਰ-ਲਾਭਕਾਰੀ ਸੰਸਥਾ – Punjabi">
+         ਪੰਜਾਬੀ
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pl mw-list-item">
+        <a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Organizacja_non-profit" hreflang="pl" lang="pl" title="Organizacja non-profit – Polish">
+         Polski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-pt mw-list-item">
+        <a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Organiza%C3%A7%C3%A3o_sem_fins_lucrativos" hreflang="pt" lang="pt" title="Organização sem fins lucrativos – Portuguese">
+         Português
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ro mw-list-item">
+        <a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Organiza%C8%9Bie_f%C4%83r%C4%83_scop_lucrativ" hreflang="ro" lang="ro" title="Organizație fără scop lucrativ – Romanian">
+         Română
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ru mw-list-item">
+        <a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Некоммерческая организация – Russian">
+         Русский
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sq mw-list-item">
+        <a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Pa_profit" hreflang="sq" lang="sq" title="Pa profit – Albanian">
+         Shqip
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-si mw-list-item">
+        <a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%BD%E0%B7%8F%E0%B6%B7_%E0%B6%B1%E0%B7%9C%E0%B6%B4%E0%B6%AD%E0%B6%B1_%E0%B7%83%E0%B6%82%E0%B7%80%E0%B7%92%E0%B6%B0%E0%B7%8F%E0%B6%B1" hreflang="si" lang="si" title="ලාභ නොපතන සංවිධාන – Sinhala">
+         සිංහල
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-simple mw-list-item">
+        <a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Nonprofit_organization" hreflang="en-simple" lang="en-simple" title="Nonprofit organization – Simple English">
+         Simple English
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sk mw-list-item">
+        <a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Neziskov%C3%A1_organiz%C3%A1cia" hreflang="sk" lang="sk" title="Nezisková organizácia – Slovak">
+         Slovenčina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sl mw-list-item">
+        <a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Neprofitna_organizacija" hreflang="sl" lang="sl" title="Neprofitna organizacija – Slovenian">
+         Slovenščina
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ckb mw-list-item">
+        <a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%95%DB%8E%DA%A9%D8%AE%D8%B1%D8%A7%D9%88%DB%95%DB%8C_%D8%B3%D9%88%D9%88%D8%AF%D9%86%DB%95%D8%AE%D9%88%D8%A7%D8%B2" hreflang="ckb" lang="ckb" title="ڕێکخراوەی سوودنەخواز – Central Kurdish">
+         کوردی
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sr mw-list-item">
+        <a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D1%82%D0%BD%D0%B0_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Непрофитна организација – Serbian">
+         Српски / srpski
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sh mw-list-item">
+        <a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Neprofitna_organizacija" hreflang="sh" lang="sh" title="Neprofitna organizacija – Serbo-Croatian">
+         Srpskohrvatski / српскохрватски
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-fi mw-list-item">
+        <a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Yleishy%C3%B6dyllinen_yhteis%C3%B6" hreflang="fi" lang="fi" title="Yleishyödyllinen yhteisö – Finnish">
+         Suomi
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-sv mw-list-item">
+        <a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Ideell_organisation" hreflang="sv" lang="sv" title="Ideell organisation – Swedish">
+         Svenska
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tl mw-list-item">
+        <a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Samahang_hindi_pangkalakalan" hreflang="tl" lang="tl" title="Samahang hindi pangkalakalan – Tagalog">
+         Tagalog
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ta mw-list-item">
+        <a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B2%E0%AE%BE%E0%AE%AA_%E0%AE%A8%E0%AF%8B%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1_%E0%AE%85%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="இலாப நோக்கற்ற அமைப்பு – Tamil">
+         தமிழ்
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tt mw-list-item">
+        <a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D1%8B%D1%88%D1%81%D1%8B%D0%B7_%D0%BE%D0%B5%D1%88%D0%BC%D0%B0" hreflang="tt" lang="tt" title="Табышсыз оешма – Tatar">
+         Татарча/tatarça
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-th mw-list-item">
+        <a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B3%E0%B9%84%E0%B8%A3" hreflang="th" lang="th" title="องค์การไม่แสวงหาผลกำไร – Thai">
+         ไทย
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-tr mw-list-item">
+        <a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/K%C3%A2r_amac%C4%B1_g%C3%BCtmeyen_kurulu%C5%9F" hreflang="tr" lang="tr" title="Kâr amacı gütmeyen kuruluş – Turkish">
+         Türkçe
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-uk mw-list-item">
+        <a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Неприбуткова організація – Ukrainian">
+         Українська
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-ur mw-list-item">
+        <a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%BA%DB%8C%D8%B1_%D9%85%D9%86%D8%A7%D9%81%D8%B9_%D8%A8%D8%AE%D8%B4_%D8%AA%D9%86%D8%B8%DB%8C%D9%85" hreflang="ur" lang="ur" title="غیر منافع بخش تنظیم – Urdu">
+         اردو
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-vi mw-list-item">
+        <a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/T%E1%BB%95_ch%E1%BB%A9c_phi_l%E1%BB%A3i_nhu%E1%BA%ADn" hreflang="vi" lang="vi" title="Tổ chức phi lợi nhuận – Vietnamese">
+         Tiếng Việt
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wa mw-list-item">
+        <a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Soce_n%C3%A9n_recw%C3%A5rlante" hreflang="wa" lang="wa" title="Soce nén recwårlante – Walloon">
+         Walon
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item">
+        <a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87" hreflang="wuu" lang="wuu" title="非营利组织 – Wu Chinese">
+         吴语
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%9D%9E%E7%89%9F%E5%88%A9%E7%B5%84%E7%B9%94" hreflang="yue" lang="yue" title="非牟利組織 – Cantonese">
+         粵語
+        </a>
+       </li>
+       <li class="interlanguage-link interwiki-zh mw-list-item">
+        <a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94" hreflang="zh" lang="zh" title="非營利組織 – Chinese">
+         中文
+        </a>
+       </li>
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q163740#sitelinks-wikipedia" title="Edit interlanguage links">
+         Edit links
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     This page was last edited on 26 September 2021, at 13:23
+     <span class="anonymous-show">
+      (UTC)
+     </span>
+     .
+    </li>
+    <li id="footer-info-copyright">
+     Text is available under the
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">
+      Creative Commons Attribution-ShareAlike License
+     </a>
+     <a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;">
+     </a>
+     ;
+additional terms may apply.  By using this site, you agree to the
+     <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">
+      Terms of Use
+     </a>
+     and
+     <a href="//foundation.wikimedia.org/wiki/Privacy_policy">
+      Privacy Policy
+     </a>
+     . Wikipedia® is a registered trademark of the
+     <a href="//www.wikimediafoundation.org/">
+      Wikimedia Foundation, Inc.
+     </a>
+     , a non-profit organization.
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">
+      Privacy policy
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+      About Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+      Disclaimers
+     </a>
+    </li>
+    <li id="footer-places-contact">
+     <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+      Contact Wikipedia
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Nonprofit_organization&amp;mobileaction=toggle_view_mobile">
+      Mobile view
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+      Developers
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/en.wikipedia.org">
+      Statistics
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Cookie statement
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.688","walltime":"0.846","ppvisitednodes":{"value":3183,"limit":1000000},"postexpandincludesize":{"value":98741,"limit":2097152},"templateargumentsize":{"value":4007,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":99574,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  772.877      1 -total"," 36.79%  284.310      1 Template:Reflist","  9.73%   75.228      5 Template:Cite_book","  9.04%   69.848      2 Template:Ambox","  8.77%   67.783      1 Template:More_citations_needed","  6.97%   53.908      1 Template:Commons_category","  6.92%   53.461     12 Template:Cite_web","  6.69%   51.740      2 Template:Sister_project","  6.57%   50.762      1 Template:IETF_RFC","  6.48%   50.073      2 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.337","limit":"10.000"},"limitreport-memusage":{"value":9162209,"limit":52428800}},"cachereport":{"origin":"mw1382","timestamp":"20210926132618","ttl":1814400,"transientcontent":false}}});});
+  </script>
+  <script type="application/ld+json">
+   {"@context":"https:\/\/schema.org","@type":"Article","name":"Nonprofit organization","url":"https:\/\/en.wikipedia.org\/wiki\/Nonprofit_organization","sameAs":"http:\/\/www.wikidata.org\/entity\/Q163740","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q163740","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-16T11:49:30Z","dateModified":"2021-09-26T13:23:58Z","headline":"organization that uses its income to achieve its goals rather than distributing it as profit or dividends"}
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1434"});});
+  </script>
+ </body>
+</html>

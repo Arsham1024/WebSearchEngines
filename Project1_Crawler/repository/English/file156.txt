@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="http://gmpg.org/xfn/11" rel="profile"/>
+  <title>
+   維基媒體項目 – 维基媒体基金会
+  </title>
+  <meta content="max-image-preview:large" name="robots">
+   <link href="//s.w.org" rel="dns-prefetch">
+    <link href="//v0.wordpress.com" rel="dns-prefetch"/>
+    <link href="https://wikimediafoundation.org/zh/feed/" rel="alternate" title="维基媒体基金会 » Feed" type="application/rss+xml"/>
+    <link href="https://wikimediafoundation.org/zh/comments/feed/" rel="alternate" title="维基媒体基金会 » Comments Feed" type="application/rss+xml"/>
+    <script type="text/javascript">
+     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wikimediafoundation.org\/zh\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+     img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+    </style>
+    <link href="https://wikimediafoundation.org/zh/_static/??-eJyNjkEOwjAMBD9EatEC6gXxltSxqMFJqtgI5fekUg/tjeNoZ6SF7+I4oXwCKaAqBFaDSTK+nfBUfKmgVoW6yKlrwgn2xUshUmBPQpGSHWARX6k4oafH+l/etj0fIszJVsfmtinozCVv15ryiPfzbeiHSz9exx+wI071" id="all-css-0" media="all" rel="stylesheet" type="text/css"/>
+    <style id="wp-block-library-inline-css">
+     .has-text-align-justify{text-align:justify;}
+    </style>
+    <script src="https://wikimediafoundation.org/zh/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSpUsX2uraGZsZGRqbG5uVEWAK9bIh4=" type="text/javascript">
+    </script>
+    <link href="https://wikimediafoundation.org/zh/wp-json/" rel="https://api.w.org/"/>
+    <link href="https://wikimediafoundation.org/zh/wp-json/wp/v2/pages/125" rel="alternate" type="application/json"/>
+    <link href="https://wikimediafoundation.org/zh/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <link href="https://wikimediafoundation.org/zh/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+    <meta content="WordPress 5.8.1" name="generator">
+     <link href="https://wikimediafoundation.org/zh/our-work/wikimedia-projects/" rel="canonical"/>
+     <link href="https://wp.me/PawWrr-21" rel="shortlink"/>
+     <link href="https://wikimediafoundation.org/zh/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikimediafoundation.org%2Fzh%2Four-work%2Fwikimedia-projects%2F" rel="alternate" type="application/json+oembed"/>
+     <link href="https://wikimediafoundation.org/zh/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikimediafoundation.org%2Fzh%2Four-work%2Fwikimedia-projects%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+     <link href="https://wikimediafoundation.org/our-work/wikimedia-projects/" hreflang="en-US" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/ar/our-work/wikimedia-projects/" hreflang="ar-001" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/fr/our-work/wikimedia-projects/" hreflang="fr-FR" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/es/our-work/wikimedia-projects/" hreflang="es-ES" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/zh/our-work/wikimedia-projects/" hreflang="zh-Hant" rel="alternate"/>
+     <link href="https://wikimediafoundation.org/our-work/wikimedia-projects/" hreflang="x-default" rel="alternate"/>
+     <style type="text/css">
+      img#wpstats{display:none}
+     </style>
+     <style type="text/css">
+      .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+     </style>
+     <!-- Jetpack Open Graph Tags -->
+     <meta content="article" property="og:type"/>
+     <meta content="維基媒體項目" property="og:title"/>
+     <meta content="https://wikimediafoundation.org/zh/our-work/wikimedia-projects/" property="og:url"/>
+     <meta content="維基媒體基金會支持全世界數十萬人創建歷史上最大的免費知識項目。 志願者的工作幫助全球數百萬人發現信息，貢獻知識，並與他人分享。" property="og:description"/>
+     <meta content="2018-05-30T18:03:28+00:00" property="article:published_time"/>
+     <meta content="2021-02-19T19:26:45+00:00" property="article:modified_time"/>
+     <meta content="维基媒体基金会" property="og:site_name"/>
+     <meta content="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png" property="og:image"/>
+     <meta content="512" property="og:image:width"/>
+     <meta content="512" property="og:image:height"/>
+     <meta content="維基媒體項目" name="twitter:text:title"/>
+     <meta content="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=240" name="twitter:image"/>
+     <meta content="summary" name="twitter:card"/>
+     <!-- End Jetpack Open Graph Tags -->
+     <link href="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=32" rel="icon" sizes="32x32">
+      <link href="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=192" rel="icon" sizes="192x192">
+       <link href="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=180" rel="apple-touch-icon">
+        <meta content="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=270" name="msapplication-TileImage"/>
+        <style id="wp-custom-css" type="text/css">
+         /* temporary fix for errant content not translated notice */
+.primary-nav + .alert-warning {
+	display: none;
+}
+        </style>
+       </link>
+      </link>
+     </link>
+    </meta>
+   </link>
+  </meta>
+ </head>
+ <body class="page-template page-template-page-list page-template-page-list-php page page-id-125 page-child parent-pageid-121">
+  <div data-dropdown-backdrop="">
+  </div>
+  <a class="skip-link screen-reader-text" href="#content">
+   跳到內容
+  </a>
+  <div class="mobile-cover">
+  </div>
+  <div class="site" id="page">
+   <header class="header-default minimal--short" data-backdrop="inactive" data-dropdown="primary-nav" data-dropdown-content=".primary-nav__drawer" data-dropdown-status="uninitialized" data-dropdown-toggle=".primary-nav-toggle" data-toggleable="yes" data-trap="inactive" data-visible="false">
+    <div class="site-header">
+     <div class="site-header__inner" data-backdrop="inactive" data-dropdown="language-switcher" data-dropdown-content=".language-switcher__content" data-dropdown-status="uninitialized" data-dropdown-toggle=".language-switcher__button" data-toggleable="yes" data-trap="inactive" data-visible="no">
+      <button aria-expanded="false" aria-label="切換菜單" class="primary-nav-toggle" data-dropdown-toggle="primary-nav" hidden="">
+       <span class="btn-label-a11y">
+        切換菜單
+       </span>
+       <svg class="i icon icon-menu primary-nav-toggle__icon primary-nav-toggle__icon--closed">
+        <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#menu">
+        </use>
+       </svg>
+       <svg class="i icon icon-close primary-nav-toggle__icon primary-nav-toggle__icon--opened">
+        <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#close">
+        </use>
+       </svg>
+      </button>
+      <a class="nav-logo" href="https://wikimediafoundation.org/zh">
+       <img alt="维基媒体基金会" class="nav-logo__image" src="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/src/svg/logo-horizontal.svg"/>
+      </a>
+      <div class="language-switcher">
+       <button aria-expanded="false" class="language-switcher__button" hidden="">
+        <span class="btn-label-a11y">
+         當前語言：
+        </span>
+        <svg class="i icon icon-translate language-switcher__icon">
+         <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#translate">
+         </use>
+        </svg>
+        <span class="language-switcher__label">
+         zh
+        </span>
+       </button>
+       <div class="language-switcher__content">
+        <ul>
+         <li class="language-switcher__language language-switcher__language--selected">
+          <span lang="zh">
+           <a href="https://wikimediafoundation.org/zh/our-work/wikimedia-projects/">
+            <span class="language-switcher__language-name">
+             中文 (繁体中文)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="en">
+           <a href="https://wikimediafoundation.org/our-work/wikimedia-projects/">
+            <span class="language-switcher__language-name">
+             English
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="ar">
+           <a href="https://wikimediafoundation.org/ar/our-work/wikimedia-projects/">
+            <span class="language-switcher__language-name">
+             العربية (العالم)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="fr">
+           <a href="https://wikimediafoundation.org/fr/our-work/wikimedia-projects/">
+            <span class="language-switcher__language-name">
+             Français (France)
+            </span>
+           </a>
+          </span>
+         </li>
+         <li class="language-switcher__language">
+          <span lang="es">
+           <a href="https://wikimediafoundation.org/es/our-work/wikimedia-projects/">
+            <span class="language-switcher__language-name">
+             Español (España)
+            </span>
+           </a>
+          </span>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="nav-donate">
+       <a class="nav-donate__link" href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=comms&amp;uselang=zh&amp;utm_source=125">
+        <svg class="i icon icon-lock nav-donate__icon nav-donate__icon--lock">
+         <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#lock">
+         </use>
+        </svg>
+        <svg class="i icon icon-heart nav-donate__icon nav-donate__icon--heart">
+         <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#heart">
+         </use>
+        </svg>
+        <span class="nav-donate__copy">
+         現在捐款
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+    <div class="header-inner mw-980">
+     <nav class="primary-nav">
+      <div class="primary-nav__drawer" data-dropdown-content="primary-nav">
+       <div class="nav-search">
+        <form action="https://wikimediafoundation.org/zh/" class="search-form" method="get" role="search">
+         <label class="search-form__label">
+          <span class="screen-reader-text">
+           Search for:
+          </span>
+          <input class="search-form__field" name="s" placeholder="輸入搜索字詞" title="Search for:" type="search" value=""/>
+         </label>
+         <button class="search-form__button" type="submit">
+          <span class="screen-reader-text">
+           搜索
+          </span>
+          <svg class="i icon icon-search search-form__icon">
+           <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#search">
+           </use>
+          </svg>
+         </button>
+        </form>
+       </div>
+       <ul class="primary-nav__items" id="menu-header-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-123" id="menu-item-123">
+         <a href="https://wikimediafoundation.org/zh/our-work/">
+          <span>
+           我們的工作
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115" id="menu-item-115">
+         <a href="https://wikimediafoundation.org/zh/support/">
+          <span>
+           支持維基百科
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119" id="menu-item-119">
+         <a href="https://wikimediafoundation.org/zh/research/">
+          <span>
+           研究
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58737" id="menu-item-58737">
+         <a href="https://wikimediafoundation.org/zh/advocacy/">
+          <span>
+           提倡
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117" id="menu-item-117">
+         <a href="https://wikimediafoundation.org/zh/technology/">
+          <span>
+           技術
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58854" id="menu-item-58854">
+         <a href="/news/">
+          <span>
+           最新動態
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116" id="menu-item-116">
+         <a href="https://wikimediafoundation.org/zh/participate/">
+          <span>
+           參與
+          </span>
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120" id="menu-item-120">
+         <a href="https://wikimediafoundation.org/zh/about/">
+          <span>
+           關於我們
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="header-main">
+      <div class="header-content">
+       <!-- Top back link -->
+       <h2 class="h4 eyebrow">
+        <a class="back-arrow-link" href="https://wikimediafoundation.org/zh/our-work/">
+         我們的工作
+        </a>
+       </h2>
+       <!-- Blog home  -->
+       <!-- Site front page -->
+       <!-- h2 or title as heading -->
+       <h2 class="h2 eyebrow">
+        維基媒體項目
+       </h2>
+       <!-- h2 and title, without image -->
+       <!-- h2 and title, with image -->
+      </div>
+     </div>
+    </div>
+   </header>
+   <main id="content">
+    <div class="mw-980 mod-margin-bottom flex flex-medium list-template toc__section">
+     <div class="w-32p toc__sidebar">
+      <nav class="toc-nav" data-backdrop="inactive" data-dropdown="toc-nav" data-dropdown-content=".toc" data-dropdown-status="uninitialized" data-dropdown-toggle=".toc__button" data-sticky="false" data-toggleable="yes" data-trap="inactive" data-visible="false">
+       <h2 class="toc__title screen-reader-text">
+        Table of Contents
+       </h2>
+       <button aria-expanded="false" class="toc__button" hidden="">
+        <span class="btn-label-a11y">
+         Navigate within this page.
+        </span>
+        <span class="btn-label-active-item">
+         參考
+        </span>
+       </button>
+       <ul class="table-of-contents toc">
+        <li class="toc__item">
+         <a class="toc__link" href="#section-1">
+          參考
+         </a>
+        </li>
+        <li class="toc__item">
+         <a class="toc__link" href="#section-2">
+          系列
+         </a>
+        </li>
+        <li class="toc__item">
+         <a class="toc__link" href="#section-3">
+          技術
+         </a>
+        </li>
+        <li class="toc__item">
+         <a class="toc__link" href="#section-4">
+          指南
+         </a>
+        </li>
+        <li class="toc__item">
+         <a class="toc__link" href="#section-5">
+          合作
+         </a>
+        </li>
+       </ul>
+      </nav>
+     </div>
+     <div class="w-68p toc__content">
+      <div class="page-intro mod-margin-bottom wysiwyg">
+       <div class="page-intro mod-margin-bottom wysiwyg">
+        <div class="page-intro-text">
+         <p>
+          維基媒體基金會支持全世界數十萬人創建歷史上最大的免費知識項目。 志願者的工作幫助全球數百萬人發現信息，貢獻知識，並與他人分享。
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="mod-margin-bottom wysiwyg">
+       <h2 id="section-1">
+        參考
+       </h2>
+       <ul class="link-list">
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基百科
+          </h3>
+          <p class="mar-bottom bold">
+           全世界的知識
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wikipedia.org/">
+             維基百科
+            </a>
+            是由世界各地的志願者用300種語言編寫的免費協作百科全書。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基教科書
+          </h3>
+          <p class="mar-bottom bold">
+           電子書教科書和註釋文本
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://wikibooks.org">
+             維基教科書
+            </a>
+            旨在建立一系列免費電子書資源，包括教科書，註釋文本，教學指南和手冊。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基詞典
+          </h3>
+          <p class="mar-bottom bold">
+           超過170種語言的字典
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wiktionary.org/">
+             維基詞典
+            </a>
+            是一本免費的多語言詞典。 該項目旨在描述所有語言的所有單詞。 它包括語言資源，如詞庫，押韻指南和語言統計。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基語錄
+          </h3>
+          <p class="mar-bottom bold">
+           查找您喜愛的書籍，電影，作者等的語錄
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wikiquote.org/">
+             維基語錄
+            </a>
+            是一個收集超過75種語言來自著名人物和創意作品的引文庫。 它包括諺語，助記符號和口號。
+           </p>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="mod-margin-bottom wysiwyg">
+       <h2 id="section-2">
+        系列
+       </h2>
+       <ul class="link-list">
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基共享資源
+          </h3>
+          <p class="mar-bottom bold">
+           6800萬張圖像，照片，視頻和音樂文件，並不斷發展壯大
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://commons.wikimedia.org/wiki/Main_Page">
+             維基共享資源
+            </a>
+            是世界上最大的免費圖庫，照片，圖畫，視頻和音樂庫。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基文庫
+          </h3>
+          <p class="mar-bottom bold">
+           免費圖書館
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://wikisource.org/">
+             維基文庫
+            </a>
+            是一個自由許可的源文本和歷史文檔庫，包括詩歌，政府文檔，許多國家的憲法和一般文獻。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基學院
+          </h3>
+          <p class="mar-bottom bold">
+           獲取任何學習水平的學習資源，項目和研究
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wikiversity.org/">
+             維基學院
+            </a>
+            致力於學習資源，學習項目和研究，以用於所有級別，類型和教育方式。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基物種
+          </h3>
+          <p class="mar-bottom bold">
+           物種目錄
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://species.wikimedia.org">
+             維基物種
+            </a>
+            是分類學物種數據庫，涵蓋動物界，植物界，真菌，細菌，古細菌，原生生物和所有其他形式的生命的生活和化石形態。
+           </p>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="mod-margin-bottom wysiwyg">
+       <h2 id="section-3">
+        技術
+       </h2>
+       <ul class="link-list">
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基數據
+          </h3>
+          <p class="mar-bottom bold">
+           協作編輯的結構化信息數據庫
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">
+             維基數據
+            </a>
+            充當維基媒體項目結構化數據的中央存儲。將數據結構化為機器可讀格式，可以更輕鬆地查看，搜索，編輯，策劃，使用和重用文件。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           MediaWiki
+          </h3>
+          <p class="mar-bottom bold">
+           Wiki軟件開發
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.mediawiki.org/wiki/MediaWiki">
+             MediaWiki
+            </a>
+            是免費的開源wiki軟件，任何人都可以使用和開發。 它是構建維基媒體項目的平台。
+           </p>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="mod-margin-bottom wysiwyg">
+       <h2 id="section-4">
+        指南
+       </h2>
+       <ul class="link-list">
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基導遊
+          </h3>
+          <p class="mar-bottom bold">
+           終極旅遊指南
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://www.wikivoyage.org/">
+             維基導遊
+            </a>
+            旨在創建世界上最大的免費，完整和最新的全球旅行指南。
+           </p>
+          </div>
+         </div>
+        </li>
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           維基新聞
+          </h3>
+          <p class="mar-bottom bold">
+           自由的新聞來源
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="//wikinews.org">
+             維基新聞
+            </a>
+            提供商業新聞網站的免費內容替代品。
+           </p>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="mod-margin-bottom wysiwyg">
+       <h2 id="section-5">
+        合作
+       </h2>
+       <ul class="link-list">
+        <li class="flex flex-medium">
+         <div>
+          <h3 class="h2 link-external">
+           元維基
+          </h3>
+          <p class="mar-bottom bold">
+           用於全球協作的項目協調軟件工具
+          </p>
+          <div class="mar-bottom">
+           <p>
+            <a href="https://meta.wikimedia.org">
+             元維基
+            </a>
+            是一個項目，用作各種協調和組織任務的中心樞紐，例如影響多個wiki或計劃即將發生的事件的討論。
+           </p>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="w-100p cta mod-margin-bottom_sm cta-primary img-left-content-right bg-img--pink btn-pink cta-support">
+     <div class="mw-980">
+      <div class="card flex flex-medium flex-wrap fifty-fifty">
+       <div class="card-content w-50p sm-img-container">
+        <div class="sm-img rounded" style="background-image: url(https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?w=1024&amp;h=675&amp;crop=1)">
+        </div>
+       </div>
+       <div class="card-content w-50p">
+        <h2 class="h2">
+         幫助我們釋放世界的知識。
+        </h2>
+        <div class="mar-bottom mar-top">
+         <p class="cta-description">
+          作為一個非營利組織，維基百科和我們相關的免費知識項目主要通過捐贈來實現。
+         </p>
+        </div>
+        <a class="btn" href="https://donate.wikimedia.org/?utm_medium=wmfSite&amp;utm_campaign=comms&amp;uselang=zh&amp;utm_source=125">
+         <span class="cta-btn-text">
+          現在捐款
+         </span>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="connect-container white-bg mod-margin-bottom">
+     <div class="mw-980">
+      <h3 class="h3 color-gray uppercase">
+       連接								—
+       <span lang="es">
+        Conecta
+       </span>
+      </h3>
+      <h2 class="h2">
+       了解維基媒體基金會的最新信息
+      </h2>
+      <div class="flex flex-medium flex-space-between">
+       <div class="module-mu w-48p rounded gray-module">
+        <svg class="i icon icon-mail">
+         <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#mail">
+         </use>
+        </svg>
+        <h3 class="h2">
+         獲取最新電子郵件
+        </h3>
+        <div class="wysiwyg">
+         <p>
+          <span style="color: #000000;font-family: 'Source Serif Pro';font-size: 14.6667px">
+           訂閱有關正在進行的項目和計劃的新聞。
+          </span>
+         </p>
+        </div>
+        <div class="email-signup">
+         <form action="https://wikimediafoundation.us11.list-manage.com/subscribe/post?u=7e010456c3e448b30d8703345&amp;id=246cd15c56" method="post" target="_blank">
+          <label class="sr-only" for="wmf-subscribe-input-email">
+           電子郵件地址
+          </label>
+          <div class="flex flex-medium flex-wrap fifty-fifty">
+           <div class="w-68p">
+            <input id="wmf-subscribe-input-email" name="EMAIL" placeholder="電子郵件地址" required="" type="email"/>
+           </div>
+           <div class="w-32p">
+            <button class="btn btn-blue" name="button" type="submit">
+             訂閱
+            </button>
+           </div>
+          </div>
+          <div class="field-group input-group">
+           <input id="mce-group[4037]-4037-1" name="group[4037]" type="hidden" value="2"/>
+           此郵件列表由 MailChimp 提供支持。 維基媒體基金會將根據本網站的隱私政策處理您的個人信息。
+          </div>
+         </form>
+        </div>
+       </div>
+       <!-- End .multi-use -->
+       <div class="module-mu w-48p rounded">
+        <svg class="i icon icon-userAvatar">
+         <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#userAvatar">
+         </use>
+        </svg>
+        <h3 class="h2">
+         聯繫人
+        </h3>
+        <div class="wysiwyg">
+         <p>
+          <span style="color: #000000;font-family: 'Source Serif Pro';font-size: 14.6667px">
+           有關維基媒體基金會或我們項目的問題？ 與我們的團隊取得聯繫。
+          </span>
+         </p>
+        </div>
+        <!-- Single link -->
+        <a class="arrow-link" href="/zh/about/contact/" target="_blank">
+         聯繫
+        </a>
+        <div class="mar-top">
+         <h3 class="h3">
+          關注
+         </h3>
+         <div class="wysiwyg">
+          <p>
+          </p>
+         </div>
+         <ul class="link-list social-list color-blue">
+          <li>
+           <a aria-describedby="a11y-message--new-window" href="https://www.facebook.com/wikimediafoundation/" rel="noreferrer" target="_blank">
+            <svg class="i icon icon-social-facebook">
+             <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#social-facebook">
+             </use>
+            </svg>
+            <span aria-hidden="true">
+             Facebook
+            </span>
+            <span class="visually-hidden">
+             Connect with us on Facebook
+            </span>
+           </a>
+          </li>
+          <li class="twitter-container">
+           <a aria-describedby="a11y-message--new-window" href="https://twitter.com/wikimedia" rel="noreferrer" target="_blank">
+            <svg class="i icon icon-social-twitter">
+             <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#social-twitter">
+             </use>
+            </svg>
+            <span aria-hidden="true">
+             @Twitter
+            </span>
+            <span class="visually-hidden">
+             Connect with us on Twitter
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-describedby="a11y-message--new-window" href="https://www.instagram.com/wikimediafoundation/" rel="noreferrer" target="_blank">
+            <svg class="i icon icon-social-instagram">
+             <use xlink:href="https://wikimediafoundation.org/zh/wp-content/themes/shiro/assets/dist/icons-9b55af8b37.svg#social-instagram">
+             </use>
+            </svg>
+            <span aria-hidden="true">
+             Instagram
+            </span>
+            <span class="visually-hidden">
+             Connect with us on Instagram
+            </span>
+           </a>
+          </li>
+         </ul>
+         <span aria-hidden="true" class="visually-hidden" id="a11y-message--new-window">
+          (opens new window)
+         </span>
+        </div>
+       </div>
+       <!-- End .multi-use -->
+      </div>
+     </div>
+    </div>
+    <section class="photo-attribution">
+     <h2 class="photo-attribution__heading">
+      照片來源
+     </h2>
+     <div class="photo-attribution__inner">
+      <div class="attribution-item">
+       <div class="attribution-item__image">
+        <img alt="Wikipedia edit-a-thon Art+Feminism at the Royal Armoury in Stockholm" class="attachment-63x63 size-63x63" height="42" loading="lazy" sizes="(max-width: 63px) 100vw, 63px" src="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?w=63" srcset="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg 1024w, https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=300,200 300w, https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2018/06/ArtAndFeminism_2017_Livrustkammaren_06-e1533254907593.jpg?resize=768,512 768w" width="63"/>
+       </div>
+       <div class="attribution-item__content">
+        <p>
+         <a href="https://commons.wikimedia.org/wiki/File:ArtAndFeminism_2017_Livrustkammaren_06.jpg" rel="noopener noreferrer" target="_blank">
+          Art+Feminism Wikipedia edit-a-thon
+         </a>
+        </p>
+        <p>
+         Jens Mohr
+        </p>
+        <p>
+         <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener noreferrer" target="_blank">
+          CC BY-SA 3.0
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </section>
+   </main>
+   <footer class="site-footer">
+    <div class="site-footer__inner">
+     <div class="site-footer__description">
+      <img alt="维基媒体基金会" class="site-footer__logo" src="https://wikimediafoundation.org/zh/wp-content/uploads/sites/22/2019/07/Wikimedia_Foundation_registered.png"/>
+      <p>
+       維基媒體基金會是一個非營利組織，支持維基百科，其他維基媒體免費知識項目，以及我們為每個人提供免費知識的使命。
+      </p>
+     </div>
+     <nav class="site-footer__callout-nav">
+      <ul class="site-footer__callout-nav__items" id="menu-footer-under-text">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48" id="menu-item-48">
+        <a href="/about/jobs/">
+         人才招聘
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161" id="menu-item-161">
+        <a href="https://wikimediafoundation.org/zh/about/contact/">
+         聯繫
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56940" id="menu-item-56940">
+        <a href="/zh/about/press/">
+         媒體
+        </a>
+       </li>
+      </ul>
+     </nav>
+     <div class="site-footer__navigation">
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-projects">
+       <h2>
+        Projects
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29" id="menu-item-29">
+          <a href="https://www.wikipedia.org/">
+           维基百科
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31" id="menu-item-31">
+          <a href="https://www.wikibooks.org/">
+           維基教科書
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32" id="menu-item-32">
+          <a href="https://www.wikiversity.org/">
+           维基学院
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36" id="menu-item-36">
+          <a href="https://www.wikinews.org/">
+           维基新闻
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38" id="menu-item-38">
+          <a href="https://www.wiktionary.org/">
+           维基词典
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33" id="menu-item-33">
+          <a href="https://www.wikisource.org/">
+           维基文库
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35" id="menu-item-35">
+          <a href="https://www.wikiquote.org/">
+           维基语录
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37" id="menu-item-37">
+          <a href="https://www.wikivoyage.org/">
+           维基导游
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30" id="menu-item-30">
+          <a href="https://commons.wikimedia.org/">
+           维基共享资源
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39" id="menu-item-39">
+          <a href="https://www.wikidata.org/">
+           维基数据
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34" id="menu-item-34">
+          <a href="https://species.wikimedia.org/">
+           維基物種
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40" id="menu-item-40">
+          <a href="https://www.mediawiki.org/">
+           MediaWiki
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-affiliates">
+       <h2>
+        Movement Affiliates
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41" id="menu-item-41">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_chapters/zh">
+           維基媒體分會
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42" id="menu-item-42">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_thematic_organizations/zh">
+           維基媒體主題組織
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43" id="menu-item-43">
+          <a href="https://meta.wikimedia.org/wiki/Wikimedia_user_groups/zh">
+           維基媒體用戶組
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <div class="site-footer__navigation-section site-footer__navigation-section--footer-legal">
+       <h2>
+        Other
+       </h2>
+       <nav class="site-footer__navmenu">
+        <ul>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44" id="menu-item-44">
+          <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">
+           使用條款
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45" id="menu-item-45">
+          <a href="/zh/privacy-policy/">
+           隱私政策
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46" id="menu-item-46">
+          <a href="https://foundation.wikimedia.org/wiki/Wikimedia:General_disclaimer">
+           免責聲明
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59090" id="menu-item-59090">
+          <a href="/zh//accessibility-statement/">
+           無障礙聲明
+          </a>
+         </li>
+         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47" id="menu-item-47">
+          <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+           Cookie聲明
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+     </div>
+     <div class="site-footer__legal">
+      除非另有說明，否則本網站的內容根據
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+       Creative Commons Attribution-ShareAlike 3.0 Unported license
+      </a>
+      獲得許可。
+      <br/>
+      由WordPress.com VIP提供支持。
+      <a href="https://automattic.com/privacy-notice/">
+       自動隱私聲明
+      </a>
+      。
+     </div>
+    </div>
+   </footer>
+   <!-- Matomo -->
+   <script>
+    var _paq = _paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//piwik.wikimedia.org/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '17']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+   </script>
+   <!-- End Matomo Code -->
+   <script id="shiro-script-js-extra">
+    var shiro = {"ajax_url":"https:\/\/wikimediafoundation.org\/zh\/wp-admin\/admin-ajax.php"};
+var wmfrtl = {"enable":""};
+   </script>
+   <script src="https://wikimediafoundation.org/zh/_static/??-eJyVzcEOwiAQBNAfst0WRORg+i2ybCxEoGHXmv69NtG7HmeSNwPPpcNahIqAzJSJgefYKlyZSRhCZAFeb0daqW2+hq3PsfSJD/CTxBYX4f/M3nQ4ONLeWTMa4y0O6M/uOxEL3h/hjRPvkbKn8LmY8mU8aaWMtlalFzesT7Y=" type="text/javascript">
+   </script>
+   <script defer="" src="https://stats.wp.com/e-202139.js">
+   </script>
+   <script>
+    _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.1',blog:'155614509',post:'125',tz:'0',srv:'wikimediafoundation.org'} ]);
+	_stq.push([ 'clickTrackerInit', '155614509', '125' ]);
+   </script>
+  </div>
+ </body>
+</html>
