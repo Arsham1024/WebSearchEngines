@@ -58,7 +58,7 @@ def extract_file(text_page, page):
         
     # create/open a new file in repository and save the content 
     with open(f'./Project1_Crawler/repository/English/file{page}.txt', 'w', encoding='utf-8') as theFile:
-        theFile.write(soup.prettify())
+        theFile.write(soup.prettify()) 
 
 # This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page):
