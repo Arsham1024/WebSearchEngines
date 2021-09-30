@@ -26,12 +26,11 @@ def crawler(MAX_Pages):
 
     # This function takes an array to save all the links extracted and an html page in text format (not URL!)
 
-
     # Need a breadth first search type of algorithm for this crawler
     # These conditions should limit the amount of pages visited to maximum we want
     while pages_visited < MAX_Pages and len(links_tocrawl) < MAX_Pages:
         text_page = requests.get(links_tocrawl[pages_visited]).text
-        extract_links(links_tocrawl, text_page) 
+        extract_links(links_tocrawl, text_page)  
         # call to extract html content
 
         # Need to put "Done" in the array links_tocrawl once a page's extraction is complete
@@ -54,7 +53,7 @@ def extract_file(text_page, page):
     soup = BeautifulSoup(text_page,'html.parser')
     # use the page title to name each file (some titles are undefined)
     # title = soup.find('title').text
-    # title = re.sub(r"\W+|_", " ", title)
+    # title = re.sub(r"\W+|_", " ", title) 
         
     # create/open a new file in repository and save the content 
     with open(f'./Project1_Crawler/repository/English/file{page}.txt', 'w', encoding='utf-8') as theFile:
