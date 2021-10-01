@@ -2,7 +2,9 @@ import requests
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup, SoupStrainer
 import urllib.request
-import re 
+import re
+from langdetect import detect
+
 
 # Stating URL
 seed = "https://en.wikipedia.org/wiki/Main_Page"
@@ -14,6 +16,10 @@ parser = HTMLParser
 # change this later to 3000
 pages = 500
 
+# This is a global variable indicating the current language that is being checked.
+# default is english
+current_lang = "english"
+
 # crawler function
 def crawler(MAX_Pages):
     # getting the starter HTML and turning it into plain text
@@ -24,19 +30,23 @@ def crawler(MAX_Pages):
     # initially only has the seed at index 0
     links_tocrawl = [seed]
 
-    # This function takes an array to save all the links extracted and an html page in text format (not URL!)
-
-    # Need a breadth first search type of algorithm for this crawler
     # These conditions should limit the amount of pages visited to maximum we want
     while pages_visited < MAX_Pages and len(links_tocrawl) < MAX_Pages:
         text_page = requests.get(links_tocrawl[pages_visited]).text
-        extract_links(links_tocrawl, text_page)  
-        # call to extract html content
+
+        # if the language is not english skip this page
+        if not detect_language(text_page)== current_lang:
+            continue
+
+        # Extract all the links in the page to be searched over later.
+        extract_links(links_tocrawl, text_page)
 
         # Need to put "Done" in the array links_tocrawl once a page's extraction is complete
-        # End of each iteration add one to counter  
+        # End of each iteration add one to counter
         pages_visited += 1
-    print(len(links_tocrawl))
+
+    # Outputing how many links have been recorded.
+    print("The number of pages visited so far : ", len(links_tocrawl))
 
     # store files in repository
     for i,link in enumerate(links_tocrawl):
@@ -69,6 +79,13 @@ def extract_links(links_tocrawl, text_page):
             links_tocrawl.append(link['href'])
     # Print out the result
     print("This is the array content right now: " , links_tocrawl)
+def detect_language(text_page):
+    if detect(text_page) == 'en':
+        return "english"
+    if detect(text_page) == 'fa':
+        return "farsi"
+    if detect(text_page) == 'es':
+        return "spanish"
 
 
 if __name__ == "__main__":
