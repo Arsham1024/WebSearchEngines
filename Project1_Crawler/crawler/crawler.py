@@ -99,22 +99,21 @@ def detect_url_language(url):
     text = requests.get(url).text
     # Parse the text with beautiful soup
     soup = BeautifulSoup(text , 'html.parser')
-    # extract the body only to analyze
-    # detect the language of the body
+    # This section will check the website's language by checking the header first then checking the body
     try:
-        lang = detect(str(soup.get_text()))
+        lang = soup.html['lang']
     except:
-        print("couldn't detect so skipped")
-        print(lang)
+        print("couldn't detect language of the webiste, so skipped it.")
         return None
-    
-    print(lang , url)
+
     if lang == 'en':
         return "english"
     if lang == 'fa':
         return "farsi"
     if lang == 'es':
         return "spanish"
+    else:
+        return None
 
 def detect_language(text_page):
     if detect(text_page) == 'en':
