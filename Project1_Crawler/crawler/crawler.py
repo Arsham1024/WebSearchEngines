@@ -1,10 +1,11 @@
 import requests
+import time
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup, SoupStrainer
 import urllib.request
 import re
+import random
 from langdetect import detect
-
 
 # Stating URL
 seed = "https://en.wikipedia.org/wiki/Main_Page"
@@ -12,13 +13,14 @@ seed = "https://en.wikipedia.org/wiki/Main_Page"
 # HTML Parser
 parser = HTMLParser
 
-# Max number of pages crawiling
+# Max number of pages crawling
 # change this later to 3000
 pages = 500
 
 # This is a global variable indicating the current language that is being checked.
 # default is english
 current_lang = "english"
+
 
 # crawler function
 def crawler(MAX_Pages):
@@ -30,12 +32,18 @@ def crawler(MAX_Pages):
     # initially only has the seed at index 0
     links_tocrawl = [seed]
 
+    # Temporary while loop timer for debugging
+    start1 = time.time()
+
     # These conditions should limit the amount of pages visited to maximum we want
     while pages_visited < MAX_Pages and len(links_tocrawl) < MAX_Pages:
+        # Starting timer for politeness time-out
+        start_time = time.time()
         text_page = requests.get(links_tocrawl[pages_visited]).text
+        crawl_delay = time.time() - start_time
 
         # if the language is not english skip this page
-        if not detect_language(text_page)== current_lang:
+        if not detect_language(text_page) == current_lang:
             continue
 
         # Extract all the links in the page to be searched over later.
@@ -45,31 +53,40 @@ def crawler(MAX_Pages):
         # End of each iteration add one to counter
         pages_visited += 1
 
+        # Time-out based on time it takes to load the page and multiplied by 1 or 2 randomly
+        time.sleep(random.uniform(1, 2) * crawl_delay)
+
     # Outputing how many links have been recorded.
     print("The number of pages visited so far : ", len(links_tocrawl))
 
+    # Prints runtime of while loop
+    end = time.time()
+    print("Runtime : ", end - start1)
+
     # store files in repository
-    for i,link in enumerate(links_tocrawl):
+    for i, link in enumerate(links_tocrawl):
         text_page = requests.get(link).text
         # call to extract files
-        extract_file(text_page, i+1) 
+        extract_file(text_page, i + 1)
         # stop iteration after maximum page limit
-        if i >= pages: 
+        if i >= pages:
             break
 
 
 # This method extract (save) the html file associated with a link
 def extract_file(text_page, page):
-    soup = BeautifulSoup(text_page,'html.parser')
+    soup = BeautifulSoup(text_page, 'html.parser')
     # use the page title to name each file (some titles are undefined)
     # title = soup.find('title').text
-    # title = re.sub(r"\W+|_", " ", title) 
-        
+    # title = re.sub(r"\W+|_", " ", title)
+
     # create/open a new file in repository and save the content 
     with open(f'./Project1_Crawler/repository/English/file{page}.txt', 'w', encoding='utf-8') as theFile:
-        theFile.write(soup.prettify()) 
+        theFile.write(soup.prettify())
 
-# This method will extract only URLs and save them to the links to crawl array.
+    # This method will extract only URLs and save them to the links to crawl array.
+
+
 def extract_links(links_tocrawl, text_page):
     # For handling exeptions
     successful = True
@@ -78,7 +95,9 @@ def extract_links(links_tocrawl, text_page):
         if link.has_attr('href') and not link['href'].startswith("/") and not link['href'].startswith("#"):
             links_tocrawl.append(link['href'])
     # Print out the result
-    print("This is the array content right now: " , links_tocrawl)
+    print("This is the array content right now: ", links_tocrawl)
+
+
 def detect_language(text_page):
     if detect(text_page) == 'en':
         return "english"
