@@ -13,24 +13,39 @@ from nltk.tokenize import word_tokenize
 import re
 
 
-# Code sanity check section 
-import_text("../repository/English")
+# Load Stored Language Stopwords
+def load_stopwords(lang):
+    # Add Local Path to Files, Remove Install Dependency of NLTK
+    nltk.path.append("./nltk_data")
+    lang.str.lower()
+
+    # Define the Languages
+    stops = []
+
+    if (lang == 'english'):
+        stops = stopwords.words('english')
+    elif (lang == 'spanish'):
+        stops = stopwords.words('spanish')
+    elif (lang == 'farsi'):
+        stops = stopwords.words('farsi')
+    else:
+        stops = []
+
+    return stops
 
 
-# Import ALL text from Resository into a list
+# Import ALL text from repository directory into a list
 def import_text(text_path):
-    text_repo_en = "../repository/English"
-    counter = 0
 
     text_list = []
-    for filename in os.listdir(text_repo_en):
-        with open(os.path.join(text_repo_en, filename), 'r') as file:
+    for filename in os.listdir(text_path):
+        with open(os.path.join(text_path, filename), 'r') as file:
             file_text = file.readlines()
-            text_list.append(file_text)
+            text_list.append(file_text) # Append file content to list
 
+    return text_list
 
-# Text, remove NON-Words for processing 
-#def clean_text(list_of_text):
-
-
-# Tokenize Text and produce Graphical Data
+def tokenize(text_list):
+    re.split('\W+', text_list)
+    tokens = re.split('\W+', text_list)
+    return tokens
