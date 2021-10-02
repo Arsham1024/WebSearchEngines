@@ -33,7 +33,7 @@ with open('report.csv', 'w', encoding='UTF8', newline='') as report:
 
 # crawler function
 def crawler():
-    # To store all the links intended o crawl
+    # To store all the links intended to crawl
     links_tocrawl = []
     global current_language
     # current seed corolates to the language being crawled
@@ -50,15 +50,8 @@ def crawler():
         # By the end of each crawl cycle a language is fully crawled.
         crawl(MAX_Pages, links_tocrawl, pages_visited)
 
-    # store files in repository
-    for i, link in enumerate(links_tocrawl):
-        text_page = requests.get(link).text
-        # call to extract files
-        extract_file(text_page, i + 1)
-        # stop iteration after maximum page limit
-        if i >= MAX_Pages:
-            break
-
+        # extract and store html content into repository
+        extract_pages(MAX_Pages, links_tocrawl, current_lang)
 
 # While loop of the crawler, This is separated because
 # the crawler needs to run multiple times and with different specifications
@@ -87,16 +80,31 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
     end = time.time()
     print("Runtime : ", end - start1,"\n")
 
-# This method extract (save) the html file associated with a link
-def extract_file(text_page, page):
-    soup = BeautifulSoup(text_page, 'html.parser')
-    # use the page title to name each file (some titles are undefined)
-    # title = soup.find('title').text
-    # title = re.sub(r"\W+|_", " ", title)
+# This method requests html content for each url 
+def extract_pages(max_pages, links_tocrawl, language_):
+    for i,link in enumerate(links_tocrawl):
+        text_page = requests.get(link).text
+        # call to store content in repository
+        store_pages(text_page, i+1, language_) 
+        # stop iteration after maximum page limit
+        if i+1 >= max_pages: 
+            break
 
-    # create/open a new file in repository and save the content
-    with open(f'./Project1_Crawler/repository/English/file{page}.txt', 'w', encoding='utf-8') as theFile:
-        theFile.write(soup.prettify())
+# This method saves extracted html pages into repository
+def store_pages(text_page, page, language_):
+    soup = BeautifulSoup(text_page,'html.parser')        
+    # store new data every times the program runs
+    folderName = str(language_).title()
+    fileName = str(language_)
+    if page == 1:
+        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8')
+    # append html content to existing file
+    else:
+        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'a', encoding='utf-8')
+    # add each page to the file in repository and close the file
+    file_.write(soup.prettify()) 
+    file_.write("\n{}\n".format("="*100))
+    file_.close()
 
 # This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page, pages_visited):
