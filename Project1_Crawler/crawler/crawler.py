@@ -15,7 +15,7 @@ all_seeds = ["https://en.wikipedia.org/wiki/Main_Page",
 
 # Max number of pages crawling
 # change this later to 3000
-pages = 500
+MAX_Pages = 500
 
 # This is a global variable indicating the current language that is being checked.
 # default is english
@@ -32,17 +32,23 @@ with open('report.csv', 'w', encoding='UTF8', newline='') as report:
     report.close()
 
 # crawler function
-def crawler(MAX_Pages):
+def crawler():
     # getting the starter HTML and turning it into plain text
     # text_page = requests.get(seed).text
     # To increment with each pages successfully crawled
-    pages_visited = 0
-    # To store all the links to crawl
-    # initially only has the seed at index 0
-    links_tocrawl = [current_seed]
-
+    links_tocrawl = []
+    current_seed = all_seeds[0]
     # This method is the engine of the crawler and while loop is located here
-    crawl(MAX_Pages, links_tocrawl, pages_visited)
+    # By the end of each crawl cycle a language is fully crawled.
+    for i in range(len(all_langs)):
+        print(current_seed)
+        pages_visited = 0
+        # To store all the links to crawl
+        # initially only has the seed at index 0
+        links_tocrawl = [current_seed]
+        crawl(MAX_Pages, links_tocrawl, pages_visited)
+
+        current_seed = all_seeds[i+1]
 
     # Outputting how many links have been recorded.
     print("The number of pages visited : ", len(links_tocrawl))
@@ -53,7 +59,7 @@ def crawler(MAX_Pages):
         # call to extract files
         extract_file(text_page, i + 1)
         # stop iteration after maximum page limit
-        if i >= pages:
+        if i >= MAX_Pages:
             break
 
 
@@ -149,11 +155,6 @@ def detect_url_language(url):
     else:
         return None
 
-# This method will return the next language in the set to crawl for.
-def setcurrentlang(current_language):
-    i = all_langs.index(current_language)
-    return all_langs[i+1]
-
 
 if __name__ == "__main__":
-    crawler(pages)
+    crawler()
