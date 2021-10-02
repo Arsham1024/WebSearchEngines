@@ -20,9 +20,9 @@ MAX_Pages = 500
 # This is a global variable indicating the current language that is being checked.
 # default is english
 all_langs = ["english" , "farsi" , "spanish"]
-current_lang = all_langs[0]
+current_language = all_langs[0]
 # This will give the correct seed for the current language and set it to current seed
-current_seed = all_seeds[all_langs.index(current_lang)]
+current_seed = all_seeds[all_langs.index(current_language)]
 
 # Creating report.csv file for links and number outlinks
 header = ['Link', 'Outlinks']
@@ -33,25 +33,22 @@ with open('report.csv', 'w', encoding='UTF8', newline='') as report:
 
 # crawler function
 def crawler():
-    # getting the starter HTML and turning it into plain text
-    # text_page = requests.get(seed).text
-    # To increment with each pages successfully crawled
+    # To store all the links intended o crawl
     links_tocrawl = []
+    current_language = all_langs[0]
+    # current seed corolates to the language being crawled
     current_seed = all_seeds[0]
-    # This method is the engine of the crawler and while loop is located here
-    # By the end of each crawl cycle a language is fully crawled.
+
     for i in range(len(all_langs)):
-        print(current_seed)
+        current_lang = all_langs[i]
+        print("The current languages under search is : " , current_lang)
         pages_visited = 0
         # To store all the links to crawl
         # initially only has the seed at index 0
-        links_tocrawl = [current_seed]
+        links_tocrawl = [all_seeds[i]]
+        # This method is the engine of the crawler and while loop is located here
+        # By the end of each crawl cycle a language is fully crawled.
         crawl(MAX_Pages, links_tocrawl, pages_visited)
-
-        current_seed = all_seeds[i+1]
-
-    # Outputting how many links have been recorded.
-    print("The number of pages visited : ", len(links_tocrawl))
 
     # store files in repository
     for i, link in enumerate(links_tocrawl):
@@ -86,10 +83,11 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 
         # Time-out based on time it takes to load the page and randomly multiplied by 1 or 2
         time.sleep(random.uniform(1, 2) * crawl_delay)
-
+    # Outputting how many links have been recorded.
+    print("The number of pages visited for above language : ", len(links_tocrawl))
     # Prints runtime of while loop
     end = time.time()
-    print("Runtime : ", end - start1)
+    print("Runtime : ", end - start1,"\n")
 
 # This method extract (save) the html file associated with a link
 def extract_file(text_page, page):
