@@ -22,6 +22,7 @@ pages = 500
 # This is a global variable indicating the current language that is being checked.
 # default is english
 current_lang = "english"
+all_langs = {"english" , "spanish" , "farsi"}
 
 # Creating report.csv file for links and number outlinks
 header = ['Link', 'Outlinks']
@@ -44,7 +45,7 @@ def crawler(MAX_Pages):
     crawl(MAX_Pages, links_tocrawl, pages_visited)
 
     # Outputting how many links have been recorded.
-    print("The number of pages visited so far : ", len(links_tocrawl))
+    print("The number of pages visited : ", len(links_tocrawl))
 
     # store files in repository
     for i, link in enumerate(links_tocrawl):
@@ -153,7 +154,10 @@ def detect_url_language(url):
     else:
         return None
 
-
+# This method will return the next language in the set to crawl for.
+def setcurrentlang(current_lang):
+    i = all_langs.index(current_lang)
+    return all_langs[i+1]
 def detect_language(text_page):
     if detect(text_page) == 'en':
         return "english"
