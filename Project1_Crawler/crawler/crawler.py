@@ -35,9 +35,9 @@ with open('report.csv', 'w', encoding='UTF8', newline='') as report:
 def crawler():
     # To store all the links intended o crawl
     links_tocrawl = []
-    current_language = all_langs[0]
+    global current_language
     # current seed corolates to the language being crawled
-    current_seed = all_seeds[0]
+    global current_seed
 
     for i in range(len(all_langs)):
         current_lang = all_langs[i]
@@ -45,7 +45,7 @@ def crawler():
         pages_visited = 0
         # To store all the links to crawl
         # initially only has the seed at index 0
-        links_tocrawl = [all_seeds[i]]
+        links_tocrawl = [current_seed]
         # This method is the engine of the crawler and while loop is located here
         # By the end of each crawl cycle a language is fully crawled.
         crawl(MAX_Pages, links_tocrawl, pages_visited)
@@ -65,7 +65,7 @@ def crawler():
 def crawl(MAX_Pages, links_tocrawl, pages_visited):
     # Temporary while loop timer for debugging
     start1 = time.time()
-
+    global current_language
     # These conditions should limit the amount of pages visited to maximum we want
     while pages_visited < MAX_Pages and len(links_tocrawl) < MAX_Pages:
         # Starting timer for politeness time-out
@@ -75,8 +75,6 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 
         # Extract all the links in the page to be searched over later.
         extract_links(links_tocrawl, text_page, pages_visited)
-
-        # Need to put "Done" in the array links_tocrawl once a page's extraction is complete
 
         # End of each iteration add one to counter
         pages_visited += 1
@@ -156,3 +154,4 @@ def detect_url_language(url):
 
 if __name__ == "__main__":
     crawler()
+
