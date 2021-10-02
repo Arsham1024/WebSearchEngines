@@ -8,12 +8,10 @@ import time
 import csv
 from langdetect import detect
 
-# Stating URL
-seed_en = "https://en.wikipedia.org/wiki/Main_Page"
-seed_fa = "https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C"
-seed_es = "https://es.wikipedia.org/wiki/Espa%C3%B1a"
-# HTML Parser
-parser = HTMLParser
+# Stating URLs
+all_seeds = ["https://en.wikipedia.org/wiki/Main_Page",
+             "https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C",
+             "https://es.wikipedia.org/wiki/Espa%C3%B1a"]
 
 # Max number of pages crawling
 # change this later to 3000
@@ -21,8 +19,10 @@ pages = 500
 
 # This is a global variable indicating the current language that is being checked.
 # default is english
-current_lang = "english"
-all_langs = {"english" , "spanish" , "farsi"}
+all_langs = ["english" , "farsi" , "spanish"]
+current_lang = all_langs[0]
+# This will give the correct seed for the current language and set it to current seed
+current_seed = all_seeds[all_langs.index(current_lang)]
 
 # Creating report.csv file for links and number outlinks
 header = ['Link', 'Outlinks']
@@ -39,9 +39,9 @@ def crawler(MAX_Pages):
     pages_visited = 0
     # To store all the links to crawl
     # initially only has the seed at index 0
-    links_tocrawl = [seed_en]
+    links_tocrawl = [current_seed]
 
-    # This method is the engine of the crawler and what makes it keep going
+    # This method is the engine of the crawler and while loop is located here
     crawl(MAX_Pages, links_tocrawl, pages_visited)
 
     # Outputting how many links have been recorded.
@@ -57,6 +57,8 @@ def crawler(MAX_Pages):
             break
 
 
+# While loop of the crawler, This is separated because
+# the crawler needs to run multiple times and with different specifications
 def crawl(MAX_Pages, links_tocrawl, pages_visited):
     # Temporary while loop timer for debugging
     start1 = time.time()
@@ -68,14 +70,11 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
         text_page = requests.get(links_tocrawl[pages_visited]).text
         crawl_delay = time.time() - start_time
 
-        # if the language is not english skip this page
-        if not detect_language(text_page) == current_lang:
-            print("not english")
-
         # Extract all the links in the page to be searched over later.
         extract_links(links_tocrawl, text_page, pages_visited)
 
         # Need to put "Done" in the array links_tocrawl once a page's extraction is complete
+
         # End of each iteration add one to counter
         pages_visited += 1
 
@@ -86,9 +85,7 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
     end = time.time()
     print("Runtime : ", end - start1)
 
-
 # This method extract (save) the html file associated with a link
-
 def extract_file(text_page, page):
     soup = BeautifulSoup(text_page, 'html.parser')
     # use the page title to name each file (some titles are undefined)
@@ -99,9 +96,7 @@ def extract_file(text_page, page):
     with open(f'./Project1_Crawler/repository/English/file{page}.txt', 'w', encoding='utf-8') as theFile:
         theFile.write(soup.prettify())
 
-    # This method will extract only URLs and save them to the links to crawl array.
-
-
+# This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page, pages_visited):
     # Counter for number ouf outlinks found in a link
     outlinks = 0
@@ -132,7 +127,7 @@ def extract_links(links_tocrawl, text_page, pages_visited):
     print("This is the array content : ", links_tocrawl)
     print("")
 
-
+# Method for identifying the language of a URL on the fly
 def detect_url_language(url):
     # Text version of HTML
     text = requests.get(url).text
@@ -155,16 +150,9 @@ def detect_url_language(url):
         return None
 
 # This method will return the next language in the set to crawl for.
-def setcurrentlang(current_lang):
-    i = all_langs.index(current_lang)
+def setcurrentlang(current_language):
+    i = all_langs.index(current_language)
     return all_langs[i+1]
-def detect_language(text_page):
-    if detect(text_page) == 'en':
-        return "english"
-    if detect(text_page) == 'fa':
-        return "farsi"
-    if detect(text_page) == 'es':
-        return "spanish"
 
 
 if __name__ == "__main__":
