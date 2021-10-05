@@ -14,19 +14,17 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 
+# Used for Counting the words
 from collections import Counter
 import itertools
-import urllib.request
 
 # Load Stored Language Stopwords
 def load_stopwords(lang):
     # Add Local Path to Files, Remove Install Dependency of NLTK
     nltk.data.path.append("./nltk_data")
     lang.lower()
-
     # Define the Languages
     stops = []
-
     if (lang == 'english'):
         stops = stopwords.words('english')
     elif (lang == 'spanish'):
@@ -35,9 +33,7 @@ def load_stopwords(lang):
         stops = stopwords.words('farsi')
     else:
         stops = []
-
     return stops
-
 
 # Import ALL text from repository directory into a simple string
 # path example "../repository/English"
@@ -50,22 +46,12 @@ def import_text_as_string(text_path):
     return string
 
 
-
-#def import_text_as_list(text_path):
-#
-#    text_list = []
-#    for filename in os.listdir(text_path):
-#        with open(os.path.join(text_path, filename), 'r') as file:
-#            file_text = file.readlines()
-#            text_list.append(file_text) # Append file content to list
-#
-#    return text_list
-
 # Seperate words into list
 def tokenize(text_list):
     re.split('\W+', text_list)
     tokens = re.split('\W+', text_list)
     return tokens
+
 
 # remove stop words
 def remove_stopwords(text, stoplist):
@@ -73,29 +59,35 @@ def remove_stopwords(text, stoplist):
     return text_no_stops
 
 
-
-
 def html_text_only(string):
     soup = BeautifulSoup(string, 'html.parser')
     text_only = soup.get_text()
     return text_only
 
+# Calls previous methods, accepts languages like "english", "spanish", "farsi"
+# expects path "../repository/English/"
+def process_text(language, path):
+    stopwords = load_stopwords(language)  # Load Stopwords
+    text = import_text_as_string(path)  # Import crawled text
+    soup = BeautifulSoup(text, 'html.parser')  # soup object
+    text = soup.get_text()  # get only text (REMOVE HTML...)
+    text = text.lower()
+    text = tokenize(text)  # Create list of each word
+    text = remove_stopwords(text, stopwords)  # remove stopwords
 
-# example code section Waiting on full dataset from processor team
-en_sw = load_stopwords("english")
-#text_with_html = import_text_as_string("../repository/English/")
-#text_only = html_text_only(text_with_html)
+    # Produce a Dictionary {word, word count}
+    text = list(itertools.chain(text))
+    text = Counter(text)
+
+    return text
 
 
-url = "https://webflow.com/blog/the-web-design-process-in-7-simple-steps"
-html = urllib.request.urlopen(url)
-soup = BeautifulSoup(html, 'html.parser')
-text = soup.get_text()
-text = text.lower()
-text = tokenize(text)
-text = remove_stopwords(text, en_sw)
+english = process_text("english", "../repository/English/")
+print(english)
 
-counted_text = list(itertools.chain(text))
-counted_text = Counter(counted_text)
-print(counted_text)
+spanish = process_text("spanish", "../repository/Spanish/")
+print(spanish)
+
+farsi = process_text("farsi", "../repository/Farsi/")
+print(farsi)
 
