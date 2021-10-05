@@ -15,20 +15,18 @@ all_seeds = ["https://en.wikipedia.org/wiki/Main_Page",
 
 # Max number of pages crawling
 # change this later to 3000
-MAX_Pages = 500
+MAX_Pages = 10
 
 # This is a global variable indicating the current language that is being checked.
 # default is english
-all_langs = ["english" , "farsi" , "spanish"]
+all_langs = ["English" , "Farsi" , "Spanish"]
 current_language = all_langs[0]
 # This will give the correct seed for the current language and set it to current seed
 current_seed = all_seeds[all_langs.index(current_language)]
 
 # Creating report.csv file for links and number outlinks
-header = ['Link', 'Outlinks']
 with open('report.csv', 'w', encoding='UTF8', newline='') as report:
     writer = csv.writer(report)
-    writer.writerow(header)
     report.close()
 
 # crawler function
@@ -36,7 +34,7 @@ def crawler():
     # To store all the links intended to crawl
     links_tocrawl = []
     global current_language
-    # current seed corolates to the language being crawled
+    # current seed correlates to the language being crawled
     global current_seed
 
     for i in range(len(all_langs)):
@@ -45,13 +43,16 @@ def crawler():
         pages_visited = 0
         # To store all the links to crawl
         # initially only has the seed at index 0
-        links_tocrawl = [current_seed]
+        links_tocrawl = [all_seeds[i]]
         # This method is the engine of the crawler and while loop is located here
         # By the end of each crawl cycle a language is fully crawled.
         crawl(MAX_Pages, links_tocrawl, pages_visited)
 
         # extract and store html content into repository
         extract_pages(MAX_Pages, links_tocrawl, current_lang)
+
+        # Extracts all outlinks in links_tocrawl
+        report_links(MAX_Pages, links_tocrawl, pages_visited, current_lang)
 
 # While loop of the crawler, This is separated because
 # the crawler needs to run multiple times and with different specifications
@@ -82,12 +83,12 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 
 # This method requests html content for each url 
 def extract_pages(max_pages, links_tocrawl, language_):
-    for i,link in enumerate(links_tocrawl):
-        text_page = requests.get(link).text
+    for i, link in enumerate(links_tocrawl):
+        text_page = requests.get(links_tocrawl[i].text)
         # call to store content in repository
-        store_pages(text_page, i+1, language_) 
+        store_pages(text_page, i+1, language_)
         # stop iteration after maximum page limit
-        if i+1 >= max_pages: 
+        if i+1 >= max_pages:
             break
 
 # This method saves extracted html pages into repository
@@ -108,7 +109,7 @@ def store_pages(text_page, page, language_):
 
 # This method will extract only URLs and save them to the links to crawl array.
 def extract_links(links_tocrawl, text_page, pages_visited):
-    # Counter for number ouf outlinks found in a link
+    # Counter for number of outlinks found in a link
     outlinks = 0
 
     # This will take out all the links on a page and store the in the links_tocrawl array to be crawled.
@@ -118,24 +119,45 @@ def extract_links(links_tocrawl, text_page, pages_visited):
         #  2. checks to see if these hrefs start with http so that we know these are URLs and not relative links
         #  3. detects a language of a page in advance of being store in the to crawl array.
         if link.has_attr('href') \
-                and link['href'].startswith("http"):  # \
-            # and detect_url_language(link['href']) == current_lang:
+                and link['href'].startswith("http"):  #\
+                #and detect_url_language(link['href']) == current_language:
             links_tocrawl.append(link['href'])
             outlinks += 1
         # else should skip this iteration of the loop and continue
         else:
             continue
 
-    # Print out result and write link and outlinks to report.csv
+    # Print out result of outlinks
     print("Current Link:", links_tocrawl[pages_visited], "Number of Outlinks:", outlinks)
-    report_row = [links_tocrawl[pages_visited], outlinks]
-    with open('report.csv', 'a', encoding='UTF8', newline='') as report:
-        writer = csv.writer(report)
-        writer.writerow(report_row)
 
     # Print out the result
     print("This is the array content : ", links_tocrawl)
     print("")
+
+# Writes appended links and its number of outlinks to report.csv
+def report_links(MAX_Pages, links_tocrawl, pages_visited, current_lang):
+    # Prints header for language and outlinks in report
+    header_row=(current_lang + ' Links:', "Outlinks:")
+    with open('report.csv', 'a', encoding='UTF8', newline='') as report:
+        writer = csv.writer(report)
+        writer.writerow(header_row)
+
+    # Loop which finds total outlinks in all links in links_tocrawl array up to MAX_Pages
+    for i in range(MAX_Pages):
+        outlinks = []
+        text_page = requests.get(links_tocrawl[i]).text
+        for link in BeautifulSoup(text_page, parse_only=SoupStrainer('a'), features="html.parser"):
+            if link.has_attr('href') and link['href'].startswith("http"):
+                outlinks.append(link['href'])
+            else:
+                continue
+
+        # Writes links and its number of outlinks to report.csv
+        #print("Current Link:", links_tocrawl[i], "Number of Outlinks:", len(outlinks))
+        report_row = [links_tocrawl[i], len(outlinks)]
+        with open('report.csv', 'a', encoding='UTF8', newline='') as report:
+            writer = csv.writer(report)
+            writer.writerow(report_row)
 
 # Method for identifying the language of a URL on the fly
 def detect_url_language(url):
@@ -151,14 +173,13 @@ def detect_url_language(url):
         return None
 
     if lang == 'en':
-        return "english"
+        return "English"
     if lang == 'fa':
-        return "farsi"
+        return "Farsi"
     if lang == 'es':
-        return "spanish"
+        return "Spanish"
     else:
         return None
-
 
 if __name__ == "__main__":
     crawler()
