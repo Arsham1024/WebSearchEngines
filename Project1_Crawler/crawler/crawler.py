@@ -9,8 +9,8 @@ import csv
 from langdetect import detect
 
 # Stating URLs
-all_seeds = ["https://en.wikipedia.org/wiki/Main_Page",
-             "https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C",
+all_seeds = ["https://en.wikipedia.org/wiki/United_States",
+             "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
              "https://es.wikipedia.org/wiki/Espa%C3%B1a"]
 
 # Max number of pages crawling
@@ -84,7 +84,7 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 # This method requests html content for each url 
 def extract_pages(max_pages, links_tocrawl, language_):
     for i, link in enumerate(links_tocrawl):
-        text_page = requests.get(links_tocrawl[i].text)
+        text_page = requests.get(links_tocrawl[i]).text
         # call to store content in repository
         store_pages(text_page, i+1, language_)
         # stop iteration after maximum page limit
