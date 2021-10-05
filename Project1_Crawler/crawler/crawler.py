@@ -84,9 +84,13 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 # This method requests html content for each url 
 def extract_pages(max_pages, links_tocrawl, language_):
     for i, link in enumerate(links_tocrawl):
-        text_page = requests.get(links_tocrawl[i]).text
-        # call to store content in repository
-        store_pages(text_page, i+1, language_)
+        try:
+            text_page = requests.get(links_tocrawl[i], verify=False).text
+            # call to store content in repository
+            store_pages(text_page, i+1, language_)
+        except Exception:
+            pass
+        #time.sleep(1)
         # stop iteration after maximum page limit
         if i+1 >= max_pages:
             break
@@ -98,7 +102,7 @@ def store_pages(text_page, page, language_):
     folderName = str(language_).title()
     fileName = str(language_)
     if page == 1:
-        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8')
+        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8') 
     # append html content to existing file
     else:
         file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'a', encoding='utf-8')
