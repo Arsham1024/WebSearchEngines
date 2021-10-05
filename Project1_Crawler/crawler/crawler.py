@@ -1,3 +1,5 @@
+from _ssl import SSLCertVerificationError
+
 import requests
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup, SoupStrainer
@@ -9,6 +11,8 @@ import csv
 from langdetect import detect
 
 # Stating URLs
+from urllib3.exceptions import InsecureRequestWarning, NewConnectionError, MaxRetryError
+
 all_seeds = ["https://en.wikipedia.org/wiki/United_States",
              "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
              "https://es.wikipedia.org/wiki/Espa%C3%B1a"]
@@ -85,11 +89,12 @@ def crawl(MAX_Pages, links_tocrawl, pages_visited):
 def extract_pages(max_pages, links_tocrawl, language_):
     for i, link in enumerate(links_tocrawl):
         try:
-            text_page = requests.get(links_tocrawl[i], verify=False).text
+            text_page = requests.get(links_tocrawl[i]).text
             # call to store content in repository
             store_pages(text_page, i+1, language_)
-        except Exception:
+        except SSLCertVerificationError and MaxRetryError:
             pass
+        
         #time.sleep(1)
         # stop iteration after maximum page limit
         if i+1 >= max_pages:
@@ -102,10 +107,10 @@ def store_pages(text_page, page, language_):
     folderName = str(language_).title()
     fileName = str(language_)
     if page == 1:
-        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8') 
+        file_ = open(f'../repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8')
     # append html content to existing file
     else:
-        file_ = open(f'./Project1_Crawler/repository/{folderName}/{fileName}.txt', 'a', encoding='utf-8')
+        file_ = open(f'../repository/{folderName}/{fileName}.txt', 'a', encoding='utf-8')
     # add each page to the file in repository and close the file
     file_.write(soup.prettify()) 
     file_.write("\n{}\n".format("="*100))
