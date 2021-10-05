@@ -1,15 +1,12 @@
-# Purpose: Apply Zipf's Law and Heap's Law to web crawled data
-# Accepts English, Spanish, and lastly Farsi(non-latin script)
+# Several methods used to Open a Raw cralwed data file and
+# Cleans data by removing unwanted language features and words
 
 import os
-import string
-
 # Language Processing
 from bs4 import BeautifulSoup
 import nltk
 from nltk.corpus import stopwords
 import re
-
 # Used for Counting the words
 from collections import Counter
 import itertools
@@ -35,7 +32,7 @@ def load_stopwords(lang):
 
 # Import ALL text from repository directory into a simple string
 # path example "../repository/English"
-def import_text_as_string(text_path):
+def import_text_as_string(text_path: str):
     string = "text"
     for filename in os.listdir(text_path):
         with open(os.path.join(text_path, filename), 'r') as file:
@@ -45,26 +42,26 @@ def import_text_as_string(text_path):
 
 
 # Seperate words into list
-def tokenize(text):
+def tokenize(text: str):
     re.split('\W+', text)
     tokens = re.split('\W+', text)
     return tokens
 
 
 # remove stop words
-def remove_stopwords(text, stoplist):
+def remove_stopwords(text: str, stoplist: list):
     text_no_stops = [word for word in text if word not in stoplist]
     return text_no_stops
 
 
 # Remove Punctuation
-def remove_punct(text):
+def remove_punct(text: str):
     text_no_punct = [word for word in text if word.isalpha()]
     return text_no_punct
 
 
 # Remove any single character
-def remove_single_letters(text):
+def remove_single_letters(text: str):
     # There is probably a better way to do this??
     single = ["a", "b", "c", "d", "e", "f", "g",
               "h", "i", "j", "k", "l", "m", "n",
@@ -75,10 +72,18 @@ def remove_single_letters(text):
 
 
 # Return only Text, NO HTML
-def html_text_only(text):
+def html_text_only(text: str):
     soup = BeautifulSoup(text, 'html.parser')
     text_only = soup.get_text()
     return text_only
+
+
+# Catch all for any other words we should perhaps remove...
+def remove_non_words(text: str):
+    non_words = ["url", "https", "www", "com",
+                 "org", "http"]
+    text_cleaned = [word for word in text if word not in non_words]
+    return text_cleaned
 
 
 # Calls previous methods, accepts languages like "english", "spanish", "farsi"
@@ -91,10 +96,10 @@ def process_text(language, path):
     text = text.lower()
     text = tokenize(text)  # Create list of each word
     text = remove_stopwords(text, stopwords)  # remove stopwords
+    text = remove_non_words(text)
     text = remove_punct(text)  # remove non alphabet values
     text = remove_single_letters(text)
     # Produce a Dictionary {word, word count}
     text = list(itertools.chain(text))
     text = Counter(text)
-
     return text
