@@ -13,7 +13,7 @@ from langdetect import detect
 # Stating URLs
 from urllib3.exceptions import InsecureRequestWarning, NewConnectionError, MaxRetryError
 
-all_seeds = ["https://en.wikipedia.org/wiki/United_States",
+all_seeds = ["https://en.wikipedia.org/wiki/Machine_learning",
              "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
              "https://es.wikipedia.org/wiki/Espa%C3%B1a"]
 
@@ -24,9 +24,9 @@ MAX_Pages = 10
 # This is a global variable indicating the current language that is being checked.
 # default is english
 all_langs = ["English" , "Farsi" , "Spanish"]
-current_language = all_langs[0]
+current_language = all_langs[1]
 # This will give the correct seed for the current language and set it to current seed
-current_seed = all_seeds[all_langs.index(current_language)]
+current_seed = all_seeds[0]
 
 # Creating report.csv file for links and number outlinks
 with open('report.csv', 'w', encoding='UTF8', newline='') as report:
@@ -94,7 +94,7 @@ def extract_pages(max_pages, links_tocrawl, language_):
             store_pages(text_page, i+1, language_)
         except SSLCertVerificationError and MaxRetryError:
             pass
-        
+
         #time.sleep(1)
         # stop iteration after maximum page limit
         if i+1 >= max_pages:
