@@ -1,5 +1,3 @@
-from _ssl import SSLCertVerificationError
-
 import requests
 from html.parser import HTMLParser
 from bs4 import BeautifulSoup, SoupStrainer
@@ -19,8 +17,8 @@ all_seeds = ["https://en.wikipedia.org/wiki/Machine_learning",
 
 # Max number of pages crawling
 # change this later to 3000
-MAX_Pages = 10
-
+MAX_Pages = 100
+PAGE_LIMIT = 500 # set for extracting pages
 # This is a global variable indicating the current language that is being checked.
 # default is english
 all_langs = ["English" , "Farsi" , "Spanish"]
@@ -53,7 +51,7 @@ def crawler():
         crawl(MAX_Pages, links_tocrawl, pages_visited)
 
         # extract and store html content into repository
-        extract_pages(MAX_Pages, links_tocrawl, current_lang)
+        extract_pages(PAGE_LIMIT, links_tocrawl, current_lang)
 
         # Extracts all outlinks in links_tocrawl
         report_links(MAX_Pages, links_tocrawl, pages_visited, current_lang)
@@ -92,10 +90,9 @@ def extract_pages(max_pages, links_tocrawl, language_):
             text_page = requests.get(links_tocrawl[i]).text
             # call to store content in repository
             store_pages(text_page, i+1, language_)
-        except SSLCertVerificationError and MaxRetryError:
+        except Exception:
             pass
-
-        #time.sleep(1)
+        time.sleep(2)
         # stop iteration after maximum page limit
         if i+1 >= max_pages:
             break
@@ -105,7 +102,7 @@ def store_pages(text_page, page, language_):
     soup = BeautifulSoup(text_page,'html.parser')        
     # store new data every times the program runs
     folderName = str(language_).title()
-    fileName = str(language_)
+    fileName = str(language_).lower()
     if page == 1:
         file_ = open(f'../repository/{folderName}/{fileName}.txt', 'w', encoding='utf-8')
     # append html content to existing file
