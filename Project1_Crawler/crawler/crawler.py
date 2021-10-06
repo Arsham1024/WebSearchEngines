@@ -17,7 +17,7 @@ all_seeds = ["https://en.wikipedia.org/wiki/Machine_learning",
 
 # Max number of pages crawling
 # change this later to 3000
-MAX_Pages = 100
+MAX_Pages = 20
 PAGE_LIMIT = 500 # set for extracting pages
 # This is a global variable indicating the current language that is being checked.
 # default is english
