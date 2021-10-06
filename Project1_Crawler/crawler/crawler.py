@@ -12,7 +12,7 @@ from langdetect import detect
 from urllib3.exceptions import InsecureRequestWarning, NewConnectionError, MaxRetryError
 
 all_seeds = ["https://en.wikipedia.org/wiki/Main_Page",
-             "https://www.bbc.com/persian",
+             "https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7%DB%8C_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C",
              "https://www.esmadrid.com/"]
 
 # Max number of pages crawling
