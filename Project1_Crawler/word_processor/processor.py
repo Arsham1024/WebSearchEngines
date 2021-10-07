@@ -35,7 +35,7 @@ def load_stopwords(lang):
 def import_text_as_string(text_path: str):
     string = "text"
     for filename in os.listdir(text_path):
-        with open(os.path.join(text_path, filename), 'r') as file:
+        with open(os.path.join(text_path, filename), 'r', encoding="utf-8") as file:
             file_text = file.readlines()
             string = string + ' '.join(file_text)  # Append file content list
     return string
@@ -103,3 +103,7 @@ def process_text(language, path):
     text = list(itertools.chain(text))
     text = Counter(text)
     return text
+   
+   
+#english = process_text("english", "../repository/English/")
+#print(english)
