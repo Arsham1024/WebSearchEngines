@@ -1,4 +1,4 @@
-# Scrapy settings for crawl project
+# Scrapy settings for redcrawl project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'crawl'
+BOT_NAME = 'redcrawl'
 
-SPIDER_MODULES = ['crawl.spiders']
-NEWSPIDER_MODULE = 'crawl.spiders'
+SPIDER_MODULES = ['redcrawl.spiders']
+NEWSPIDER_MODULE = 'redcrawl.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'crawl (+http://www.yourdomain.com)'
+#USER_AGENT = 'redcrawl (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'crawl.middlewares.CrawlSpiderMiddleware': 543,
+#    'redcrawl.middlewares.RedcrawlSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'crawl.middlewares.CrawlDownloaderMiddleware': 543,
+#    'redcrawl.middlewares.RedcrawlDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'crawl.pipelines.CrawlPipeline': 300,
+#    'redcrawl.pipelines.RedcrawlPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

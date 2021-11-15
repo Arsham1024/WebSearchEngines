@@ -11,7 +11,16 @@ class RedditSpider(scrapy.Spider):
     def parse(self, response):
         # List of links on the page
         links = response.css("div::class=_1poyrkZ7g36PawDueRza-J _11R7M_VOgKO1RJyRSRErT3").get()
-        print(links)
-        
 
-RedditSpider.parse()
+        html = ""
+        for link in links:
+            url = link.get()
+
+            html += """<a href="{url}" target="_blank">""".format(url=url)
+            
+            with open("./front.html" , "a") as page:
+                page.write(html)
+                page.close()
+
+
+
