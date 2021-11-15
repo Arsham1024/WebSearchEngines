@@ -18,7 +18,7 @@ class RedditSpider(scrapy.Spider):
 
             html += """<a href="{url}" target="_blank">""".format(url=url)
             
-            with open("./front.html" , "a") as page:
+            with open("./front.txt" , "a") as page:
                 page.write(html)
                 page.close()
 
