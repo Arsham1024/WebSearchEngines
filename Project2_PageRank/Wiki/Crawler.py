@@ -18,26 +18,27 @@ def collect_links():
     # Grab the text version of the seed file
     while (page_number < 11):
 
+
         # Get it parsed through bs4
         soup = BeautifulSoup(next_page, 'lxml')
         # only choose the links in the list. not the links outside.
         all_links = soup.find('div', class_='mw-allpages-body')  # focus only on the main body of this page
 
-        # run through the list to get all of them
-        for link in all_links.find_all('a'):
-            body_links.append(link.get('href'))  # put every href in the array
-
-        # for calculation add the number of links to a total
-        overal_num_links += len(body_links)
-
         # now write out each element into a CSV file and save it as the number of the page
         # for example if we are on page 2 then the file name is 2.csv
         with open(f'Output/list.csv', 'w') as f:
-            writer = csv.writer(f)
-            # put the same headers
-            writer.writerow(header)
-            # write a row for each item which is a link
-            writer.writerows(body_links)
+            writer = csv.DictWriter(f, fieldnames=header)
+
+            # run through the list to get all of them
+            for link in all_links.find_all('a'):
+                body_links.append(link.get('href'))  # put every href in the array
+                # write the header first
+                writer.writerow({'text': link.text , 'href': link.get('href')})
+
+            # for calculation add the number of links to a total
+            overal_num_links += len(body_links)
+
+            # incriment each page
             page_number += 1
 
         # focus on the navigation bar on the bottom with previous and next buttons (only 2 buttons in it)
