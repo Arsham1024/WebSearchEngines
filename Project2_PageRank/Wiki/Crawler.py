@@ -10,6 +10,7 @@ def collect_links():
     page_number = 1  # to name the output csv files
     header = ['text', 'href']  # used for the csv file later created
     base_URL = "https://en.wikipedia.org/"  # this is used to append all the pages that come after it.
+
     seed = requests.get(
         "https://en.wikipedia.org/w/index.php?title=Special:AllPages&from=%22Anonymous%22+anti-Scientology+protests").text  # This is the starting page
     next_page = seed  # at first this is the same as seed
