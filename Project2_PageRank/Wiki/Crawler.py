@@ -15,11 +15,11 @@ def collect_links():
         "https://en.wikipedia.org/w/index.php?title=Special:AllPages&from=%22Anonymous%22+anti-Scientology+protests").text  # This is the starting page
     next_page = seed  # at first this is the same as seed
     overal_num_links = 0
+
     ####### Main crawler
-    # Grab the text version of the seed file
+    # keep the crawler running for 10 pages which each include about 345 pages
+    # a total of 3450 links/pages will be extracted
     while (page_number < 11):
-
-
         # Get it parsed through bs4
         soup = BeautifulSoup(next_page, 'lxml')
         # only choose the links in the list. not the links outside.
@@ -36,9 +36,6 @@ def collect_links():
                 # write the header first
                 writer.writerow({'text': link.text , 'href': link.get('href')})
 
-            # for calculation add the number of links to a total
-            overal_num_links += len(body_links)
-
             # incriment each page
             page_number += 1
 
@@ -52,7 +49,10 @@ def collect_links():
         #     get next page into beautiful soup
         next_page = requests.get(next_URL).text
     # Output the overall number of links collected
-    print("overal number of links collected: ", overal_num_links)
+    print("overal number of links collected: ", len(body_links))
 
+# need a function that runs through all the pages extracted and finds their connections.
+# This function also populates the
 
+# Run the function
 collect_links()
