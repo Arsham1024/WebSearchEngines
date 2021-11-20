@@ -27,7 +27,7 @@ def collect_links():
 
         # now write out each element into a CSV file and save it as the number of the page
         # for example if we are on page 2 then the file name is 2.csv
-        with open(f'Output/list.csv', 'w') as f:
+        with open(f'Output/list.csv', 'a+') as f:
             writer = csv.DictWriter(f, fieldnames=header)
 
             # run through the list to get all of them

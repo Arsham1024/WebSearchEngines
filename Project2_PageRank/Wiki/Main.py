@@ -37,11 +37,13 @@ def update_rank(self, n, l = 0.15):
 
 
 def main():
+    
 
     # a matrix of all the nodes connected
     node1 = Node(self , 1)
     node2 = Node(self , 2)
 
+    # Need an initialize page rank to each 1/n
 
     node1.pagerank = 1/2
     node1.parents.append(node2)
