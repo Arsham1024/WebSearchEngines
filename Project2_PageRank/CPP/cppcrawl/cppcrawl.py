@@ -3,16 +3,18 @@ from bs4 import BeautifulSoup
 import requests
 import csv, os
 
-MAX_PAGES = 500
+MAX_PAGES = 500 
 
 def collect_links():
     seed = "https://www.cpp.edu/" # seed URL 
-    page_num = 1
+    page_num = 1 # count pages
     all_links = [seed]  # all links under domain of cpp.edu
-    counter = 0
+    counter = 0  
 
-    # open csv file to store the links 
+    # open csv file to store the links
     f = open('Project2_PageRank\CPP\cppcrawl\Data\list.csv', 'w', newline='')
+
+    # column names - pages, number of outlinks from that page, list of outgoing links
     csvFields = ['Page', '# of outlinks', 'outlinks of a page']
     writer = csv.DictWriter(f, fieldnames=csvFields)
     writer.writeheader()
@@ -21,29 +23,31 @@ def collect_links():
         outlink_count = 0 # number of outlinks for each page
         outlinks = []  # to store all outlinks of a certain page
         try:
+            # send request to a page and parsed its url to get html content
             html_page = requests.get(all_links[counter]).text  
             soup = BeautifulSoup(html_page, "html.parser")
             body = soup.find('body')
 
+            # iterate over all links in html body and fetch the urls under the domain, cpp.edu
             for link in body.find_all('a', href=True):
                 if link['href'].startswith("https://") and ("cpp.edu" in link['href']):
-                    all_links.append(link['href'])
-                    outlinks.append(link['href'])
+                    all_links.append(link['href']) # add each link to the list of all_links
+                    outlinks.append(link['href']) # add it to list of outgoing urls of a page
                     outlink_count += 1
             
+            # write row cotent as dictionary and add each entry to the csv file
             data_toAdd = {  'Page' : all_links[counter], 
                             '# of outlinks' : outlink_count,
                             'outlinks of a page' : outlinks
                             }
-        
-            writer.writerow(data_toAdd) # write data to csv file
+            writer.writerow(data_toAdd) 
             
-        except Exception:
-            pass
+        except Exception: 
+            pass # continue iteration if page does not contain any url
         else:
-            page_num += 1 # update page number
+            page_num += 1 # increment page 
         finally:
-            counter += 1 # update counter
+            counter += 1 # increment counter
     f.close() # close file
 
 # call the method to collect links
