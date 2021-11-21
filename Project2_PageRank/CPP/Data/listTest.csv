@@ -1,0 +1,4 @@
+Link,Outlink
+yahoo,"['yahoo', 'amazon']"
+amazon,"['yahoo', 'microsoft']"
+microsoft,['amazon']
