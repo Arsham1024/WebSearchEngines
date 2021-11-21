@@ -46,13 +46,26 @@ def main():
     df_int = df_bool.astype(int)
 
     #Numpy dot matrix
-    df_freq_mat = np.dot(1, df_int)
+    # n = 1
+    # df_freq_mat = np.dot(1 / n, df_int)
+    # df_freq = pd.DataFrame(df_freq_mat, columns=unique_links.keys(), index=unique_links.keys())
+    # print(df_freq)
+
+    #Count of Links n
+    vector = np.array(df["Count"])
+    df_freq_mat = np.dot(1 , df_int)
+    # Links 1/n
+    df_freq_mat = (df_freq_mat / vector[np.newaxis])
     df_freq = pd.DataFrame(df_freq_mat, columns=unique_links.keys(), index=unique_links.keys())
     print(df_freq)
 
-    n = 3
-    df_freq_mat = np.dot(1 / n, df_int)
-    df_freq = pd.DataFrame(df_freq_mat, columns=unique_links.keys(), index=unique_links.keys())
-    print(df_freq)
+    #Matrix multiplication
+    b = np.array([1/3, 1/3, 1/3]).reshape(3,1)
+    df_div = np.sum(np.dot(df_freq_mat, b), axis=1).reshape((3,1))
+    print("Iteration 1:")
+    print(df_div)
+    df_div2 = np.sum(np.dot(df_freq_mat, df_div), axis=1).reshape((3,1))
+    print("Iteration 2:")
+    print(df_div2)
 
 main()
