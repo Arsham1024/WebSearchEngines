@@ -34,14 +34,14 @@ def collect_links():
                     all_links.append(link['href']) # add each link to the list of all_links
                     outlinks.append(link['href']) # add it to list of outgoing urls of a page
                     outlink_count += 1
-            
+
             # write row cotent as dictionary and add each entry to the csv file
             data_toAdd = {  'Page' : all_links[counter], 
                             '# of outlinks' : outlink_count,
                             'outlinks of a page' : outlinks
                             }
             writer.writerow(data_toAdd) 
-            
+
         except Exception: 
             pass # continue iteration if page does not contain any url
         else:
