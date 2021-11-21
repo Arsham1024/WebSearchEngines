@@ -1,4 +1,4 @@
-Link,Outlink
-yahoo,"['yahoo', 'amazon']"
-amazon,"['yahoo', 'microsoft']"
-microsoft,['amazon']
+Link,Outlink,Count
+yahoo,"['yahoo', 'amazon']",2
+amazon,"['yahoo', 'microsoft']",2
+microsoft,['amazon'],1
