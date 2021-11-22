@@ -57,15 +57,30 @@ def main():
     # Links 1/n
     df_freq_mat = (df_freq_mat / vector[np.newaxis])
     df_freq = pd.DataFrame(df_freq_mat, columns=unique_links.keys(), index=unique_links.keys())
-    print(df_freq)
+    # print(df_freq)
 
     #Matrix multiplication
     b = np.array([1/3, 1/3, 1/3]).reshape(3,1)
+    #Mulitplies by vector of outlink count, reshapes into column Nx1
     df_div = np.sum(np.dot(df_freq_mat, b), axis=1).reshape((3,1))
     print("Iteration 1:")
-    print(df_div)
-    df_div2 = np.sum(np.dot(df_freq_mat, df_div), axis=1).reshape((3,1))
+    #print(df_div1)
+    print(pd.DataFrame(df_div))
+    df_div2 = np.sum(np.dot(df_freq_mat, df_div), axis=1)
     print("Iteration 2:")
-    print(df_div2)
+    print(pd.DataFrame(df_div2))
+
+    #Sort matrix
+    df_final = pd.DataFrame(df_div2, unique_links.keys()).stack().sort_values().reset_index()
+    #Keeps only top 100 links
+    df_final =  df_final.head(100)
+    #print(df_final)
+    #Writes dataframe to csv
+    df_final.to_csv('Data\listRanked.csv', header=['Link', 'Delete', 'PageRank'])
+    #Reopens csv to name index column and remove 'Delete' column
+    df_csv = pd.read_csv('Data\listRanked.csv')
+    df_csv.drop('Delete', axis=1, inplace=True)
+    df_csv.to_csv('Data\listRanked.csv', index=False, header=['Rank', 'Link', 'PageRank'])
+
 
 main()
