@@ -2,3 +2,5 @@ Link,Outlink,Count
 yahoo,"['yahoo', 'amazon']",2
 amazon,"['yahoo', 'microsoft']",2
 microsoft,['amazon'],1
+amazon,"['yahoo', 'microsoft']",2
+bbb,[],0
