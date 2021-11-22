@@ -1,6 +1,6 @@
 Link,Outlink,Count
-yahoo,"['yahoo', 'amazon']",2
+yahoo,"['yahoo', 'amazon','aaa']",3
 amazon,"['yahoo', 'microsoft']",2
-microsoft,['amazon'],1
-amazon,"['yahoo', 'microsoft']",2
+microsoft,"['amazon', 'awdc']",2
+amazon,"['yahoo', 'microsoft','asdwcd']",3
 bbb,[],0

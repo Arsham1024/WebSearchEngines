@@ -3,19 +3,19 @@ from bs4 import BeautifulSoup
 import requests
 import csv, os
 
-MAX_PAGES = 500 
+MAX_PAGES = 500
 
 def collect_links():
-    seed = "https://www.cpp.edu/" # seed URL 
+    seed = "https://www.cpp.edu/" # seed URL
     page_num = 1 # count pages
     all_links = [seed]  # all links under domain of cpp.edu
     counter = 0  
 
     # open csv file to store the links
-    f = open('Project2_PageRank\CPP\cppcrawl\Data\list.csv', 'w', newline='')
+    f = open('Data\list.csv', 'w', newline='')
 
     # column names - pages, number of outlinks from that page, list of outgoing links
-    csvFields = ['Page', '# of outlinks', 'outlinks of a page']
+    csvFields = ['Link', 'Count', 'Outlink']
     writer = csv.DictWriter(f, fieldnames=csvFields)
     writer.writeheader()
 
@@ -36,9 +36,9 @@ def collect_links():
                     outlink_count += 1
 
             # write row cotent as dictionary and add each entry to the csv file
-            data_toAdd = {  'Page' : all_links[counter], 
-                            '# of outlinks' : outlink_count,
-                            'outlinks of a page' : outlinks
+            data_toAdd = {  'Link' : all_links[counter],
+                            'Count' : outlink_count,
+                            'Outlink' : outlinks
                             }
             writer.writerow(data_toAdd) 
 
