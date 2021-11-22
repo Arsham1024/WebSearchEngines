@@ -19,7 +19,7 @@ def boolean_df(lists_links, unique_links):
     return pd.DataFrame(bool_dict)
 
 def main():
-    # Print options for panda
+    # Print options for pandas
     pd.set_option('display.max_rows', None)
     pd.set_option('display.max_columns', None)
     pd.set_option('display.width', None)
@@ -71,7 +71,7 @@ def main():
     vector = np.full((number_of_rows, 1), number_of_rows, dtype=int)
     vector = base_vector / vector
 
-    # Mulitplies by vector of outlink count, reshapes into column Nx1
+    # Multiplies by vector of outlink count, reshapes into column Nx1
     #df_div1 = np.sum(np.dot(df_freq_mat, vector), axis=1).reshape((number_of_rows, 1))
     df_div1 = ((0.15 / number_of_rows) + (1 - 0.15)) * (np.sum(np.dot(df_freq_mat, vector), axis=1).reshape((number_of_rows, 1)))
     print("Iteration 1:")
@@ -82,12 +82,12 @@ def main():
 
     print("Iteration 2:")
     print(pd.DataFrame(df_div2))
-    ran_walk1 = df_div2 / ((0.15 / number_of_rows) + (1 - 0.15))
-    ran_walk2 = ran_walk1 / ((0.15 / number_of_rows) + (1 - 0.15))
+    ran_surf1 = df_div2 / ((0.15 / number_of_rows) + (1 - 0.15))
+    ran_surf2 = ran_surf1 / ((0.15 / number_of_rows) + (1 - 0.15))
 
     # Sort matrix
     #df_final = pd.DataFrame(df_div1, unique_links.keys()).stack().sort_values(ascending=False).reset_index()
-    df_final = pd.DataFrame(ran_walk2, unique_links.keys()).stack().sort_values(ascending=False).reset_index()
+    df_final = pd.DataFrame(ran_surf2, unique_links.keys()).stack().sort_values(ascending=False).reset_index()
     # Keeps only top 100 links
     #df_final = df_final.head(100)
     print(df_final)
