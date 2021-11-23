@@ -77,7 +77,7 @@ def main():
     # Sort PageRank
     df_final = pd.DataFrame(df_div, unique_links.keys()).stack().sort_values(ascending=False).reset_index()
     # Keeps only top 100 links
-    df_final = df_final.head(100)
+    #df_final = df_final.head(100)
     print(df_final)
     # Writes dataframe to csv
     df_final.to_csv('Data\listRanked.csv', header=['Link', 'Delete', 'PageRank'])
